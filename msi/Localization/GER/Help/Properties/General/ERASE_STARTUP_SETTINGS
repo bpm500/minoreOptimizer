@@ -1,0 +1,6 @@
+Automatisch gespeicherte Starteinstellungen löschen
+AMD Grafikktreiber der Crimson Edition versuchen, Hardwareeinstellungen (z.B. Übertaktungs- oder Lüftereinstellungen) automatisch in der Registry zu speichern und sie beim Starten von Windows anzuwenden. Dadurch sind die Einstellungen jeglicher Übertaktungssoftware von Drittanbietern praktisch dauerhaft, was bedeutet, dass die angewendeten Einstellungen auch nach einem Neustart des Systems oder nach einem Stromausfall im System erhalten bleiben. Allerdings ist diese Implementierung unsicher und stellt eine potenzielle Problemquelle dar, da Sie eine instabile Übertaktung nicht mehr durch einen einfachen Neustart des Systems und sogar eine Neuinstallation des Treibers rückgängig machen können. Um das Auftreten solcher Situationen zu verhindern, kann %PRODUCTNAME% optional automatisch gespeicherte AMD-Grafiktreiber-Starteinstellungen aus der Registry entfernen, nachdem neue Hardwareeinstellungen angewendet wurden.
+
+Hinweise:
+- Diese Option ist nur aktiv, wenn mindestens eine unterstützte AMD-Grafikkarte im System vorhanden ist.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

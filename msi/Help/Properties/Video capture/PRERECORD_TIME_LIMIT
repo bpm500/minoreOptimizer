@@ -1,0 +1,5 @@
+Prerecord time limit
+Allows definimg time limit for prerecord buffer in seconds. You may set it to zero to leave time unlimited.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

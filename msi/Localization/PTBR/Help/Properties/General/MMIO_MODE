@@ -1,0 +1,5 @@
+Modos de acesso de baixo nível ao hardware 
+O acesso de baixo nível pode ser feito nos modos de usuário ou kernel. No modo de usuário, fornece melhor desempenho de monitoramento e não consome espaço de endereçamento do kernel, enquanto que no modo kernel protege a memória de acessos não autorizados por aplicativos mal projetados (como o cliente Punkbuster de Battlefield: Bad Company 2), prevenindo instabilidades. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

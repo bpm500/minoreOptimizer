@@ -1,0 +1,5 @@
+Prerecord size limit
+Allows defining size limit for prerecord buffer in megabytes. You may set it to zero to leave size unlimited. Please take a note that in case of prerecording to a file actual reserved file space will be twice larger to provide effective ring buffering.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

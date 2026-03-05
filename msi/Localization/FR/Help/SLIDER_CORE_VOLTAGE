@@ -1,0 +1,10 @@
+Tension du core 
+Ajuste la tension coeur du GPU maître. Dépendant du modèle de carte graphique la tension peut-être représentée soit explicitement soit par un offset par rapport à la tension de base. Les valeurs signées représentent un offset tandis que les valeurs non signées représentent une tension absolue.
+
+Astuce:
+- Le contrôle de tension est bloqué par défaut pour des raisons de sécurité. Si vous comprenez et acceptez les risques d'utiliser le contrôle de tension vous pouvez le débloquer dans les propriétés avancées de l'application.
+- Quand le paramètre mode de syncronisation GPU est activé dans la tabulation <Générale> dans les propiétés avancées, tout changement appliqué au GPU maître est également appliqué à tous les GPU similaires installé dans le système.
+- Le contrôle de tension est disponible sur un set limité de modèles de cartes graphique équipées avec un régulateur de tension programable. Veuillez vous réferer à la documentation pour avoir une liste complète de modèles de carte graphique qui supportent la régulation de tension.
+- Quand le curseur de tension est focalisé, vous pouvez utiliser les curseurs du clavier pour régler finement la tension.
+- Vous pouvez cliquer sur le champ d'édition adjacent pour taper directement la tension désirée.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

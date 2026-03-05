@@ -1,0 +1,8 @@
+Definido por usuario
+Habilita el modo de control automático del ventilador, definido por el usuario. Este modo basado en software comprueba períodicamente la temperatura de la GPU y ajusta la velocidad del ventilador en función de la curva definida en la solapa <Ventilador>, de las propiedades avanzadas.
+
+Sugerencias:
+- El control automático del ventilador no está disponible en aquellas tarjetas gráficas que no lo permitan. Es necesaria la presencia de un sistema de refrigeración o de ventilador controlable vía software.
+- La gestión automática de la velocidad del ventilador por software, no se ve afectada por los perfiles. Es un ajuste global para todas las GPUs instaladas en el sistema.
+- Cuando la gesión definida por usuario del ventilador está habilitada, se puede cambiar entre los modos manual y automático haciendo uso del botón <Auto>.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

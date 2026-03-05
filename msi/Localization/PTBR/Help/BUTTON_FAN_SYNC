@@ -1,0 +1,6 @@
+Sincronizar velocidades das ventoinhas
+Permite o ajuste sincronizado ou assíncrono das velocidades das ventoinhas em placas de vídeo com vários controladores independentes de ventoinhas.
+Quando a sincronização estiver ativada, todos as ventoinhas da placa de vídeo funcionarão na mesma velocidade nos modos de velocidade automático, fixos ou por software. No modo automático padrão, as ventoinhas são sempre assíncronas.
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

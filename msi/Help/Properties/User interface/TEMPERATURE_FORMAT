@@ -1,0 +1,5 @@
+Temperature format
+Allows selecting either Celsius or Fahrenheit temperature format. Please take a note that this setting affects temperature readouts in hardware monitoring window only. Hardware related temperature adjustments (e.g. fan speed to temperature mapping curve for all cards or temperature target adjustment for NVIDIA Kepler series) are always being displayed and adjusted in Celsius for maximum unification, safety and compatibility.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,9 @@
+Spannungssteuermodus
+Ermöglicht die Auswahl eines der folgenden Spannungssteuerungsmodi:
+- Referenz - Es werden nur Referenzmodelle und Spannungsregler unterstützt.
+- Standard MSI - Referenzmodelle und Custom-Modelle von MSI und Spannungsregler werden unterstützt.
+- Erweitertes MSI – Referenzmodelle und Custom-Modelle von MSI und Spannungsregler werden unterstützt, für einige Modelle ist ein erweiterter Spannungsanpassungsbereich verfügbar.
+- Drittanbieter - Ein von der Community unterstützter Modus, der die Spannungssteuerung auf einigen speziell entwickelten Karten von Drittanbietern ermöglicht. Wenn Ihr Custom-Modell eines Drittanbieters über einen unterstützten Controller verfügt, dieser Modus jedoch noch nicht unterstützt wird, können Sie versuchen, ihn selbst zur Datenbank des Drittanbieters hinzuzufügen. Weitere Informationen finden Sie in der %PRODUCTNAME% SDK-Dokumentation. Bitte beachten Sie, dass MSI für diesen Modus keinen Support bietet. Die Nutzung erfolgt auf eigene Gefahr!
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

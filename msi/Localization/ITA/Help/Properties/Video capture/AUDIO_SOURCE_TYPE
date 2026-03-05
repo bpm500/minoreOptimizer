@@ -1,0 +1,12 @@
+Tipo di sorgente audio
+Permette di selezionare tipo di sorgente audio. I seguenti tipi di sorgente audio sono disponibili:
+
+- Selezione automatica - seleziona automaticamente la sorgente audio a seconda della versione del sistema operativo. In questa modalità il flusso audio viene registrato tramite dispositivo di acquisizione predefinita DirectSound su Windows XP o di default tramite WASAPI dispositivo di riproduzione in Windows Vista e versioni più recenti del sistema operativo.
+- Dispositivo di acquisizione DirectSound - cattura il flusso audio tramite dispositivi di acquisizione DirectSound. Sotto WindowsXP dispositivi di acquisizione DirectSound sono accelerati via hardware, quindi questo modo fornisce le migliori prestazioni audio catturare a causa della corretta esecuzione di registrazione hardware di miscelazione e di loopback.
+Tuttavia, DirectSound è obsoleto ed emulato via WASAPI a partire da Windows Vista, per cui si consiglia di utilizzare i dispositivi WASAPI nativi per la cattura audio in Windows Vista e versioni più recenti del sistema operativo.
+- Dispositivo di riproduzione WASAPI - cattura il flusso audio tramite WASAPI dispositivi di riproduzione (in Windows Vista o successivi OS). A differenza di DirectSound, WASAPI permette di intercettare il flusso audio grezzo multicanale prima di essere passato ai driver audio e dispositivi di riproduzione. Ciò consente di unificare software indipendenti dell'audio del driver di loopback di registrazione, in grado di registrare audio multicanale.
+Si prega di prendere nota che questa modalità può essere incompatibile con alcune applicazioni che utilizzano accelerazione hardware che si alternano come le interfacce audio OpenAL.
+- Dispositivo di acquisizione WASAPI - cattura flusso audio tramite dispositivi di acquisizione WASAPI (in Windows Vista o successivi OS). A differenza di DirectSound, WASAPI può indipendentemente catturare flussi di input e output audio, che consente di registrare flussi audio provenienti da dispositivi di output (come altoparlanti) e provenienti da dispositivi di input (come i microfoni) indipendentemente. È possibile utilizzare questa modalità per registrare il flusso audio proveniente da dispositivi di input, se necessario.
+
+Suggerimento:
+- È possibile disabilitare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

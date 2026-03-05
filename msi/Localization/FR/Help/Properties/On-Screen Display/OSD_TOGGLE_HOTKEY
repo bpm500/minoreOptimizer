@@ -1,0 +1,6 @@
+Touche pour basculer l'affichage en sur-impression
+Permet de définir la touche globale pour basculer l'affichage en sur-impression.
+
+Astuce:
+- Certaines combinaisons de touches (ex: <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) sont réservées et ne peuvent être utilisées.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

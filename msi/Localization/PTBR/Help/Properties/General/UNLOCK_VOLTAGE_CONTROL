@@ -1,0 +1,8 @@
+Desbloquear controle de tensão
+Permite o controle de tensão da GPU se suportado pelo hardware. Somente use esta opção se compreende os riscos da utilização ou é um usuário experiente. 
+
+Sugestões: 
+- Pode ser perigoso executar vários programas controladores de tensão simultaneamente. Por favor, não use esta opção se você não tem certeza disso. 
+- O ajuste de tensão é limitado às placas de vídeo equipadas com um módulo de controle de tensão programável. Consulte os modelos que suportam a regulação de tensão. 
+- Requer reinicialização do %PRODUCTNAME% para aplicar as alterações. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

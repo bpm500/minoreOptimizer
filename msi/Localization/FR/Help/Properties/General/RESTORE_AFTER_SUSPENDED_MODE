@@ -1,0 +1,7 @@
+Restaure les préférences lors du réveil après la mise en veille
+Normalement l'état de la carte graphique est sauvegardé et restauré proprement par le driver d'affichage lors du réveil après la mise en veille. Néanmoins, quelques drivers buggé peuvent ne pas restaurer l'état. Dans ce cas vous pouvez activer cette option pour contourner et forcer %PRODUCTNAME% à sauvegarder l'état graphique dans un profil temporaire lors de l'entrée en veille et appliquer ce profil au réveil. 
+
+
+Astuce:
+- %PRODUCTNAME% doit résider en mémoire pour que cette option fonctionne correctement.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

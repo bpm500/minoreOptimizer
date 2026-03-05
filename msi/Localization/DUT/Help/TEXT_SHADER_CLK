@@ -1,0 +1,10 @@
+Shader klok.
+Dit laat de Shader klok van de primaire grafische kaart(GPU) zien.
+
+Hint:
+- Wanneer de synchroniseer mode is ingesteld worden de aangepaste waarden toegepast op alle gelijke GPU's.
+- Shader klok aanpassingen zijn enkel mogelijk vanaf NVIDIA GeForce 8 en hogere serie GPU's. ATI GPU's ondersteunen een onafhankelijke shader klok aanpassing niet.
+- Wanneer u de Shader en de Core klok zelfstandig wil aanpassen begrijp dan dat de minimum shader tot Core klok ratio gelimiteerd is door de GPU , een poging om deze ratio uit bereik in te stellen zal voorkomen dat de klok aanpassing wordt toegepast.
+- De <Link> toets mag niet geselecteerd zijn om Shader en Core klok onafhankelijk te kunnen instellen.
+- Je kan in het aanpas veld onmiddelijk een waarde in tikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

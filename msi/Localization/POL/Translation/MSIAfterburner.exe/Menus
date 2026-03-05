@@ -1,0 +1,35 @@
+#src Pause
+#dst Pauza
+#end
+#src Clear history
+#dst Wyczyœæ historiê
+#end
+#src Show status
+#dst Poka¿ status
+#end
+#src Log history to file
+#dst Loguj historiê do pliku
+#end
+#src Always on top
+#dst Zawsze na wierzchu
+#end
+#src Properties
+#dst W³aœciwoœci
+#end
+
+#src Copy
+#dst Kopiuj
+#end
+
+#src Show
+#dst Poka¿
+#end
+#src Profiles
+#dst Profile
+#end
+#src Close
+#dst Zamknij
+#end
+#src There are no profiles
+#dst Brak profili
+#end

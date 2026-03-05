@@ -1,0 +1,8 @@
+Etkileþim
+Birbiriyle etkileþim halinde veya ayrý iþlemci ve shader hýzlarýný belirlemenizi saðlar.
+
+Ýpuçlarý:
+- Farklý Shader ayarlarý sadece Nvidia GeForce 8,9 ve 200'de çalýþýr. Shader ve iþlemci hýzlarý oraný GeForce 400 kartlarýnda donaným tarafýndan x2 ile sýnýrlanmýþtýr. AMD-ATI grafik kartlarýnda bu olay yoktur.
+- Shader ve iþlemci hýzlarýný baðýmsýz olarak ayarlarken minimum shader/iþlemci hýzý oraný donanýmýnýzýn sýnýrladýðý biçimde yapýlabilir. Bu sýnýrýn altýna inerseniz yaptýðýnýz ayarlar uygulanmayabilir.
+
+[Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.]

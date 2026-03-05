@@ -1,0 +1,6 @@
+Lüftergeschwindigkeit permanent erzwingen
+Standardmäßig wird die Lüftergeschwindigkeit nur dann geändert, wenn die Lüftergeschwindigkeit aufgrund einer sich ändernden Temperatur aktualisiert werden muss. Dies minimiert den Leistungsverlust, der mit der programmierbaren Steuerung der Lüftergeschwindigkeit verbunden ist, da die Programmierung eines neuen Geschwindigkeitswerts CPU-Last erzeugt. Jedoch können einige fehlerhafte Grafiktreiber die Lüftersteuerung in regelmäßigen Abständen behindern und zu unerwarteten Lüftergeschwindigkeitsveränderungen führen, bevor sich die GPU-Temperatur verändert.
+In diesem Fall können Sie diese Option aktivieren, um die Aktualisierung der Lüftergeschwindigkeit permanent zu erzwingen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

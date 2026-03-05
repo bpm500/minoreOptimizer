@@ -1,0 +1,72 @@
+#src Pause
+#dst Пауза
+#end
+#src Clear history
+#dst Изчистване на историята
+#end
+#src Show status
+#dst Показване на състоянието
+#end
+#src Show profiler panel
+#dst Показване на панела за профилиране
+#end
+#src Log history to file
+#dst Записване на историята във файл
+#end
+#src Always on top
+#dst Винаги отгоре
+#end
+#src Hide attached monitoring panel
+#dst Скриване на прикачения панел за наблюдение
+#end
+#src Attach
+#dst Прикрепи
+#end
+#src Detach
+#dst Отдели
+#end
+#src Detach all
+#dst Отдели всички
+#end
+#src Properties
+#dst Свойства
+#end
+#src Mark minimum %s
+#dst Маркирай минимум <%s>
+#end
+#src Mark maximum %s
+#dst Маркирай максимум <%s>
+#end
+#src Remove all markers
+#dst Премахни всички маркери
+#end
+#src Remove selection
+#dst Премахване на селекцията
+#end
+
+#src Copy
+#dst Копирай
+#end
+
+#src Show
+#dst Покажи
+#end
+#src Profiles
+#dst Профили
+#end
+#src Close
+#dst Затвори
+#end
+#src There are no profiles
+#dst Няма профили
+#end
+
+#src Select by type
+#dst Изберете по вид
+#end
+#src Select by group
+#dst Изберете по група
+#end
+#src Reset order
+#dst Нулиране на поръчката
+#end

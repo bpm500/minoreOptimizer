@@ -1,0 +1,6 @@
+Play sound on alarm
+Allows playing looped alarm sound notification when monitored value is beyond alarm threshold.
+
+Hints:
+- This option is affected by adjacent alarm timeout settings.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

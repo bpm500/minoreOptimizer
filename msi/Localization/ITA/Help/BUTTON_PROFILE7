@@ -1,0 +1,12 @@
+Profilo Slot 7
+Salva le impostazioni correnti di tensione, frequenza e controllo della ventola appena applicate al profilo slot 7, elimina o carica le impostazioni da esso.
+
+Consigli:
+- È possibile premere il tasto <Salva> quindi premere il pulsante mentre lampeggia per salvare le impostazioni correnti applicate al profilo slot 7. Gli slots dei profili di tutte le GPU installate nel sistema sono salvati sincronicamente.
+- È possibile salvare le impostazioni correnti applicate nello slot vuoto del profilo 7 o cancellare il profilo dal profilo utilizzato facendo clic destro su questo pulsante. Gli slots dei profili di tutte le GPU installate nel sistema sono salvati sincronicamente.
+- È possibile salvare le impostazioni correnti applicate nello slot vuoto del profilo 7 o cancellare il profilo dal profilo utilizzato premendo <Ctrl>+<7> sulla tastiera. Gli slots dei profili di tutte le GPU installate nel sistema sono salvati sincronicamente.
+- È possibile caricare il profilo della GPU principale da uno slot profilo facendo clic su questo pulsante.
+- È possibile caricare il profilo della GPU principale dallo slot profilo 7 premendo <7> sulla tastiera.
+- Si può caricare ed applicare automaticamente i profili tramite menu o anche assegnare i tasti di scelta rapida a livello globale per ogni slot profilo attraverso la finestra delle proprietà avanzate. I profili vengono caricati e sincronicamente applicati per tutte le GPU installate nel sistema.
+- Si può utilizzare la funzione automatica della gestione dei profili ed assegnare profili diversi per applicazioni 2D e 3D tramite la scheda <Profili> in proprietà avanzate. I profili assegnati saranno caricati e sincronicamente applicati per tutte le GPU installate nel sistema sui cambiamenti di stato 2D/3D.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

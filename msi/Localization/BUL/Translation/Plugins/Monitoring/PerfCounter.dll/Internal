@@ -1,0 +1,35 @@
+#src HDD%d usage
+#dst Използване на диска %d
+#end
+#src HDD%d read rate
+#dst Скорост на четене на диска %d
+#end
+#src HDD%d write rate
+#dst Скорост на запис на диска %d
+#end
+#src MB/s
+#dst МБ/c
+#end
+#src Free disk space C:
+#dst Свободно място на диск C:
+#end
+#src GB
+#dst ГБ
+#end
+#src NET%d download rate
+#dst Скорост на изтегляне от мрежата %d
+#end
+#src NET%d upload rate
+#dst Скорост на качване в мрежата %d
+#end
+#src KB/s
+#dst КБ/c
+#end
+
+#src Counter
+#dst Брояч
+#end
+
+#src Counters exported to %s!
+#dst Броячите са експортирани в %s!
+#end

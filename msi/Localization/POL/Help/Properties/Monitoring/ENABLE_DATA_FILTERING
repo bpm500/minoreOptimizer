@@ -1,0 +1,6 @@
+W³¹cz filtrowanie danych
+Jednoczesny dostep do tego samego czujnika sprzetowego (np. czujnika temperatury GPU) przez wiele programów oprogramowania moze spowodowac bledne odczytanie czujnika, co spowoduje, ze na wykresach pojawia sie spontaniczne nienormalnie niskie lub nienormalnie wysokie skoki. Wlaczenie tej opcji umozliwia przetwarzanie danych za pomoca specjalnego algorytmu filtrowania matematycznego odrzucajacego takie skoki. 
+Nalezy pamietac, ze wlaczenie filtrowania moze odrzucic rzeczywiste skoki danych (np. skoki uzycia GPU strzal), a takze opóznic aktualizacje wykresu przez maksymalnie 4 okresy sondowania.
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

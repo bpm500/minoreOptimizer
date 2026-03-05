@@ -1,0 +1,8 @@
+Okres aktualizacji predkosci wentylatora
+Wyswietla i dostosowuje okres aktualizacji predkosci wentylatora dla zdefiniowanego przez uzytkownika trybu automatycznego sterowania wentylatorem.
+
+Wskazówki:
+- Zdefiniowane przez uzytkownika oprogramowanie automatyczne sterowanie predkoscia wentylatora nie jest calkowicie bezplatne pod wzgledem wydajnosci, wymagany jest troche czasu procesora na kazdej iteracji aktualizacji predkosci wentylatora, aby odczytac temperature ze sprzetu i zaktualizowac predkosc wentylatora, jesli to konieczne. W zaleznosci od procesora graficznego i modelu czujnika oraz protokolów dostepu do sprzetu, automatyczne sterowanie wentylatorami oprogramowaniem moze sie róznic od praktycznie niewidocznego do zauwazalnego, okresowego uderzenia wydajnosci, powodujac efekt zacinania sie w aplikacjach intensywnie korzystajacych z procesora, takich jak gry 3D. 
+Jesli masz do czynienia z takim efektem, gdy jest uruchomiona %PRODUCTNAME%, spróbuj tymczasowo wylaczyc automatyczna regulacje predkosci wentylatora oprogramowania, aby zidentyfikowac go jako zródlo problemu, odciskajac przycisk <Umiasz>. Nastepnie spróbuj zmniejszyc obciazenie procesora, zwiekszajac okres aktualizacji predkosci wentylatora. 
+Doswiadczeni uzytkownicy moga równiez wyswietlac informacje o stanie profilera wydajnosci w oknie monitorowania, klikajac je prawym przyciskiem myszy i wybierajac polecenie <Show status>. Informacje o stanie wyswietla czasy uzycia procesora CPU dla róznych procesów w tle, w tym aktualizacji predkosci wentylatora.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

@@ -1,0 +1,7 @@
+Herstel (Reset).
+Herstel de instellingen van de primaire grafische kaart(GPU) terug naar de standaard waarden.
+
+Hint:
+- Wanneer synchroniseer mode is ingeschakeld worden deze veranderingen toegepast op alle gelijke GPU's.
+- U kan de toetsen <ctrl>+<D> in drukken om de hoofd GPU te herstellen naar standaard waarden.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

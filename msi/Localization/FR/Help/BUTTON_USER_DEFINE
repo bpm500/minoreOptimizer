@@ -1,0 +1,8 @@
+Paramètres utilisateur
+Activer les paramètres utilisateur pour le contrôle automatique logiciel du ventilateur. Dans ce mode, le logiciel inspecte périodiquement la température GPU et applique la nouvelle vitesse de ventilateur en accord avec la courbe de vitesse de ventilateur, définie dans la tabulation <Ventilateur> dans les propriétés avancées.
+
+Astuce:
+- Le contrôle de vitesse du ventilateur n'est pas disponible si la carte graphique n'est pas équipée d'un circuit de contrôle de ventilateur et/ou de contrôle de refroidissement.
+- La courbe de contrôle de vitesse automatique logiciel n'est pas affectée par les profils, c'est un paramètre global pour tous les GPUs installé dans le système. 
+- Lorsque les paramètres utilisateur pour le contrôle automatique logiciel du ventilateur est activé vous pouvez encore basculer entre le contrôle de vitesse de ventilateur automatique ou manuel en utilisant le bouton <Auto>.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

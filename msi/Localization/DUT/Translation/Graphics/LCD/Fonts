@@ -1,0 +1,12 @@
+#src 4x6 font
+#dst lettertype 4x6
+#end
+#src 5x6 font
+#dst lettertype 5x6
+#end
+#src 6x6 font
+#dst lettertype 6x6
+#end
+#src 6x8 font
+#dst lettertype 6x8
+#end

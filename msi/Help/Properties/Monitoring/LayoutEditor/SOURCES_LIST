@@ -1,0 +1,5 @@
+Sources list
+Displays the list of hardware monitoring data sources, which are not associated with any layout property in the current node and can be associated with new layout property. Tick a checkmark next to desired source(s) to create new association for them. 
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,6 @@
+Push-To-Talk tasto di scelta rapida
+Consente la definizione dei tasti di scelta rapida globale per la cattura dell'audio in modalità Push-To-Talk. Quando il tasto di scelta rapida è definito l'audio viene catturato solo quando il tasto di scelta rapida viene premuto.
+
+Suggerimenti:
+- Alcune combinazioni di tasti di scelta rapida (ad esempio, <1> ... <5>, <Ctrl> + <1> ... <Ctrl> + <5> e <Ctrl> + <D>) sono riservati e non possono essere utilizzati.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

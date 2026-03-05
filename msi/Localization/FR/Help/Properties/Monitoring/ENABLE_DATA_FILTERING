@@ -1,0 +1,6 @@
+Activer le filtrage de données
+Des accès simultanés au même sensor matériel (ex: sensor de température GPU) par plusieurs outils logiciel peut résulter à une mauvaise lecture du sensor et afficher des valeurs spontanées trop basses ou trop hautes. Activez cette option pour rejeter mathématiquement ces pointes. 
+Veuillez noter qu'activer cette option pourrait rejeter des valeurs pointes réelles (ex: utilisation en pointe du GPU) et également retarder la mise à jour du graphique jusqu'à 4 périodes de polling.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

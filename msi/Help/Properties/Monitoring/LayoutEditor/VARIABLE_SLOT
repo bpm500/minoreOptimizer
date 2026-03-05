@@ -1,0 +1,6 @@
+Variable slot
+Colors, alignments and sizes library of each On-Screen Display layout may include up to 250 user defined and up to 6 system reserved variables, stored into 256 indexed variable slots. User defined variables (slot 0-249) allow you to apply custom formatting style for various parts of On-Screen Display, whilst system variables (slots 250-255) are reserved to define formatting style for On-Screen Display status.
+Variable slot index can be edited when adding new item to the library and cannot be changed later.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

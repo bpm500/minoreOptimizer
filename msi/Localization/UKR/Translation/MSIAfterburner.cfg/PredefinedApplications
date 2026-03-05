@@ -1,0 +1,21 @@
+#src Load profile 1
+#dst Завантажити профіль 1
+#end
+#src Load profile 2
+#dst Завантажити профіль 2
+#end
+#src Load profile 3
+#dst Завантажити профіль 3
+#end
+#src Load profile 4
+#dst Завантажити профіль 4
+#end
+#src Load profile 5
+#dst Завантажити профіль 5
+#end
+#src System
+#dst Система
+#end
+#src System shutdown
+#dst Вимкнення системи
+#end

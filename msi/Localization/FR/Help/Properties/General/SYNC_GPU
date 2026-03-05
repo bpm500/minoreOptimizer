@@ -1,0 +1,6 @@
+Synchroniser les paramètres pour des processeurs graphique similaire
+Permet de synchroniser ou pas les paramètres d'ajustement GPU. Quand cette option est activée tous les ajustements GPU que vous effectuez dans la fenêtre principale de l'application sont appliqué à tous les GPUs similaire présent dans le système. 
+
+Astuce:
+- Les processeurs graphiques similaires sont identifiés par le PCI DeviceID identique, donc seuls des cartes graphiques identiques peuvent être synchronisées.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

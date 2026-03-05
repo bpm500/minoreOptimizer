@@ -1,0 +1,11 @@
+Offizielle Übertaktungslimits erweitern
+Die standardmäßigen Übertaktungslimits im AMD-Grafiktreiber und in allen Dienstprogrammen, die die offiziellen AMD-Übertaktungsmechanismen verwenden, sind sehr niedrig und werden vom AMD VGA-BIOS bestimmt.
+Diese Option kann dabei helfen, die Übertaktungslimits zu erweitern, ohne sie im VGA-BIOS ändern zu müssen.
+Beachten Sie, dass die Grenzwerte nach der Installation eines neuen Grafiktreibers erneut erweitert werden müssen.
+
+ACHTUNG! Nutzung dieser Option auf eigene Gefahr! Weder MSI noch AMD bieten Support bezüglich der Nutzung, einschließlich der Beantwortung von Fragen in den Support-Foren.
+
+Hinweise:
+- Diese Option ist nur aktiv, wenn mindestens eine unterstützte AMD-Grafikkarte im System vorhanden ist.
+- Nach Änderung dieser Option ist ein Systemneustart erforderlich, um die Änderungen zu übernehmen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

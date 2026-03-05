@@ -1,0 +1,7 @@
+Kombustor
+Execute un test de stabilité de la carte graphique à l'aide de MSI Kombustor. MSI Kombustor est optionnel et installable séparément pour faire des tests graphiques en utilisant la technologie FurMark. 
+
+Astuce:
+- Ce bouton est inactif si MSI Kombustor n'est pas installé, veuillez visiter https://msi.com/page/afterburner pour charger et installer la dernère version de MSI Kombustor.
+- Veuillez garder à l'esprit que le test de stabilité n'est pas une science exacte et qu'il n'y a donc pas de test de stabilité idéal et parfait à 100%. Utilisez donc Kombustor comme une aide à l'overclocking(sur-cadencage) de votre système, mais n'oubliez pas de vérifier le résultat avec des applications 3D réelles.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

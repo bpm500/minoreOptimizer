@@ -1,0 +1,5 @@
+Limit iloœci klatek na sekundê
+Umozliwia definiowanie limitu liczby klatek na sekunde dla aplikacji 3D podczas tworzenia wideo. Ograniczenie liczby klatek na sekunde podczas wideokapitura moze poprawic wynikajaca z tego plynnosc wideo. Plynnosc poprawia sie, gdy liczba klatek na sekunde w grze jest wielokrotna do szybkosci klatek na sekunde, wiec limit jest definiowany jako mnoznik liczby klatek na sekunde.
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

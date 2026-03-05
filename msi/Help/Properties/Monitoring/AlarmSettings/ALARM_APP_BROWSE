@@ -1,0 +1,7 @@
+Browse
+Allows browsing for external application to be launched on alarm or selecting one of pre-defined command line based actions (e.g. shutting down the system or applying profiles form %PRODUCTNAME% profile slots).
+
+Hints:
+- This option is affected by adjacent alarm timeout settings.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.
+

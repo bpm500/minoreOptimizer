@@ -1,0 +1,10 @@
+Core clock
+Tampilkan GPU master core clock saat ini.
+
+Petunjuk:
+- Ketika pengaturan sinkronisasi GPU diaktifkan pada tab <General>, setiap perubahan pada master GPU maka akan berlaku terhadap semua GPU yang terpasang.
+- Pengaturan tersendiri shader clock hanya berlaku pada seri NVIDIA GeForce 8, 9 dan 200. Shader dan core clocks terhubung dengan rasio 2x pada seri GeForce 400. Kartu grafis ATI tidak mendukung pengaturan tersendiri pada shader clock.
+- Ketika mengatur core dan shader clock jangan lupa minimal shader pada rasio core clock tergantung pada hardware.
+- Tombol <Link> harus di uncheck untuk mengatur shader clock secara tersendiri.
+- Anda dapat klik di daerah ini untuk langsung mengatur clock yang diinginkan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

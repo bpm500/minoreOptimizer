@@ -1,0 +1,6 @@
+Lista de GPUs
+Exibe a lista de unidades de processamento gráfico (GPU) presentes no sistema e permite que você selecione uma como principal. Quaisquer alterações feitas na principal se aplicam às outras GPUs semelhantes quando habilitada a opção de sincronização de GPUs semelhantes. 
+
+Sugestões: 
+- Sempre aplique as alterações antes de selecionar outra GPU. Mudanças não aplicadas são perdidas ao selecionar outra GPU. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

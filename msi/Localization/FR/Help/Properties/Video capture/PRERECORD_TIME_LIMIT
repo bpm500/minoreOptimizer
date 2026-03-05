@@ -1,0 +1,5 @@
+Temps limite de pré-enregistrement
+Permet de définir un temps limite pour le buffer de pré-enregistrement, en secondes. Vous pouvez le mettre à 0 pour laisser un temps illimité.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

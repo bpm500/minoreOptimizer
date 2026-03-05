@@ -1,0 +1,6 @@
+More
+Provides direct access to %SERVERPRODUCTNAME% properties when the server is loaded.
+
+Hints:
+- You may also access %SERVERPRODUCTNAME% properties by clicking its tray icon.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

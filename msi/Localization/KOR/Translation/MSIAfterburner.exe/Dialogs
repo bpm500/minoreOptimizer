@@ -1,0 +1,432 @@
+#src Information
+#dst MSI 애프터버너 정보
+#end
+#src System information
+#dst 시스템 정보
+#end
+
+#src General
+#dst 일반
+#end
+#src Master graphics processor selection
+#dst 메인 VGA 선택
+#end
+#src Synchronize settings for similar graphics processors
+#dst 다중 GPU 설정 동기화
+#end
+#src General properties
+#dst 일반 설정
+#end
+#src Start with Windows
+#dst 윈도우 시작 시 프로그램 자동 실행
+#end
+#src Start minimized
+#dst 최소화 모드로 시작
+#end
+
+#src Compatibility properties
+#dst 호환성 설정
+#end
+#src Enable hardware control and monitoring
+#dst 하드웨어 제어 / 모니터링 활성화
+#end
+#src Enable low-level hardware access interface
+#dst 로우-레벨 하드웨어 액세스 인터페이스 활성화
+#end
+#src kernel mode
+#dst 커널 모드
+#end
+#src user mode
+#dst 사용자 모드
+#end
+#src Unlock voltage control
+#dst 전압 조절 기능 사용
+#end
+#src Unlock voltage monitoring
+#dst 전압 모니터링 기능 사용
+#end
+#src Force constant voltage
+#dst 고정 전압 설정
+#end
+#src Restore settings after suspended mode
+#dst
+#end
+#src Graphics processor type
+#dst 그래픽스 프로세서 타입
+#end
+#src Update checking properties
+#dst 업데이트 설정
+#end
+#src Check for available product updates
+#dst 자동 업데이트 설정
+#end
+#src Check for available product beta versions
+#dst 자동 업데이트에 베타 버전도 포함
+#end
+#src never
+#dst 확인 안 함
+#end
+#src on startup
+#dst 시작할 때
+#end
+#src on startup daily
+#dst 매일
+#end
+#src on startup weekly
+#dst 매주
+#end
+#src on startup monthly
+#dst 매달
+#end
+#src Check now
+#dst 지금 확인
+#end
+
+#src Fan
+#dst 팬
+#end
+#src Automatic fan control properties
+#dst 자동 팬 컨트롤 설정
+#end
+#src Enable user defined software automatic fan control
+#dst 사용자 조정 자동 팬 컨트롤 활성화
+#end
+#src Temperature, 캜
+#dst 온도 (℃)
+#end 
+#src Fan speed, %
+#dst 팬 스피드 (%)
+#end
+#src Predefined fan speed curve
+#dst
+#end
+#src Custom
+#dst
+#end
+#src Default
+#dst
+#end
+#src Fan speed update period (in milliseconds)
+#dst 팬 스피드 업데이트 주기 (ms)
+#end
+#src Temperature hysteresis (in ℃)
+#dst 온도 이력 (Temp. hysteresis, ℃)
+#end
+#src Force fan speed update on each period
+#dst 각 주기에 맞춰 팬 스피드 강제 업데이트
+#end
+
+#src Monitoring
+#dst 모니터링
+#end
+#src Hardware monitoring properties
+#dst 하드웨어 모니터링 설정
+#end
+#src Hardware polling period (in milliseconds)
+#dst 업데이트 주기 설정 (ms)
+#end
+#src Hardware monitoring history logging properties
+#dst 하드웨어 모니터링 기록 설정
+#end
+#src Browse
+#dst 찾아보기
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst 로그 파일 최대 크기 설정 (MB)
+#end
+#src Recreate existing log files
+#dst 기존 로그 파일에 다시 기록
+#end
+#src Active hardware monitoring graphs
+#dst 하드웨어 모니터링을 사용할 그래프 선택
+#end
+#src Maximum limit
+#dst 최고 값
+#end
+#src Minimum limit
+#dst 최저 값
+#end
+#src Override group name
+#dst 그룹명 오버라이드
+#end
+#src Enable data filtering
+#dst 데이터 필터링 활성화
+#end
+#src Show in On-Screen Display
+#dst 온스크린 디스플레이에 표시
+#end
+#src Show in Logitech keyboard LCD display
+#dst 로지텍 키보드 LCD 디스플레이에 표시
+#end
+#src Show in tray icon
+#dst 트레이 아이콘에 표시
+#end
+
+#src On-Screen Display
+#dst OSD
+#end
+#src Global On-Screen Display hotkeys
+#dst 온스크린 디스플레이 핫키 (전역)
+#end
+#src Toggle On-Screen Display
+#dst 온스크린 디스플레이 켜기/끄기
+#end
+#src Show On-Screen Display
+#dst 온스크린 디스플레이 보기
+#end
+#src Hide On-Screen Display
+#dst 온스크린 디스플레이 숨기기
+#end
+#src Additional On-Screen Display properties
+#dst 온스크린 디스플레이 추가 설정
+#end
+#src Show system time
+#dst 시스템 시각 표시
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst 캡처화면에 온스크린 디스플레이 보기
+#end
+#src On-Screen Display server compatibility properties
+#dst 온스크린 디스플레이 호환성 설정
+#end
+#src Toggle On-Screen Display server blocking
+#dst 온스크린 디스플레이 서버 블러킹 활성화
+#end
+#src More
+#dst 기타
+#dlu -100
+#end
+
+#src Profiles
+#dst 프러파일
+#end
+#src Global profile hotkeys
+#dst 프러파일 선택 핫키 (전역)
+#end
+#src Profile
+#dst 설정
+#end
+#src Automatic profiles management
+#dst 자동 프러파일 관리
+#end
+#src 2D profile
+#dst 2D 프러파일
+#end
+#src 3D profile
+#dst 3D 프러파일
+#end
+
+#src User Interface
+#dst UI
+#end
+#src User interface properties
+#dst 사용자 인터페이스 설정
+#end
+#src English
+#dst 영어
+#end
+#src Language
+#dst 언어 선택
+#end
+#src Show user interface tooltips
+#dst UI 툴팁 표시
+#end
+#src Show user interface hints
+#dst UI 힌트 표시
+#end
+#src Single tray icon mode
+#dst 트레이 아이콘 단일화
+#end
+#src User interface skinning properties
+#dst UI 스킨 설정
+#end
+
+#src Screen capture
+#dst 스크린 캡처
+#end
+#src Global screen capture hotkeys
+#dst 스크린 캡처 핫키 (전역)
+#end
+#src Screen capture properties
+#dst 스크린 캡처 설정
+#end
+#src Screenshot format
+#dst 스크린샷 형식
+#end
+#src bmp
+#dst BMP
+#end
+#src png
+#dst PNG
+#end
+#src jpg
+#dst JPG
+#end
+#src Screenshots folder
+#dst 스크린샷 저장 폴더
+#end
+#src View
+#dst 보기
+#end
+
+#src Video capture
+#dst 비디오 캡처
+#end
+#src Global video capture hotkeys
+#dst 전역 비디오 캡처 단축키
+#end
+#src Video capture properties
+#dst 비디오 캡처 설정
+#end
+#src Frame size
+#dst 프레임 사이즈
+#end
+#src full frame
+#dst 최대 크기
+#end
+#src 1/2 frame
+#dst 1/2 크기
+#end
+#src 1/3 frame
+#dst 1/3 크기
+#end
+#src 1/4 frame
+#dst 1/4 크기
+#end
+#src Video format
+#dst 비디오 형식
+#end
+#src uncompressed
+#dst 비압축
+#end
+#src MJPG compression
+#dst MJPG 압축
+#end
+#src RTV1 compression
+#dst RTV1 압축
+#end
+#src VFW compression
+#dst VFW 압축
+#end
+#src lossless
+#dst 무손실
+#end
+#src 10 FPS
+#dst 10 FPS
+#end
+#src 100 FPS
+#dst 100 FPS
+#end
+#src Enable gamma correction
+#dst 감마 보정 활성화
+#end
+#src Videos folder
+#dst 비디오 폴더
+#end
+#src Video capture compatibility properties
+#dst 비디오 캡처 호환성 설정
+#end
+#src Multithreaded optimization
+#dst 멀티스레드 최적화
+#end
+#src automatic
+#dst 자동
+#end
+#src disabled
+#dst 끄기
+#end
+#src 1 compression thread
+#dst 1 압축 스레드
+#end
+#src 2 compression threads
+#dst 2 압축 스레드
+#end
+#src 3 compression threads
+#dst 3 압축 스레드
+#end
+#src 4 compression threads
+#dst 4 압축 스레드
+#end
+#src 5 compression threads
+#dst 5 압축 스레드
+#end
+#src 6 compression threads
+#dst 6 압축 스레드
+#end
+#src 7 compression threads
+#dst 7 압축 스레드
+#end
+#src 8 compression threads
+#dst 8 압축 스레드
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst 비디오를 16의 배수로 크롭
+#end
+#src Audio capture properties
+#dst 오디오 캡처 설정
+#end
+#src Downmix multichannel audio to stereo
+#dst 다채널 오디오를 스테레오로 다운믹스
+#end
+#src None
+#dst 없음
+#end
+#src Auto select
+#dst 자동 선택
+#end
+#src DirectSound capture device
+#dst DirectSound 캡처 장치
+#end
+#src WASAPI playback device
+#dst WASAPI 재생 장치
+#end
+#src WASAPI capture device
+#dst WASAPI 캡처 장치
+#end
+#src Audio source #1
+#dst 오디오 장치 #1
+#end
+#src Audio source #2
+#dst 오디오 장치 #2
+#end
+#src Push-To-Talk hotkey
+#dst Push-To-Talk 단축키
+#end
+#src There are no devices available
+#dst 사용가능한 장치가 업습니다.
+#end
+#src Enable MJPG decoder
+#dst MJPG 디코더 활성화
+#end
+#src Mix multiple audio tracks
+#dst 다중 오디오 트랙 믹스
+#end
+#src stereo rip
+#dst 스테레오 립 (좌우만)
+#end
+#src stereo mix
+#dst 스테레오 믹스 (전채널)
+#end
+
+#src AMD compatibility properties
+#dst AMD 호환성 설정
+#end
+#src Extend official overclocking limits
+#dst 공식 오버클러킹 제한 확대
+#end
+#src Disable ULPS
+#dst 저전력모드(ULPS) 비활성화
+#end
+#src Unofficial overclocking mode
+#dst 비공식 오버클러킹 모드
+#end
+#src with PowerPlay support
+#dst 파워플레이 지원
+#end
+#src without PowerPlay support
+#dst 파워플레이 비지원
+#end
+#src Reset display mode on applying unofficial overclocking
+#dst 비공식 오버클러킹 적용 시 디스플레이 모드 초기화
+#end
+

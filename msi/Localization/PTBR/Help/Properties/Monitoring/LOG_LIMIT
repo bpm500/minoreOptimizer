@@ -1,0 +1,7 @@
+Tamanho limite do registro histórico de monitoramento
+Permite definir um limite opcional para o tamanho máximo em megabytes dos arquivos de monitoramentos. Quando este valor limite é ultrapassado, o processo de gravação do registro é automaticamente interrompido.
+
+Sugestões: 
+- O %PRODUCTNAME% salva os monitoramentos em formato de arquivo RivaTuner nativo. Você pode usar o RivaTuner para visualizar os  arquivos gravados com o %PRODUCTNAME%. 
+- O processo de monitoramento consome recursos do sistema, principalmente da CPU, a cada atualização para gravar dados no disco rígido. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

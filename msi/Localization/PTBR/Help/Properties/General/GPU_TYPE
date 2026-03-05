@@ -1,0 +1,6 @@
+Tipo de processador gráfico (GPU)
+Alguns modelos de placas de vídeo podem utilizar diferentes tipos de processadores gráficos com diferentes tensões padrões e diferentes abordagens de controle de tensão em modo 3D. Você pode precisar usar esta opção para selecionar o tipo de processador gráfico para fornecer um controle adequado da tensão. 
+
+Sugestões: 
+- Esta opção afeta a GPU principal anteriormente selecionada, por favor, abra esta janela depois de mudar a seleção da GPU principal para selecionar o novo tipo de GPU. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

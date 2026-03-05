@@ -1,0 +1,6 @@
+Downmix multichannel audio to stereo
+Allows downmixing multichannel audio stream captured on multichannel sound cards to stereo audio stream. The downmixing reduces resulting video file size as well as improves compatibility with varios video players and video editing software.
+
+Hint:
+- This option works only when capturing audio via WASAPI playback devices under Windows Vista or newer OS. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,10 @@
+Ventana de monitorización
+Visualiza graficos históricos para la temperatura de tus tarjetas gráficas (GPU) y otros parámetros del hardware
+
+Sugerencias:
+- Puedes posicionar el cursor sobre el gráfico para visualizar los valores en la posición del cursor.
+- Puedes mover el gráfico con la rueda del ratón o capturar la ventana con el botón izquierdo del ratón y arrastrarlo hacia arriba y abajo.
+- Puedes separar la ventana de monitorización de la ventana principal, haciendo doble click en ella o pulsando el botón <Separar>. Puedes volverla a unir cerrándola o volviendo a hacer doble click sobre ella.
+- Puedes abrir la solapa <Monitorización> de las propiedades avanzadas para configurar la visualización de cualquier dato de los gráficos en pantalla o en la bandeja de sistema. De forma alternativa, haz clock con el botón de la derecha del ratón sobre el gráfico y selecciona las propiedades avanzadas del gráfico.
+- Puedes deshabilitar gráficos poco utilizados o cambiar el orden de los mismos en la solapa <Monitorización> de las propiedades avanzadas. De forma alternativa, puedes hacer click en las marcas de la izquierda de cada gráfico para deshabilitarlo. Se pueden arrastrar los gráficos para variar el orden en el que aparecen en la ventana de monitorización.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

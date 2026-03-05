@@ -1,0 +1,6 @@
+Speichern
+Startet den Profilspeichervorgang. Wenn diese Schaltfläche betätigt wird, beginnen die Profil-Slot-Schaltflächen zu blinken und zeigen damit an, dass der Speichervorgang eingeleitet wurde. Sie können eine beliebige Profil-Slot-Schaltfläche betätigen, während sie blinkt, um die aktuell angewendete Spannungs-, Takt- und Lüftersteuerungseinstellungen im gewünschten Profil-Slot zu speichern.
+
+Hinweise:
+- Sie können den eingeleiteten Profilspeichervorgang abbrechen, indem Sie die Taste <Esc> auf Ihrer Tastatur drücken. Durch das Wiederherstellen der Hardwareeinstellungen mit der Schaltfläche <Zurücksetzen> wird auch der eingeleitete Profilspeichervorgang abgebrochen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

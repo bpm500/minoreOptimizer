@@ -1,0 +1,5 @@
+Abilita correzione gamma
+Di default l'acquisizione di streaming video da %PRODUCTNAME% è senza l'applicazione di alcuna regolazione del framebuffer. Tuttavia, alcuni giochi a schermo intero possono amplificare la gamma di visualizzazione del video catturato così da apparire più scuro di quello che si vede durante il gioco. In questo caso è possibile abilitare questa opzione per applicare la correzione gamma per lo streaming video acquisito a costo di una piccola perdita di prestazioni.
+
+suggerimenti:
+- È possibile disattivare i suggerimenti interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

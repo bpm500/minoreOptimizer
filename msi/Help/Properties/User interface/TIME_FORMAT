@@ -1,0 +1,5 @@
+Time format
+Allows selecting either 12 hours or 24 hours time format for On-Screen Display and hardware monitoring window.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

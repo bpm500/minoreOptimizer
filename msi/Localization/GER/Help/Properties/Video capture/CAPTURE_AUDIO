@@ -1,0 +1,6 @@
+Audioaufnahme aktivieren
+Ermöglicht einen Audiostream zu erfassen und in der resultierenden Videodatei aufzuzeichnen.
+
+Hinweise:
+- Um die Audioaufnahme unter Windows XP zu aktivieren, aktivieren Sie bitte die Aufnahme über die Eingänge <Stereo Mix> in den Audiomixereinstellungen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

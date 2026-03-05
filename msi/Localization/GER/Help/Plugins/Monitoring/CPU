@@ -1,0 +1,4 @@
+Dieses Plug-in fügt Datenquellen zur Überwachung von [b]CPU-Temperatur[/b] hinzu.
+
+Hinweis:
+- Die von diesem Plug-in implementierten Datenquellen duplizieren die gleichen internen Quellen von %PRODUCTNAME%, sodass normale Benutzer dieses Plug-in nicht aktivieren müssen. Entwickler von Plug-ins können den Quellcode dieses Plug-ins als Tutorial und als Codebasis für die Implementierung anderer CPU-spezifischer Datenquellen verwenden.

@@ -1,0 +1,7 @@
+Benchmark results file
+Displays and allows editing path to benchmark results file.
+
+Hints:
+- You may specify macro variables in the path. %ABDir% specifies current %PRODUCTNAME% installation folder and allows you to use recording with portable application usage scenarios, %Time% allows adding a timestamp to the filename.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.
+

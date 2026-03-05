@@ -1,0 +1,995 @@
+#src Failed to compile %s skin!
+#dst Невозможно скомпилировать скин %s!
+#end
+
+#src %s skin has been successfully compiled!
+#dst Скин %s успешно скомпилирован!
+#end
+
+#src %s skin has been successfully decompiled!
+#dst Скин %s успешно декомпилирован!
+#end 
+
+#src Failed to decompile %s skin!
+#dst Невозможно декомпилировать скин %s!
+#end 
+
+#src Failed to load %s skin!
+#dst Невозможно загрузить скин %s!
+#end 
+
+#src Failed to load %s.sys driver!
+#dst Невозможно загрузить драйвер %s.sys!
+#end 
+
+#src This application is designed to use %s.sys driver v%d.%d. Different version of driver is installed and in use now. It is strongly recommended to close all applications using this driver and restart this application to allow correct driver version usage, otherwise it may function improperly.
+#dst Это приложение разработано с использованием драйвера %s.sys версии v%d.%d. Другая версия драйвера установлена и запущена в данный момент. Строго рекомендуется закрыть все приложения, использующие данный драйвер, и перезапустить это приложение, чтобы загрузить нужную версию драйвера. В противном случае, приложение может функционировать неверно.
+#end 
+
+#src Some of MSI Afterburner components are expired, missing or corrupted!
+#dst Некоторые компоненты MSI Afterburner просрочены, отсутствуют либо повреждены!
+#end 
+
+#src Failed to load %s skin, reverting to default skin!
+#dst Невозможно загрузить скин %s, выполняется откат к исходному скину!
+#end 
+
+#src Unsupported %s skin file format!
+#dst Неподдерживаемый формат файла скина %s!
+#end 
+
+#src Your current system state has been used to build Hardware Emulation Layer. The application will function through HEL after the next restart.
+#dst Текущее состояние системы было использовано для создания прослойки эмуляции аппаратного обеспечения. Приложение будет функционировать через прослойку эмуляции после перезапуска.
+#end 
+
+#src I2C dump has been saved to the application folder.
+#dst Дамп I2C устройств сохранён в папке приложения.
+#end 
+
+#src Failed to save I2C dump to the application folder.
+#dst Невозможно сохранить дамп I2C устройств в папке приложения.
+#end 
+
+#src Failed to initialize main window with %s skin, reverting to default skin!
+#dst Невозможно инициализировать главное окно со скином %s, выполняется откат к исходному скину!
+#end 
+
+#src Failed to initialize main window!
+#dst Невозможно инициализировать главное окно!
+#end 
+
+#src Sorry, the fan speed curve you've defined doesn't appear to be valid! It is not allowed to define a curve causing fan speed to decrease with increasing temperature!
+#dst К сожалению, заданная Вами кривая изменения скорости кулера является недопустимой. Не разрешено задавать кривую, приводящую к уменьшению скорости кулера с ростом температуры!
+#end 
+
+
+#src GPU%d : %s
+#dst ГП%d : %s
+#end 
+
+#src GPU%d
+#dst ГП%d
+#end 
+
+#src Emulated %s on %s GPU
+#dst Эмулированный %s на процессоре %s
+#end 
+
+#src %s on %s GPU
+#dst %s на процессоре %s
+#end 
+
+#src %-20s : %s
+#dst %-20s : %s
+#end 
+
+#src Display device
+#dst Видеоадаптер
+#end 
+
+#src Display driver
+#dst Видеодрайвер
+#end 
+
+#src %dMB
+#dst %dМБ
+#end 
+
+#src On-board memory
+#dst Видеопамять
+#end 
+
+#src BIOS
+#dst BIOS
+#end 
+
+#src GUID
+#dst Идентификатор
+#end 
+
+#src master
+#dst ведущий
+#end 
+
+#src synchronized with master
+#dst синхронизирован с ведущим
+#end 
+
+#src Multi-GPU role
+#dst Роль
+#end 
+
+#src OSD
+#dst ОЭД
+#end 
+
+#src LCD
+#dst LCD
+#end 
+
+#src tray
+#dst иконке
+#end 
+
+#src Select a graph to access graph properties
+#dst Выберите график для доступа к его свойствам
+#end 
+
+#src %s graph properties
+#dst Свойства графика <%s>
+#end 
+
+#src Tick checkmark to activate the graph and access graph properties
+#dst Отметьте график галочкой для доступа к его свойствам
+#end 
+
+#src Updating %d graph(s) with %d ms period, polling time : %.3f ms, GUI time : %.3f ms
+#dst Обновляется %d график(ов) с периодом %d мс, время опроса сенсоров : %.3f мс, время обновления интерфейса :  %.3f мс
+#end 
+
+#src Updating fan speed(s) with %d ms period, update time : %.3f ms
+#dst Обновляются скорости кулеров с периодом %d мс, время обновления : %.3f мс
+#end 
+
+#src Bitmap cache flushed
+#dst Кеш изображений вытеснен
+#end 
+
+#src Tip: MSI Afterburner is currently minimized to system tray area. You may click its' tray icon to bring MSI Afterburner window to top.
+#dst Подсказка: MSI Afterburner в данный момент свёрнут в системную область панели задач. Вы можете кликнуть по его иконке в системной области, чтобы открыть окно MSI Afterburner.
+#end 
+
+#src Failed to restore main window DIB cache!
+#dst Невозможно восстановить кеш изображений главного окна!
+#end 
+
+#src MSI Afterburner properties
+#dst Свойства MSI Afterburner
+#end 
+
+#src The changes you've made will be applied after restarting MSI Afterburner.  Do you want to restart it now?
+#dst Сделанные Вами изменения будут применены после перезапуска MSI Afterburner. Хотите перезапустить приложение прямо сейчас?
+#end 
+
+#src On-Screen Display server
+#dst Сервер Оверлейного Экранного Дисплея
+#end 
+
+#src Active client(s)
+#dst Активныe клиенты
+#end 
+
+#src server is not loaded
+#dst сервер не загружен
+#end 
+
+#src not detected
+#dst отсутствует
+#end 
+
+#src Active 3D process
+#dst Активный 3D процесс
+#end 
+
+#src Additional server process has been loaded for the first time. The server is automatically loaded by MSI Afterburner as soon as you enable the functionality depending on it. Such functionality includes but not limited to automatic profiles management, screen capture, framerate monitoring and On-Screen Display rendering. When the server is loaded, you may check which MSI Afterburner modules are connected to it as the clients by clicking <i> button.
+#dst Дополнительный процесс сервера был запущен в первый раз. MSI Afterburner автоматически запускает сервер при включении зависимых от него функций. Такие функции включают в себя управление профилями, захват скриншотов, мониторинг частоты кадров и отображение Оверлейного Экранного Дисплея. Когда сервер загружен, можно проверить какие модули MSI Afterburner подключены к нему в качестве клиентов, щёлкнув по кнопке <i>.  
+#end 
+
+#src Profile %d applied
+#dst Профиль %d применён
+#end 
+
+#src Profile %d loaded
+#dst Профиль %d загружен
+#end 
+
+#src Profile %d deleted
+#dst Профиль %d удалён
+#end 
+
+#src Profile %d saved
+#dst Профиль %d сохранён
+#end 
+
+#src GPU%d selected
+#dst ГП%d выбран
+#end 
+
+#src MSI Afterburner%s hardware monitor
+#dst Мониторинг MSI Afterburner%s
+#end 
+
+#src framerate monitoring module
+#dst модуль мониторинга частоты кадров
+#end 
+
+#src On-Screen Display module
+#dst модуль отображения Оверлейного Экранного Дисплея
+#end 
+
+#src automatic profiles manager
+#dst автоматический менеджер профилей
+#end 
+
+#src screen capture module
+#dst модуль захвата скриншотов
+#end 
+
+#src You've activated user defined software automatic fan control mode for the first time. Please take a note that you can redefine the fan speed curve for this mode via advanced MSI Afterburner properties. Do you want to go to advanced properties and edit the curve right now?
+#dst Вы включили программный режим автоуправления скоростью кулера в первый раз. Кривую изменения скорости кулера в зависимости от температуры для этого режима можно изменить в любой момент в дополнительных свойствах MSI Afterburner. Хотите открыть дополнительные свойства и редактировать кривую прямо сейчас?
+#end 
+
+#src Warning! You are trying to display too many text information in the On-Screen Display. Displayed text will be truncated causing some information to be lost, it is recommended to disable On-Screen Display output for some unnecessary hardware monitoring graphs. Do you want to do it right now?
+#dst Внимание! Вы пытаетесь отобразить слишком много текстовой информации в Оверлейном Экранном Дисплее. Отображаемый текст будет урезан, что приведёт к потере некоторой информации, поэтому рекомендуется отключить вывод в ОЭД для некоторых ненужных графиков. Хотите сделать это прямо сейчас?  
+#end 
+
+#src in %s
+#dst в %s
+#end 
+
+#src Not assigned
+#dst Не задан
+#end 
+
+#src empty
+#dst пусто
+#end
+
+#src Graph
+#dst График
+#end 
+
+#src Properties
+#dst Свойства
+#end 
+
+#src Min
+#dst Мин
+#end 
+
+#src Max
+#dst Макс
+#end 
+
+#src About %s
+#dst О продукте %s
+#end 
+
+#src expires on %s
+#dst истекает %s
+#end
+
+#src Hardware monitor is paused
+#dst Мониторинг приостановлен
+#end
+
+#src %s localization creator
+#dst %s перевод
+#end
+
+#src MSI Afterburner %s localization feedback
+#dst %s перевод MSI Afterburner - отзыв о качестве перевода
+#end
+
+#src Profiles modification locked
+#dst Модификация профилей запрещена
+#end
+
+#src Profiles modification unlocked
+#dst Модификация профилей разрешена
+#end
+
+#src Resource file copy has been successfully saved to %s!
+#dst Ресурсы успешно скопированы в файл %s!
+#end
+
+#src Failed to save resource file copy to %s!
+#dst Невозможно скопировать ресурсы в файл %s!
+#end
+
+#src Log session started
+#dst Начата запись отчёта
+#end
+
+#src Log session terminated due to write failure
+#dst Запись отчёта прекращена из-за ошибки
+#end
+
+#src Log session terminated due to user request
+#dst Запись отчёта прекращена по запросу пользователя
+#end
+
+#src Log session terminated due to log size overflow
+#dst Запись отчёта прекращена из-за превышения размера 
+#end
+
+#src Logging to %s (%I64u bytes)
+#dst Пишется отчёт %s (%I64u байт(ов))
+#end
+
+#src RivaTuner hardware monitoring log files (*.hml)|*.hml|All files (*.*)|*.*||
+#dst Отчёты мониторинга RivaTuner (*.hml)|*.hml|Все файлы (*.*)|*.*||
+#end
+
+#src compiled on %d-%m-%Y %H:%M:%S
+#dst создан %d-%m-%Y в %H:%M:%S
+#end
+
+#src Voltage defaults captured
+#dst Исходные напряжения сохранены
+#end
+
+#src Failed to initialize hotkey handler, global hotkeys will not function properly!
+#dst Невозможно инициализировать обработчик клавиатуры, глобальные горячие клавиши не будут работать правильно!
+#end
+
+#src Please select target folder for screen capture
+#dst Пожалуйста, выберите папку для скриншотов
+#end
+
+#src CTaskSchedulerInterface::%s failed with error code %d!
+#dst Ошибка в функции CTaskSchedulerInterface::%s, код ошибки %d!
+#end
+
+#src Beta %d
+#dst Beta %d
+#end
+
+#src On-Screen Display Server is blocked
+#dst Сервер Оверлейного Экранного Дисплея заблокирован
+#end
+
+#src Screenshot captured
+#dst Скриншот сохранён
+#end
+
+#src Please select target folder for video capture
+#dst Пожалуйста, выберите папку для видеозахвата
+#end
+
+#src video capture module
+#dst модуль видеозахвата
+#end
+
+#src %d%% quality
+#dst Качество %d%%
+#end
+
+#src Framerate %d FPS
+#dst Частота %d кадр/с
+#end
+
+#src External profile applied
+#dst Внешний профиль применён
+#end
+
+#src There is no new version available at this time. Currently installed version is up to date.
+#dst На данный момент обновления отсутствуют. Текущая установленная версия является актуальной.
+#end
+
+#src MSI Afterburner v%s is available for download. Do you want to open the download page now?
+#dst MSI Afterburner v%s доступен для загрузки. Вы хотите открыть страницу загрузки прямо сейчас?
+#end
+
+#src Cannot retrieve update information from the update server!
+#dst Невозможно получить информацию об обновлениях с сервера обновлений!
+#end
+
+#src Cannot establish connection with the update server!
+#dst Невозможно подключиться к серверу обновлений!
+#end
+
+#src cannot open internet connection
+#dst невозможно открыть подключение к Internet
+#end
+
+#src cannot open server connection
+#dst невозможно открыть подключение к серверу
+#end
+
+#src cannot open HTTP request
+#dst невозможно открыть HTTP запрос
+#end
+
+#src cannot send HTTP request
+#dst невозможно отправить HTTP запрос
+#end
+
+#src cannot query HTTP info
+#dst невозможно запросить HTTP информацию
+#end
+
+#src proxy authentification required
+#dst требуется аутентификация прокси сервера
+#end
+
+#src cannot read file
+#dst невозможно считать файл
+#end
+
+#src unknown reason %d
+#dst неизвестная причина %d
+#end
+
+#src Reason : %s, error code %d
+#dst Причина : %s, код ошибки %d
+#end
+
+#src Last checked on %A, %B %d, %Y, %H:%M:%S
+#dst Последний поиск обновлений %d-%m-%Y, %H:%M:%S
+#end
+
+#src Warning! This version expires on %A, %B %d, %Y, %H:%M:%S!
+#dst Внимание! Срок действия этой версии истекает %d-%m-%Y в %H:%M:%S!  
+#end 
+
+#src MPNG compression
+#dst сжатие MPNG
+#end
+
+#src Clock limits have been extended. Please reboot the PC in order to apply the changes.
+#dst Пределы частот расширены. Пожалуйста, перезагрузите ПК для применения изменений.
+#end
+
+#src Clock limits have been restored. Please reboot the PC in order to apply the changes.
+#dst Пределы частот восстановлены. Пожалуйста, перезагрузите ПК для применения изменений.
+#end
+
+#src It is strongly recommended to reboot the PC in order to detect default settings properly. Do you want to reboot it right now? Answer NO to detect default settings without rebooting the PC.
+#dst Строго рекомендуется перезагрузить ПК для правильного определения исходных настроек. Хотите перезагрузить ПК прямо сейчас? Ответьте НЕТ для определения исходных настроек без перезагрузки.
+#end
+
+#src Framerate limit %d FPS
+#dst Ограничение %d кадр/с
+#end
+
+#src %d FPS
+#dst %d кадр/c
+#end
+
+#src Framerate limit disabled
+#dst Ограничение отключено
+#end
+
+#src Power limit %s
+#dst Предел энергопотребления %s
+#end
+
+#src VFW compression : %s
+#dst сжатие VFW : %s
+#end
+
+#src not configured
+#dst не настроено
+#end
+
+#src Please configure VFW compression or select different video format.
+#dst Пожалуйста, настройте параметры сжатия VFW либо выберите другой формат видео.
+#end
+
+#src Assigned hotkeys
+#dst Назначенные горячие клавиши
+#end 
+
+#src Profile 1
+#dst Профиль 1
+#end 
+
+#src Profile 2
+#dst Профиль 2
+#end 
+
+#src Profile 3
+#dst Профиль 3
+#end 
+
+#src Profile 4
+#dst Профиль 4
+#end 
+
+#src Profile 5
+#dst Профиль 5
+#end 
+
+#src Toggle OSD
+#dst Переключить ОЭД
+#end 
+
+#src Show OSD
+#dst Показать ОЭД
+#end 
+
+#src Hide OSD
+#dst Спрятать ОЭД
+#end 
+
+#src Block OSD Server
+#dst Заблокировать сервер
+#end 
+
+#src Capture screenshot
+#dst Захват скриншота
+#end 
+
+#src Capture video
+#dst Захват видео
+#end 
+
+#src Push-To-Talk 1
+#dst Push-To-Talk 1
+#end 
+
+#src Push-To-Talk 2
+#dst Push-To-Talk 2
+#end 
+
+#src VDDC controller
+#dst Контроллер VDDC
+#end
+
+#src MVDDC controller
+#dst Контроллер MVDDC
+#end
+
+#src AUX controller
+#dst Контроллер AUX
+#end
+
+#src %s on I2C bus %d, device %02Xh
+#dst %s на I2C шине %d, устройство %02Xh
+#end
+
+#src The changes you've made will be applied after rebooting the PC.  Do you want to reboot it now?
+#dst Сделанные Вами изменения будут применены после перезагрузки ПК. Хотите перезагрузить его прямо сейчас?
+#end
+
+#src Registry key
+#dst Ключ реестра
+#end
+
+#src Path
+#dst Путь
+#end
+
+#src %SERVERPRODUCTNAME% installation has been detected. It will be able to provide additional functionality to %PRODUCTNAME% after restarting the application.  Do you want to restart it now?
+#dst Обнаружена установка %SERVERPRODUCTNAME%. Сервер будет предоставлять дополнительный функционал %PRODUCTNAME% после перезапуска приложения. Хотите перезапустить его прямо сейчас?  
+#end
+
+#src Version
+#dst Версия
+#end
+
+#src Audio Video Interleave AVI
+#dst Чередование аудио и видео AVI
+#end
+
+#src Matroska MKV
+#dst Матрёшка MKV
+#end
+
+#src external plugin : %s
+#dst внешний модуль : %s
+#end
+
+#src Please configure external plugin or select different video format.
+#dst Пожалуйста, настройте параметры внешнего модуля либо выберите другой формат видео.
+#end
+
+#src This video format is not compatible with AVI container. Please select different video or container format.
+#dst Выбранный формат видео несовместим с контейнером AVI. Пожалуйста, выберите другой формат видео либо другой контейнер.
+#end
+
+#src CPU
+#dst ЦП
+#end
+
+#src Model
+#dst Модель
+#end
+
+#src Logical cores
+#dst Логические ядра
+#end
+
+#src %s family %X, model %X, stepping %X
+#dst %s семейство %X, модель %X, степпинг %X
+#end
+
+#src CPUID
+#dst Идентификатор
+#end
+
+#src %d°C
+#dst %d°C
+#end
+
+#src Tjmax
+#dst Tjmax
+#end
+
+#src Prerecord video
+#dst Предзапись видео
+#end
+
+#src graph
+#dst график
+#end
+
+#src Reason: failed to load %s
+#dst Причина: невозможно загрузить %s
+#end
+
+#src Profile 6
+#dst Профиль 6
+#end 
+
+#src Profile 7
+#dst Профиль 7
+#end 
+
+#src Profile 8
+#dst Профиль 8
+#end 
+
+#src Profile 9
+#dst Профиль 9
+#end 
+
+#src Profile 0
+#dst Профиль 0
+#end 
+
+#src Processing skins...
+#dst Обработка скинов...
+#end
+
+#src Processing skin %d of %d
+#dst Обработка скина %d из %d
+#end
+
+#src Skin scaling %d%%
+#dst Масштабирование скина %d%%
+#end
+
+#src Cannot find any hardware monitoring log sessions in this file! The file is not hardware monitoring log file or it is corrupted.
+#dst Невозможно найти ни одной сессии мониторинга в отчёте. Файл не является отчётом мониторинга или он повреждён.
+#dst
+#end
+
+#src Log session
+#dst Сессия отчёта
+#end
+
+#src Hardware
+#dst Аппаратная конфигурация
+#end
+
+#src Monitoring history
+#dst История мониторинга
+#end
+
+#src Monitoring history - precaching
+#dst История мониторинга - кэширование...
+#end
+
+#src Monitoring history - loading %d%%
+#dst История мониторинга - загрузка %d%%
+#end
+
+#src Cannot find selected session in log file, probably the file has been changed! Do you want to refresh sessions list now?
+#dst Невозможно найти выбранную сессию в отчёте, возможно файл изменился. Вы хотите обновить список сессий?
+#end
+
+#src Subsession
+#dst Подсессия
+#end
+
+#src third party
+#dst стороннее
+#end
+
+#src There is no Logitech LCD device connected
+#dst Устройство с поддержкой Logitech LCD не подключено
+#end
+
+#src on-die
+#dst интегрированный
+#end
+
+#src Voltage/Frequency curve editor
+#dst Редактор кривой частот/напряжений
+#end
+
+
+#src Connection to GPU%d lost
+#dst Подключение к ГП%d потеряно
+#end
+
+#src Begin FPS recording
+#dst Начало записи FPS
+#end
+
+#src End FPS recording
+#dst Конец записи FPS
+#end
+
+#src benchmark module
+#dst модуль бенчмарка
+#end
+
+#src Text files (*.txt)|*.hml|All files (*.*)|*.*||
+#dst Текстовые файлы (*.txt)|*.hml|Все файлы (*.*)|*.*||
+#end
+
+#src alarm
+#dst тревога
+#end
+
+#src Alarm threshold reached on <%s>, alarm time %dms!
+#dst Достижение критического предела <%s>, время тревоги %dмс!
+#end
+
+#src AUX2 controller
+#dst Контроллер AUX2
+#end
+
+#src internal
+#dst внутренний
+#end
+
+
+#src Opacity %d%%
+#dst Видимость %d%%
+#end
+#src Please enter integer value in %d-%d range!
+#dst Пожалуйста, введите целое число в диапазоне %d-%d! 
+#end
+#src Colors library
+#dst Библиотека цветов
+#end
+#src Alignments library
+#dst Библиотека выравниваний
+#end
+#src Sizes library
+#dst Библиотека размеров
+#end
+#src Value alignment
+#dst Выравнивание значений
+#end
+#src Units alignment
+#dst Выравниваение единиц
+#end
+#src Group color
+#dst Цвет группы
+#end
+#src Value color
+#dst Цвет значения
+#end
+#src Alarm color
+#dst Цвет тревоги
+#end
+#src Units color
+#dst Цвет единиц
+#end
+#src Graph color
+#dst Цвет графика
+#end
+#src Index size
+#dst Размер индекса
+#end
+#src Value size
+#dst Размер значения
+#end
+#src Units size
+#dst Размер единиц
+#end
+#src Graph text size
+#dst Размер текста графика
+#end
+#src <undefined>
+#dst <не определено>
+#end
+#src Color %d
+#dst Цвет %d
+#end
+#src Alignment %d
+#dst Выравнивание %d
+#end
+#src %d chars, left
+#dst по %d символам, левое
+#end
+#src %d chars, right
+#dst по %d символам, правое
+#end
+#src Size %d
+#dst Размер %d
+#end
+#src %d%% subscript
+#dst %d%% подстрочный
+#end
+#src %d%% superscript
+#dst %d%% надстрочный
+#end
+#src <default>
+#dst <по умолчанию>
+#end
+#src <any item>
+#dst <любой элемент>
+#end
+#src %d fixed chars, left
+#dst фиксировано по %d символам, левое
+#end
+#src %d fixed chars, right
+#dst фиксировано по %d символам, правое
+#end
+#src Separators
+#dst Разделители
+#end
+#src Group name
+#dst Имя группы
+#end
+#src Group data
+#dst Данные группы
+#end
+#src Group size
+#dst Размер группы
+#end
+#src Edit color
+#dst Редактировать цвет
+#end
+#src Edit alignment
+#dst Редактировать выравнивание
+#end
+#src Edit size
+#dst Редактировать размер
+#end
+#src Graph
+#dst График
+#end
+#src Width
+#dst Ширина
+#end
+#src Height
+#dst Высота
+#end
+#src Margin
+#dst Отступ
+#end
+#src Style
+#dst Стиль
+#end
+#src Label
+#dst Подпись
+#end
+#src Predefined applications
+#dst Предопределённые приложения
+#end
+#src Miscellaneous
+#dst Разное
+#end
+#src Executable files (*.exe)|*.exe|All files (*.*)|*.*||
+#dst Исполняемые файлы (*.exe)|*.exe|Все файлы (*.*)|*.*||
+#end
+#src Prolog
+#dst Пролог
+#end
+#src Epilog
+#dst Эпилог
+#end
+#src Group separator
+#dst Разделитель группы
+#end
+#src Graph separator
+#dst Разделитель графика
+#end
+#src Overclocking is disabled due to debug mode
+#dst Разгон отключен из-за режима отладки
+#end
+#src Graph style
+#dst Стиль графика
+#end
+#src graph
+#dst график
+#end
+#src diagram
+#dst диаграмма
+#end
+#src barchart
+#dst столбик
+#end
+#src There is no description available for this plugin
+#dst Отсутствует описание для этого плагина 
+#end              
+#src Warning! Applied hardware monitoring plugin settings cannot be canceled. It is recommended to apply hardware monitoring settings, otherwise it will be corrected after restarting application according to changed plugin settings. Do you want to apply hardware monitoring settings now?
+#dst Внимание! Применённые настройки плагинов модуля мониторинга не могут быть отменены. Рекомендуется применить и настройки мониторинга, иначе они будут скорректированы при перезапуске программы в соответствии с изменившимися настройками плагинов. Хотите применить настойки мониторинга прямо сейчас?
+#end
+#src External profile loaded
+#dst Внешний профиль загружен
+#end              
+#src [apply to all]
+#dst [применить ко всем]
+#end
+#src [apply to selected]
+#dst [применить к выбранным]
+#end
+#src System color %d
+#dst Системный цвет %d
+#end
+#src System size %d
+#dst Системный размер %d
+#end
+#src top
+#dst сверху
+#end
+#src embedded
+#dst встроенный
+#end
+#src bottom
+#dst снизу
+#end
+#src Graph placement
+#dst Расположение графика
+#end
+#src Width (embedded)
+#dst Ширина (встроенный)
+#end
+#src Top graphs
+#dst Верхние графики
+#end
+#src Text
+#dst Текст
+#end
+#src Bottom graphs
+#dst Нижние графики
+#end
+#src Toggle limiter
+#dst Переключить лимитер
+#end
+#src Enable limiter
+#dst Включить лимитер
+#end
+#src Disable limiter
+#dst Выключить лимитер
+#end
+#src CPU%d
+#dst ЦП%d
+#end
+#src package %d, core %d
+#dst упаковка %d, ядро %d
+#end
+#src Bitmap files (*.bmp)|*.bmp||
+#dst Растровые изображения (*.bmp)|*.bmp||
+#end
+#src Multiple graphs properties
+#dst Свойства нескольких графиков
+#end
+#src MSI Afterburner properties - saving %d%%
+#dst Свойства MSI Afterburner - сохранение  %d%%
+#end 
+#src process monitoring module
+#dst модуль мониторинга процесса
+#end 
+
+#src Sorry, the fan speed curve you've defined doesn't appear to be valid! Fan control firmware doesn't support more than %d fan curve nodes!
+#dst К сожалению, заданная Вами кривая изменения скорости кулера является недопустимой. Микропрограмма управления кулером не поддерживает более %d узловых точек на кривой!
+#end 

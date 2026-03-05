@@ -1,0 +1,5 @@
+Active le monitoring unifié de l'utilisation GPU
+Par défaut %PRODUCTNAME% affiche les performances native du compteur matériel AMD sur le graphique d'utilisation GPU. Néanmoins, l'accès au compteur de performance AMD peut être cassé dans les drivers de certains GPU (ex. la famille GPU Sea Islands). L'utilisation rapportée par le driver AMD peut-être incorrect. Dans ce cas vous pouvez activer cette option pour afficher le compteur alternatif unifié Direct3D pour afficher l'utilisation du GPU correcte sur le graphique.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

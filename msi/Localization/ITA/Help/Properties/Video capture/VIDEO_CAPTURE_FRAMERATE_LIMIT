@@ -1,0 +1,5 @@
+Limite framerate
+Consente la definizione del limite del framerate per le applicazioni 3D durante la cattura video. Limitare il framerate durante la cattura video può migliorare la scorrevolezza risultante del video. La scorrevolezza migliora quando il framerate di gioco è multiplo del framerate della video cattura, quindi il limite è definito come il moltiplicatore del framerate di video cattura.
+
+suggerimenti:
+- È possibile disattivare i suggerimenti interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

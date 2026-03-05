@@ -1,0 +1,5 @@
+Vordefinierte Lüfterkurven
+Zeigt eine Liste vordefinierter Lüfterkurven an. Die Liste enthält immer die Standard-Lüfterkurve und kann optional auch zusätzliche Lüfterkurven (z. B. "Gaming", "Performance", "Quiet" oder "Silent") für einige Custom-Modelle enthalten.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

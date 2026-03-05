@@ -1,0 +1,7 @@
+Reset
+Reset master GPU pada konfigurasi awal.
+
+Petunjuk:
+- Ketika mode sinkronisasi GPU diaktifkan pada tab <General> di properti advanced, setiap perubahan pada master GPU maka akan berlaku terhadap semua GPU yang terpasang.
+- Anda dapat menekan tombol <Ctrl> + <D> untuk melakukan reset master GPU melalui keyboard anda.
+- Anda dapat mematikan tampilan fungsi tooltips melalui tab <User interface> di properti advanced.

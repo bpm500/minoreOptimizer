@@ -1,0 +1,588 @@
+#src Failed to compile %s skin!
+#dst Arayüz görünümü dosyasý iþlenemedi (%s) !
+#end
+
+#src %s skin has been successfully compiled!
+#dst Arayüz görünümü dosyasý baþarýyla iþlendi! (%s)
+#end
+
+#src %s skin has been successfully decompiled!
+#dst Arayüz görünümü dosyasý baþarýyla ayrýldý! (%s)
+#end 
+
+#src Failed to decompile %s skin!
+#dst Arayüz görünümü dosyasý ayrýlma iþlemi baþarýsýz. (%s)
+#end
+
+#src Failed to load %s skin!
+#dst Arayüz görünümü  dosyasý (%s) yüklenemedi!
+#end 
+
+#src Failed to load %s.sys driver!
+#dst Ýstenilen sürücü yüklemesi (%s.sys) baþarýsýz!
+#end 
+
+#src This application is designed to use %s.sys driver v%d.%d. Different version of driver is installed and in use now. It is strongly recommended to close all applications using this driver and restart this application to allow correct driver version usage, otherwise it may function improperly.
+#dst Bu uygulama %s.sys driver (v%d%d.%d.) kullanýmýna uygun tasarlanmýþtýr. Fakat þu an sisteminizde sürücünün farklý bir versiyonu kullanýlýyor. Bu sürücüyü kullanan tüm uygulamalarý kapatmalý ve sürücünün doðru biçimde algýlanmasý için uygulamayý yeniden baþlatmalýsýnýz, baþlatmasanýz özellikler düzgün çalýþmayabilir.
+#end 
+
+#src Some of MSI Afterburner components are expired, missing or corrupted!
+#dst Bazý MSI Afterburner parçalarý (dosyalarý) kayýp, bozuk veya süresi geçmiþtir!
+#end 
+
+#src Failed to load %s skin, reverting to default skin!
+#dst Arayüz görünümü yüklenemedi, (%s), standart arayüz görünümü yükleniyor!
+#end 
+
+#src Unsupported %s skin file format!
+#dst Desteklenmeyen %s arayüz görünümü dosyasý!
+#end 
+
+#src Your current system state has been used to build Hardware Emulation Layer. The application will function through HEL after the next restart.
+#dst Þu anki sistem oturumunuz donaným altyapýsýný oluþturmak için kullanýldý. Program bilgisayar yeniden baþlatýlýncaya kadar düzgün çalýþmayabilir.
+#end 
+
+#src I2C dump has been saved to the application folder.
+#dst I2C Dump(LOG) program klasörüne kaydedildi.
+#end 
+
+#src Failed to save I2C dump to the application folder.
+#dst I2C Dump dosyasý kaydedilemedi.
+#end 
+
+#src Failed to initialize main window with %s skin, reverting to default skin!
+#dst Ana pencere %s arayüz görünümü dosyasý yüklemediði için standart arayüz görünümünde açýlacak!
+#end 
+
+#src Failed to initialize main window!
+#dst Ana pencere açýlamadý!
+#end 
+
+#src Sorry, the fan speed curve you've defined doesn't appear to be valid! It is not allowed to define a curve causing fan speed to decrease with increasing temperature!
+#dst Üzgünüz, düzenlediðiniz fan hýzý ayarlarý düzgün gözükmüyor. Sýcaklýk artarken fan hýzýnýn düþmesini saðlayan bir ayara izin verilmiyor.
+#end 
+
+#src GPU%d : %s
+#dst GPU%d : %s
+#end 
+
+#src GPU%d
+#dst GPU%d
+#end 
+
+#src Emulated %s on %s GPU
+#dst Emulated %s on GPU %s
+#end 
+
+#src %s on %s GPU
+#dst %s on GPU %s
+#end 
+
+#src %-20s : %s
+#dst %-20s : %s
+#end 
+
+#src Display device
+#dst Görüntü Aygýtý
+#end 
+
+#src Display driver
+#dst Görüntü sürücüsü
+#end 
+
+#src %dMB
+#dst %dMB
+#end 
+
+#src On-board memory
+#dst Kart üzerindeki bellek
+#end 
+
+#src BIOS
+#dst BIOS
+#end 
+
+#src GUID
+#dst GUID
+#end 
+
+#src master
+#dst Ana/Birincil
+#end 
+
+#src synchronized with master
+#dst Ana/Birincil ile eþitle
+#end 
+
+#src Multi-GPU role
+#dst Birden-çok GPU rolü
+#end 
+
+#src OSD
+#dst Bilgi Ekraný (OSD)
+#end 
+
+#src LCD
+#dst LCD
+#end 
+
+#src tray
+#dst Sistem Tepsisi
+#end 
+
+#src Select a graph to access graph properties
+#dst Ýstatistik ayarlarýna eriþim saðlamak için bir istatistik grafiði seçin
+#end 
+
+#src %s graph properties
+#dst %s grafik ayarlarý
+#end 
+
+#src Tick checkmark to activate the graph and access graph properties
+#dst Grafik ayarlarýný aktif hale getirmek ve eriþmek için kutucuðu iþaretleyin
+#end 
+
+#src Updating %d graph(s) with %d ms period, polling time : %.3f ms, GUI time : %.3f ms
+#dst %d grafiði (s) %d ms periyodu ile güncelleniyor, güncelleme aralýðý : %.3f ms, GUI zamaný : %.3f ms
+#end 
+
+#src Updating fan speed(s) with %d ms period, update time : %.3f ms
+#dst Fan grafiði %d ms periyodu ile güncelleniyor , Güncelleme zamaný :%.3f
+#end 
+
+#src Bitmap cache flushed
+#dst Bitmap hafýzasý temizlendi
+#end 
+
+#src Tip: MSI Afterburner is currently minimized to system tray area. You may click its' tray icon to bring MSI Afterburner window to top.
+#dst Ýpucu: MSI Afterburner þu an sistem tepsisine küçültüldü. Sistem tepsisindeki MSI Afterburner ikonuna týklayarak eski haline getirebilirsiniz.
+
+#end 
+
+#src Failed to restore main window DIB cache!
+#dst Ana Pencere DIB Belleði geri yüklenemedi!
+#end 
+
+#src MSI Afterburner properties
+#dst MSI Afterburner ayarlarý
+#end 
+
+#src The changes you've made will be applied after restarting MSI Afterburner.  Do you want to restart it now?
+#dst Yaptýðýnýz deðiþiklikler MSI Afterburner'ý yeniden baþlattýðýnýzda etkin olacaktýr. Yeniden baþlatmak istiyor musunuz?
+#end 
+
+#src On-Screen Display server
+#dst Bilgi Ekraný(OSD) Görüntüleme sunucusu
+#end 
+
+#src Active client(s)
+#dst Aktif kullanýcýlar
+#end 
+
+#src server is not loaded
+#dst Sunucu baþlatýlamadý
+#end 
+
+#src not detected
+#dst bulunamadý
+#end 
+
+#src Active 3D process
+#dst Aktif 3D iþlemi
+#end 
+
+#src Additional server process has been loaded for the first time. The server is automatically loaded by MSI Afterburner as soon as you enable the functionality depending on it. Such functionality includes but not limited to automatic profiles management, screen capture, framerate monitoring and On-Screen Display rendering. When the server is loaded, you may check which MSI Afterburner modules are connected to it as the clients by clicking <i> button.
+#dst Ek sunucu iþlemi ilk defa baþlatýldý. Sunucu otomatik olarak Afterburner'daki sunucuyla ilgili bir özellik açtýðýnýzda otomatik olarak baþlatýlýr. Bu özelliklere örnek olarak otomatik profil düzenleme hizmeti, ekran görüntüsü alma, FPS takip ve Bilgi Ekran(OSD) iþlemi verilebilir. Sunucu açýldýðýnda MSI Afterburnerin modüllerinin sunucuya baðlý olup olmadýðýný kontrol etmek isterseniz <i> tuþuna basabilirsiniz.
+#end 
+
+#src Profile %d applied
+#dst Profil %d uygulandý
+#end 
+
+#src Profile %d loaded
+#dst Profil %d yüklendi
+#end 
+
+#src Profile %d deleted
+#dst Profil %d silindi
+#end 
+
+#src Profile %d saved
+#dst Profil %d kaydedildi
+#end 
+
+#src GPU%d selected
+#dst GPU%d seçildi
+#end 
+
+#src MSI Afterburner%s hardware monitor
+#dst MSI Afterburner%s Donaným Ýzleme
+#end 
+
+#src framerate monitoring module
+#dst FPS takip modülü
+#end 
+
+#src On-Screen Display module
+#dst Bilgi Ekraný(OSD) modülü
+#end 
+
+#src automatic profiles manager
+#dst Otomatik profil düzenleyicisi
+#end 
+
+#src screen capture module
+#dst Ekran görüntüsü alma modülü
+#end 
+
+#src You've activated user defined software automatic fan control mode for the first time. Please take a note that you can redefine the fan speed curve for this mode via advanced MSI Afterburner properties. Do you want to go to advanced properties and edit the curve right now?
+#dst Kullanýcý kontrollü özel fan ayarlarýný ilk defa etkinleþtirdiniz. Bu fan ayarýný MSI Afterburner Ayar bölümünden düzenleyebilirsiniz. Fan düzenini ayarlamak için ayarlar menüsüne gitmek istiyor musunuz?
+#end 
+
+#src Warning! You are trying to display too many text information in the On-Screen Display. Displayed text will be truncated causing some information to be lost, it is recommended to disable On-Screen Display output for some unnecessary hardware monitoring graphs. Do you want to do it right now?
+#dst Uyarý! Bilgi Ekraný(OSD)'de çok fazla bilgi göstermeye çalýþýyorsunuz. Gösterilen bilgilerden bazýlarý kaybolabilir, bunun için Bilgi Ekranýndan iþinize yaramayan donaným izleme grafiklerini iptal etmenizi öneriyoruz. Bunu þu anda yapmak istiyor musunuz?
+#end 
+
+#src in %s
+#dst in %s
+#end 
+
+#src Not assigned
+#dst Ýliþkilendirilmedi
+#end 
+
+#src empty
+#dst boþ
+#end
+
+#src Graph
+#dst Grafik
+#end 
+
+#src Properties
+#dst Ayarlar
+#end 
+
+#src Min
+#dst Min.
+#end 
+
+#src Max
+#dst Maks.
+#end 
+
+#src About %s
+#dst Hakkýnda %s
+#end 
+
+#src expires on %s
+#dst Son kullaným tarihi %s
+#end
+
+#src Hardware monitor is paused
+#dst Donaným izleme durduruldu
+#end
+
+#src %s localization creator
+#dst %s - Dil Dosyasý Yapýmcýsý
+#end
+
+#src MSI Afterburner %s localization feedback
+#dst MSI Afterburner %s dil dosyasý geri bildirimi
+#end
+
+#src Profiles modification locked
+#dst Profil deðiþtirilme kilitlendi
+#end
+
+#src Profiles modification unlocked
+#dst Profil deðiþtirilme açýldý
+#end
+
+#src Resource file copy has been successfully saved to %s!
+#dst Kaynak dosyasý kopyalama iþlemi, %s 'ye baþarýyla kaydedildi!
+#end
+
+#src Failed to save resource file copy to %s!
+#dst Kaynak dosyasý %s 'ye kaydedilemedi!
+#end
+
+#src Log session started
+#dst Kayýt iþlemi baþlatýldý
+#end
+
+#src Log session terminated due to write failure
+#dst Kayýt iþlemi yazým hatasý yüzünden iptal edildi
+#end
+
+#src Log session terminated due to user request
+#dst Kayýt iþlemi kullanýcý isteðiyle sonlandýrýldý
+#end
+
+#src Log session terminated due to log size overflow
+#dst Kayýt iþlemi büyük dosya boyutu nedeniyle sonlandýrýldý
+#end
+
+#src Logging to %s (%I64u bytes)
+#dst %s 'ye kaydediliyor (%I64u bytes)
+#end
+
+#src RivaTuner hardware monitoring log files (*.hml)|*.hml|All files (*.*)|*.*||
+#dst RivaTuner Donaným izleme kayýt dosyalarý (*.hml)|*.hml|All files (*.*)|*.*||
+#end
+
+#src compiled on %d-%m-%Y %H:%M:%S
+#dst iþlendi : %d-%m-%Y %H:%M:%S
+#end
+
+#src Voltage defaults captured
+#dst Standart voltaj deðerleri alýndý
+#end
+
+#src Failed to initialize hotkey handler, global hotkeys will not function properly!
+#dst Kýsayol algýlayýcýsý baþlatýlamadý, kýsayollar düzgün çalýþmayabilir!
+#end
+
+#src Please select target folder for screen capture
+#dst Ekran kaydý için klasör seçin
+#end
+
+#src Failed to load RTTSH.dll!\n\nPossible cause: Microsoft Visual C++ 2008 runtime libraries are not installed properly!
+#dst RTTSH.dll!\n\n yüklenemedi. Nedeni: Microsoft Visual C++ 2008 Runtime'ýn düzgün yüklenmemesi olabilir!
+#end 
+
+#src RTTSH.dll::%s failed with error code %d!
+#dst RTTSH.dll::%s %d hatasý ile baþarýsýz oldu!
+#end
+
+#src Failed to get RTTSH.dll::%s function pointer!
+#dst RTTSH.dll::%s fonksiyon iþaretleyicisi alýnamadý!
+#end
+
+#src Beta %d
+#dst Beta sürüm %d
+#end
+
+#src On-Screen Display Server is blocked
+#dst Bilgi Ekraný Sunucusu engellendi
+#end
+
+#src Screenshot captured
+#dst Ekran görüntüsü kaydedildi
+#end
+
+#src Please select target folder for video capture
+#dst Video kaydetmek için hedef klasörü seçin
+#end
+
+#src video capture module
+#dst video kaydetme modülü
+#end
+
+#src %d%% quality
+#dst %d%% kalite
+#end
+
+#src Framerate %d FPS
+#dst Saniyedeki Kare Sayýsý %d FPS
+#end
+
+#src External profile applied
+#dst Ayrý profil uygulandý
+#end
+
+#src There is no new version available at this time. Currently installed version is up to date.
+#dst Þu an kullanýlan versiyon zaten güncel. Yeni bir güncelleme bulunamadý.
+#end
+
+#src MSI Afterburner v%s is available for download. Do you want to open the download page now?
+#dst MSI Afterburner v%s sürümü indirmeye hazýr. Ýndirme sayfasýný açmak istiyor musunuz?
+#end
+
+#src Cannot retrieve update information from the update server!
+#dst Sunucudan güncelleme bilgisi alýnamadý!
+#end
+
+#src Cannot establish connection with the update server!
+#dst Güncelleme sunucusuyla baðlantý kurulamadý!
+#end
+
+#src cannot open internet connection
+#dst Ýnternet baðlantýsý yapýlamadý
+#end
+
+#src cannot open server connection
+#dst Sunucu baðlantýsý açýlamadý
+#end
+
+#src cannot open HTTP request
+#dst HTTP isteði açýlamadý
+#end
+
+#src cannot send HTTP request
+#dst HTTP isteði gönderilemedi
+#end
+
+#src cannot query HTTP info
+#dst HTTP bilgisi alýnamadý
+#end
+
+#src proxy authentification required
+#dst proxy giriþi gerekiyor
+#end
+
+#src cannot read file
+#dst dosya okunamadý
+#end
+
+#src unknown reason %d
+#dst Bilinmeyen neden %d
+#end
+
+#src Reason : %s, error code %d
+#dst Neden : %s, Fehlercode %d
+#end
+
+#src Last checked on %A, %B %d, %Y, %H:%M:%S
+#dst Son kontrol zamaný %A, %B %d, %Y, %H:%M:%S
+#end
+
+#src Warning! This version expires on %A, %B %d, %Y, %H:%M:%S!
+#dst Uyarý! Bu versiyonun son kullaným tarihi %A, %B %d, %Y, %H:%M:%S!
+#end 
+
+#src MPNG compression
+#dst MPNG Sýkýþtýrmasý
+#end
+
+#src Clock limits have been extended. Please reboot the PC in order to apply the changes.
+#dst Takt-Grenzen wurden erweitert. Bitte starten Sie den PC neu, um die Änderungen zu übernehmen.
+#end
+
+#src Clock limits have been restored. Please reboot the PC in order to apply the changes.
+#dst Saat hýzý limitleri yeniden yüklendi. Deðiþiklikleri uygulamak için bilgisayarýnýzý yeniden baþlatýn.
+#end
+
+#src It is strongly recommended to reboot the PC in order to detect default settings properly. Do you want to reboot it right now?
+#dst Doðru ayarlarýn algýlanmasý için bilgisayarýnýzýn yeniden baþlatýlmasýný öneriyoruz. Þimdi yeniden baþlatmak istiyor musunuz?
+#end
+
+#src Framerate limit %d FPS
+#dst FPS limiti %d FPS
+#end
+
+#src %d FPS
+#dst %d FPS
+#end
+
+#src Framerate limit disabled
+#dst FPS limiti iptal edildi
+#end
+
+#src Power limit %s
+#dst Güç limiti %s
+#end
+
+#src VFW compression : %s
+#dst VFW sýkýþtýrmasý : %s
+#end
+
+#src not configured
+#dst ayarlanmadý
+#end
+
+#src Please configure VFW compression or select different video format.
+#dst Kullanmak için VFW sýkýþtýrmasýný ayarlayýn ya da baþka bir video formatý seçin.
+#end
+
+#src Assigned hotkeys
+#dst Kýsayol tuþlarý
+#end 
+
+#src Profile 1
+#dst Profil 1
+#end 
+
+#src Profile 2
+#dst Profil 2
+#end 
+
+#src Profile 3
+#dst Profil 3
+#end 
+
+#src Profile 4
+#dst Profil 4
+#end 
+
+#src Profile 5
+#dst Profil 5
+#end 
+
+#src Toggle OSD
+#dst OSD (Bilgi ekraný) aç
+#end 
+
+#src Show OSD
+#dst OSD (Bilgi ekraný) göster
+#end 
+
+#src Hide OSD
+#dst OSD (Bilgi ekraný) gizle
+#end 
+
+#src Block OSD Server
+#dst OSD serverini engelle
+#end 
+
+#src Capture screenshot
+#dst Ekran görüntüsü al
+#end 
+
+#src Capture video
+#dst Video kaydet
+#end 
+
+#src Push-To-Talk 1
+#dst Bas-Konuþ 1
+#end 
+
+#src Push-To-Talk 2
+#dst Bas-Konuþ 2
+#end 
+
+#src VDDC controller
+#dst VDDC kontrolcüsü
+#end
+
+#src MVDDC controller
+#dst MVDDC kontrolcüsü
+#end
+
+#src AUX controller
+#dst AUX kontrolcüsü
+#end
+
+#src %s on I2C bus %d, device %02Xh
+#dst %s on I2C Bus %d, aygýt %02Xh
+#end
+
+#src The changes you've made will be applied after rebooting the PC.  Do you want to reboot it now?
+#dst Yaptýðýnýz deðiþiklikler bilgisayar yeniden baþlatýldýktan sonra uygulanacaktýr. Þimdi yeniden baþlatmak istiyor musunuz?
+#end
+
+#src Registry key
+#dst Kayýt defteri anahtarý
+#end
+
+#src Path
+#dst Yol
+#end
+
+#src %SERVERPRODUCTNAME% installation has been detected. It will be able to provide additional functionality to %PRODUCTNAME% after restarting the application.  Do you want to restart it now?
+#dst
+#end
+
+#src Version
+#dst Versiyon
+#end

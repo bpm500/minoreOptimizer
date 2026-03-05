@@ -1,0 +1,6 @@
+Low-level hardware toegangs mode.
+
+Low-level toegang tot de grafische hardware kan gebeuren in "gebruiker mode" of in "kernel mode". "Gebruiker mode" levert de beste toezicht prestatie en gebruikt geen kernel adres ruimte. "Kernel mode" kan het voorziene geheugen bereik van de hardware  beschermen tegen ongeautoriseerde toegang van slecht ontworpen toepassingen ( vb: Punkbuster client voor Bad Company2) en op deze manier het systeem beschermen tegen onstabiliteit.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

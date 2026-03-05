@@ -1,0 +1,7 @@
+Browse
+Untuk browse log file.
+
+Petunjuk:
+- %PRODUCTNAME% menyimpan history file log format native RivaTuner. Anda bisa menggunakan RivaTuner untuk melihat file log dengan %PRODUCTNAME%. 
+- Hardware monitoring akan membebani waktu CPU dibutuhkan sebelum data di flush di HDD. Tergantung dari GPU dan model sensor dan hardware protocol. 
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

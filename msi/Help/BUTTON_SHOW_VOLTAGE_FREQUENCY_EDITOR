@@ -1,0 +1,14 @@
+Voltage/frequency curve editor
+Toggles voltage/frequency curve editor visibility. The editor allows adjusting core clock frequency offsets independently for each voltage/frequency point of the curve. The editor window provides you the following functionality:
+
+- You may independently adjust clock frequency offset for each point with mouse cursor or <Up> / <Down> keys.
+- You may hold <Ctrl> key to set anchor and fix clock frequency offset in minimum/maximum voltage point and adjust the offset of any other point with mouse to linearly interpolate the offsets between the anchor and adjustment points.
+- You may hold <Shift> key while adjusting the offset of any point with mouse to apply the same fixed offset to all points. That's equal to adjusting the offset with the slider in main application window.
+- You may press <Ctrl> + <D> to reset offsets for all points.
+- You may switch between traditional core clock control slider in the main window and voltage/frequency curve editor window to see how they affect each other in realtime.
+- You may press <L> after selecting any point on the curve with mouse cursor to disable GPU dynamic voltage/frequency adjustment and lock the voltage and core clock frequency to a state defined by the target point. This feature allows you to test graphics card stability independently for each voltage/frequency point of the curve using real 3D applications or any stress test of your choice. In addition to stability testing usage scenario, %PRODUCTNAME% allows you to save a curve with locked point setting to a profile, so you may easily switch between dynamic voltage/frequency management and fixed voltage/frequency settings in realtime (e.g. to achieve the maximum performance during benchmarking). Please take a note that fixed voltage and frequency settings do not allow you to disable power and thermal throttling.
+
+Hints:
+- Voltage/frequency curve displayed in the editor is not static. The curve is being adjusted by display driver depending on thermal conditions, so you cannot expect the clock frequencies to be fixed in any point. The only fixed thing is the offset you're defining for each point.
+- You may press <Ctrl> + <F> keys to activate voltage/frequency curve editor from your keyboard.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

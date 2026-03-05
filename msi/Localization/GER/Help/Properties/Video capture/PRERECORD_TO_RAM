@@ -1,0 +1,5 @@
+Voraufzeichnung in RAM
+Ermöglicht die Speicherung des Voraufzeichnungspuffers im RAM. Dieser Modus eignet sich am besten für die Voraufzeichnung kurzer Videos (z. B. ein paar Minuten in H.264/AVC) und bietet eine etwas bessere Leistung als die Voraufzeichnung in eine Datei. Im Gegensatz zur Voraufzeichnung in eine Datei minimiert die Voraufzeichnung in den RAM außerdem die Schreibvorgänge, sodass die Lebensdauer einer SSD verlängert werden kann, wenn Sie die Voraufzeichnung häufig verwenden möchten.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

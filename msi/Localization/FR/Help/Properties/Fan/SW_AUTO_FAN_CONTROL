@@ -1,0 +1,7 @@
+Activer la vitesse de contrôle automatique du ventilateur en mode utilisateur
+Active la vitesse de contrôle automatique du ventilateur en mode utilisateur. Dans ce mode, le logiciel inspecte périodiquement la température du GPU et ajuste la vitesse du ventilateur en accord avec la courbe de vitesse ci-dessous. 
+
+Astuce:
+- La vitesse de contrôle automatique du ventilateur en mode utilisateur peut-être activé/désactiver en pressant le boutton <User define> dans la fenêtre principale de l'application.
+- La courbe de vitesse de contrôle automatique du ventilateur n'est pas affectée par les profils, c'est un paramètre global pour tout les GPUs installés dans le système. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

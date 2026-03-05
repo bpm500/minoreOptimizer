@@ -1,0 +1,6 @@
+Optimisations multithreaded
+Le moteur de compression vidéo est optimisé pour prendre avantage des système multiples CPU/coeurs. La queue des images d'entrées est processé simultanément par de multiples threads et cette option vous permet d'en définir le nombre. Par défaut le moteur de compression utilise 1 thread pour vider les trames compressées vers le HDD et N-1 threads pour compresser les images de la queue d'entrée sur des sytèmes avec N CPUs ou N coeurs. Néanmoins, vous pouvez réduire le nombre de threads ou désactiver l'implémentation multithread pour comparer les performances ou résoudre des problèmes. 
+
+Astuce:
+- Les images sont toujours compressées par un seul thread quand la compression VFW est utilisée. Néanmoins, la conversion de l'espace de couleur utilise toujours de multiples threads dans ce cas.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

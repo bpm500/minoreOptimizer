@@ -1,0 +1,6 @@
+Fórmula de correção
+Permite aplicar uma fórmula de correção personalizada para o sensor de monitoramento selecionado. Fórmulas de correção podem ser úteis na aplicação de compensações para crição de sensores personalizados, por exemplo, com a fórmula "X + 10" pode-se adicionar 10 graus à temperatura indicada.
+
+Sugestões:
+- Fórmulas incorretamente especificadas são marcadas em vermelho.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

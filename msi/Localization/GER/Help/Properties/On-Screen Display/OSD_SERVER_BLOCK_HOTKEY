@@ -1,0 +1,8 @@
+Blockierung des On-Screen-Display-Servers umschalten
+Einige %PRODUCTNAME%-Funktionen, wie z. B. Framerate-Überwachung, On-Screen-Display-Rendering, Bildschirmaufnahme und automatische Profilverwaltung, benötigen einen zusätzlichen %SERVERPRODUCTNAME%-Prozess. Deshalb wird %SERVERPRODUCTNAME% automatisch von %PRODUCTNAME% gestartet, sobald Sie eine der oben aufgeführten Funktionen aktivieren.
+Allerdings können Anti-Cheat-Systeme einiger Online-Spiele die Nutzung des Bildschirmdisplays einschränken und die Verbindung zum Spieleserver blockieren, wenn %SERVERPRODUCTNAME% im Hintergrund ausgeführt wird.
+Um die Diagnose solcher Probleme zu vereinfachen, können Sie einen Hotkey verwenden, um %SERVERPRODUCTNAME% vorübergehend zu blockieren und deaktivieren, auch wenn dies für die ordnungsgemäße Funktionalität von %PRODUCTNAME% erforderlich ist. Bitte beachten Sie, dass alle serverabhängigen Funktionen nicht mehr funktionieren, während der Server blockiert und deaktiviert ist.
+
+Hinweise:
+- Einige Hotkey-Kombinationen (z. B. <1>...<5>, <Strg>+<1>...<Strg>+<5> und <Strg>+<D>) sind reserviert und können nicht verwendet werden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

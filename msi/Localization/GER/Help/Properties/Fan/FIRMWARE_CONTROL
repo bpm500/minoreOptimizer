@@ -1,0 +1,8 @@
+Firmware-Steuerungsmodus verwenden
+Die benutzerdefinierte Lüfterkurve ist eine vollständig softwarebasierte Technologie. Das bedeutet, dass die Software im Hintergrund laufen muss, damit sie funktioniert. In diesem Modus liest die Software regelmäßig die Temperatur der GPU aus und stellt die neue Lüftergeschwindigkeit entsprechend der unten eingestellten Lüfterkurve ein.
+Einige moderne Grafikkarten unterstützen jedoch ihre eigene Funktion zum Programmieren der Lüfterkurve auf Firmware-Ebene. Wenn Sie diese Option auf einer solchen Grafikkarte aktivieren, sendet %PRODUCTNAME% beim Start die gewünschten Punkte der Kurve an die Firmware, die alle nachfolgenden dynamischen Änderungen der Geschwindigkeit des Lüfters anstelle der Software steuert. In diesem Fall bleibt die benutzerdefinierte Kurve auch nach dem Schließen von %PRODUCTNAME% aktiv. Wenn Sie diese Option auf einer Grafikkarte ohne Firmware-Steuerungsunterstützung aktivieren, wechselt %PRODUCTNAME% einfach in den Softwaremodus.
+
+Bitte beachten Sie, dass im Firmware-Steuerungsmodus die meisten erweiterten Kurveneinstellungen wie Hysterese, Schritt-/Linearumschaltung und Aktualisierungszeitraum der Lüftergeschwindigkeit ignoriert werden. Der Firmware-Steuerungsmodus unterstützt auch eine geringere Anzahl von Ankerpunkten auf der Kurve (zwischen 3 und 5, je nach Hersteller der Grafikkarte). Daher möchten Sie die Kurve möglicherweise vereinfachen, indem Sie unnötige Punkte entfernen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

@@ -1,0 +1,8 @@
+Door de gebruiker gedefinieerd ventilator mode (User define).
+Dit schakelt de door de gebruiker gedefinieerde ventilator controle mode in. In deze mode gaat de toepassing de GPU temperatuur controleren en de ventilator snelheid aanpassen volgens de ventilator snelheids curve, gedefinieerd in de <Ventilator> tab bij de geavanceerde %PRODUCTNAME% eigenschappen.
+
+Hint:
+- De ventilator snelheid regeling is niet mogelijk als de GPU('s) dit niet ondersteunt.
+- De gedefinieerde ventilator mode wordt niet beinvloed door de gemaakte voltage , klok en ventilator profielen, het is een algemene instelling voor alle GPU's geinstalleerd in het systeem.
+- Wanneer de door de gebruikers gedefinieerde ventilator control mode is ingeschakeld kan je nog steeds schakelen tusen automatisch en manueel ventilator controle mode door gebruik te maken van de <Auto> toets.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

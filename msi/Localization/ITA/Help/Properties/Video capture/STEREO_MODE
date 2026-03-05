@@ -1,0 +1,9 @@
+Modalità downmix
+IL flusso audio multicanale catturato sulle schede audio multicanale può essere mixato in un flusso audio stereo in due diverse modalità:
+
+- Stereo rip - i canali audio anteriore, destro e sinistro vengono strappati dal flusso audio multicanale di origine. Questa modalità lascia originale il volume audio, ma perde l'audio nei canali centrale e surround.
+- Stereo mix - dei canali stereo vengono mixati dai canali originali audio anteriore, destro , sinistro, centrale e surround. Questa modalità cambia il volume audio originale a causa della miscelazione.
+
+Suggerimento:
+- Questa opzione funziona solo durante l'acquisizione audio tramite dispositivi di riproduzione WASAPI in Windows Vista o versioni successive del sistema operativo.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

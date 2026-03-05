@@ -1,0 +1,5 @@
+Fan 2 speed
+Allows asynchronous GPU fan 2 speed adjustment.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

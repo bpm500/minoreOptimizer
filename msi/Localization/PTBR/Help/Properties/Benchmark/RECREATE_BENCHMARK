@@ -1,0 +1,5 @@
+Recriar arquivos de benchmark
+Permite a recriação dos arquivos de benchmark existentes a cada nova sessão iniciada. Caso contrário, as novas sessões geradas serão sucessivamente adicionadas ao arquivo já existente.
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,5 @@
+Crop video dimensions to make it multiples of 16
+Some third-party video decoders (e.g. built-in VirtualDub MJPG video decoder) may fail to decode video if width and height are not multiples of 16. You may enable this option to crop video dimensions to make it multiples of 16 to improve compatibility with such third-party video editing applications.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

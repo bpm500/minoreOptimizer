@@ -1,0 +1,7 @@
+Profile slot 5 hotkey
+Allows defining global hotkey for loading and applying the profile from profile slot 5.
+
+Hints:
+- Be careful when applying overclocking profiles on the fly during 3D application runtime. Depending on graphics card model and display driver architecture, it may cause side effects and reduce system stability.
+- Some hotkey combinations (e.g. <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) are reserved and cannot be used.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

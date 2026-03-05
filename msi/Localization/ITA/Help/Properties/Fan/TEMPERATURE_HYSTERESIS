@@ -1,0 +1,10 @@
+Temperatura di isteresi
+Consente di visualizzare e regolare la temperatura per isteresi in modalità del software di controllo automatico del ventilatore definita dall'utente. L'isteresi può essere utilizzata per ridurre le fluttuazioni di velocità della ventola, oltre a migliorare l'efficienza del raffreddamento. Quando il valore non-zero di isteresi è definito, il software di controllo automatico del livello di regolazione della ventola utilizza il seguente algoritmo:
+
+- L'ultimo valore della temperatura che causa il cambio della velocità della ventola viene agganciato.
+- Quando la temperatura è in diminuzione non sono ammessi cambi di velocità, mentre la differenza tra i valori di temperatura bloccata e la corrente è inferiore al valore di isteresi.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+
+

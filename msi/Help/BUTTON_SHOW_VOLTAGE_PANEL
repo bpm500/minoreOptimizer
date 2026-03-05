@@ -1,0 +1,5 @@
+Show extended voltage control panel
+Toggles extended voltage control panel visibility. Extended voltage control panel is only available on graphics cards supporting multiple adjustable voltages.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,85 @@
+#src PerfCounter plugin settings
+#dst Ajustes do plugin PerfCounter 
+#end
+#src Active data sources
+#dst Fontes de dados ativas
+#end
+#src Add
+#dst Adicionar
+#end
+#src Remove
+#dst remover
+#end
+#src Defaults
+#dst Padrões
+#end
+#src Setup
+#dst Configurar
+#end
+
+#src Data source settings
+#dst Ajustes da fonte de dados
+#end
+#src Performance counter properties
+#dst Propriedades do contador de desempenho
+#end
+#src Enable dynamic mode
+#dst Ativar modo dinâmico
+#end
+#src Object name
+#dst Nome do objeto
+#end
+#src Instance name or index
+#dst Nome ou índice da instância
+#end
+#src Counter name
+#dst Nome do contador
+#end
+#src Plugin data source properties
+#dst Propriedades da fonte de dados do plugin
+#end
+#src Units
+#dst Unidade
+#end
+#src Format
+#dst Formato
+#end
+#src Formula
+#dst Fórmula
+#end
+#src x = off + x * mul / div
+#dst x = off + x * mul/div
+#end
+#src Offset
+#dst Deslocamento
+#end
+#src Multiplier
+#dst Multiplicador
+#end
+#src Divider
+#dst Divisor
+#end
+
+#src Group
+#dst Grupo
+#end
+#src Range
+#dst Limites
+#end
+
+#src Add new data source(s)
+#dst Adicionar nova(s) fonte(s) de dados
+#end
+#src Available performance counters
+#dst Contadores de desempenho disponíveis
+#end
+#src Export
+#dst Exportar
+#end
+
+#src Instance name
+#dst Nome da instância
+#end
+#src Use instance index instead of name
+#dst Usar índice de instâncias em vez do nome
+#end

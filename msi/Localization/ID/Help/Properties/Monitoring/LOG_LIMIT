@@ -1,0 +1,7 @@
+Stop save logging ketika ukuran file log melebihi nilai 
+Untuk definisi maximal limit ukuran log file sebelum proses dimatikan.
+
+Petunjuk:
+- %PRODUCTNAME% simpan history pada native RivaTuner.
+- Penyimpanan Monitoring Hardware akan membebani waktu CPU dibutuhkan sebelum data di flush di HDD. 
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

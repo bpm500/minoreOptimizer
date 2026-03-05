@@ -1,0 +1,8 @@
+Fan speed update period
+Displays and adjusts fan speed update period for user defined software automatic fan control mode.
+
+Hints:
+- User defined software automatic fan speed control is not absolutely free in terms of performance, some CPU time is required on each fan speed update iteration to read temperature from hardware and update fan speed if necessary. Depending on GPU and sensor model and hardware access protocols, software automatic fan control related performance hit can vary from virtually invisible to noticeable periodic performance hit causing an effect of stuttering in applications intensively using CPU, such as 3D games. 
+If you are facing such effect while %PRODUCTNAME% is running, try to temporarily disable software automatic fan speed control to identify it as a problem source by unpressing the <User define> button. Then try to decrease CPU load by increasing fan speed update period. 
+Experienced users can also show performance profiler status information in the monitoring window by right clicking it and selecting the <Show status> command. Status information displays CPU usage times for different background processes including fan speed update.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,6 @@
+Cancellare impostazioni di avvio salvate automaticamente
+I driver AMD della famiglia Crimson cercano di salvare automaticamente le impostazioni hardware (ad esempio le impostazioni di overclock o di controllo della ventola) nel registro di sistema e cercano di applicarlo in fase di avvio di Windows. Questo rende le impostazioni di eventuali strumenti hardware di overclocking di terze parti quasi permanenti, nel senso che applicate, le impostazioni rimangono nel sistema anche dopo il riavvio o lo spegnimento del sistema. Tuttavia, tale implementazione è rischiosa e anche potenzialmente pericolosa, perché non sei più in grado di annullare il rischioso overclocking con il riavvio del sistema o addirittura con la reinstallazione del driver. Per evitare tali situazioni %PRODUCTNAME% può facoltativamente cancellare le impostazioni di avvio salvate automaticamente dal driver AMD dopo l'applicazione di nuove impostazioni hardware.
+
+suggerimenti:
+- Questa opzione è attiva solo se vi è almeno una scheda grafica AMD supportata installata nel sistema.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> nelle proprietà avanzate.

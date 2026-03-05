@@ -1,0 +1,6 @@
+Afficher le temps du sytème
+Permet d'afficher le temps système en sur-impression.
+
+Astuce:
+- Activer cette option va démarrer automatiquement des processus du serveur %SERVERPRODUCTNAME%. Le serveur permet l'affichage en sur-impresion pour les applications 3D et ne peux pas être déchargé tant que cette option est active.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

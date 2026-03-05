@@ -1,0 +1,9 @@
+Downmix-Modus
+Mehrkanal-Audiostreams, die auf Mehrkanal-Soundkarten aufgenommen wurden, können in zwei verschiedenen Modi in Stereo-Audiostreams umgewandelt werden:
+
+- Stereo-Rip: die vorderen linken und rechten Audiokanäle werden aus dem Mehrkanal-Audiostream der Quelle ausgeschnitten. In diesem Modus bleibt die ursprüngliche Audiolautstärke erhalten, es geht jedoch der Ton der anderen Kanäle verloren.
+- Stereo-Mix: Stereokanäle werden aus den ursprünglichen linken, rechten und mittleren Frontkanälen sowie den linken und rechten Surround-Kanälen gemischt. Dieser Modus ändert die ursprüngliche Audiolautstärke aufgrund des Downmixes.
+
+Hinweise:
+- Diese Option funktioniert nur, wenn Audio über WASAPI-Wiedergabegeräte ab Windows Vista aufgenommen wird.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

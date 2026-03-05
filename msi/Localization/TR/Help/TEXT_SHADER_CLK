@@ -1,0 +1,10 @@
+Shader Hýzý
+Ana/Birincil grafik kartýndaki Shader hýzýný ayarlamanýzý saðlar.
+
+Ýpuçlarý:
+- Eðer <Genel Ayarlar> sekmesindeki, ayarlarý diðer grafik iþlemcileriyle eþitle seçeneði aktifse ayarlar diðer grafik kartlarýyla eþlenir.
+- Baðýmsýz iþlemci çekirdeði ve shader hýzý ayarlama özelliði sadece NVIDIA GeForce 8, 9 ve 200 serisi ekran kartlarýnda uygulanabilir. GeForce 400 Kartlarýnda Shader ve iþlemci hýzlarý donaným tarafýndan 2x orantýsý ile sabitlenmiþtir. AMD-ATI ekran kartlarýnda bu olay yoktur.
+- Baðýmsýz iþlemci ve shader hýzý ayarlarken donanýmýnýz bir en düþük shader-iþlemci çarpaný limiti olduðunu unutmayýn. Eðer bu çarpan sýnýrlarý dýþýnda deðerler girerseniz ayarlar uygulanamayabilir.
+- Eðer ayrý iþlemci ve shader hýzý belirlemek istiyorsanýz <Link> (Etkileþim) özelliði kapalý olmalýdýr. Kapatmak için Link tuþuna basýn. 
+- Buraya týklayarak direk deðer girebilirsiniz.
+- Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.

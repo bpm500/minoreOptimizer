@@ -1,0 +1,6 @@
+Anwendung bei Alarm starten
+Ermöglicht das Starten einer externen Anwendung, wenn der überwachte Wert den Alarmschwellenwert überschreitet. Mit dieser Einstellung können Sie verschiedene Sicherheitsszenarien durchführen, z. B. Das System herunterfahren oder takten Sie die GPU runter und maximieren Sie die Lüftergeschwindigkeit mit dem Profil %PRODUCTNAME%.
+
+Hinweise:
+- Diese Option wird durch die benachbarten Alarm-Timeout-Einstellungen beeinflusst.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

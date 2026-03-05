@@ -1,0 +1,8 @@
+Conteneur vidéo
+
+Permet de sélectionner le format de fichier du conteneur. Dépendant de vos préférences, vous pouvez sélectionner un de ces conteneurs suivant:
+- AVI - Audio Video Interleave est un conteneur multimédia introduit par Microsoft au début des années 90. Le conteneur AVI est largement utilisé et supporté par n'importe quel player vidéo. Néanmoins, l'architecture du conteneur AVI est vieille et quelques format de compression vidéo comme le H.264 s'insère mieux dans un format de conteneur plus progressif.
+- MKV - Matroska est un conteneur multimédia moderne et flexible introduit en 2002. A contrario de l'AVI, le conteneur MKV supporte nativement le timestamping des frames vidéo et audio, ce qui minimise le risque de voir des désyncronisation audio/vidéo durant le playback. Néanmoins, certains lecteurs vidéo peuvent ne pas supporter le MKV.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

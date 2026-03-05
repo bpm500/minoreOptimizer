@@ -1,0 +1,5 @@
+Alarm, falls Wert außerhalb des Bereichs
+Ermöglicht die Festlegung von Minimal- und Maximalwerten für die Anzeige von Alarmmeldungen im Hardware-Monitorfenster, wenn der aktuelle Wert außerhalb des vorgegebenen Bereichs liegt. Bei der Auswahl des Anzeigestils "modern" werden diese Werte auch farblich hervorgehoben. Im Fenster "Zusätzliche Alarmeinstellungen" können Sie im Alarmmodus auch die Wiedergabe eines Tonsignals und den Start einer beliebigen externen Anwendung (z. B. zum Herunterfahren des Systems im Notfall) konfigurieren. Lassen Sie das Feld leer, um die Aktivierung des Alarmmodus zu verhindern.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

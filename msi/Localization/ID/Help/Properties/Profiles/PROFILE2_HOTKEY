@@ -1,0 +1,8 @@
+Slot Profil 2 hotkey
+Untuk definisi global hotkey dan load profil saat ini kepada slot profil 2.
+
+Petunjuk:
+- Hati-hati saat melakukan apply profil overclocking pada saat aplikasi 3D berjalan. Tergantung pada model kartu grafis dan arsitektur driver display, hal ini akan menimbulkan side effect dan mengurangi stabilitas.
+- Beberapa aplikasi seperti (F.E.A.R.) akan melakukan blok hotkey.
+- Beberapa kombinasi hotkey seperti (<1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> dan <Ctrl>+<D>) sudah terdaftar dan tidak bisa digunakan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

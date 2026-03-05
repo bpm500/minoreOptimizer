@@ -1,0 +1,35 @@
+#src Pause
+#dst Duraklat
+#end
+#src Clear history
+#dst Geçmiþi Temizle
+#end
+#src Show status
+#dst Durumu göster
+#end
+#src Log history to file
+#dst Geçmiþi olay günlüðü olarak kaydet
+#end
+#src Always on top
+#dst Pencere her zaman üstte
+#end
+#src Properties
+#dst Ayarlar
+#end
+
+#src Copy
+#dst Kopyala
+#end
+
+#src Show
+#dst Göster
+#end
+#src Profiles
+#dst Profiller
+#end
+#src Close
+#dst Kapat
+#end
+#src There are no profiles
+#dst Profil bulunamadý
+#end

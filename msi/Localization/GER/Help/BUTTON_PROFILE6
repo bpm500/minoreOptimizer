@@ -1,0 +1,12 @@
+Profil-Slot 6
+Speichert aktuell angewendete Spannungs-, Takt- und Lüftersteuerungseinstellungen im Profil-Slot 6, lädt oder löscht Einstellungen daraus.
+
+Hinweise:
+- Sie können auf die Schaltfläche <Speichern> klicken und dann auf diese Schaltfläche klicken, während sie blinkt, um die aktuell angewendeten Einstellungen im Profil-Slot 6 zu speichern. Die Profil-Slots aller im System installierten GPUs werden synchron gespeichert.
+- Sie können die aktuell angewendeten Einstellungen im leeren Profil-Slot 6 speichern oder die Einstellungen aus dem verwendeten Profil-Slot 6 löschen, indem Sie mit der rechten Maustaste auf diese Schaltfläche klicken. Die Profil-Slots aller im System installierten GPUs werden synchron aktualisiert.
+- Sie können die aktuell angewendeten Einstellungen im leeren Profil-Slot 6 speichern oder die Einstellungen aus dem verwendeten Profil-Slot 6 löschen, indem Sie die Tastenkombination <Strg> + <6> auf der Tastatur drücken. Die Profil-Slots aller im System installierten GPUs werden synchron aktualisiert.
+- Sie können die Einstellungen der primären GPU vom Profilsteckplatz 6 laden, indem Sie mit der rechten Maustaste auf diese Schaltfläche klicken.
+- Sie können die Einstellungen der primären GPU vom Profilsteckplatz 6 laden, indem Sie die Taste <6> auf der Tastatur drücken.
+- Sie können Profile über das Anwendungssymbolmenü in der Taskleiste laden und automatisch anwenden oder Hotkeys in den erweiterten Einstellungen programmieren. Die Profile aller im System installierten GPUs werden synchron geladen und angewendet.
+- Sie können die automatische Profilverwaltungsfunktion nutzen und in den erweiterten Einstellungen in der Registerkarte <Profile> verschiedene Profile mit 2D- und 3D-Anwendungen verknüpfen. Die zugewiesenen Profile aller im System installierten GPUs werden synchron geladen und angewendet, wenn sich der 2D-/3D-Zustand des Systems ändert.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

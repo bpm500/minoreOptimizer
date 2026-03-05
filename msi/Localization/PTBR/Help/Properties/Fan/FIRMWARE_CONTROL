@@ -1,0 +1,8 @@
+Usar modo de controle por firmware
+O modo de controle automático da ventoinha por software definido pelo usuário é uma tecnologia puramente a nível de software, isto significa que o software deve permanecer ativo na memória. Neste modo, o software verifica periodicamente a temperatura da GPU e define a nova velocidade de rotação da ventoinha de acordo com a curva de velocidades definida.
+No entanto, algumas placas de vídeo modernas suportam nativamente curvas de velocidades de ventoinhas programáveis por software ao nível do firmware. Se você habilitar esta opção em uma placa de vídeo com suporte para controle de curva de  velocidades baseado em firmware, o %PRODUCTNAME% enviará nós de curva de velocidades para o firmware apenas uma vez na inicialização e o firmware assumirá completamente a automação dinâmica da velocidade da ventoinha em vez do software. Neste caso, sua curva de velocidades personalizada permanecerá ativa mesmo após fechamento do %PRODUCTNAME%. Se você habilitar esta opção em placas de vídeo sem controle de curva de velocidades baseadas em firmware, o %PRODUCTNAME% irá simplesmente reverter para a implementação por software.
+
+Observe que no modo de controle por firmware, a maioria das configurações adicionais relacionadas ao controle de velocidades da ventoinha, como histerese, modos escalonado e linear e tempo de atualização da velocidade da ventoinha, são ignoradas. Além disso, o modo de firmware oferece suporte a menos pontos na curva (3 a 5 pontos, dependendo do fabricante da placa de vídeo), então, você deve simplificar sua curva removendo pontos extras.
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

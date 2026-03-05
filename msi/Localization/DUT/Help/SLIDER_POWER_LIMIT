@@ -1,0 +1,8 @@
+Stroom grens
+Pas de stroom grens aan van de hoofd GPU, als dit ondersteund wordt door de grafische kaart.
+
+Hints:
+- Wanneer de synchroniseer mode is ingesteld worden de aangepaste waarden toegepast op alle gelijke GPU's.
+- Wanneer de slider is aangeklikt kan je de cursor toetsen van je toetsenbord gebruiken om het voltage fijn aftestellen.
+- Je kan in het aanpas veld onmiddelijk een stroom grens in tikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

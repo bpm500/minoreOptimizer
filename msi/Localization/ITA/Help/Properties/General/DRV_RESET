@@ -1,0 +1,6 @@
+Ripristina modalità display sull'applicazione di overclocking non ufficiale
+A causa di bug nei driver Catalyst AMD, lo schermo potrebbe sfarfallare dopo l'applicazione di overclocking non ufficiale fino al cambio della modalità di visualizzazione. È possibile abilitare questa opzione come una soluzione per forzare la modalità di visualizzazione per essere ripristinata dopo l'applicazione di overclocking non ufficiale.
+
+Suggerimenti:
+- Questa opzione è attiva solo se è presente almeno una scheda grafica AMD supportata installata nel sistema.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

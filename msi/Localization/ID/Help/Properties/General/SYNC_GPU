@@ -1,0 +1,6 @@
+Pengaturan sinkronisasi untuk grafis processor
+Untuk lakukan sinkronisasi pengaturan GPU. Ketika aktif pada pengaturan GPU maka anda akan melihat aplikasi tersebut akan berlaku pada semua GPU yang install di sistem. 
+
+Petunjuk:
+- Grafis processor di identifikasi oleh DeviceID PCI, jadi hanya kartu grafis yang identik yang bisa digunakan untuk di sinkronisasi.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

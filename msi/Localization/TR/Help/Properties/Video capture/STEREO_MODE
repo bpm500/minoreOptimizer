@@ -1,0 +1,9 @@
+Downmix mode
+Multichannel audio stream captured on multichannel sound cards can be downmixed to stereo audio stream in two different modes:
+
+- Stereo rip - front left and right audio channels are being ripped from source multichannel audio stream. This mode leaves original audio volume, but loses audio in center and surround channels.
+- Stereo mix - stereo channels are being mixed from original front left, right, center and surround left and right channels. This mode changes original audio volume due to mixing. 
+
+Hint:
+- This option works only when capturing audio via WASAPI playback devices under Windows Vista or newer OS. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

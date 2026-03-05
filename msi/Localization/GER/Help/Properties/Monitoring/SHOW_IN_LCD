@@ -1,0 +1,10 @@
+Auf dem Display der Logitech-Tastatur anzeigen
+Ermöglicht die Anzeige des Werts aus dem aktuell ausgewählten Diagramm auf dem Display der Logitech-Tastatur.
+
+Hinweise:
+- Sie müssen das gewünschte Diagramm aktivieren und auswählen, um Zugriff auf diese Option zu erhalten.
+- Sie können die <Umschalt>-Taste auf Ihrer Tastatur gedrückt halten, während Sie diese Option ändern, um sie für alle Diagramme gleichzeitig zu ändern.
+- Wenn mehrere Diagramme gleichzeitig ausgewählt sind, wird die Änderung dieser Option gleichzeitig auf alle ausgewählten Diagramme angewendet. In diesem Fall können Sie beim Ändern dieser Option die Taste <Strg> auf der Tastatur gedrückt halten, um die Änderungen nur auf das aktuelle Diagramm anzuwenden.
+- In der benachbarten Dropdown-Liste kann die Displayschriftart der Logitech-Tastatur eingestellt werden.
+- Sie können den auf dem Display der Logitech-Tastatur angezeigten Text mithilfe der vier Softtasten scrollen. Die vertikalen und horizontalen Bildlaufpositionen werden durch gleichzeitiges Drücken der Bildlauftasten nach oben und unten bzw. nach rechts und links zurückgesetzt.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

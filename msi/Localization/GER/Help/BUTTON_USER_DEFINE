@@ -1,0 +1,8 @@
+Benutzerdefiniert
+Aktiviert die benutzerdefinierte Lüfterkurve zur Steuerung der Lüftergeschwindigkeit. In diesem Modus liest die Software regelmäßig die Temperatur der GPU aus und stellt die neue Lüftergeschwindigkeit entsprechend der Lüfterkurve ein, die in der Registerkarte (Lüfter) in den erweiterten Einstellungen festgelegt wurde.
+
+Hinweise:
+- Die Lüftergeschwindigkeitssteuerung ist nur verfügbar, wenn die Grafikkarte mit einem Lüftersteuerungschip und/oder einem steuerbaren Kühlsystem ausgestattet ist.
+- Die benutzerdefinierte Lüfterkurve zur Steuerung der Lüftergeschwindigkeit wird von den Profilen nicht beeinflusst, denn sie ist eine globale Einstellung für alle im System installierten GPUs.
+- Wenn die benutzerdefinierte Software-Lüftergeschwindigkeitssteuerung aktiviert ist, können Sie mit der Taste <Auto> immer noch zwischen manueller und automatischer Lüftergeschwindigkeitssteuerung wechseln.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

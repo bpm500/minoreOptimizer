@@ -1,0 +1,6 @@
+Modos de pré-gravação
+Permite selecionar o modo de pré-gravação manual ou automática. Quando o modo automático é selecionado a sessão de gravação é iniciada automaticamente a cada inicialização de aplicativos 3D. No entanto, você ainda pode usar as teclas de atalho de pré-gravação de vídeo para parar e, em seguida, reiniciar manualmente a sessão se necessário.
+
+Sugestões:
+- Habilitar esta opção criará um processo adicional para o %SERVERPRODUCTNAME% a ser iniciado automaticamente. O servidor fornece serviços de captura de vídeo em aplicações 3D e não pode ser interrompido até que seja desativado.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

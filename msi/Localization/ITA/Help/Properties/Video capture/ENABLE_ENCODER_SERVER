@@ -1,0 +1,9 @@
+Utilizzare il server di encoder dedicato 
+Di default la codifica video viene effettuata in un contesto di 3D video processo per essere catturata. Ciò significa che solo le versioni di codec a 32 bit possono essere utilizzati durante la cattura video da applicazioni a 32 bit e solo le versioni di codec a 64 bit possono essere utilizzati durante la cattura video da applicazioni a 64 bit.
+È possibile attivare questa opzione per forzare la codifica ad essere effettuata in un processo helper di servizio encoder dedicato. In questo modo è possibile utilizzare le versioni a 32 bit di codec durante la cattura video da applicazioni a 64 bit e viceversa.
+Inoltre, il server di encoder dedicato viene eseguito in uno spazio di indirizzamento separato in modo che attivando questa opzione permette di prenotare molta di più RAM per il buffer di pre-registrazione senza mangiare lo spazio di indirizzamento delle applicazioni 3D di cui si sta catturando il video.
+Il server di encoder dedicato può anche essere utile in alcuni casi specifici, quando le prestazioni in-process di codifica video soffrono a causa di diversi problemi di sincronizzazione DirextX. Ad esempio, l'utilizzo di encoder video dedicato può aumentare le prestazioni di codifica tramite Intel QuickSync plugin per lavorare in modalità di accelerazione hardware Direct3D9 durante la cattura video da applicazioni Direct3D9.
+
+suggerimento: 
+- Questa opzione richiede l'attivazione del servizio del server encoder dedicato in proprietà di compatibilità in %SERVERPRODUCTNAME%. 
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

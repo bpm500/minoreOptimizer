@@ -1,0 +1,5 @@
+Permet le monitoring et le controle matériel.
+Permet de réstreindre le contrôle matériel graphique et les fonctions de monitoring. Cette option peut-être utile si vous utilisez %PRODUCTNAME% pour le monitoring des images par seconde et les captures d'écran/vidéo seuls et ne voulez pas overclocker votre PC. Désactiver cette option accélère également un peu le démarrage de l'application.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

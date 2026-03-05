@@ -1,0 +1,8 @@
+Prêdkoœæ wentylatora
+Wyœwietla iloœæ obrotów wentylatora g³ównego GPU.
+
+Wskazówki:
+- Gdy tryb synchronizacji ustawien GPU jest wlaczony w <General>tab w zaawansowanych wlasciwosciach, wszelkie zmiany zastosowane do glównego GPU sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie.
+- Kontrola predkosci wentylatora nie jest dostepna, jesli karta graficzna nie jest wyposazona w uklad kontrolera wentylatora i (lub) sterowany system chlodzenia.
+- Mozesz kliknac to pole, aby bezposrednio wpisac zadana predkosc.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

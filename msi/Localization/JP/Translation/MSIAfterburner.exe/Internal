@@ -1,0 +1,183 @@
+#src GPU temperature
+#dst
+#end
+#src GPU%d temperature
+#dst
+#end
+#src GPU voltage
+#dst GPU 電圧
+#end
+#src GPU%d voltage
+#dst GPU%d 電圧
+#end
+#src PCB temperature
+#dst PCB 温度
+#end
+#src PCB%d temperature
+#dst PCB%d 温度
+#end
+#src Fan speed
+#dst ファン回転速度
+#end
+#src GPU%d fan speed
+#dst GPU%d ファン回転速度
+#end
+#src Core clock
+#dst コアクロック
+#end
+#src GPU%d core clock
+#dst GPU%d コアクロック
+#end
+#src Shader clock
+#dst シェーダークロック
+#end
+#src GPU%d shader clock
+#dst GPU%d シェーダークロック
+#end
+#src Memory clock
+#dst メモリクロック
+#end
+#src GPU%d memory clock
+#dst GPU%d メモリクロック
+#end
+#src GPU usage
+#dst GPU 使用率
+#end
+#src GPU%d usage
+#dst GPU%d 使用率
+#end
+#src Framerate
+#dst フレームレート
+#end
+#src Memory usage
+#dst メモリ使用率
+#end
+#src GPU%d memory usage
+#dst GPU%d メモリ使用率
+#end
+#src 蚓
+#dst ℃
+#end
+#src V
+#dst V
+#end
+#src MHz
+#dst MHz
+#end
+#src MB
+#dst MB
+#end
+#src FPS
+#dst FPS
+#end
+#src %dMHz
+#dst %dMHz
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fV
+#end
+#src %+.3fV
+#dst %+.3fV
+#end
+#src Auto
+#dst 自動
+#end
+#src Aux voltage
+#dst 補助電圧
+#end
+#src GPU%d aux voltage
+#dst GPU%d 補助電圧
+#end
+#src Memory voltage
+#dst メモリ電圧
+#end
+#src GPU%d memory voltage
+#dst GPU%d メモリ電圧
+#end
+#src Fan tachometer
+#dst ファン回転速度計
+#end
+#src GPU%d fan tachometer
+#dst GPU%d ファン回転速度計
+#end
+#src RPM
+#dst RPM
+#end
+#src Memory temperature
+#dst メモリ温度
+#end
+#src GPU%d memory temperature
+#dst GPU%d メモリ温度
+#end
+#src VRM temperature
+#dst メモリ温度
+#end
+#src GPU%d VRM temperature
+#dst GPU%d メモリ温度
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst
+#end
+#src Power
+#dst
+#end
+#src GPU%d power
+#dst
+#end
+#src Frametime
+#dst
+#end
+#src ms
+#dst
+#end
+#src Temp limit
+#dst
+#end
+#src GPU%d temp limit
+#dst
+#end
+#src Power limit
+#dst
+#end
+#src GPU%d power limit
+#dst
+#end
+#src Voltage limit
+#dst
+#end
+#src GPU%d voltage limit
+#dst
+#end
+#src OV max limit
+#dst
+#end
+#src GPU%d OV max limit
+#dst
+#end
+#src FB usage
+#dst
+#end
+#src GPU%d FB usage
+#dst
+#end
+#src VID usage
+#dst
+#end
+#src GPU%d VID usage
+#dst
+#end
+#src BUS usage
+#dst
+#end
+#src GPU%d BUS usage
+#dst
+#end
+#src No load limit
+#dst
+#end
+#src GPU%d no load limit
+#dst
+#end

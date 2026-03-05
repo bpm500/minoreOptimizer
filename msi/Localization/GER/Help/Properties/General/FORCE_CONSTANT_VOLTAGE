@@ -1,0 +1,8 @@
+Konstante Spannung erzwingen
+Einige Spannungsreglermodelle (z. B. Volterra VT1165 und STMicroelectornics L6788A) unterstützen die Möglichkeit, unabhängige Spannungen für verschiedene Leistungszustande zu programmieren (z. B. für 2D- und 3D-Modi).
+Standardmaßig regelt %PRODUCTNAME% die Spannung nur für den Energiezustand mit maximaler Leistung (d. h. 3D-Modus), wobei die Energiespartechnologie aktiv bleibt. Durch die Aktivierung dieser Option können Sie jedoch %PRODUCTNAME% zwingen, die Spannung für alle Energiezustände gleichzeitig zu regulieren, wodurch die dynamische Spannungssteuerungsfunktion der Hardware effektiv deaktiviert wird. Dies kann die Stabilität einiger Systeme verbessern.
+
+Hinweise:
+- Um die energiesparenden Technologien nach der Deaktivierung dieser Option wiederherzustellen, ist ein Systemneustart erforderlich.
+- %PRODUCTNAME% dient zur Steuerung der Spannung im 3D-Modus auf Referenzmodelle mit 100% Original-VGA-BIOS oder Custom-Modelle von MSI. Einige Custom-Modelle verfügen möglicherweise über ein geändertes Spannungssteuerungsschema oder eine geänderte Spannungstabelle im VGA-BIOS, sodass %PRODUCTNAME% auf solchen nicht standardmäßigen Karten möglicherweise die Spannung für den falschen Energiemodus (z. B. 2D-Modus) steuert. Sie können diese Option aktivieren, um die Spannung auf solchen Karten ordnungsgemäß zu verwalten.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

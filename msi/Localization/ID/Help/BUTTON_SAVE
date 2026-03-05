@@ -1,0 +1,6 @@
+Simpan
+Proses penyimpanan profil. Ketika anda menekan tombol profil dan kemudian mulai berkedip maka proses penyimpanan akan dilakukan. Anda dapat menekan tombol slot profil yang hendak disimpan ketika tombol berkedip untuk melakukan penyimpanan pengaturan tegangan, clock dan kecepatan kipas pada profil yang diinginkan.
+
+Petunjuk:
+- Anda dapat membatalkan penyimpanan profil dengan cara menekan tombol <Esc> pada keyboard. Tombol <Reset> juga bisa untuk membatalkan proses penyimpanan profil.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

@@ -1,0 +1,7 @@
+Temperaturlimit
+Zeigt das aktuelle Temperaturlimit der primären GPU an, sofern es von der Grafikkarte unterstützt wird.
+
+Hinweise:
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- Sie können auf dieses Eingabefeld klicken, um den gewünschten Wert direkt einzugeben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

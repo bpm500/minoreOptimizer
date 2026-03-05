@@ -1,0 +1,5 @@
+Data provider
+Some hardware monitoring graphs can receive the same data from different independent data sources. For example CPU temeprature can be read by internal %PRODUCTNAME% data provider from CPU thermal diode and optionally from CPU socket sensor via AIDA64 or HwInfo plugins. In this case you may select desired data source for such graph with this option.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

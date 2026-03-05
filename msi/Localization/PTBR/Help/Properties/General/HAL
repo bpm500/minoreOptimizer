@@ -1,0 +1,5 @@
+Controle e monitoramento 
+Permite restringir as funcionalidades de monitoramento. Desativar este recurso pode ser útil quando estiver usando o %PRODUCTNAME% exclusivamente para monitoramento da taxa de quadros, somente para gravar vídeos ou se não pretender fazer overclocking. A desativação dessa opção também acelera a inicialização do programa. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

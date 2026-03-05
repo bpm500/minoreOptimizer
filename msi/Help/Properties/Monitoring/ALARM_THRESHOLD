@@ -1,0 +1,5 @@
+Alarm when value is out of range
+Allows defining minumum and maximum thresholds for alarm message to be displayed in hardware monitor window when value is beyond the threshold. When modern On-Screen Display layout is selected, such values are also highlighted by color there. In additional alarm settings window you may also configure sound notification and external application launch (e.g. to perform emergency system shutdown) in alarm mode. Leave the field blank to avoid enabling the threshold. 
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

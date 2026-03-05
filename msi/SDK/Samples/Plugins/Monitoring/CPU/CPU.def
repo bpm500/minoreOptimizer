@@ -1,0 +1,5 @@
+; CPU.def : Declares the module parameters for the DLL.
+
+LIBRARY      "CPU"
+
+EXPORTS

@@ -1,0 +1,10 @@
+Software automatic fan speed curve editor
+Allows editing fan speed curve for user defined software automatic fan speed control mode.
+
+Hints:
+- You may click the curve to add new node in the cursor position. Up to 8 nodes are allowed.
+- You may click existing node to select it and drag it with mouse cursor to adjust the curve. Selected node position can be also fine tuned from the keyboard with cursor keys.
+- You may press <Del> to delete selected node.
+- You may press <Ctrl> + <D> to reset the curve to default state.
+- You may double click the edit area to switch between linear and step curve modes. Step mode can be used to reduce fan speed update related CPU performance hit due to less frequent fan speed changes.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

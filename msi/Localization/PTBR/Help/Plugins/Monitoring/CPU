@@ -1,0 +1,4 @@
+Este plug-in adiciona fontes de dados para monitoramento da [b]Temperatura da CPU[/b].
+
+Sugestões:
+- As fontes de dados implementadas por este plug-in duplicam as fontes de dados internas já fornecidas pelo %PRODUCTNAME% para cada núcleo, portanto, você não precisa ativar esse plug-in se for um usuário comum. Os desenvolvedores de plug-ins podem usar este plug-in como um tutorial e uma base de código para implementação de outras fontes de dados específicas da CPU.

@@ -1,0 +1,9 @@
+Monitoraggio lista grafici hardware
+Visualizza la lista dei grafici disponibili del monitoraggio hardware, permette di cambiare l'ordine dei grafici e selezionare i grafici attivi.
+
+Consigli:
+- Il tickmark accanto a ciascun nome grafico attiva il grafico. I grafici attivi sono visualizzati nella finestra di monitoraggio. Evitare di attivare i grafici inutili, perchè farà aumentare il tempo di CPU richiesto per eseguire il polling hardware e può ridurre le prestazioni del sistema.
+- L'attivazione del grafico <Framerate> causerà un ulteriore %SERVERPRODUCTNAME% processo ad essere avviato automaticamente. Il server fornisce i dati di questo grafico e non può essere scaricato fino a quando il grafico è disattivato.
+- È possibile trascinare e rilasciare i grafici nella lista per riordinarli.
+- È possibile fare clic su qualsiasi grafico nella lista per selezionarlo e accedere alle proprietà del grafico. Il grafico deve essere attivato per accedere alle proprietà.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

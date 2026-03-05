@@ -1,0 +1,7 @@
+Temperaturhysterese
+Legt den Wert der Temperaturhysterese für die benutzerdefinierte Lüfterkurve fest. Die Hysterese kann verwendet werden, um unerwünschte Schwankungen der Lüftergeschwindigkeit zu reduzieren und die Kühleffizienz zu erhöhen. Bei der Einstellung eines Hysteresewerts ungleich Null wird der folgende Algorithmus verwendet:
+- Der letzte Temperaturwert, der die Änderung der Lüftergeschwindigkeit verursacht hat, wird gespeichert.
+- Wenn die Temperatur sinkt, darf sich die Lüftergeschwindigkeit nicht ändern, bis die Differenz zwischen dem gespeicherten und dem aktuellen Temperaturwert den Hysteresewert nicht überschreitet.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

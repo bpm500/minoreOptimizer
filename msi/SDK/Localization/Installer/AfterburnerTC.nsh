@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_TRADCHINESE}	"AfterburnerTC.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_TRADCHINESE} 	"MSI Afterburner 目前啟動中，安裝將會被終止!"
+LangString AfterburnerAbortInstall 	${LANG_TRADCHINESE} 	"MSI Afterburner 安裝失敗!"
+LangString AfterburnerActiveUninstall 	${LANG_TRADCHINESE}	"MSI Afterburner 目前啟動中，解除安裝將會被終止!"
+LangString AfterburnerKeepSettings 	${LANG_TRADCHINESE} 	"您想要保存目前的MSI Afterburner設定嗎? 選擇Yes，若您正在解除安裝並在更新新版本前。"
+LangString AfterburnerRebootUninstall 	${LANG_TRADCHINESE}	"部分MSI Afterburner 檔案目前使用中且無法被立即移除。需要重開機來完成解除安裝以及移除這些檔案。若您正在升級MSI Afterburner，強烈建議您重新開機後再安裝更新版本。請問是否立即重新開機?"
+LangString AfterburnerAbortUninstall 	${LANG_TRADCHINESE} 	"MSI Afterburner 解除安裝失敗!"
+LangString AfterburnerCaption 		${LANG_TRADCHINESE} 	"MSI Afterburner ${VER_DISPLAY} 安裝"
+LangString DescSecAfterburner 		${LANG_TRADCHINESE}	"Main MSI Afterburner application"
+LangString DescSecRTSS 			${LANG_TRADCHINESE}	"Provides framerate monitoring, On-Screen Display and videocapture services to MSI Afterburner"
+LangString AfterburnerLocalization 	${LANG_TRADCHINESE} 	"TC"

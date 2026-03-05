@@ -1,0 +1,7 @@
+Link
+Consente la regolazione collegata o indipendente delle frequenze di core e shader.
+
+Consigli:
+- La regolazione indipendente della frequenza dello shader è disponibile solo sulle schede grafiche della serie NVIDIA GeForce 8, 9 e 200. Le frequenze di shader e core sono collegate con rapporto 2x cablati sulle schede della serie GeForce 400. Le schede grafiche ATI non supportano la regolazione indipendente della frequenza dello shader.
+- Quando regolate la frequenza del core e dello shader in modo indipendente per favore ricordate che il minimo consentito di frequenza shader in rapporto al core è limitato dall'hardware. Il tentativo di guidare il rapporto uscendo dal campo può impedire alle frequenze di applicarsi.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

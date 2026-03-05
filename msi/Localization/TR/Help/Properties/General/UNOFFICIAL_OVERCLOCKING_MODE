@@ -1,0 +1,10 @@
+Unofficial overclocking mode
+By default overclocking limits in AMD Catalyst Control Center and in all overclocking tools using official AMD Overclocking implementation are rather low and defined by AMD VGA BIOS.
+Unofficial overclocking mode may help bypassing the limits without altering them in VGA BIOS. However, unofficial overclocking mode uses undocumented interface of AMD display drivers, which is not supported by AMD in any form and which has numerous open compatibility issues with AMD's own power saving technologies. So use it only if you're familiar with those compatibility issues and know how to bypass them.
+
+WARNING! Use this option at your own risk! Both MSI and AMD will not provide you any support on it in any form including questions in the forums.
+
+Hints:
+- This option is only active if there is at least one supported AMD graphic card installed in the system.
+- It is strongly recommended to disable ULPS mode when using unofficial overclocking mode on Crossfire configurations.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

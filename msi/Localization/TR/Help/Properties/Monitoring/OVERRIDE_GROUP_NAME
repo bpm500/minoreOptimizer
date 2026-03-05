@@ -1,0 +1,7 @@
+Override group name
+By default the values displayed in the On-Screen Display and Logitech keyboard LCD display are groupped by short sensor name. This option allows overriding default group names. 
+
+Hints:
+- Some group names (e.g. <Framerate> graph group name) are dynamic and cannot be overriden.
+- Single symbol group names can be used to group values without displaying a group name.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

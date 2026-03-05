@@ -1,0 +1,6 @@
+Sincronizar configurações para GPUs semelhantes
+Permite ajustar as GPUs de forma sincronizada ou independente. Quando essa opção for ativada, todos os ajustes feitos para a GPU principal também serão aplicados a todas as GPUs semelhantes instaladas no sistema.
+
+Sugestões:
+- GPUs semelhantes são identificadas pela correspondência exata da PCI DeviceID, portanto, apenas modelos de placas de vídeo idênticas podem ser sincronizados.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

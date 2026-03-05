@@ -1,0 +1,9 @@
+Skin-Gestaltungmodus auswählen
+Ermöglicht die Auswahl der Gestaltung des Skins. Der Skin-Gestaltungmodus definiert, wie die Skin-Engine die veränderten Pixel des Skins mit den darunterliegenden Pixeln kombiniert werden. Sie können einen der folgenden Skin-Gestaltungmodi auswählen:
+
+- Traditionell: Bietet Abwärtskompatibilität mit alten Betriebssystemen und Skins. Dieser Skin-Gestaltungmodus verwendet GDI-Clipregionen, um nicht-rechteckige Fenster darzustellen. Die Fenster-Updateleistung kann beeinträchtigt werden, wenn die Form eine große Anzahl nicht rechteckiger Zonen aufweist.
+- Mit Color-Key: Bietet die beste Leistung beim Neuzeichnen von Skin-Fenstern auf modernen Betriebssystemen. Dieser Skin-Gestaltungmodus verwendet Ebenen-Fenster mit Hardware-beschleunigter Color-Key-Unterstützung, so dass die Fenster-Updateleistung nicht von der Fensterform abhängt. Außerdem kann der Grad der Skin-Transparenz eingestellt werden.
+- Mit Alphakanal: Bietet Unterstützung für zusätzliche visuelle Effekte. Dieser Skin-Gestaltungmodus verwendet Ebenen-Fenster mit Hardware-beschleunigtem Pro-Pixel-Alphakanal, sodass Skin-Designer so semi-transparente Skin-Bereiche, Antialiasing auf die Skin-Ränder und noch viel mehr definieren können. Außerdem kann der Grad der Skin-Transparenz eingestellt werden.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

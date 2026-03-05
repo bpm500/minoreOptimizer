@@ -1,0 +1,6 @@
+Type de processeur graphique
+Les modèles de cartes graphique peuvent utiliser des types de processeurs graphique différents (ex. high-leakage et low-leakage GPUs) avec différentes tensions par défaut et différentes approches de contrôles de tension. Vous devriez utiliser cette option pour choisir votre type de processeur graphique et ainsi contrôler correctement la tension.   
+
+Astuce:
+- La sélection du type de processeur graphique affecte seulement le GPU maître actuel, veuillez ré-ouvrir cette fenêtre lors du changement de GPU maître.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

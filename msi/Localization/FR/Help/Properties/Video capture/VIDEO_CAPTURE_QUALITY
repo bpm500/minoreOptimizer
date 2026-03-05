@@ -1,0 +1,6 @@
+Qualité vidéo 
+Ajuste la qualité d'encodage des vidéos au format RTV1, MJPG et VFW. Une qualité vidéo plus haute résulte en des fichiers plus grands et pourrait dégrader les performances. Vous pouvez réduire la qualité vidéo si votre système n'est pas assez rapide pour encoder la vidéo au framerate désiré.
+
+Astuce:
+- Ce paramètre peut ne pas être supporté par quelques codecs externes quand vous utilisez le format de compression VFW.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,5 @@
+Mostra suggerimenti nell'interfaccia utente
+Permette di mostrare messaggi di suggerimento nell'area della finestra di monitoraggio hardware. I suggerimenti comunicano all'utente circa il profilo caricato il salvataggio degli eventi e le attività di altre applicazioni.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

@@ -1,0 +1,4 @@
+Dieses Plug-in fügt Datenquellen für die Überwachung von [b]Ping[/b] hinzu.
+
+Hinweis:
+- Standardmäßig ist das Plug-in so konfiguriert, dass es einen Ping an den Server [b]www.guru3d.com[/b] anzeigt, der Name oder die IP-Adresse des Zielservers muss von Ihnen selbst in den Plug-in-Einstellungen angegeben werden.

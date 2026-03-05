@@ -1,0 +1,8 @@
+Aktualisierungsintervall der Lüftergeschwindigkeit
+Legt das Aktualisierungsintervall der Lüftergeschwindigkeit für die benutzerdefinierte Lüfterkurve fest.
+
+Hinweise:
+- Die benutzerdefinierte Lüfterkurve verursacht CPU-Last. Bei jedem Update wird die GPU-Temperatur ausgelesen und bei Bedarf die Lüftergeschwindigkeit engepasst. Abhängig von der GPU, den Sensoren und den Sensorzugriffsprotokollen kann der durch die benutzerdefinierte Lüfterkurve verursachte Leistungsabfall praktisch unsichtbar bis ziemlich spürbar sein, was zu periodischen Rucklern bei CPU-intensiven 3D-Anwendungen führt.
+Wenn Sie dies bemerken, während %PRODUCTNAME% im Hintergrund ausgeführt wird, versuchen Sie die benutzerdefinierte Lüfterkurve vorübergehend zu deaktivieren, um es als Ursache des Problems zu identifizieren. Dann können Sie versuchen, die CPU-Last zu reduzieren, indem Sie das Aktualisierungsintervall verlängern.
+Fortgeschrittene Benutzer können auch die Anzeige des Performance-Profiler-Status im Überwachungsfenster aktivieren, indem sie mit der rechten Maustaste darauf klicken und den Befehl <Status anzeigen> auswählen. Der Status zeigt an, wie lange die CPU von verschiedenen Hintergrundprozessen genutzt wird, einschließlich der Aktualisierung der Lüftergeschwindigkeit.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

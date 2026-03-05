@@ -1,0 +1,9 @@
+Iniciar modo de benchmark
+Permite definir uma tecla de atalho para iniciar a exibição e gravação do registro de estatísticas de taxa de quadros. Uma vez ativado, o móduldo de registro permanece ativo para todas as aplicações 3D que forem iniciadas posteriormente, mesmo depois de reiniciar o sistema. 
+Enquanto móduldo de registro estiver ativo, você poderá habilitar a exibição de estatísticas próprias do %SERVERPRODUCTNAME% para visualizar na tela também a taxa de quadros mínima, média e máxima. 
+Quando a gravação do registro estiver em curso, pressione a tecla de atalho mais uma vez para reiniciar o benchmark ou pressione a tecla de atalho atribuída a <Finalizar benchmark> para salvar os resultados em um arquivo de texto.
+
+Sugestões: 
+- Habilitar esta opção criará um processo adicional do %SERVERPRODUCTNAME% que será iniciado automaticamente. O servidor fornece serviços de exibição de informações na tela e captura de telas e vídeos para aplicações 3D e não pode ser interrompido até que seja desativado. 
+- Algumas combinações de teclas (por exemplo, <1> ... <5>, <Ctrl> + <1> ... <Ctrl> + <5> e <Ctrl> + <D>) são reservadas e não podem ser usadas. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

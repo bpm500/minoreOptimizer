@@ -1,0 +1,5 @@
+Übertaktungsscanner
+Führt mithilfe des NVIDIA OC Scanners automatische Übertaktungs- und Grafikkartenstabilitätstests durch.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

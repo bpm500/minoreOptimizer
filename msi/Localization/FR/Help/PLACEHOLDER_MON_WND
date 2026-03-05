@@ -1,0 +1,10 @@
+Fenêtre de monitoring
+Affiche un graph d'historique pour les températures de votre GPU et d'autres paramètres de santé matériel.
+
+Astuce:
+- Vous pouvez placer votre curseur sur la graph pour suivre les valeurs à la position du curseur.
+- Vous pouvez faire défiler les graphs avec la molette de la souris ou capturer la fenêtre avec le bouton gauche et la prendre vers le haut ou vers le bas.
+- Vous pouvez détacher et définir des paramètres de taille et position de la fenêtre de monitoring en double cliquand dans celle-ci ou en pressant le bouton <Détacher>. Vous pouvez double cliquer la fenêtre détachée de monitoring ou simplement la fermer pour la rattacher à la fenêtre principale.
+- Vous pouvez ouvrir la tabulation <Monitoring> dans les propriétés avancées pour configurer n'importe quel graph de données pour afficher en sur-impression ou dans la zone de notification et controller votre température GPU et d'autres paramètres de santé en travaillant ou jouant. Alternativement, cliquez sur le bouton droit dans n'importe quelle zone du graph pour avoir accès aux propriétés avancées du graph.
+- Vous pouvez désactiver les graphs peu utilisé ou changer l'ordre des graphs dans la tabulation <Monitoring> dans les propriétés avancées. Cochez la coche à la gauche de chaque graph dans la liste pour l'activer ou le désactiver ou prenez et déplacez simplement le graph dans la liste pour le déplacer.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

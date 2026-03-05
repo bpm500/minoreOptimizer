@@ -1,0 +1,5 @@
+Bildrate
+Legt die Bildrate des codierten Videos fest. Einige Frames werden ausgelassen, wenn das System nicht schnell genug ist, um Videos mit der gewünschten Bildrate zu codieren. In diesem Fall können Sie versuchen, die Bildrate zu verringern.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

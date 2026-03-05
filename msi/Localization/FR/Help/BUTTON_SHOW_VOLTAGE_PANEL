@@ -1,0 +1,5 @@
+Affiche le panneau de contrôle étendu de tension
+Bascule l'affichage du panneau de contrôle étendu de tension. Le contrôle étendu de tension n'est disponible que sur les cartes graphiques supportant les ajustements de tension.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

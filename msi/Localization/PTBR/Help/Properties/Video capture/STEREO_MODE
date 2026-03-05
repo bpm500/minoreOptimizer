@@ -1,0 +1,8 @@
+Modos Downmix 
+Áudio multicanal capturado em placas de som multicanal que podem ser misturados para fluxo de áudio estéreo em dois modos diferentes: 
+- Estéreo RIP - frente esquerda e direita de canais de áudio coletadas na fonte multicanal de áudio. Este modo mantém o volume original do áudio, mas perde os canais de áudio do centro e surround. 
+- Estéreo Mix - canais estéreo misturados da frente, esquerda, direita, centro e canais surround esquerdo e direito. Este modo muda o volume do áudio original devido à mistura. 
+
+Sugestão: 
+- Esta opção somente funciona na captura de áudio por dispositivos de reprodução WASAPI no Windows Vista e sistemas operacionais mais recentes.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

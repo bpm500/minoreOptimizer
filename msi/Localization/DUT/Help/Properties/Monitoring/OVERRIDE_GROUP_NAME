@@ -1,0 +1,8 @@
+Overschrijf groep naam
+De waarden die standaard op de "info op het scherm"(OSD) en LogitechKeyboard LCD scherm worden weergegeven zijn gegroepeerd volgens hun korte sensor naam. Deze optie laat toe om deze namen te overschrijven.
+
+
+Hint:
+-Sommige groep namen (bv:Framerate) zijn dynamisch en kunnen niet overschreven worden.
+-Enkelvoudige symbool groep namen kunnen gebruikt worden om waarden te groeperen zonder een groep naam weer te geven.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

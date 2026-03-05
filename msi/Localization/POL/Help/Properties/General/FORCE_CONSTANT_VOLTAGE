@@ -1,0 +1,8 @@
+Wymuœ sta³e napiêcie
+Niektóre regulatory napiecia (np. seria Voltera VT1165 lub STMicroelectronics L6788A) obsluguja programowanie niezaleznych napiec dla róznych stanów mocy (np. dla trybów 2D i 3D). 
+Domyslnie %PRODUCTNAME% dostosowuje napiecie tylko do stanu maksymalnej wydajnosci (tj.3D tryb), umozliwiajac sprzetowi utrzymanie aktywnych technik oszczedzania energii. Mozna jednak wymusic %PRODUCTNAME%, aby dostosowac napiecie dla wszystkich stanów zasilania jednoczesnie, wlaczajac te opcje i w ten sposób skutecznie wylaczyc dynamiczne przelaczanie napiecia. Moze to przyczynic sie do poprawy stabilnosci w niektórych systemach.
+
+Wskazówki:
+- Ponowne uruchomienie jest wymagane, aby przywrócic oszczednosc energii po wylaczeniu tej opcji.
+- %PRODUCTNAME% zostal zaprojektowany w celu zapewnienia kontroli napiecia 3D tylko na referencyjnych kartach graficznych z 100% oryginalnym BIOS-em VGA lub niestandardowymi kartami graficznymi MSI. Niektóre niereferencyjne karty graficzne mogly miec zmieniony obwód sterujacy napieciem lub zmieniona tabele napiecia w systemie VGA BIOS, wiec %PRODUCTNAME% moze regulowac napiecie dla niewlasciwego stanu zasilania (np. w trybie 2D), jesli jest uzywany z taka niestandardowa karta graficzna. Mozesz uzyc tej opcji, aby prawidlowo kontrolowac napiecie na takich kartach.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

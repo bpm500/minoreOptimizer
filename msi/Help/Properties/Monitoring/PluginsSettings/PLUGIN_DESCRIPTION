@@ -1,0 +1,5 @@
+Plugin description
+Displays description for currently selected plugin.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

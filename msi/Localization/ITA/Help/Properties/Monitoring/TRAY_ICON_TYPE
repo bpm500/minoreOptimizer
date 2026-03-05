@@ -1,0 +1,7 @@
+Tipo di icona nella Tray
+Consente di selezionare il testo o la modalità indicatore grafico a barre per l'uscita dell'icona della barra delle applicazioni. La modalità indicatore grafico a barre può essere utile per i grafici di utilizzo CPU o GPU.
+
+Suggerimenti:
+- Devi attivare e selezionare il grafico desiderato per avere accesso a questa opzione.
+- È possibile tenere premuto il pulsante <Shift> sulla tastiera mentre si cambia questa opzione per cambiarla sincronicamente per tutti i grafici.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

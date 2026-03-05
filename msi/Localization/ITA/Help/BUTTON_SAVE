@@ -1,0 +1,7 @@
+Salva
+Viene avviato il processo di salvataggio profilo. Quando si preme questo tasto i pulsanti slot dei profili inizieranno a lampeggiare indicando che il processo di salvataggio è stato avviato. È possibile premere un tasto qualsiasi di slot dei profili mentre sta lampeggiando per salvare la tensione applicata, la frequenza e le impostazioni attuali di controllo della ventola per lo slot di un profilo desiderato.
+
+Consigli:
+- E 'possibile cancellare il processo avviato di salvataggio profilo con il tasto Esc sulla tastiera. Ripristinando le impostazioni hardware con il tasto <Reset> si annullerà anche l'avviato processo di salvataggio profilo.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

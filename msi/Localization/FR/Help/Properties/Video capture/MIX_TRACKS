@@ -1,0 +1,5 @@
+Mixage des pistes audio multiples
+Lorsque vous sélectionnez deux sources audio, vous pouvez enregistrer deux pistes audio dans la vidéo. Néanmoins, vous pouvez activer cette option pour mixer des pistes audio inddépendantes en une seule. Le niveau du volume de toutes les pistes est normalisé durant le mixage.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

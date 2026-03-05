@@ -1,0 +1,5 @@
+Ricreare i file dei risultati di benchmark esistenti
+Consente di ricreare i file dei risultati di benchmark esistenti in ogni nuova sessione di registrazione, quando abilitata. In caso contrario, i file dei risultati benchmark esistenti vengono accodati con nuove sessioni di registrazione.
+
+Suggerimenti:
+- È possibile disabilitare le descrizioni comandi dell'interfaccia utente tramite la scheda <interfaccia utente> nelle proprietà avanzate.

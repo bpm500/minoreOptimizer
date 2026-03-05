@@ -1,0 +1,6 @@
+Sauver
+Démarre la procédure de sauvegarde du profil. Quand vous pressez ce bouton, les boutons de profils commencent à clignoter pour indiquer que la procédure de sauvegarde a été initialisée. Vous pouvez presser n'importe quel emplacement de profil lorsqu'il clignote pour sauvegarder les paramètres appliqués de tension, horloge et paramètres de contrôle de vitesse dans l'emplacement du profil désiré.
+
+Astuce:
+- Vous pouvez annuler l'initialisation de procédure de sauvegarde du profil en pressant la touche <Esc> de votre clavier. Restorer les paramètres matériel avec le bouton <Reset> va également annuler l'initialisation de procédure de sauvegarde du profil.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

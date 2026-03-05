@@ -1,0 +1,9 @@
+Toezicht venster.
+Dit laat de geschiedenis grafieken zien van alle gekozen parameters van uw grafische kaarten(GPU's).
+
+Hint:
+- Je kan over de grafieken schuiven met de muis cursor en dan ziet je de waarde.
+- Je kan met de muis scrollen naar boven en naar beneden.
+- Je kan veschillende grafieken weergeven in dit venster , de onderdelen hiervan kan je bepalen in <Toezicht>tab in de %PRODUCTNAME% eigenschappen.
+- Je kan ook met rechts klikken op de grafiek en onmiddelijk toegang krijgen tot de eigenschappen van deze gekozen grafiek.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

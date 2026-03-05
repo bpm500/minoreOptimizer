@@ -1,0 +1,5 @@
+Recreate existing benchmark results files
+Allow recreating existing benchmark results files on each new recording session when enabled. Otherwise, existing benchmark results files are being appended with new recording sessions.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

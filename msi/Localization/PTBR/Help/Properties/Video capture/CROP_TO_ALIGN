@@ -1,0 +1,5 @@
+Dimensões do vídeo em múltiplos de 16 
+Alguns decodificadores de vídeo de terceiros (por exemplo, decodificador de vídeo VirtualDub MJPG) podem falhar ao decodificar vídeos se a largura e a altura não forem múltiplos de 16. Você pode ativar essa opção para cortar dimensões do vídeo e torná-lo múltiplos de 16 para melhorar a compatibilidade com tais aplicativos de edição de vídeo. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

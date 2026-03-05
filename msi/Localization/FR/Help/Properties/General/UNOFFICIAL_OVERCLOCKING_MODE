@@ -1,0 +1,10 @@
+Overclocking non officiel
+Par défaut les limites d'overclocking in the centre de contrôle du Catalyst AMD et dans tous les outils qui utilisent le mode d'implementation officiel d'overcloking AMD sont assez bas et dépendent du BIOS VGA AMD.
+L'overclocking non officiel peut aider à dépasser les limites sans altérer le BIOS VGA. Néanmoins, overclocking non officiel utilise une interface non documentée des drivers graphique AMD, qui n'est pas supporté dans aucune forme par AMD et qui a des problèmes de comptatibilité avec les technologies de réduction de consommation d'AMD. Utilisez si vous êtes famillié avec ces problèmes de compatibilité et savez comment les contourner..
+
+Attention! Utilisez cette option à vos propres risques! Ni MSI ni AMD ne vous procureront du support sous quelque forme que ce soit, incluant des questions sur le forum.
+
+Astuce:
+- Cette option est seulement active si il y a au moins une carte graphique AMD supportée dans le système.
+- Il est vivement recommandé de désactiver le mode ULPS quand vous utilisez l'overclocking non officiel sur les configurations Crossfire.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

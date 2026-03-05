@@ -1,0 +1,6 @@
+Attiva il filtraggio dei dati
+L'accesso simultaneo allo stesso sensore hardware (ad esempio, sensore di temperatura della GPU) può portare a un'errata lettura del sensore vedendo punte anormalmente basse, oppure anormalmente elevate sui grafici. L'attivazione di questa opzione consente l'elaborazione dei dati con la matematica speciale dell'algoritmo di filtraggio che respinge tali picchi.
+Si fa presente che l'abilitazione del filtraggio può respingere le reali punte di dati (ad esempio i picchi di utilizzo GPU), nonché gli aggiornamenti del ritardo grafico fino a 4 periodi.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

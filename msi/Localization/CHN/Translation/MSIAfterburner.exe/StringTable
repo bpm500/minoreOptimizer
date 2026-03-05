@@ -1,0 +1,576 @@
+#src Failed to compile %s skin!
+#dst 无法组成 %s 皮肤!
+#end
+
+#src %s skin has been successfully compiled!
+#dst
+#end 
+
+#src %s skin has been successfully decompiled!
+#dst %s 皮肤已成功解开
+#end 
+
+#src Failed to decompile %s skin!
+#dst 无法解开 %s 皮肤!
+#end
+
+#src Failed to load %s skin!
+#dst 无法加载 %s 皮肤!
+#end 
+
+#src Failed to load %s.sys driver!
+#dst 无法加载 %s.sys 驱动程序!
+#end 
+
+#src This application is designed to use %s.sys driver v%d.%d. Different version of driver is installed and in use now. It is strongly recommended to close all applications using this driver and restart this application to allow correct driver version usage, otherwise it may function improperly.
+#dst 本软件是设计成使用 %s.sys 驱动程序 v%d.%d. 不同版本的驱动程序已被安装并使用中，强烈建议关闭所有使用此驱动程序的应该软件，并重新开启本软件来使用正确的驱动程序版本，否则可能造成功能失常。
+#end 
+
+#src Some of MSI Afterburner components are expired, missing or corrupted!
+#dst 某些 MSI Afterburner 的组件已经过期、遗失或损毁!
+#end 
+
+#src Failed to load %s skin, reverting to default skin!
+#dst 无法载 %s 皮肤, 返回使用预设皮肤!
+#end 
+
+#src Unsupported %s skin file format!
+#dst 不支持的 %s 皮肤文件格式!
+#end 
+
+#src Your current system state has been used to build Hardware Emulation Layer. The application will function through HEL after the next restart.
+#dst 你目前的系统状态已被设定成使用硬件仿真层(Hardware Emulation Layer)，本软件会在重启后在HEL上执行
+#end 
+
+#src I2C dump has been saved to the application folder.
+#dst I2C 转储文件已经储存在应用软件目录
+#end 
+
+#src Failed to save I2C dump to the application folder.
+#dst 无法储存I2C转储文件到软件目录
+#end 
+
+#src Failed to initialize main window with %s skin, reverting to default skin!
+#dst 无法初使化 %s 皮肤的主窗口，返回默认皮肤
+#end 
+
+#src Failed to initialize main window!
+#dst 无法初使化主窗口
+#end 
+
+#src Sorry, the fan speed curve you've defined doesn't appear to be valid! It is not allowed to define a curve causing fan speed to decrease with increasing temperature!
+#dst 抱歉! 你所设定的风扇转速曲线并不正确，它不允许在较高的温度下定义较低的风扇转速
+#end 
+
+
+#src GPU%d : %s
+#dst GPU%d : %s
+#end 
+
+#src GPU%d
+#dst GPU%d
+#end 
+
+#src Emulated %s on %s GPU
+#dst 模拟 %s 在GPU %s
+#end 
+
+#src %s on %s GPU
+#dst %s 在 GPU %s
+#end 
+
+#src %-20s : %s
+#dst %-20s : %s
+#end 
+
+#src Display device
+#dst 显示适配器
+#end 
+
+#src Display driver
+#dst 显示适配器驱动程序
+#end 
+
+#src %dMB
+#dst %dMB
+#end 
+
+#src On-board memory
+#dst 显示适配器板载显存
+#end 
+
+#src BIOS
+#dst BIOS
+#end 
+
+#src GUID
+#dst GUID
+#end 
+
+#src master
+#dst 主要
+#end 
+
+#src synchronized with master
+#dst 与主要显示芯片同步
+#end 
+
+#src Multi-GPU role
+#dst 多重GPU配置
+#end 
+
+#src OSD
+#dst OSD
+#end 
+
+#src LCD
+#dst LCD
+#end 
+
+#src tray
+#dst 系统栏
+#end 
+
+#src Select a graph to access graph properties
+#dst 选择一个图表来存取图表内容
+#end 
+
+#src %s graph properties
+#dst 图表内容<%s>
+#end 
+
+#src Tick checkmark to activate the graph and access graph properties
+#dst 勾选选项来启动图表并存取图表内容
+#end 
+
+#src Updating %d graph(s) with %d ms period, polling time : %.3f ms, GUI time : %.3f ms
+#dst 刷新 %d 图表每 %d 毫秒，存取间隔: %.3f 毫秒，图形接口时间: %.3f 毫秒
+#end 
+
+#src Updating fan speed(s) with %d ms period, update time : %.3f ms
+#dst 刷新风扇转速每 %d 毫秒，刷新间隔: %.3f 毫秒
+#end 
+
+#src Bitmap cache flushed
+#dst 位图缓存更新
+#end 
+
+#src Tip: MSI Afterburner is currently minimized to system tray area. You may click its' tray icon to bring MSI Afterburner window to top.
+#dst 提示: MSI Afterburner目前最小化到系统栏，你可以点选系统栏图标来放大MSI Afterburner窗口到最上层
+#end 
+
+#src Failed to restore main window DIB cache!
+#dst 无法回复主窗口 DIB 缓存
+#end 
+
+#src MSI Afterburner properties
+#dst MSI Afterburner设定
+#end 
+
+#src The changes you've made will be applied after restarting MSI Afterburner.
+#dst 你所做的更新将会在MSI Afterburner重新开启后应用
+#end 
+
+#src On-Screen Display server
+#dst OSD 服务器
+#end 
+
+#src Active client(s)
+#dst 已启动客户端
+#end 
+
+#src server is not loaded
+#dst 服务器未加载
+#end 
+
+#src not detected
+#dst 未侦测到
+#end 
+
+#src Active 3D process
+#dst 已启动的3D程序
+#end 
+
+#src Additional server process has been loaded for the first time. The server is automatically loaded by MSI Afterburner as soon as you enable the functionality depending on it. Such functionality includes but not limited to automatic profiles management, screen capture, framerate monitoring and On-Screen Display rendering. When the server is loaded, you may check which MSI Afterburner modules are connected to it as the clients by clicking <i> button.
+#dst 额外的服务器程首度被加载，只要启动此功能，服务器会自动被MSI Afterburner加载。已功能包括但不限于: 自动设定值管理、FPS监控和OSD显示。当服务器被加载，你可以按<i>按钮检查有哪些MSI Afterburner模块被加载。
+#end 
+
+#src Profile %d applied
+#dst 应用设定值 %d 
+#end 
+
+#src Profile %d loaded
+#dst 加载设定值 %d
+#end 
+
+#src Profile %d deleted
+#dst 删除设定值 %d
+#end 
+
+#src Profile %d saved
+#dst 储存设定值 %d
+#end 
+
+#src GPU%d selected
+#dst GPU %d 已选定
+#end 
+
+#src MSI Afterburner%s hardware monitor
+#dst MSI Afterburner%s 硬件监控
+#end 
+
+#src framerate monitoring module
+#dst 帧率监控模块
+#end 
+
+#src On-Screen Display module
+#dst OSD 模块
+#end 
+
+#src automatic profiles manager
+#dst 自动设定值管理
+#end 
+
+#src screen capture module
+#dst 屏幕抓图模块
+#end 
+
+#src You've activated user defined software automatic fan control mode for the first time. Please take a note that you can redefine the fan speed curve for this mode via advanced MSI Afterburner properties. Do you want to go to advanced properties and edit the curve right now?
+#dst 你已首度启动用户自定软件自动风扇控制模式，请注意你可以在进阶MSI Afterburner设定下重新定义风扇转速图表，你要现在前往进阶设定并编辑图表吗?
+#end 
+
+#src Warning! You are trying to display too many text information in the On-Screen Display. Displayed text will be truncated causing some information to be lost, it is recommended to disable On-Screen Display output for some unnecessary hardware monitoring graphs. Do you want to do it right now?
+#dst 警告!你正试着在OSD显示太多文字信息，显示的文字会被截短，造成部分信息流失。建议在OSD上关闭某些不必要的硬件监控信息，你要现在做吗?
+#end 
+
+#src in %s
+#dst 在%s
+#end 
+
+#src Not assigned
+#dst 不指定
+#end 
+
+#src empty
+#dst 未定义
+#end
+
+#src Graph
+#dst 图表
+#end 
+
+#src Properties
+#dst 设定
+#end 
+
+#src Min
+#dst 最低
+#end 
+
+#src Max
+#dst 最高
+#end 
+
+#src About %s
+#dst 关于 %s
+#end 
+
+#src expires on %s
+#dst 在 %s 过期
+#end
+
+#src Hardware monitor is paused
+#dst 硬件监控已暂停
+#end
+
+#src %s localization creator
+#dst %s 语言汉化作者
+#end
+
+#src MSI Afterburner %s localization feedback
+#dst MSI Afterburner %s 语言汉化回应
+#end
+
+#src Profiles modification locked
+#dst 自定义设定修改锁定
+#end
+
+#src Profiles modification unlocked
+#dst 自定义设定修改解锁
+#end
+
+#src Resource file copy has been successfully saved to %s!
+#dst 资源文件复制已成功储存至 %s!
+#end
+
+#src Failed to save resource file copy to %s!
+#dst 无法储存数据文件复制到 %s!
+#end
+
+#src Log session started
+#dst 日志记录运行中
+#end
+
+#src Log session terminated due to write failure
+#dst 由于写入失败日志记录终止
+#end
+
+#src Log session terminated due to user request
+#dst 由于用户原因日志记录终止
+#end
+
+#src Log session terminated due to log size overflow
+#dst 由于数据溢出日志记录终止
+#end
+
+#src Logging to %s (%I64u bytes)
+#dst 记录到 %s (%I64u bytes)
+#end
+
+#src RivaTuner hardware monitoring log files (*.hml)|*.hml|All files (*.*)|*.*||
+#dst RivaTuner的硬件监控日志记录文件 (*.hml)|*.hml|All files (*.*)|*.*||
+#end
+
+#src compiled on %d-%m-%Y %H:%M:%S
+#dst 编制  %d-%m-%Y %H:%M:%S
+#end
+
+#src Voltage defaults captured
+#dst 获取默认电压
+#end
+
+#src Failed to initialize hotkey handler, global hotkeys will not function properly!
+#dst 自定义热键无法初始化失败,全局热键将无法使用!
+#end
+
+#src Please select target folder for screen capture
+#dst 请选择目标文件夹保存截图.
+#end
+
+#src CTaskSchedulerInterface::%s failed with error code %d!
+#dst CTaskSchedulerInterface::&s 加载失败错误代码 %d!
+#end
+
+#src Beta %d
+#dst 测试 %d
+#end
+
+#src On-Screen Display Server is blocked
+#dst OSD服务器被阻止
+#end
+
+#src Screenshot captured
+#dst 截图
+#end
+
+#src Please select target folder for video capture
+#dst 请为视频录制选择目录文件夹
+#end
+
+#src video capture module
+#dst 视频录制模块
+#end
+
+#src %d%% quality
+#dst %d%% 画质
+#end
+
+#src Framerate %d FPS
+#dst 帧率 %d FPS
+#end
+
+#src External profile applied
+#dst 应用外部配置文件
+#end
+
+#src There is no new version available at this time. Currently installed version is up to date.
+#dst 现在没有可以更新的版本.目前已安装了最新版本.
+#end
+
+#src MSI Afterburner v%s is available for download. Do you want to open the download page now?
+#dst MSI Afterburner V%s 现在可供下载.是否想跳转到下载页面?
+#end
+
+#src Cannot retrieve update information from the update server!
+#dst 无法获取更新服务器上的更新信息!
+#end
+
+#src Cannot establish connection with the update server!
+#dst 无法连接到更新服务器!
+#end
+
+#src cannot open internet connection
+#dst 无法连接到网络
+#end
+
+#src cannot open server connection
+#dst 无法连接到服务器
+#end
+
+#src cannot open HTTP request
+#dst 无法返回HTTP请求
+#end
+
+#src cannot send HTTP request
+#dst 无法发送HTTP请求
+#end
+
+#src cannot query HTTP info
+#dst 无法查询HTTP信息
+#end
+
+#src proxy authentification required
+#dst 认证代理需求
+#end
+
+#src cannot read file
+#dst 无法读取文件
+#end
+
+#src unknown reason %d
+#dst 未知原因 %d
+#end
+
+#src Reason : %s, error code %d
+#dst 原因: %s,错误代码 %d
+#end
+
+#src Last checked on %A, %B %d, %Y, %H:%M:%S
+#dst 最后检查在 %A, %B %d, %Y, %H:%M:%S
+#end
+
+#src Warning! This version expires on %A, %B %d, %Y, %H:%M:%S!
+#dst 警告!这个版本将在 %A, %B %d, %Y, %H:%M:%S 后过期!
+#end 
+
+#src Clock limits have been extended. Please reboot the PC in order to apply the changes.
+#dst
+#end
+
+#src Clock limits have been restored. Please reboot the PC in order to apply the changes.
+#dst
+#end
+
+#src It is strongly recommended to reboot the PC in order to detect default settings properly. Do you want to reboot it right now? Answer NO to detect default settings without rebooting the PC.
+#dst
+#end
+
+#src Framerate limit %d FPS
+#dst
+#end
+
+#src %d FPS
+#dst
+#end
+
+#src Framerate limit disabled
+#dst
+#end
+
+#src Power limit %s
+#dst
+#end
+
+#src VFW compression : %s
+#dst
+#end
+
+#src not configured
+#dst
+#end
+
+#src Please configure VFW compression or select different video format.
+#dst
+#end
+
+#src Assigned hotkeys
+#dst
+#end 
+
+#src Profile 1
+#dst
+#end 
+
+#src Profile 2
+#dst
+#end 
+
+#src Profile 3
+#dst
+#end 
+
+#src Profile 4
+#dst
+#end 
+
+#src Profile 5
+#dst
+#end 
+
+#src Toggle OSD
+#dst
+#end 
+
+#src Show OSD
+#dst
+#end 
+
+#src Hide OSD
+#dst
+#end 
+
+#src Block OSD Server
+#dst
+#end 
+
+#src Capture screenshot
+#dst
+#end 
+
+#src Capture video
+#dst
+#end 
+
+#src Push-To-Talk 1
+#dst
+#end 
+
+#src Push-To-Talk 2
+#dst
+#end 
+
+#src VDDC controller
+#dst
+#end
+
+#src MVDDC controller
+#dst
+#end
+
+#src AUX controller
+#dst
+#end
+
+#src %s on I2C bus %d, device %02Xh
+#dst
+#end
+
+#src The changes you've made will be applied after rebooting the PC.  Do you want to reboot it now?
+#dst
+#end
+
+#src Registry key
+#dst
+#end
+
+#src Path
+#dst
+#end
+
+#src %SERVERPRODUCTNAME% installation has been detected. It will be able to provide additional functionality to %PRODUCTNAME% after restarting the application.  Do you want to restart it now?
+#dst
+#end
+
+#src Version
+#dst
+#end

@@ -1,0 +1,6 @@
+Salvar perfil
+Inicie o processo de criação de perfis. Quando este botão for pressionado todos os botões dos perfis ficarão piscando indicando que o processo já começou. Pressione qualquer um dos cinco botões enquanto estiverem piscando para salvar as configurações atuais de tensão, velocidade da ventoinha e frequências no perfil selecionado. 
+
+Sugestões: 
+- Você pode abortar o processo pressionando a tecla <Esc>. Restaurar as configurações padrão usando o botão <Reset> também cancela o processo. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,6 @@
+Interface de acesso de baixo nível ao hardware 
+Permite ao %PRODUCTNAME% aplicar o modo de baixo nível de acesso ao hardware gráfico. Acesso de baixo nível fornece uma implementação mais eficaz de monitoramento do hardware e amplia as possibilidades de monitoramento e controlde do hardware para além dos limites do driver da placa de vídeo. No entanto, quando o acesso de baixo nível está em uso, alguns programas em execução (por exemplo, cliente Punkbuster de Battlefield: Bad Company 2) podem sofrer sérios problemas de estabilidade devido ao acesso não autorizado de mapeamento do hardware nos intervalos da memória. 
+Você pode usar esta opção para solucionar essas questões, mas também irá reduzir a performance do módulo de monitoramento e alguns controles e recursos serão perdidos. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

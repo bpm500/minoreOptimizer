@@ -1,0 +1,9 @@
+Mostrar en pantalla 
+Muestra los datos del gráfico seleccionado en la pantalla (OSD).
+
+Sugenrencias:
+- Debes activar y seleccionar un gráfico para tener acceso a esta opción.
+_ Esta opción puede tener impacto en el rendimineto del sistema, dado que necesita recursos tanto de la CPU como de la GPU. Trata de deshabilitar gráficas innecesarias para minimizar el impacto en el rendimiento.
+- Al habilitar esta opción se ejecutarán procesos adicionales en memoria, el servidor de visualización en pantalla. Este servidor seguirá ejecutando hasta que se deshabilite la opción de mostrar en pantalla de todas los gráficos.
+- Puedes mantener presionada la tecla <Shift> mientras cambias la opción para realizar el cambio en todos los gráficos de una vez. 
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

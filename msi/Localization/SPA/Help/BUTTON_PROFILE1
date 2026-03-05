@@ -1,0 +1,12 @@
+Perfil 1
+Guarda voltaje aplicado actual, velocidad de relojes y ajustes de ventilador en el perfil 1, carga o borra ajustes del perfil 1.
+
+Sugerencias:
+- Puede presionar el botón <Guardar> y luego este botón cuando está intermitente para guardar los ajustes actuales en el perfil 1. Todos los perfiles de todas las GPUs instaladas en el sistema son guardados de forma síncrona.
+- Puede guardar los ajustes actuales al perfil 1 vacío, o borrarlo haciendo click con el botón derecho del ratón en este botón.Todos los perfiles de todas las GPUs instaladas en el sistema son guardados de forma síncrona.
+- Puede guardar los ajustes actuales al perfil 1 vacío, o borrarlo presionado las teclas <Ctrl> + <1> del teclado.Todos los perfiles de todas las GPUs instaladas en el sistema son guardados de forma síncrona.
+- Puede cargar el perfil para GPU principal desde el perfil 1 haciendo click en este botón.
+- Puede cargar el perfil para la GPU principal desde el perfil 1 presionando la tecla <1> del teclado.
+- Puede cargar y aplicar de forma automática los perfiles utilizando el icono de la bandeja de sistema o asignar atajos de teclado a cada perfil en la ventana de propiedades avanzadas. Los perfiles son cargados y aplicados de forma síncrona a todas las GPUs instaladas en el sistema.
+- Puede user la gestión automátcia de perfiles y asignar diversos perfiles para aplicaciones 2D y 3D utilizando la solapa <Perfiles> de la ventana de propiedades avanzadas. Los perfiles asignados serán cargados y aplicados de forma automática a todas las GPUs instaladas en el sistema basado en el cambio de estado 2D/3D.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

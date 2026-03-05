@@ -1,0 +1,7 @@
+Zresetowac
+Resetuje glówne procesory GPU do ustawien domyslnych.
+
+Wskazówki:
+- Gdy tryb synchronizacji ustawien GPU jest wlaczony w <General>tab w zaawansowanych wlasciwosciach, wszelkie zmiany zastosowane do glównego GPU sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie.
+- Mozesz nacisnac klawisze <Ctrl>+ <D>, aby zresetowac glówny procesor graficzny do ustawien domyslnych z klawiatury.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

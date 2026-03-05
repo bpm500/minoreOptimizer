@@ -1,0 +1,9 @@
+Layar On-Screen Server blocking
+Beberapa fungsi %PRODUCTNAME%, seperti monitor framerate, layar rendering On-Screen, merekam layar dan manajemen profil otomatis tergantung pada proses %SERVERPRODUCTNAME%. Maka dari itu %SERVERPRODUCTNAME% akan otomatis diluncurkan oleh %PRODUCTNAME% setelah anda melakukan aktivasi dari list fitur diatas.
+Namun, beberapa sistem anticheat dapat memblokir koneksi kepada game server ketika %SERVERPRODUCTNAME% berjalan.
+Untuk mempermudah problem diagnostic anda bisa menggunakan hotkey untuk sementara melakukan block %SERVERPRODUCTNAME% dan unload dari memory . Harap diingat setiap fungsi tergantung pada server akan berhenti berjalan ketika server di blok atau di unload.
+
+Petunjuk:
+- Beberapa aplikasi seperti (F.E.A.R.) akan melakukan blok hotkey.
+- Beberapa kombinasi hotkey seperti (<1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> dan <Ctrl>+<D>) sudah terdaftar dan tidak bisa digunakan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

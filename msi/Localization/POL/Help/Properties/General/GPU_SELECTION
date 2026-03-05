@@ -1,0 +1,6 @@
+Lista procesorów graficznych
+Wyswietla liste procesorów graficznych zainstalowanych w systemie i umozliwia wybór glównego procesora graficznego. Wszystkie dostosowania gpu, które wykonujesz w glównym oknie aplikacji, sa stosowane do glównego procesora graficznego i opcjonalnie do wszystkich podobnych procesorów graficznych zainstalowanych w systemie, jesli wlaczona jest opcja synchronizacji ustawien sasiedniego procesora graficznego.
+
+Wskazówki:
+- Always apply the changes you've made in the main application window before switching to a new master GPU. Any unapplied GPU settings are lost on new master GPU selection.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

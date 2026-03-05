@@ -1,0 +1,6 @@
+Este plugin permite ao %PRODUCTNAME% importar quaisquer fontes de dados de monitoramento do programa AIDA64.
+
+Sugestões:
+- Se o AIDA64 estiver instalado em seu sistema, será automaticamente iniciado quando este plug-in estiver ativo.
+- A opção [b]Ativar memória compartilhada[/b] deve estar marcada no AIDA64 na guia [b]Arquivo\Preferências\Monitoramento de hardware\Aplicações externas[/b] para permitir que o %PRODUCTNAME% importe os dados.
+- Você pode personalizar a lista de fontes de dados importadas clicando em [b]Configurar[/b].

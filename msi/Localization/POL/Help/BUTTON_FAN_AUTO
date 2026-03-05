@@ -1,0 +1,9 @@
+Automatycznie
+Umozliwia sterowanie glówna predkoscia wentylatora GPU, aby byc automatycznym lub recznym.
+
+Wskazówki:
+- Gdy tryb synchronizacji ustawien GPU jest wlaczony w <General>tab w zaawansowanych wlasciwosciach, wszelkie zmiany zastosowane do glównego GPU sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie.
+- Kontrola predkosci wentylatora nie jest dostepna, jesli karta graficzna nie jest wyposazona w uklad kontrolera wentylatora i (lub) sterowany system chlodzenia.
+- W zaleznosci od tego, <Uzyk zdefiniowac> stan przycisku, automatyczna regulacja predkosci wentylatora jest wykonywana na poziomie sprzetowym przez dedykowany uklad kontrolera wentylatora lub na poziomie oprogramowania przez %PRODUCTNAME%. 
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.
+

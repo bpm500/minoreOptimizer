@@ -1,0 +1,5 @@
+Mostrar sugerencias en la interfaz de usuario, en el área de monitorización de hardware.
+Permite mostrar sugerencias en el área de monitorización de hardware. Estas sugerencias muestran información sobre la carga de perfiles y otros eventos que se producen en la aplicación.
+
+Sugerencias:
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

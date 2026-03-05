@@ -1,0 +1,7 @@
+Übernehmen
+Übernimmt die aktuellen Einstellungen der primären GPU.
+
+Hinweise:
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- Vergessen Sie nicht, Ihre Änderungen zu übernehmen, bevor Sie eine andere primäre GPU auswählen. Alle nicht übernommenen Einstellungen gehen bei der Auswahl einer neuen primären GPU verloren.
+- Tooltips können in den erweiterten Eigenschaften des Programms auf der Registerkarte <Schnittstelle> deaktiviert werden.

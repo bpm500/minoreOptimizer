@@ -1,0 +1,5 @@
+Overclocking scanner
+Performs automated graphics card overclocking and stability testing by means of NVIDIA OC Scannner technology.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

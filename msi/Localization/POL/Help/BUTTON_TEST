@@ -1,0 +1,7 @@
+Kombustor
+Wykonuje testy stabilnosci karty graficznej za pomoca MSI Kombustor. MSI Kombustor to opcjonalny oddzielnie instalowany i do pobrania modul testujacy stabilnosc karty graficznej zasilany technologia FurMark. 
+
+Wskazówki:
+- Ten przycisk jest nieaktywny, jesli MSI Kombustor nie jest zainstalowany, odwiedz https://msi.com/page/afterburner, aby pobrac i zainstalowac najnowsza wersje MSI Kombustor.
+- Prosze pamietac, ze testowanie stabilnosci nie jest nauka scisla, wiec nie ma absolutnie idealnego i 100% wiarygodnego zastosowania do testowania stabilnosci. Wiec uzywac Kombustor jako pomocnik podczas podkrecania systemu, ale zawsze pamietaj, aby dokladnie sprawdzic wyniki z prawdziwych aplikacji 3D.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

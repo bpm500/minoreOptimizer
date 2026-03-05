@@ -1,0 +1,5 @@
+Localization creator
+Displays information about the creator of localization for currently selected user interface language.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

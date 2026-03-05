@@ -1,0 +1,9 @@
+Automático
+Permite controlar la velocidad del ventilador del procesador gráfico principal de forma automática o manual.
+
+Sugerencias:
+- Cuando el modo de sincronización entre procesadores gráficos está habilitado en la solapa <General>, de las propiedades avanzadas, cualquier cambio en los ajustes del procresador gráfico principal será aplicado a todos los procesadores gráficos similares instalados en el sistema.
+- El control automático del ventilador no está disponible en aquellas tarjetas gráficas que no lo permitan. Es necesaria la presencia de un sistema de refrigeración o de ventilador controlable vía software.
+- Dependiendo del estado del botón <Definido por usuario>, el control del ventilador es realizado a nivel de software por %PRODUCTNAME% o a nivel de hardware por el controlador de ventilador de la propia tarjera gráfica. 
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.
+

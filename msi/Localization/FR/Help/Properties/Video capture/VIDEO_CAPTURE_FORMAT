@@ -1,0 +1,11 @@
+Format Vidéo
+Permet de choisir le format de capture vidéo. Dépendant de vos préférences, vous pouvez sélectionner les formats suivants:
+
+- Non compressé - la vidéo est encodée au format raw sans compression aucune. Pas de codec nécessaire pour lire ces vidéos. Veuillez noter que vous avez besoin d'un accès disque vraiment très rapide pour encoder les vidéos en haute résolution au format non compressé sans chute d'images par seconde, ex: pour encoder une vidéo non compressée en résolution 1680x1050 a 30 images par seconde vous avez besoin d'un accès disque de 150MB/s (1680*1050*3*30). 
+- Compression RTV1 - la vidéo est encodée au format vidéo RivaTuner V1. L'installation du codec RivaTuner est requis pour jouer les vidéos encodées dans ce format. Le format vidéo RivaTuner V1 est une compression avec pertes basé sur la compression hybride DXT1 et RLE avec un ratio de compression de 6x ou plus. L'encodeur RTV1 est capable d'encoder les vidéos haute résolution à haut frame rate sans consommer trop de temps CPU, donc ce format est recommandé pour les systèmes simple core ou dual core lent.
+- Compression MJPG - la vidéo est encodée au format vidéo MJPG. Pas besoin d'installer de codecs pour jouer les vidéos encodées dans ce format, ces vidéos devraient être jouable sur différentes plateformes et même sur des media players. 
+Le format de compression MJPG vous donne le meilleur ratio de compression mais requier des CPU's multicore rapides pour encoder les vidéos en haute résolution sans baisse de framerate. Egalement, gardez à l'esprit que vous pouvez tuner le facteur de compression/qualité.
+- Compression VFW - la vidéo est encodée au format vidéo externe VFW. L'installation de codecs externes est requis pour encoder et jouer la vidéo. Il est recommandé de charger, installer et utiliser le codec lossless Lagarith pour la capture vidéo lossless ou x264vfw pour le meilleur ratio de compression, %PRODUCTNAME% a été développé pour donner la meilleure compatibilité avec ces codecs.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

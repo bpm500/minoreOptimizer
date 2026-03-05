@@ -1,0 +1,7 @@
+Geheugen klok (Memory clock).
+Dit laat de geheugen klok van de primaire grafische kaart(GPU) zien.
+
+Hint:
+- Wanneer de synchroniseer mode is ingesteld worden de aangepaste waarden toegepast op alle gelijke GPU's.
+- Je kan in het aanpas veld onmiddelijk een waarde in tikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

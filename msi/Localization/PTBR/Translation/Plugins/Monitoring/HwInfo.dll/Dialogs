@@ -1,0 +1,60 @@
+#src HwInfo plugin settings
+#dst Ajustes do plugin HwInfo 
+#end
+#src Active data sources
+#dst Fontes de dados ativas
+#end
+#src Add
+#dst Adicionar
+#end
+#src Remove
+#dst remover
+#end
+#src Defaults
+#dst Padrões
+#end
+#src Setup
+#dst Configurar
+#end
+
+#src Data source settings
+#dst Ajustes da fonte de dados
+#end
+#src HwInfo sensor properties
+#dst Propriedades do sensor HwInfo
+#end
+#src Type
+#dst Tipo
+#end
+#src Instance
+#dst Instância
+#end
+#src Name
+#dst Nome
+#end
+#src Plugin data source properties
+#dst Propriedades da fonte de dados do plugin
+#end
+#src Units
+#dst Unidade
+#end
+#src Format
+#dst Formato
+#end
+#src Group
+#dst Grupo
+#end
+#src Range
+#dst Limites
+#end
+
+
+#src Add new data source(s)
+#dst Adicionar nova(s) fonte(s) de dados
+#end
+#src Available HwInfo sensors
+#dst Sensores HwInfo disponíveis
+#end
+#src Export
+#dst Exportar
+#end

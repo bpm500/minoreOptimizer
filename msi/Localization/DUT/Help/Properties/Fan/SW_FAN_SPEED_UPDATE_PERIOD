@@ -1,0 +1,9 @@
+Actualiserings periode van de ventilator snelheid.
+Dit past de actualiserings periode van de gedefinieerde ventilator controle mode aan.
+
+Hint:
+Deze gebruikers gedefinieerde ventilator controle mode is niet absoluut vrij in termen van performance , wanneer u stuttering merkt of ander effecten in een 3D toepassing probeer dan deze mode uit te schakelen om te zien of %PRODUCTNAME% dit probleem veroorzaakt.
+Schakel dan de gedefinieerde ventilator controle mode uit door op <User define> knop te drukken in het hoofdvenster.
+Ervaren gebruikers kunnen rechts klikken op het toezicht venster en het <Show status> comando te selecteren.
+Dit laat het cpu gebruik zien voor verschillende achtergrond processen zoals ventilator snelheid actualisering.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

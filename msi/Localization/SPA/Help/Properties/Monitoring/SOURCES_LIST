@@ -1,0 +1,9 @@
+Lista de gráficos de monitorización del hardware
+Despliega la lista de gráficos disponibles para la monitorización del hardware, permite la selección del orden de los mismos y su activación.
+
+Sugerencias:
+- La marca cercana a cada gráfico activa el mismo, Los gráficos activos son mostrados en la ventana de monitorización. Evita la activación de gráficos innecesarios o de poca utilidad para minimizar el impacto en el rendimiento del sistema.
+- La activación de <Velocidad de fotogramas> causará la ejecución del servidor de Visualización en pantalla (OSD) de forma automática. El seridor proporciona los datos al grádfico y no puede ser parado hasta que el gráfico sea desactivado.
+- Puedes seleccinar un gráfico y arrastrarlo para variar el orden de los gráficos.
+- Puedes hacer click en un gráfico para seleccionarlo y modificar sus propiedades. El gráfico debe estar activado para modificar las propiedades.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

@@ -1,0 +1,6 @@
+Restaurar modo de exibição no overclocking não oficial 
+Devido a um bug nos drivers AMD Catalyst, o mostrador pode piscar após a aplicação de overclocking não oficial na mudança de modo de exibição. Você pode ativar essa opção como uma solução alternativa para forçar o modo de exibição a ser reestabelecido após a aplicação de overclocking não oficial. 
+
+Sugestões: 
+- Esta opção somente será ativada se houver pelo menos uma placa de vídeo da AMD instalada no sistema.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

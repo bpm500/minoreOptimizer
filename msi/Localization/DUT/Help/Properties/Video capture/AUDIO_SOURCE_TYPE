@@ -1,0 +1,17 @@
+Audio bron type
+Staat toe om het audio bron type te selecteren. De volgende audio bron types zijn beschikbaar.
+
+-Auto selectie - Selecteerd de audio bron naar gelang de instelling volgens de OS versie. In deze mode wordt de audio stroom opgenomen via de standaard DirectSound opname apparaat onder WIndows XP of via de standaard WASAPI afspeel apparaat onder Windows Vista en nieuwere OS.
+
+-DirectSound opnamen apparaten - Neemt de audio stroom op via DirectSound apparaten. Onder Windows XP DirectSound apparaten zijn hardwarematig versnelt, dus deze mode geeft de beste audio opnamen prestatie door de hardware geluid menging en loopback opname implementatie.
+Maar sinds Windows Vista is DirectSound geëmuleerd via WASAPI en daarom is het aangeraden om gebruik te maken van de oorspronkelijke WASAPI apparaten voor audio opnamen onder Windows Vista en nieuwere OS.
+
+-WASAPI afspeel apparaten - neemt de audio stroom enkel op via WASPI apparaten ( enkel voor Windows Vista en nieuwer OS).
+In tegenstelling tot DirectSound staat WASAPI toe om meer kanaals audio (multichannel audio) op te nemen door de audio stroom op te vangen voor dat deze door de audio driver en de afspeel apparaten gaat.
+Deze mode kan incompatible zijn met sommige toepassingen die alternatieve audio hardware versnelling instellingen gebruiken zoals OpenAL.
+
+-WASAPI opnamen apparaten - neemt de audio stroom enkel op via WASPI apparaten ( enkel voor Windows Vista en nieuwer OS).
+In tegenstelling tot DirectSound, kan WASAPI onafhankelijk input en output audio stromen opnemen, dit staat u toe om onafhankelijke audio stromen op te nemen van output apparaten (bv: microfoon). Je kan deze mode gebruiken om audio stromen op te nemen komende van input apparaten indien nodig.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

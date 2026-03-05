@@ -1,0 +1,6 @@
+Toon systeem tijd.
+Dit staat toe om de tijd zien in "informatie op het scherm"(OSD).
+
+Hint:
+- Deze optie zorgt ervoor dat de "%SERVERPRODUCTNAME%" mee opstart.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

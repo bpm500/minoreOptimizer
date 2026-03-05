@@ -1,0 +1,8 @@
+Odblokuj monitorowanie napiêcia
+Odblokowuje monitorowanie napiecia, jesli jest obslugiwane przez sprzet. Unikaj odblokowywania monitorowania napiecia, jesli uzywasz innego oprogramowania do monitorowania napiecia.
+
+Wskazówki:
+- Moze to byc niebezpieczne, aby uruchomic wiele aplikacji dostepu do regulatorów napiecia karty graficznej jednoczesnie. Zablokuj te opcje, jesli nie masz pewnosci, ze w systemie nie ma takich aplikacji.
+- Monitorowanie napiecia jest dostepne w ograniczonym zestawie modeli kart graficznych wyposazonych w programowalne moduly regulatora napiecia obslugujace odczyt napiecia docelowego w czasie wykonywania. Nie wszystkie adaptery wyswietlaczy obslugujace regulacje napiecia obsluguja odczyt napiecia wyjsciowego w czasie pracy. Zapoznaj sie z dokumentacja, aby uzyskac pelna liste modeli kart graficznych obslugujacych monitorowanie napiecia.
+- Ponowne uruchomienie %PRODUCTNAME% jest wymagane do zastosowania zmian po przelaczenie tej opcji.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

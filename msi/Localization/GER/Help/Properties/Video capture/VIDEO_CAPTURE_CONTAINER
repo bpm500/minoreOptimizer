@@ -1,0 +1,8 @@
+Video-Containerformat
+wählt das Video-Containerformat aus. Folgende Video-Containerformate werden unterstützt:
+
+- AVI (Audio Video Interleave) ist ein Video-Containerformat, das Anfang der 1990er Jahre von Microsoft eingeführt wurde. AVI ist weit verbreitet und wird von jedem Videoplayer unterstützt. Allerdings ist die Architektur ziemlich alt, sodass einige moderne Videokomprimierungsstandards (wie H.264/AVC) besser in fortgeschrittenere Video-Containerformate passen.
+- MKV (Matroska) ist ein modernes, flexibles Video-Containerformat, das 2002 eingeführt wurde. Im Gegensatz zu AVI unterstützt MKV nativ die Zeitstempelung von Video- und Audio-Frames, sodass das Risiko von Audio-/Video-Synchronisierungsproblemen während der Videowiedergabe minimiert wird. Allerdings kann die Unterstützung von MKV in einigen Videoplayern eingeschränkt sein.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

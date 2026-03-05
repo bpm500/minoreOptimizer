@@ -1,0 +1,5 @@
+Steuerung und Überwachung der Grafikhardware aktivieren
+Ermöglicht die Steuerung und Überwachung der Grafikhardware zu deaktivieren. Dies kann nützlich sein, wenn Sie %PRODUCTNAME% nur für die Bildratenüberwachung und zur Videoaufnahme verwenden wollen, aber nicht riskieren wollen den Computer versehentlich zu übertakten. Die Deaktivierung beschleunigt auch ein bisschen den Start der Anwendung.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

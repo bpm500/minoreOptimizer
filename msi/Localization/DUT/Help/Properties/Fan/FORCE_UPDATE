@@ -1,0 +1,6 @@
+Forceer ventilator snelheid vernieuwing elke periode
+Standaard wordt de ventilator snelheid enkel aangepast door de software wanneer de ventilator snelheid moet veranderen naar gelang de temperatuurs veranderingen.
+Dit heeft de minste impact op de cpu performance. Maar het is mogelijk dat sommige slechte beeldscherm drivers deze ventilator controle kunnen verstoren en zo de ventilator snelheid verstoren tot de GPU temperatuur verandert. In dat geval kan je deze optie gebruiken zodat de ventilator snelheid wordt vernieuwd bij elke periode.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

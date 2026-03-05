@@ -1,0 +1,6 @@
+Enable low-level hardware access interface
+Allows %PRODUCTNAME% to use low-level driver for accessing graphics hardware. Low-level access provides the most effective hardware monitoring implementation and extends hardware monitoring and control possibilities beyond the limits of graphics card drivers. However, when low-level access to hardware is in use some badly designed system applications (e.g. infamous Punkbuster client for Battlefield : Bad Company 2) may cause serious stability issues due to their unauthorized access to hardware mapped memory ranges. 
+You may use this option to troubleshoot such issues, but it will also reduce performance of hardware monitoring module and some hardware monitoring or control features will be lost.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,10 @@
+Tensão Auxiliar 2
+Ajusta a tensão auxiliar 2 da GPU principal. Dependendo do modelo da placa de vídeo, a tensão pode ser representada como um valor absoluto ou como uma variação da tensão base. Valores assinalados com um + representam as variações originais de tensão enquanto os valores não assinalados representam o valor absoluto.
+
+Sugestões:
+- A tensão auxiliar 2 auxlia a tensão 1.8V GDDR5X em algumas placas de vídeo da MSI.
+- Por razões de segurança, o controle de tensão está bloqueado por padrão. Se você compreende e aceita os riscos de sua utilização, pode desbloqueá-lo nas propriedades gerais.
+- Quando o modo de sincronização entre GPUs semelhantes estiver habilitado em <Geral>, as alterações nas configurações da placa de vídeo principal serão aplicadas às outras placas similares instaladas no sistema.
+- O controle de tensão está disponível em um númmero limitado de modelos de placas de vídeo que são equipadas com módulo de regulação de tensão programável. Consulte os modelos que suportam a regulação de tensão.
+- Você pode clicar na caixa de texto ao lado e inserir o valor desejado diretamente.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

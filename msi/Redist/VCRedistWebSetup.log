@@ -1,0 +1,12 @@
+20-10-2025, 00:46:21 Starting "E:\приложения\MSI Afterburner\Redist\VCRedistWebSetup.exe" /I /Q 2022
+20-10-2025, 00:46:21 Downloading https://aka.ms/vs/17/release/vc_redist.x86.exe to vc_redist.x86.exe
+20-10-2025, 00:46:22 Download succeeded, 13953392 bytes downloaded, MD5 99f52708b06b9c695a8d64a44740bf08
+20-10-2025, 00:46:22 Spawning redistributable installer "E:\приложения\MSI Afterburner\Redist\vc_redist.x86.exe" /Q /NORESTART
+20-10-2025, 00:46:23 Redistributable installer returned exit code 0
+20-10-2025, 00:46:23 Terminating with exit code 0
+20-10-2025, 00:46:23 Starting "E:\приложения\MSI Afterburner\Redist\VCRedistWebSetup.exe" /I /Q 2022_x64
+20-10-2025, 00:46:23 Downloading https://aka.ms/vs/17/release/vc_redist.x64.exe to vc_redist.x64.exe
+20-10-2025, 00:46:24 Download succeeded, 25635768 bytes downloaded, MD5 486f81facf798678c3244c7cf35a557f
+20-10-2025, 00:46:24 Spawning redistributable installer "E:\приложения\MSI Afterburner\Redist\vc_redist.x64.exe" /Q /NORESTART
+20-10-2025, 00:46:25 Redistributable installer returned exit code 0
+20-10-2025, 00:46:25 Terminating with exit code 0

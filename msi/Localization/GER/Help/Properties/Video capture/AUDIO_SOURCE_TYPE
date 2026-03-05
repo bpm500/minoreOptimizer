@@ -1,0 +1,12 @@
+Audioquellentyp
+Ermöglicht die Auswahl des Typs der Audioquelle. Sie können bis zu zwei unabhängige Audioquellen auswählen und im endgültigen Video zwei unabhängige Audiostreams aufnehmen. Folgende Typen sind verfügbar:
+
+- Automatische Auswahl: wählt automatisch die Audioquelle je nach Betriebssystemversion aus. In diesem Modus wird der Audiostream vom DirectSound-Soundaufnahme-Standardgerät unter Windows XP, vom WASAPI-Standardwiedergabegerät für Audioquelle 1 oder vom WASAPI-Standardaufnahmegerät für Audioquelle 2 ab Windows Vista aufgezeichnet.
+- DirectSound-Aufnahmegerät: erfasst Audiostreams von DirectSound-Aufnahmegeräten. Unter Windows XP sind DirectSound-Aufnahmegeräte hardwarebeschleunigt, sodass dieser Modus aufgrund der Implementierung von Hardware-Soundmischung und Loopback-Aufnahme die beste Audioaufnahmeleistung bietet.
+DirectSound ist jedoch seit Windows Vista veraltet und wird über WASAPI emuliert. Deshalb wird empfohlen, native WASAPI-Geräte für die Audioaufnahme ab Windows Vista zu verwenden.
+- WASAPI-Wiedergabegerät: erfasst Audiostreams über WASAPI-Wiedergabegeräte (erst ab Windows Vista). Im Gegensatz zu DirectSound ermöglicht WASAPI das Abfangen eines rohen Mehrkanal-Audiostreams, bevor er an Audiotreiber und Wiedergabegeräte weitergeleitet wird. Dadurch wird eine einheitliche, vom Audiotreiber unabhängige Loopback-Aufzeichnungsimplementierung bereitgestellt, mit der Mehrkanal-Audio aufgezeichnet werden kann.
+Bitte beachten Sie, dass dieser Modus möglicherweise nicht mit einigen Anwendungen kompatibel ist, die alternative hardwarebeschleunigte Audioschnittstellen wie OpenAL verwenden.
+- WASAPI-Aufnahmegerät: erfasst Audiostreams über WASAPI-Aufnahmegeräte (erst ab Windows Vista). Im Gegensatz zu DirectSound kann WASAPI Eingangs- und Ausgangs-Audiostreams unabhängig voneinander erfassen, sodass Sie Audiostreams, die an Ausgabegeräten (z. B. Lautsprechern) ankommen und von Eingabegeräten (z. B. Mikrofonen) kommen, unabhängig voneinander aufzeichnen können. Sie können diesen Modus bei Bedarf zum Aufzeichnen von Audiostreams verwenden, die von Eingabegeräten kommen.
+
+Hinweise:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

@@ -1,0 +1,6 @@
+Synchroniseer instelling voor gelijke grafische kaarten (GPU's).
+Dit staat synchrone of onafankelijke GPU instellingen toe. Wanneer u deze optie markeert gaan alle gelijke GPU's de gemaakte aanpassingen toepassen.
+
+Hint:
+-Gelijke GPU's zijn gelijke modellen met dezelfde PCI DeviceID matching, dus enkel gelijke GPU's kunnen gesychroniseerd worden.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

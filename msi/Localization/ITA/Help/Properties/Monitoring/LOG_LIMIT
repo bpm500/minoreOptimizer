@@ -1,0 +1,8 @@
+Interrompere la registrazione quando la dimensione supera questo valore di registro
+Consente di definire un limite opzionale per le dimensioni massime del file di log. Quando il limite viene superato il processo di registrazione può essere automaticamente terminato.
+
+Consigli:
+- %PRODUCTNAME% salva la storia nel formato nativo del file di log di RivaTuner. È possibile utilizzare RivaTuner per visualizzare i file di log registrati con %PRODUCTNAME%.
+- La registrazione della storia del monitoraggio hardware non è assolutamente libera in termini di prestazioni, qualche ciclo di CPU è richiesto ad ogni iterazione di aggiornamento del registro per scaricare i dati su HDD.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

@@ -1,0 +1,10 @@
+#src Bulgarian
+#dst Български
+#end
+
+; this entry is displayed only when Bulgarian localization pack is selected, so
+; you don't have to translate it in your localization packs
+
+#src Dian Angelov aka Didopioneer
+#dst Диан Ангелов aka Didopioneer
+#end

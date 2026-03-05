@@ -1,0 +1,6 @@
+Alarm application command line
+Displays and allows editing command line parameters for external application to be launched on alarm. 
+
+Hints:
+- This option is affected by adjacent alarm timeout settings.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

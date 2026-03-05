@@ -1,0 +1,5 @@
+Mix multiple audio tracks
+When you select two audio sources, you can record two independent audio tracks in final video. However, you may enable this option to automatically mix independent audio tracks into single audio track. Volumes levels of all tracks are being normalized during mixing.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

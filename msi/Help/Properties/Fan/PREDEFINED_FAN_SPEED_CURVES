@@ -1,0 +1,6 @@
+Predefined fan speed curves
+Displays the list of predefined fan speed curves. The list always contains default curve and may optionally contain additional curves (such as silent or performance preset) for some custom design MSI graphics cards.
+
+Hints:
+- Software automatic fan speed curve is not affected by the profiles, it is a global setting for all GPUs installed in the system. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

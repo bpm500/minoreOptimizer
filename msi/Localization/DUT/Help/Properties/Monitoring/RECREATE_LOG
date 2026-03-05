@@ -1,0 +1,7 @@
+Recreëer bestaande log bestanden
+Staat toe om het recreëren van bestaande log bestanden bij elke nieuwe logging sessie wanneer dit is in geschakeld. Anders worden bestaande log bestanden vervangen door nieuwe toezicht logging sessies.
+
+Hint:
+- %PRODUCTNAME% slaat de geschiedenis op als een RivaTuner log bestandsoort. Je kan RivaTuner gebruiken om log bestanden te bekijken die je maakte met %PRODUCTNAME%.
+- Hardware toezicht logging geschiedenis is niet vrij van prestatie beinvloeding, CPU belasting is vereist om bij elke log vernieuwing de data naar de HDD te schrijven.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

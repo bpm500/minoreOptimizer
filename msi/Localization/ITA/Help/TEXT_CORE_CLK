@@ -1,0 +1,9 @@
+Frequenza core
+Visualizza l'attuale frequenza del core della GPU principale.
+
+Consigli:
+- Quando l'impostazione della modalità di sincronizzazione GPU è attivata nella scheda <Generale> in proprietà avanzate, qualsiasi modifica applicata alla GPU principale sarà applicata anche a tutte le GPU simili installate nel sistema.
+- Quando regolate la frequenza del core e dello shader in modo indipendente per favore ricordate che il minimo consentito di frequenza shader in rapporto al core è limitato dall'hardware. Un tentativo di guidare questo rapporto fuori dal campo può impedire alle frequenze di applicarsi.
+- È possibile fare clic sul campo adiacente per modificare direttamente il tipo di frequenza desiderata
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

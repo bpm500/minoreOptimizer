@@ -1,0 +1,5 @@
+Datenquelle
+Einige Hardwareüberwachungsdiagramme können ähnliche Daten von verschiedenen unabhängigen Datenquellen empfangen. Beispielsweise kann die CPU-Temperatur vom internen %PRODUCTNAME%-Datenanbieter von der CPU-Thermodiode und optional vom CPU-Sockelsensor über AIDA64- oder HwInfo-Plugins ausgelesen werden. In diesem Fall können Sie über diese Einstellung die gewünschte Datenquelle auswählen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

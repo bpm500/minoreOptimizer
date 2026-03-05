@@ -1,0 +1,6 @@
+Poka¿ czas systemowy
+Umozliwia wyswietlanie czasu systemowego na ekranie ekranowym.
+
+Wskazówki:
+- Wlaczenie tej opcji spowoduje automatyczne rozpoczecie dodatkowego procesu %SERVERPRODUCTNAME%. Serwer zapewnia uslugi renderowania na ekranie ekranowym dla aplikacji 3D i nie mozna go zwolnic, dopóki ta opcja nie zostanie wylaczona.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

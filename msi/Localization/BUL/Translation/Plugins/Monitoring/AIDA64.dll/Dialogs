@@ -1,0 +1,58 @@
+#src AIDA64 plugin settings
+#dst Настройки на плагина AIDA64
+#end
+#src Active data sources
+#dst Активни източници на данни
+#end
+#src Add
+#dst Добави
+#end
+#src Remove
+#dst Премахване
+#end
+#src Defaults
+#dst По подразбиране
+#dlu 100
+#end
+
+#src Data source settings
+#dst Настройка на източника на данни
+#end
+#src AIDA64 sensor properties
+#dst Свойства на сензора на AIDA64
+#end
+#src ID
+#dst Идентификатор
+#end
+#src Instance
+#dst Екземпляр
+#end
+#src Name
+#dst Име
+#end
+#src Plugin data source properties
+#dst Свойства на източника на данни на приставката
+#end
+#src Units
+#dst Единици
+#end
+#src Format
+#dst Формат
+#end
+#src Group
+#dst Група
+#end
+#src Range
+#dst Диапазон
+#end
+
+
+#src Add new data source(s)
+#dst Добавете нов източник на данни
+#end
+#src Available AIDA64 sensors
+#dst Достъпни сенсори на AIDA64
+#end
+#src Export
+#dst Експорт 
+#end

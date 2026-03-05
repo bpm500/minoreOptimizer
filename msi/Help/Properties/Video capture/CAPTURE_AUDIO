@@ -1,0 +1,6 @@
+Enable audio capture
+Allows audio stream to be captured and encoded into the resulting video file. 
+
+Hints:
+- In order to capture audio under Windows XP, please enable recording from <What U Hear> / <Stereo Mix> in sound mixer properties.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

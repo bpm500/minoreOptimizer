@@ -1,0 +1,8 @@
+Klawisz dostêpu przechwytywania wideo
+Umozliwia definiowanie globalnego skrótu klawiszowego do uruchamiania i zatrzymywania przechwytywania wideo.
+
+Wskazówki:
+- Wlaczenie tej opcji spowoduje automatyczne rozpoczecie dodatkowego procesu %SERVERPRODUCTNAME%. Serwer udostepnia uslugi przechwytywania wideo aplikacjom 3D i nie mozna go zwolnic, dopóki ta opcja nie zostanie wylaczona.
+- Niektóre aplikacje (np.
+- Niektóre kombinacje klawiszy skrótu (np. <1>... <5>, <Ctrl>+<1>... <Ctrl>+<5> i <Ctrl>+<D>) sa zastrzezone i nie mozna ich uzywac.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

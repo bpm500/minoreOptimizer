@@ -1,0 +1,8 @@
+Basculer le blocage du serveur de sur-impression
+Certaines fonctionnalités de %PRODUCTNAME%, comme le monitoring d'images par seconde, l'affichage en sur-impression, la capture d'écran et le management automatique des profils dépend d'un serveur additionnel %SERVERPRODUCTNAME%. C'est pourquoi le serveur %SERVERPRODUCTNAME% est automatiquement démarré par %PRODUCTNAME% dès que vous activez une fonctionnalité.
+Néanmoins, les systèmes anti triche de certains jeux en ligne pourrait réstreindre l'utilisation de la sur-impression et bloquer la connection vers le serveur de jeu quand le serveur %SERVERPRODUCTNAME% est lancé.
+Pour simplifier le diagnostic de tel problème, vous pouvez utiliser une touche pour bloquer temporairement le serveur %SERVERPRODUCTNAME% et le décharger de la mémoire même s'il est nécessaire pour la fonctionnalité de %PRODUCTNAME%. Veuillez noter que toutes les fonctionnalités dépendente du serveur ne fonctionneront plus tant que le serveur est bloqué et déchargé.
+
+Astuce:
+- Certaines combinaisons de touches (ex: <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) sont réservées et ne peuvent être utilisées.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

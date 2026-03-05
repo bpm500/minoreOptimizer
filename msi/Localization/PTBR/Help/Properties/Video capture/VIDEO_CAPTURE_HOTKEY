@@ -1,0 +1,15 @@
+Atalho de capturas de vídeo 
+Permite definir teclas de atalho para iniciar e interromper a gravação de vídeos. 
+
+Sugestões: 
+- Habilitar esta opção criará um processo adicional para o %SERVERPRODUCTNAME% a ser iniciado automaticamente. O servidor fornece serviços de captura de vídeo em aplicações 3D e não pode ser interrompido até que seja desativado.
+- Algumas combinações de teclas (por exemplo, <1> ... <5>, <Ctrl> + <1> ... <Ctrl> + <5> e <Ctrl> + <D>) são reservadas e não podem ser usadas. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.
+
+
+
+
+
+
+
+

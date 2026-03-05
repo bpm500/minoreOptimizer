@@ -1,0 +1,5 @@
+Framerate limit
+Allows defining framerate limit for 3D applications during videocapture. Limiting the framerate during videocapture can improve resulting video smoothness. The smoothness improves when the game framerate is multiple to videocapture framerate, so the limit is defined as the videocaptre framerate multiplier.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

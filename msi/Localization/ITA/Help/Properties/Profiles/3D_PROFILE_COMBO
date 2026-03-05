@@ -1,0 +1,11 @@
+Associazione profilo 3D
+Permette di associare uno slot profilo con lo stato del sistema 3D. Il profilo allo slot associato verrà automaticamente caricato e applicato dal gestore di profili automatico non appena l'esecuzione di applicazioni 3D sarà maggiore di zero. 
+
+Consigli: 
+- L'associazione di un profilo 3D causerà un ulteriore %SERVERPRODUCTNAME% processo ad essere avviato automaticamente. Il server fornisce l'esecuzione di una lista di profili automatici di applicazioni 3D e non può essere scaricato fino a quando l'associazione non è cancellata. 
+- Si possono utilizzare le proprietà di %SERVERPRODUCTNAME% per definire le eccezioni che vengono escluse da qualsiasi rilevamento di applicazioni 3D se necessario. Si può sempre vedere quale applicazione 3D è attualmente in esecuzione, premendo il tasto <i>. 
+- La gestione automatica dei profili non annulla le tecnologie di downclocking hardware implementate nelle GPU moderne, solo se carica il profilo desiderato al primo avvio dell'applicazione 3D e l'ultima applicazione 3D smette gli eventi. 
+L'obiettivo primario della gestione automatica dei profili è l'emulazione di tecnologie di downclocking hardware a livello software per le vecchie schede grafiche senza supporto di downclocking proprio (ad esempio NVIDIA la serie GeForce 8800 GTX). Tuttavia, la gestione automatica dei profili può essere utilizzata anche per scopi diversi, ad esempio, per forzare la velocità della ventola fissata solo durante la fase di esecuzione di applicazioni 3D. 
+- Si raccomanda di non combinare la gestione automatica dei profili col controllo di tensione. Le variazioni dinamiche di tensione combinate con software per cambiamenti dinamici di frequenza possono causare effetti indesiderati e riducono la stabilità del sistema. 
+- È possibile il riavvio automatico del manager dei profili premendo i tasti <Ctrl>+<A> sulla tastiera quando la finestra principale di %PRODUCTNAME% è a fuoco. 
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

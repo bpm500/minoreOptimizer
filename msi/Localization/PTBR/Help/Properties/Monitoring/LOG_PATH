@@ -1,0 +1,8 @@
+Selecionar pasta de destino 
+Exibe e seleciona um local para salvar os arquivos de registro de monitoramento. 
+
+Sugestões:
+- Você pode especificar variáveis de macro como caminho. %ABDir% especifica a pasta de instalação atual do %PRODUCTNAME% e permite que você faça monitoramentos em cenários de uso de aplicativos portáteis, %Time% permite adicionar um carimbo de data/hora ao nome do arquivo.
+- O %PRODUCTNAME% salva monitoramentos em formato de arquivo RivaTuner nativo. Você pode usar o RivaTuner para visualizar os arquivos gravados com o %PRODUCTNAME%. 
+- O processo de monitoramento consome recursos do sistema, sobretudo da CPU, a cada atualização para gravar dados no disco rígido. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

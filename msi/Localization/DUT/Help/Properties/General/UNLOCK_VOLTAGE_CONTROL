@@ -1,0 +1,8 @@
+Ontsluit voltage controle.
+Dit ontsluit de voltage controle als het door de GPU('s) wordt ondersteund. Sluit dit onderdeel als u geen ervaren gebruiker bent of als u geen begrip hebt van de risico's van voltage controle.
+
+Hint:
+- Het kan gevaarlijk zijn om verschillende voltage controle software gelijktijdig te laten lopen , gebruik daarom deze optie niet wanner u niet zeker bent.
+- Voltage controle is alleen mogelijk op GPU's die een programeerbare voltage module hebben. Kijk naar de volledige lijst van GPU's die dit ondersteunen.
+- %PRODUCTNAME% herstart is nodig na deze optie aan/uit te hebben geschakeld en toe te passen.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

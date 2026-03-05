@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_BULGARIAN} 	"AfterburnerBUL.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_BULGARIAN} 	"MSI Afterburner в момента е активен, процесът на инсталиране ще бъде прекъснат!"
+LangString AfterburnerAbortInstall 	${LANG_BULGARIAN} 	"Не може да се инсталира MSI Afterburner!"
+LangString AfterburnerActiveUninstall 	${LANG_BULGARIAN} 	"MSI Afterburner в момента е активен, процесът на деинсталиране ще бъде прекъснат!"
+LangString AfterburnerKeepSettings 	${LANG_BULGARIAN} 	"Искате ли да запазите настройките на MSI Afterburner? Отговорете с ДА, ако деинсталирате предишната версия на помощната програма, преди да инсталирате новата."
+LangString AfterburnerRebootUninstall 	${LANG_BULGARIAN} 	"Някои файлове на MSI Afterburner в момента са заключени и не могат да бъдат премахнати в момента, необходимо е рестартиране на системата, за да ги премахнете напълно. Ако актуализирате MSI Afterburner, строго не се препоръчва да инсталирате новата версия без рестартиране системата. Искате ли да рестартирате директно сега?"
+LangString AfterburnerAbortUninstall 	${LANG_BULGARIAN} 	"Не може да се деинсталира MSI Afterburner!"
+LangString AfterburnerCaption 		${LANG_BULGARIAN} 	"Инсталиране на MSI Afterburner ${VER_DISPLAY}"
+LangString DescSecAfterburner 		${LANG_BULGARIAN} 	"Основно приложение на MSI Afterburner"
+LangString DescSecRTSS 			${LANG_BULGARIAN} 	"Предоставя MSI Afterburner с FPS мониторинг, Eкранен дисплей и функции за заснемане на видео"
+LangString AfterburnerLocalization 	${LANG_BULGARIAN} 	"BUL"

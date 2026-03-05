@@ -1,0 +1,6 @@
+Ativar decodificador MJPG 
+MJPG é um padrão de compressão de vídeo aberto, suportado nativamente por vários sistemas e amplamente apoiado por diferentes aplicações de vídeo. Nenhuma instalação adicional de codecs MJPG é necessária para reproduzir videos codificados com compressão MJPG. 
+No entanto, algumas programas (por exemplo, Sony Vegas PRO) não oferecem suporte adequado. Você pode ativar essa opção para permitir que o %PRODUCTNAME% instale seu próprio decodificador MJPG para esses programas. No entanto, pode haver conflitos com outros decodificadores MJPG de terceiros instalados em seu sistema. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,7 @@
+Touche pour l'emplacement du profil 5
+Permet de définir une touche globale pour charger et appliquer le profil de l'emplacement 5.
+
+Astuce:
+- Faites attention quand vous appliquez à la volée l'overclocking lorsque les application 3D sont en cours. Dépendant du modèle de carte graphique et de l'architecture du driver d'affichage, celà peut réduire la stabilité du système.
+- Certaines combinaisons de touches (ex: <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) sont réservées et ne peuvent être utilisées.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

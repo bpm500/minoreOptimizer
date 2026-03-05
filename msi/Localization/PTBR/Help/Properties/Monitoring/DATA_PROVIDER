@@ -1,0 +1,5 @@
+Provedor de dados
+Alguns sensores de monitoramento podem receber os mesmos dados de diferentes fontes independentes. Por exemplo, a temperatura da CPU pode ser lida pelo provedor de dados interno do %PRODUCTNAME% ou pelo diodo térmico da CPU, e adicionalmente, a partir do sensor do soquete da CPU via plugins AIDA64 ou HWinfo. Neste caso, você pode selecionar a fonte de dados desejada para esse sensor com esta opção.
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

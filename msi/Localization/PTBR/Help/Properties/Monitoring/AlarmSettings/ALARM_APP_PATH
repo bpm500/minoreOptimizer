@@ -1,0 +1,7 @@
+Caminho da aplicação iniciada por alarme
+Exibe e edita o caminho para que a aplicação externa seja iniciada por alarme.
+
+Sugestões:
+- Esta opção é afetada pelas configurações de tempo de disparo do alarme.
+- Você pode usar variáveis de macro como caminho. Use %WinDir% para especificar o diretório do Windows, %SysDir% para especificar o diretório Windows\System32, %ABDir% para especificar o diretório de instalação do %PRODUCTNAME% ou %AB% para especificar o caminho completo do executável do %PRODUCTNAME%. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

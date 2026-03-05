@@ -1,0 +1,11 @@
+AUX Voltajý
+AUX voltajýný görüntüler. Grafik kartý modeline baðlý olarak deðerler tam deðer olarak ayarlanamayabilir. Ayarlar uygulanýrken kartýnýza kayýtlý AUX voltajlarý temel alýnacaktýr.
+
+Ýpuçlarý:
+- Örnek olarak kartýnýz +10, +20, +30 deðerlerini destekliyor ise +6 seçtiðinizde program otomatik olarak deðeri en yakýn kayýtlý deðere yuvarlayarak +10 deðerini seçecektir.
+- AUX voltajý kartý normal voltajdan ayrý olarak besler. AMD kartlarda bellek veriyolunu, Nvidia kartlarda ise PCI-E arayolunu besler. Bu deðer ek deðer olarak kullanýlýr, kartýn overclock performansýnýz biraz arttýrýr.
+- Voltaj kontrolü güvenlik açýsýndan baþta kapalýdýr. Eðer voltajýn ne iþe yaradýðýný ve güvenlik sýnýrlarýný, risklerini anlarsanýz bu ayarý ayarlar menüsünden açabilirsiniz.
+- Eðer <Genel Ayarlar> sekmesindeki, ayarlarý diðer grafik iþlemcileriyle eþitle seçeneði aktifse ayarlar diðer grafik kartlarýyla eþlenir.
+- Voltaj kontrolü sadece bazý voltaj regülatörü olan kartlarda kullanýlabilir. Lütfen kartýnýzýn bunu desteklediðinden emin olmak için kartýnýzýn kitapçýðýný kontrol edin.
+- Ýsterseniz kaydýrma çubuðunun saðýndaki deðer bölümüne týklayarak direk deðer girebilirsiniz.
+- Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.

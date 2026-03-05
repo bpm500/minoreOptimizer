@@ -1,0 +1,207 @@
+#src GPU%d engine 0 usage
+#dst Завантаження блоку 0 ГП%d
+#end
+#src GPU%d engine 1 usage
+#dst Завантаження блоку 1 ГП%d
+#end
+#src GPU%d engine 2 usage
+#dst Завантаження блоку 2 ГП%d
+#end
+#src GPU%d engine 3 usage
+#dst Завантаження блоку 3 ГП%d
+#end
+#src GPU%d engine 4 usage
+#dst Завантаження блоку 4 ГП%d
+#end
+#src GPU%d engine 5 usage
+#dst Завантаження блоку 5 ГП%d
+#end
+#src GPU%d engine 6 usage
+#dst Завантаження блоку 6 ГП%d
+#end
+#src GPU%d engine 7 usage
+#dst Завантаження блоку 7 ГП%d
+#end
+#src GPU%d engine 8 usage
+#dst Завантаження блоку 8 ГП%d
+#end
+#src GPU%d engine 9 usage
+#dst Завантаження блоку 9 ГП%d
+#end
+#src GPU%d engine 10 usage
+#dst Завантаження блоку 10 ГП%d
+#end
+#src GPU%d engine 11 usage
+#dst Завантаження блоку 11 ГП%d
+#end
+#src GPU%d engine 12 usage
+#dst Завантаження блоку 12 ГП%d
+#end
+#src GPU%d engine 13 usage
+#dst Завантаження блоку 13 ГП%d
+#end
+#src GPU%d engine 14 usage
+#dst Завантаження блоку 14 ГП%d
+#end
+#src GPU%d engine 15 usage
+#dst Завантаження блоку 15 ГП%d
+#end
+#src GPU%d engine 16 usage
+#dst Завантаження блоку 16 ГП%d
+#end
+#src GPU%d engine 17 usage
+#dst Завантаження блоку 17 ГП%d
+#end
+#src GPU%d engine 18 usage
+#dst Завантаження блоку 18 ГП%d
+#end
+#src GPU%d engine 19 usage
+#dst Завантаження блоку 19 ГП%d
+#end
+#src GPU%d engine 20 usage
+#dst Завантаження блоку 20 ГП%d
+#end
+#src GPU%d engine 21 usage
+#dst Завантаження блоку 21 ГП%d
+#end
+#src GPU%d engine 22 usage
+#dst Завантаження блоку 22 ГП%d
+#end
+#src GPU%d engine 23 usage
+#dst Завантаження блоку 23 ГП%d
+#end
+#src GPU%d engine 24 usage
+#dst Завантаження блоку 24 ГП%d
+#end
+#src GPU%d engine 25 usage
+#dst Завантаження блоку 25 ГП%d
+#end
+#src GPU%d engine 26 usage
+#dst Завантаження блоку 26 ГП%d
+#end
+#src GPU%d engine 27 usage
+#dst Завантаження блоку 27 ГП%d
+#end
+#src GPU%d engine 28 usage
+#dst Завантаження блоку 28 ГП%d
+#end
+#src GPU%d engine 29 usage
+#dst Завантаження блоку 29 ГП%d
+#end
+
+#src GPU engine 0 usage
+#dst Завантаження блоку 0 ГП
+#end
+#src GPU engine 1 usage
+#dst Завантаження блоку 1 ГП
+#end
+#src GPU engine 2 usage
+#dst Завантаження блоку 2 ГП
+#end
+#src GPU engine 3 usage
+#dst Завантаження блоку 3 ГП
+#end
+#src GPU engine 4 usage
+#dst Завантаження блоку 4 ГП
+#end
+#src GPU engine 5 usage
+#dst Завантаження блоку 5 ГП
+#end
+#src GPU engine 6 usage
+#dst Завантаження блоку 6 ГП
+#end
+#src GPU engine 7 usage
+#dst Завантаження блоку 7 ГП
+#end
+#src GPU engine 8 usage
+#dst Завантаження блоку 8 ГП
+#end
+#src GPU engine 9 usage
+#dst Завантаження блоку 9 ГП
+#end
+#src GPU engine 10 usage
+#dst Завантаження блоку 10 ГП
+#end
+#src GPU engine 11 usage
+#dst Завантаження блоку 11 ГП
+#end
+#src GPU engine 12 usage
+#dst Завантаження блоку 12 ГП
+#end
+#src GPU engine 13 usage
+#dst Завантаження блоку 13 ГП
+#end
+#src GPU engine 14 usage
+#dst Завантаження блоку 14 ГП
+#end
+#src GPU engine 15 usage
+#dst Завантаження блоку 15 ГП
+#end
+#src GPU engine 16 usage
+#dst Завантаження блоку 16 ГП
+#end
+#src GPU engine 17 usage
+#dst Завантаження блоку 17 ГП
+#end
+#src GPU engine 18 usage
+#dst Завантаження блоку 18 ГП
+#end
+#src GPU engine 19 usage
+#dst Завантаження блоку 19 ГП
+#end
+#src GPU engine 20 usage
+#dst Завантаження блоку 20 ГП
+#end
+#src GPU engine 21 usage
+#dst Завантаження блоку 21 ГП
+#end
+#src GPU engine 22 usage
+#dst Завантаження блоку 22 ГП
+#end
+#src GPU engine 23 usage
+#dst Завантаження блоку 23 ГП
+#end
+#src GPU engine 24 usage
+#dst Завантаження блоку 24 ГП
+#end
+#src GPU engine 25 usage
+#dst Завантаження блоку 25 ГП
+#end
+#src GPU engine 26 usage
+#dst Завантаження блоку 26 ГП
+#end
+#src GPU engine 27 usage
+#dst Завантаження блоку 27 ГП
+#end
+#src GPU engine 28 usage
+#dst Завантаження блоку 28 ГП
+#end
+#src GPU engine 29 usage
+#dst Завантаження блоку 29 ГП
+#end
+
+#src GPU%d dedicated memory usage
+#dst Завантаження вбудованої пам'яті ГП%d
+#end
+#src GPU%d shared memory usage
+#dst Завантаження поділюваної пам'яті ГП%d
+#end
+#src GPU%d dedicated memory usage \ process
+#dst Завантаження вбудованої пам'яті ГП%d \ процес
+#end
+#src GPU%d shared memory usage \ process
+#dst Завантаження поділюваної пам'яті ГП%d \ процес
+#end
+
+#src GPU dedicated memory usage
+#dst Завантаження вбудованої пам'яті ДП
+#end
+#src GPU shared memory usage
+#dst Завантаження поділюваної пам'яті ГП
+#end
+#src GPU dedicated memory usage \ process
+#dst Завантаження вбудованої пам'яті ДП \ процес
+#end
+#src GPU shared memory usage \ process
+#dst Завантаження поділюваної пам'яті ГП \ процес
+#end

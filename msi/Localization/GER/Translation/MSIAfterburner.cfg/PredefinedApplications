@@ -1,0 +1,21 @@
+#src Load profile 1
+#dst Profil 1 laden
+#end
+#src Load profile 2
+#dst Profil 2 laden
+#end
+#src Load profile 3
+#dst Profil 3 laden
+#end
+#src Load profile 4
+#dst Profil 4 laden
+#end
+#src Load profile 5
+#dst Profil 5 laden
+#end
+#src System
+#dst System
+#end
+#src System shutdown
+#dst System herunterfahren
+#end

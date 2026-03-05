@@ -1,0 +1,5 @@
+Tryb niskopoziomowego dostêpu do sprzêtu
+Niski poziom dostepu do sprzetu graficznego moze byc wykonywany zarówno w trybie uzytkownika, jak i jadra. Dostep do trybu uzytkownika zapewnia najlepsza wydajnosc monitorowania i nie zuzywa przestrzeni adresowej jadra, podczas gdy tryb jadra moze chronic sprzetowe odwzorowane zakresy pamieci przed nieautoryzowanym dostepem przez zle zaprojektowane aplikacje (np. nieslawny klient Punkbuster dla Battlefield : Bad Company 2) i w ten sposób chroni system przed niestabilnoscia.
+
+Wskazówka:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

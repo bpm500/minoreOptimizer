@@ -1,0 +1,4 @@
+This plugin provides [b]CPU temeprature[/b] hardware monitoring data sources. 
+
+Hints:
+- Data sources implemented by this plugin are duplicating similar internal data sources provided by %PRODUCTNAME% core, so you don't need to enable this plugin if you're a regular user. Plugin developers may use this plugin as a tutorial and codebase for implementation of other CPU-specific data sources.

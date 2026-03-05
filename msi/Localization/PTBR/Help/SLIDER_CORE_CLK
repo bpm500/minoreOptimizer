@@ -1,0 +1,9 @@
+Frequência da GPU
+Ajusta a velocidade de frequência do núcleo de processamento gráfico da placa de vídeo principal.
+
+Sugestões:
+- Quando o modo de sincronização entre GPUs similares estiver habilitado em <Geral>, as alterações nas configurações da placa de vídeo principal serão aplicadas às outras placas semelhantes instaladas no sistema.
+- O ajuste independente da velocidade dos núcleos do processador gráfico deve observar uma relação mínima entre a velocidade do núcleo e dos shaders limitadas pelo hardware. Ajustar esses valores fora do intervalo válido pode substituir as configurações padrões e causar erros.
+- Quando o cursor estiver selecionado, você pode usar as teclas direcionais para alterar o valor.
+- Você pode clicar na caixa de texto ao lado e inserir o valor desejado diretamente.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

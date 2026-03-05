@@ -1,0 +1,9 @@
+Tegangan Core
+Tampilkan tegangan core GPU memory saat ini. Tergantung pada model kartu grafis maka tegangan akan diatur pada daya tegangan diatur kepada tegangan awal.
+
+Petunjuk:
+- Pengaturan Tegangan dikunci secara otomatis untuk alasan keselamatan. Jika anda mengerti dan mengetahui apa yang anda lakukan pada pengaturan tegangan anda dapat membukanya pada bagian properti.
+- Ketika pengaturan sinkronisasi GPU diaktifkan pada tab <General>, setiap perubahan pada master GPU maka akan berlaku terhadap semua GPU yang terpasang.
+- Pengaturan Tegangan berlaku pada beberapa model kartu grafis saja dilengkapi dengan modul yang bisa di program. Silakan merujuk pada dokumentasi untuk mendapatkan keterangan lengkap mengenai kartu grafis yang mendukung pengaturan tegangan.
+- Anda dapat klik di daerah ini untuk langsung mengatur tegangan yang diinginkan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

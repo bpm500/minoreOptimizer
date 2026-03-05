@@ -1,0 +1,6 @@
+Multithread-Optimierung
+Die Videokomprimierungs-Engine ist für Multi-Prozessor- und Multi-Core-Systeme optimiert. Eine Warteschlange von Bildern wird gleichzeitig von mehreren Threads verarbeitet. Mit dieser Option kann die Anzahl der Threads festgelegt werden, die die Warteschlange verarbeiten. Standardmäßig verwendet die Videokomprimierungs-Engine automatisch einen Thread, um die Warteschlange komprimierter Bilder in eine Datei zu schreiben, und n-1 Threads, um Bilder aus der Warteschlange auf einem System mit n CPUs oder CPU-Cores zu komprimieren. Sie können jedoch die Anzahl der Threads reduzieren oder die Multithread-Optimierung ganz deaktivieren, um Kompatibilitätsprobleme zu beheben oder die Leistung zu vergleichen.
+
+Hinweise:
+- Bei Verwendung eines VfW-Encoders werden die Frames unabhängig von dieser Option von einem einzelnen Komprimierungsthread verarbeitet. Allerdings werden Farbraumkonvertierungen in diesem Fall immer noch von mehreren Threads durchgeführt.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

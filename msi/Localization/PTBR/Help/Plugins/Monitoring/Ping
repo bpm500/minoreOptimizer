@@ -1,0 +1,4 @@
+Este plugin fornece dados de monitoramento de [b]Ping[/b].
+
+Sugestões:
+- Por padrão, o plugin está configurado para monitorar o ping de [b]www.guru3d.com[/b], mas você pode especificar o nome de qualquer servidor ou seu endereço IP nas propriedades de ajustes do plugin.

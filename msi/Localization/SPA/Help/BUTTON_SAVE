@@ -1,0 +1,6 @@
+Guardar
+Lanza el proceso de guardado de perfiles. Cuando se presiona este botón todos los botones de perfiles comienzan a parpadear indicando que el proceso ha comenzado. Puede presionar cualquiera de los botones de perfil mientras parpadean para guardar los ajustes actuales de voltage, velocidad de ventilador y relojes en el perfil deseado.
+
+Sugerencias:
+- Puede abortar el proceso de guardado presionando la tecla <Esc> del teclado. Restaurando los valores por defecto utilizando el botón <Restaurar> también cancela el proceso de guardado.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

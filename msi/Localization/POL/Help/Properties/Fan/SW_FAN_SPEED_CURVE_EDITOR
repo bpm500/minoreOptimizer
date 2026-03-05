@@ -1,0 +1,10 @@
+Oprogramowanie automatyczny edytor krzywej predkosci wentylatora
+Umozliwia edycje krzywej predkosci wentylatora dla zdefiniowanego przez uzytkownika oprogramowania automatycznego trybu kontroli predkosci wentylatora.
+
+Wskazówki:
+- Mozesz kliknac krzywa, aby dodac nowy wezel w polozeniu kursora. Dozwolone jest maksymalnie 8 wezlów.
+- Mozesz kliknac istniejacy wezel, aby go zaznaczyc i przeciagnac go kursorem myszy, aby dostosowac krzywa. Wybrane polozenie wezla mozna równiez dostroic z klawiatury za pomoca klawiszy kursora.
+- Mozesz nacisnac <Del>, aby usunac wybrany wezel.
+- Mozesz nacisnac <Ctrl>+ <D>, aby zresetowac krzywa do stanu domyslnego.
+- Mozesz dwukrotnie kliknac obszar edycji, aby przelaczac sie miedzy trybami liniowymi i krokowymi. Tryb krokowy moze sluzyc do zmniejszenia predkosci wentylatora zwiazane z wydajnoscia procesora hit ze wzgledu na mniej czeste zmiany predkosci wentylatora.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

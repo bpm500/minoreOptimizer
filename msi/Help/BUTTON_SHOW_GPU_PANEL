@@ -1,0 +1,5 @@
+Show GPU selection panel
+Toggles GPU selection panel visibility.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

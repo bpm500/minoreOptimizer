@@ -1,0 +1,6 @@
+Multithreaded optimization
+Video compression engine is optimized to take the advantages of the systems with multiple CPUs or multiple CPU cores. Queue of input frames is simultaneously processed by multiple threads and this option allows you to control the amount of threads processing the queue. By default video compression engine automatically uses 1 thread to flush compressed frames to HDD and N-1 threads to compress frames from input queue on the system with N CPUs on CPU cores. However, you may reduce the amount of threads or disable multithreaded implementation at all for troubleshooting or performance comparison reasons. 
+
+Hints:
+- The frames are being processed by single compression thread regardless of this option when using VFW compression. However, color space conversions are still perfromed by multiple threads in this case.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

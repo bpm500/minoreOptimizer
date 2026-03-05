@@ -1,0 +1,12 @@
+Audio source type
+Allows selecting audio source type. You can select up to two independent audio sources and record two independent audio tracks in final video. The following audio source types are avaiable:
+
+- Auto select - automatically selects audio source depending on OS version. In this mode audio stream is being recorded via default DirectSound capture device under Windows XP, via default WASAPI playback device for audio source #1 or via default WASAPI capture device for audio source #2 under Windows Vista and newer OS.
+- DirectSound capture device - captures audio stream via DirectSound capture devices. Under WindowsXP DirectSound capture devices are hardware accelerated, so this mode provides the best audio capture performance due to hardware sound mixing and loopback recording implementation. 
+However, DirectSound is deprecated and emulated via WASAPI since Windows Vista, so it is recommended to use native WASAPI devices for audio capture under Windows Vista and newer OS. 
+- WASAPI playback device - captures audio stream via WASAPI playback devices (under Windows Vista or newer OS only). Unlike DirectSound, WASAPI allows intercpeting raw multichannel audio stream before it is being passed to audio drivers and playback devices. This provides unified software audio driver independent loopback recording implementation, capable of recording multichannel audio. 
+Please take a note, that this mode can be incompatible with some applications using alternate hardware accelerated audio interfaces like OpenAL.
+- WASAPI capture device - captures audio stream via WASAPI capture devices (under Windows Vista or newer OS only). Unlike DirectSound, WASAPI can independently capture input and output audio streams, which allows you to record audio streams coming to output devices (such as speakers) and coming from input devices (such as microphones) independently. You may use this mode to record audio stream coming from input devices if necessary.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

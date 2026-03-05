@@ -1,0 +1,5 @@
+Videoauflösung auf ein Vielfaches von 16 beschneiden
+Einige Videodecoder von Drittanbietern (z. B. der integrierte VirtualDub MJPG-Decoder) verweigern möglicherweise die Wiedergabe des Videostreams, wenn die Anzahl der Spalten und Zeilen kein Vielfaches von 16 sind. Sie können diese Option aktivieren, um die Videoauflösung zur Verbesserung der Kompatibilität auf ein Vielfaches von 16 zuzuschneiden.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

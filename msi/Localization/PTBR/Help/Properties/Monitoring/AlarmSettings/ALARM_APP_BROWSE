@@ -1,0 +1,6 @@
+Procurar
+Permite selecionar aplicações externas iniciadas por alarme ou ações baseadas em linha de comando predefinidas (por exemplo, desligamento do sistema ou carregamento de perfis do %PRODUCTNAME%).
+
+Sugestões:
+- Esta opção é afetada pelas configurações de tempo de disparo do alarme.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,5 @@
+Framerate
+Atur framerate video encoded. Beberapa frame akan diturunkan apabila sistem anda tidak kuat untuk melakukan encode video pada beberapa framerate, untuk kasus ini anda bisa mencoba mengurangi framerate untuk meningkatkan kualitas video.
+
+Petunjuk:
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

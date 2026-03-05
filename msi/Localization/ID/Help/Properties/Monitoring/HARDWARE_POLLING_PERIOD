@@ -1,0 +1,8 @@
+Periode polling hardware
+Untuk hardware polling dan monitoring graphs secara periodik.
+
+Petunjuk:
+- Polling hardware akan membebani waktu CPU dibutuhkan sebelum data di flush di HDD. Tergantung dari GPU dan model sensor dan hardware protocol. 
+Jika anda mendapatkan efek melambat saat menyalakan %PRODUCTNAME%, coba untuk melakukan pause monitoring sementara dan selidiki sumber masalahnya dengan klik kanan dua kali dan monitoring window. Coba untuk mengurangi beban CPU dengan meningkatkan periode polling atau disable yang tidak diperlukan atau atau non-aktifkan monitoring grafis yang tidak diperlukan. 
+Informasi status penggunaan CPU untuk penggunaan yang berbeda termasuk hardware polling.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

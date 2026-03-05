@@ -1,0 +1,6 @@
+Correction formula
+Allows applying custom correction formula to currently selected graph. Correction formulas can be useful for applying thermal offsets to custom sensors, e.g. "x+10" formula can add 10 degrees to displayed temperature. 
+
+Hints:
+- Incorrectly specified formulas are highlighted by red color
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

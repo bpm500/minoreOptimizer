@@ -1,0 +1,7 @@
+Temperatura histerese
+Ajusta a temperatura histerese para o modo de controle da ventoinha automático. A histerese pode ser usada para reduzir as flutuações indesejadas na velocidade da ventoinha, bem como melhorar a eficiência de refrigeração. Quando é definido um valor histerese diferente de zero, o software da camada de ajuste para controle automático da ventoinha usa o seguinte algoritmo: 
+1 - A velocidade da ventiloinha é fixada pela última leitura de temperatura;
+2 - Enquanto a temperatura diminui, nenhum mudança de velocidade da ventoinha é permitida até que a diferença entre os valores de temperatura fixados e os atuais sejam inferiores ao valor da histerese;
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

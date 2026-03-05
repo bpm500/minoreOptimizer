@@ -1,0 +1,6 @@
+Abilita decoder MJPG
+MJPG è un open standard di compressione video, supportato nativamente dall' OS e ampiamente supportato in diverse applicazioni di lettori video. Per questo motivo nessun ulteriore installazione di codec MJPG è necessaria per riprodurre i video codificati in MJPG.
+Tuttavia, alcune applicazioni (ad esempio Sony Vegas PRO) potrebbero non supportarlo. È possibile attivare questa opzione per consentire a %PRODUCTNAME% di installare il proprio decoder MJPG per tali applicazioni. Tuttavia, può entrare in conflitto con altri decoder MJPG di terze parti installati nel sistema.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

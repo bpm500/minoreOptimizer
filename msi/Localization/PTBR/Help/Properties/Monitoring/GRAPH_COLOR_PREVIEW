@@ -1,0 +1,9 @@
+Cor dos gráficos em grupo
+Exibe a cor do gráfico para o modo de renderização de gráficos em grupos. Clique nesta caixa para personalizar a cor.
+
+Sugestões:
+- Você pode criar grupos de gráficos clicando com o botão direito do mouse no gráfico de origem no painel de monitoramento e selecionando <Anexar> no menu de contexto, em seguida, clicando no gráfico de destino. Os grupos permitem que você reúna vários gráficos na mesma grade para monitoramento comparativo.
+- Você precisa marcar e ativar um sensor para acessar esta opção.
+- Você pode manter pressionado <Shift> ao modificar esta opção para alterar todos os sensores de uma só vez. 
+- Quando vários sensores estiverem selecionados, segure a tecla <Ctrl> ao modificar esta opção para alterar de forma sincrônica todos os sensores selecionados. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

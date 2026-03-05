@@ -1,0 +1,10 @@
+Inoffizieller Übertaktungsmodus
+Die standardmäßigen Übertaktungslimits im AMD-Grafiktreiber und in allen Dienstprogrammen, die die offiziellen AMD-Übertaktungsmechanismen verwenden, sind sehr niedrig und werden vom AMD VGA-BIOS bestimmt.
+Der inoffizielle Übertaktungsmodus ermöglicht es Ihnen, die Grenzen zu umgehen, ohne sie im VGA-BIOS ändern zu müssen. Beachten Sie, dass der inoffizielle Übertaktungsmodus undokumentierte Grafiktreiberschnittstellen verwendet, die vom Hersteller nicht unterstützt werden und bei denen bekannte Kompatibilitätsprobleme mit AMDs eigenen Energiespartechnologien auftreten. Verwenden Sie den inoffiziellen Modus daher nur, wenn Sie sich dieser Probleme bewusst sind und über ausreichende Kenntnisse verfügen, um sie zu umgehen.
+
+ACHTUNG! Nutzung dieser Option auf eigene Gefahr! Weder MSI noch AMD bieten Support bezüglich der Nutzung, einschließlich der Beantwortung von Fragen in den Support-Foren.
+
+Hinweise:
+- Diese Option ist nur aktiv, wenn mindestens eine unterstützte AMD-Grafikkarte im System vorhanden ist.
+- Es wird dringend empfohlen ULPS zu deaktivieren, wenn Sie den inoffiziellen Übertaktungsmodus verwenden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

@@ -1,0 +1,6 @@
+Einstellungen identischer GPUs synchronisieren
+Ermöglicht die synchronisierte oder unabhängige Anpassung der GPU-Einstellungen. Wenn diese Option aktiviert ist, werden alle GPU-Einstellungen, die Sie im Hauptanwendungsfenster vornehmen, auch auf alle ähnlichen GPUs angewendet, die im System installiert sind.
+
+Hinweise:
+- Die vollständig übereinstimmende PCI-Geräte-ID wird als Kriterium für die Gleichheit der GPUs verwendet, sodass nur die gleichen Grafikkartenmodelle synchronisiert werden können.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

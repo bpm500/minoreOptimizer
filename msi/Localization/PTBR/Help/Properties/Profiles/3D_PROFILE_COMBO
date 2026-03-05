@@ -1,0 +1,11 @@
+Perfil 3D
+Cria um perfil que será carregado e aplicado quando o sistema estiver em estado 3D, ou seja, quando o contador de aplicativos 3D for maior do que zero. 
+
+Sugestões :
+- Defina uma tecla de atalho para o carregamento automático do servidor de perfis 3D. O servidor fornece a lista de aplicativos 3D em execução e não pode ser interrompido até que seja desativado.
+- Você pode usar as informações da lista de exceções do servidor para definir e excluir a detecção de certos programas 3D. Você sempre pode verificar a lista de aplicações 3D em execução pressionando o botão <i>.
+- A gestão automática de perfis não deve ser empregada em GPUs recentes. O objetivo principal desses perfis é emular a gestão inteligente de frequências em placas de vídeo mais antigas (por exemplo, NVIDIA série GeForce GTX 8800). No entanto, estes perfis podem ser utilizados para outros fins, tais como forçar a velocidade fixa da ventoinha durante a execução de programas 3D.
+- É aconselhável combinar o gerenciamento automático de perfis com o controle de tensão. As alterações dinâmicas das frequências em conjunto com as alterações dinâmicas das tensões podem causar efeitos secundários indesejáveis e reduzir a estabilidade do sistema se não ajustadas de forma correta.
+- É possível reiniciar o gerenciamento de perfis pressionando <Ctrl + A>  quando a janela principal do %PRODUCTNAME% estiver aberta. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.
+

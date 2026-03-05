@@ -1,0 +1,9 @@
+Hardware toezicht grafieken.
+Dit laat een lijst van de mogelijke hardware toezicht grafieken zien en staat toe om deze te veranderen van plaats en te activeren.
+
+Hint:
+- Het aanvink vak activeert het onderdeel.
+Actieve onderdelen zijn zichtbaar in het toezicht venster.
+Vermijd onnodige onderdelen te activeren omdat dit de cpu belast.
+- Activering van het toezicht van de beeldverversingsnelheid(fps) vereist het opstarten van de bijkomende "on-screen display server"
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

@@ -1,0 +1,7 @@
+Hardware monitoring plugins list
+Displays the list of installed hardware monitoring plugin modules, allows selecting active plugins. The plugins provide support for additional third-party hardware monitoring data sources and may extend the list of hardware monitoring graphs available on your system. 
+Tick a checkmark next to desired plugin name to activate it. 
+
+Hints:
+- You may hold <Shift> button pressed on your keyboard while activating or deactivating a plugin to activate or deactivate all plugins at once. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

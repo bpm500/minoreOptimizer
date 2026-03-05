@@ -1,0 +1,7 @@
+Controle da ventoinha
+Controla a velocidade da ventoinha nos modos automático ou manual. 
+
+Sugestões: 
+- Quando o modo de sincronização entre GPUs estiver habilitado na guia <Geral> das propriedades avançadas, qualquer alteração nas configurações da GPU principal será aplicada às GPUs semelhantes instaladas no sistema. 
+- O controle automático da ventoinha não está disponível nas placas de vídeo que não oferecem suporte. A ventoinha dever ser controlável via software. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,6 @@
+Liste de processeurs graphique
+Affiche une liste des processeurs graphiques installés dans le système et permet de choisir le GPU maître. Tous les ajustements que vous effectuerez dans la fenêtre principale de l'application seront appliqué au GPU maître et optionnellement à chaque GPU similaire installé dans le système si l'option de synchronisation des processeurs graphiques adjacents est activée.
+
+Astuce:
+- Appliquez toujours les changements que vous faites dans la fenêtre principale de l'application avant de changer le GPU maître. Les changements de paramètres GPU non appliqués sont perdu après avoir sélectionné un nouveau GPU maître.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

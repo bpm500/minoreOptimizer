@@ -1,0 +1,6 @@
+Enable data filtering
+Akses simulasi kepada sensor hardware (sensor temperatur GPU) dengan cara. Aktifkan pilihan ini dapat memproses data dengan spesial algoritma. 
+Harap diingat aktifkan filtering dapat menolak data real yang muncul di GPU seperti juga data grafis yang di update dengan periode 4 polling.
+
+Petunjuk:
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

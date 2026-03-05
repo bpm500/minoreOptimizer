@@ -1,0 +1,5 @@
+Impostazioni di monitoraggio
+Consente di salvare o caricare le impostazioni del modulo di monitoraggio da uno slot di profilo. Le impostazioni del modulo di monitoraggio relative al profilo includono la frequenza di polling hardware, l'elenco dei grafici di monitoraggio attivo, l'ordine dei grafici e le impostazioni specifiche del grafico.
+
+Suggerimenti:
+- È possibile disabilitare le descrizioni comandi dell'interfaccia utente tramite la scheda <interfaccia utente> nelle proprietà avanzate.

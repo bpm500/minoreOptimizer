@@ -1,0 +1,5 @@
+Version du driver
+Affiche la version du driver du GPU maître.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

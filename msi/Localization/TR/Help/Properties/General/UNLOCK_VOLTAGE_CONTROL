@@ -1,0 +1,9 @@
+Unlock voltage control
+Unlocks voltage control if it is supported by hardware. Lock voltage control if you don't need voltage control functionality of if you are not an experienced user and don't understand the risks of voltage control.
+
+Hints:
+- It can be dangerous to run multiple applications accessing your graphics card voltage regulators simultaneously. Please lock this option if you're not sure that there are no such applications running in your system.
+- It is not recommended to combine automatic profiles management with voltage control. Dynamic software voltage changes combined with dynamic clock changes can cause side effects and reduce system stability.
+- Voltage control is available on limited set of graphics card models equipped with programmable voltage regulation module. Please refer to documentation to get full list of graphic card models supporting voltage adjustments.
+- %PRODUCTNAME% restart is required to apply the changes after toggling this option.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

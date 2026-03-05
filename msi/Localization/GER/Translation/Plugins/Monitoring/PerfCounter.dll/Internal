@@ -1,0 +1,35 @@
+#src HDD%d usage
+#dst Datenträger%d-Auslastung
+#end
+#src HDD%d read rate
+#dst Datenträger%d Lesegeschwindigkeit
+#end
+#src HDD%d write rate
+#dst Datenträger%d Schreibgeschwindigkeit
+#end
+#src MB/s
+#dst MB/s
+#end
+#src Free disk space C:
+#dst Freier Speicherplatz auf Laufwerk C:
+#end
+#src GB
+#dst GB
+#end
+#src NET%d download rate
+#dst Download-Geschwindigkeit von Netzwerk%d 
+#end
+#src NET%d upload rate
+#dst Upload-Geschwindigkeit von Netzwerk%d
+#end
+#src KB/s
+#dst KB/s
+#end
+
+#src Counter
+#dst Zähler
+#end
+
+#src Counters exported to %s!
+#dst Zähler nach %s exportiert!
+#end

@@ -1,0 +1,6 @@
+Iniciar minimizado
+Fuerza %PRODUCTNAME% a la bandeja de sistema en modo minumizado.
+
+Sugerencias:
+- Esta opción solo afecta al inicio manual de la aplicación. %PRODUCTNAME% siempre inicia en modo minimizado cuando está configurado para iniciar con el inicio de Windows (iniciar al cargar Windows).
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

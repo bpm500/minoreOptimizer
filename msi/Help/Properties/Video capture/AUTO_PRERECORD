@@ -1,0 +1,6 @@
+Automatic prerecord
+Allows selecting either manual or automatic prerecord mode. When automatic mode is selected prerecording session is being started automatically on each 3D application startup. However, you can still use video prerecord hotkey to stop then manually restart prerecording session if necessary.
+
+Hints:
+- Enabling this option will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides video capture services to 3D applications and it cannot be unloaded until this option is disabled.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

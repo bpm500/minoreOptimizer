@@ -1,0 +1,6 @@
+Réduire l'audio multi pistes en stéréo
+Permet de réduire l'audio multi pistes de cartes sons multi pistes en stéréo. La réduction réduit la taille de la vidéo et améliore la compatibilité avec les lecteurs vidéo et éditeurs vidéo.
+
+Astuce:
+- Cette option ne fonctionne que lorsque l'option de lecture audio est via WASAPI sous Windows Vista et OS plus récents. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

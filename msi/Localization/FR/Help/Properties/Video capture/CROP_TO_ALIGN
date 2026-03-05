@@ -1,0 +1,5 @@
+Couper les dimensions vidéo pour faire un multiple de 16
+Des décodeurs de vidéos externes (ex: décodeur vidéo interne VirtualDub MJPG) peuvent ne pas décoder la vidéo si la hauteur et la largeur de la vidéo ne sont pas des multiples de 16. Vous pouvez activer cette option pour couper les dimensions de la video au multiple de 16 pour améliorer la compatibilité avec ces applications externes.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

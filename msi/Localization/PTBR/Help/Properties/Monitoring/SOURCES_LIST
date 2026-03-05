@@ -1,0 +1,13 @@
+Lista de sensores de monitoramento
+Exibe a lista de sensores disponíveis e permite sua ativação e ordenamento.
+
+Sugestões:
+- Marque cada sensor para ativá-los e para exibi-los como gráficos no painel de monitoramento. Evite aqueles de pouco uso ou desnecessários para minimizar o impacto na CPU que podem afetar o desempenho do sistema.
+- Você pode ampliar a lista de sensores disponíveis em seu sistema ativando módulos de plugins.
+- Mantenha pressionada a tecla <Shift> ao marcar ou desmarcar um sensor para ativar ou desativar todos simultaneamente.
+- Você pode selecionar vários sensores usando o cursor do mouse e as teclas <Shift> ou <Ctrl>. Quando vários sensores estiverem selecionados, segure a tecla <Ctrl> ao marcar ou desmarcar um sensor para ativá-los ou desativá-los simultaneamente.
+- A ativação do sensor <Taxa de Quadros> criará um processo adicional do %SERVERPRODUCTNAME% iniciado automaticamente. O servidor fornece os dados para este sensor e não pode ser interrompido até que o sensor seja desativado.
+- Você pode arrastar e soltar sensores na lista para reorganizá-los. Arraste um sensor acima do item visível ou abaixo do mais visível na lista para deslocá-lo automaticamente na direção desejada.
+- Clique com o botão direito do mouse sobre a lista e selecione o comando <Redefinir Ordem> no menu de contexto para redefinir ao padrão a ordem de sensores ativos.
+- Você deve marcar e ativar o sensor antes de acessar e modificar suas propriedades.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

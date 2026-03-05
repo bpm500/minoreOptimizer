@@ -1,0 +1,64 @@
+#src Motherboard temperature
+#dst Температура матплати
+#end
+#src CPU fan speed
+#dst Швидкість вентилятора ЦП
+#end
+#src CPU voltage
+#dst Напруга ЦП
+#end
+#src PSU +3.3V voltage
+#dst Напруга БЖ +3.3В
+#end
+#src PSU +5V voltage
+#dst Напруга БЖ +5В
+#end
+#src PSU +12V voltage
+#dst Напруга БЖ +12В
+#end
+
+#src Source
+#dst Джерело
+#end
+#src Sensor
+#dst Сенсор
+#end
+#src Value
+#dst Значення
+#end
+
+#src Temperature
+#dst Температура
+#end
+#src Voltage
+#dst Напруга
+#end
+#src Current
+#dst Струм
+#end
+#src Clock
+#dst Частота
+#end
+#src Usage
+#dst Завантаження
+#end
+#src Other
+#dst Інше
+#end
+
+#src Sensors exported to %s!
+#dst Сенсори експортовані в %s!
+#end
+
+#src UPS voltage
+#dst Напруга ДБЖ
+#end
+#src UPS power
+#dst Енергоспоживання ДБЖ
+#end
+#src UPS load
+#dst Завантаження ДБЖ
+#end
+#src UPS charge level
+#dst Заряд ДБЖ
+#end

@@ -1,0 +1,5 @@
+Multithreaded optimalisatie
+De video compressie engine is geoptimaliseerd om te werken met systemen met meerdere CPU's of multi Core CPU's. De wachtrij van beelden kan simultaan verwerkt worden door meerdere threads en deze optie staat toe om te bepalen hoeveel threads er mogen gebruikt worden. Op de standaard instelling wordt er gebruik gemaakt van 1 thread om de gecomprimeerde beelden door te sluizen naar de hardeschijf (HDD) en N-1 threads om de gecomprimeerde beelden van de wachtrij op het systeem met N CPU's op de CPU kernen. Het kan nodig zijn om de hoeveelheid van threads te verminderen of het volledig uitschakelen van de multithreaded implimentatie om problemen of prestatie verlies te voorkomen. 
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

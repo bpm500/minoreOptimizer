@@ -1,0 +1,5 @@
+Active l'accès bas niveau du driver des entrées sorties
+Par défaut, %PRODUCTNAME% utilise l'accès bas niveau du driver des entrées sorties pour accélerer le scan matériel, le monitoring de température et l'accès bas niveau du matériel graphique. Vous pouvez désactiver cette otpion pour résoudre des problèmes d'accès direct au matériel.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

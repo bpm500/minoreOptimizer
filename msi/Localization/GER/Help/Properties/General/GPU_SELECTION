@@ -1,0 +1,6 @@
+Liste der GPUs
+Zeigt eine Liste der auf dem System installierten GPUs an und ermöglicht Ihnen die Auswahl der primären GPU. Alle GPU-Einstellungen, die Sie im Hauptanwendungsfenster vornehmen, gelten nur für die primäre GPU und optional für alle GPUs desselben Modells im System, wenn die benachbarte Option zum Synchronisieren identischer GPU-Einstellungen aktiviert ist.
+
+Hinweise:
+- Vergessen Sie nicht, Ihre Änderungen zu übernehmen, bevor Sie zu einer neuen primären GPU wechseln. Alle nicht angewendeten Einstellungen gehen verloren, wenn eine neue primäre GPU ausgewählt wird.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

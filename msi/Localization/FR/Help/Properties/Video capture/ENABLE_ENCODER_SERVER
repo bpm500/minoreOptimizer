@@ -1,0 +1,9 @@
+Utiliser un serveur dédié pour l'encodage
+Par défaut l'encodage vidéo se fait dans le contexte de capture de la vidéo 3D. Celà veut dire que seul les codecs 32 bits peuvent être utilisé pour capturer la vidéo des applications 32 bits et seul les codecs 64 bits peuvent être utilisés pour capturer la vidéo des applications 64 bits.
+Vous pouvez activer cette option pour forcer l'encodage dans le service d'aide à l'encodage. Et donc vous pouvez utiliser des codecs 32 bits pour capturer des vidéos dans les applications 64 bits et vice versa.
+De plus, le serveur dédié pour l'encodage tourne dans un espace d'addressage séparé, ce qui permet de réserver plus de mémoire pour le buffer le pré-enregistrement sans empiéter sur l'addressage mémoire de l'application 3D d'ou vous capturer la vidéo.
+Utiliser un serveur dédié pour l'encodage peut aussi être utile dans des cas spécifiques quand le process d'encodage vidéo souffre à cause de différent problèmes de synchronisation de DirectX. Par exemple, un serveur dédié pour l'encodage peut booster les performances d'encodage via le plugin Intel QuickSync en mode accéléré matériel Direct3D9 lors de la capture de vidéo depuis des applications Direct3D9.
+
+Astuce:
+- Cette option demande l'activation d'un service dédié pour l'encodage dans les propriétés de compatibilté de %SERVERPRODUCTNAME%. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

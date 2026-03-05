@@ -1,0 +1,444 @@
+#src GPU temperature
+#dst Температура ГП
+#end
+#src GPU%d temperature
+#dst Температура ГП%d
+#end
+#src GPU voltage
+#dst Напряжение ГП
+#end
+#src GPU%d voltage
+#dst Напряжение ГП%d
+#end
+#src PCB temperature
+#dst Температура окружения
+#end
+#src PCB%d temperature
+#dst Температура окружения ГП%d
+#end
+#src Fan speed
+#dst Скорость кулера
+#end
+#src GPU%d fan speed
+#dst Скорость кулера ГП%d
+#end
+#src Core clock
+#dst Частота ядра
+#end
+#src GPU%d core clock
+#dst Частота ядра ГП%d
+#end
+#src Shader clock
+#dst Частота шейдеров
+#end
+#src GPU%d shader clock
+#dst Частота шейдеров ГП%d
+#end
+#src Memory clock
+#dst Частота памяти
+#end
+#src GPU%d memory clock
+#dst Частота памяти ГП%d
+#end
+#src GPU usage
+#dst Загрузка ГП
+#end
+#src GPU%d usage
+#dst Загрузка ГП%d
+#end
+#src Framerate
+#dst Частота кадров
+#end
+#src Memory usage
+#dst Загрузка памяти
+#end
+#src GPU%d memory usage
+#dst Загрузка памяти ГП%d
+#end
+#src Memory usage \ process
+#dst Загрузка памяти \ процесс
+#end
+#src GPU%d memory usage \ process
+#dst Загрузка памяти ГП%d \ процесс
+#end
+#src °C
+#dst °C
+#end
+#src V
+#dst В
+#end
+#src MHz
+#dst МГц
+#end
+#src MB
+#dst МБ
+#end
+#src FPS
+#dst кадр/c
+#end
+#src %dMHz
+#dst %dМГц
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fВ
+#end
+#src %+.3fV
+#dst %+.3fВ
+#end
+#src Auto
+#dst Авто
+#end
+#src Aux voltage
+#dst Вспом. напряжение
+#end
+#src GPU%d aux voltage
+#dst Вспом. напряжение ГП%d
+#end
+#src Memory voltage
+#dst Напряжение памяти
+#end
+#src GPU%d memory voltage
+#dst Напряжение памяти ГП%d
+#end
+#src Fan tachometer
+#dst Тахометр кулера
+#end
+#src GPU%d fan tachometer
+#dst Тахометр кулера ГП%d
+#end
+#src RPM
+#dst об/мин
+#end
+#src Memory temperature
+#dst Температура памяти
+#end
+#src GPU%d memory temperature
+#dst Температура памяти ГП%d
+#end
+#src VRM temperature
+#dst Температура VRM
+#end
+#src GPU%d VRM temperature
+#dst Температура VRM ГП%d
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst Подтверждаю, что мне известны ограничения неофициального режима разгона, и полностью осознаю, что MSI не будет предоставлять мне никакой технической поддержки относительно данного функционала
+#end
+#src Power
+#dst Энергопотребление
+#end
+#src GPU%d power
+#dst Энергопотребление ГП%d
+#end
+#src Power percent
+#dst Процент энергопотребления
+#end
+#src GPU%d power percent
+#dst Процент энергопотребления ГП%d
+#end
+#src Frametime
+#dst Время кадра
+#end
+#src ms
+#dst мс
+#end
+#src Temp limit
+#dst Предел температуры
+#end
+#src GPU%d temp limit
+#dst Предел температуры ГП%d
+#end
+#src Power limit
+#dst Предел энергопотребления
+#end
+#src GPU%d power limit
+#dst Предел энергопотребления ГП%d
+#end
+#src Voltage limit
+#dst Предел напряжения
+#end
+#src GPU%d voltage limit
+#dst Предел напряжения ГП%d
+#end
+#src OV max limit
+#dst Предел повышения напряжения
+#end
+#src GPU%d OV max limit
+#dst Предел повышения напряжения ГП%d
+#end
+#src FB usage
+#dst Загрузка контроллера памяти
+#end
+#src GPU%d FB usage
+#dst Загрузка контроллера памяти ГП%d
+#end
+#src VID usage
+#dst Загрузка видеоядра
+#end
+#src GPU%d VID usage
+#dst Загрузка видеоядра ГП%d
+#end
+#src BUS usage
+#dst Загрузка контроллера шины
+#end
+#src GPU%d BUS usage
+#dst Загрузка контроллера шины ГП%d
+#end
+#src No load limit
+#dst Предел отсутствия нагрузки
+#end
+#src GPU%d no load limit
+#dst Предел отсутствия нагрузки ГП%d
+#end
+#src CPU usage
+#dst Загрузка ЦП
+#end
+#src CPU%d usage
+#dst Загрузка ЦП%d
+#end
+#src RAM usage
+#dst Загрузка ОЗУ
+#end
+#src RAM usage \ process
+#dst Загрузка ОЗУ \ процесс
+#end
+#src Commit charge
+#dst Выделенная память
+#end
+#src CPU temperature
+#dst Температура ЦП
+#end
+#src CPU%d temperature
+#dst Температура ЦП%d
+#end
+#src SLI sync limit
+#dst Предел синхронизации SLI
+#end
+#src GPU%d SLI sync limit
+#dst Предел синхронизации SLI ГП%d
+#end
+#src Frequency, MHz
+#dst Частота, МГц
+#end
+#src Voltage, mV
+#dst Напряжение, МВ
+#end
+#src Power, %
+#dst Энергопотребление, %
+#end
+#src OC Scanner
+#dst Сканер разгона
+#end
+#src W
+#dst Вт
+#end
+#src CPU clock
+#dst Частота ЦП
+#end
+#src CPU%d clock
+#dst Частота ЦП%d
+#end
+#src Aux2 voltage
+#dst Вспом. напряжение 2
+#end
+#src GPU%d aux2 voltage
+#dst Вспом. напряжение 2 ГП%d
+#end
+
+#src GPU temperature 2
+#dst Температура ГП 2
+#end
+#src GPU%d temperature 2
+#dst Температура 2 ГП%d
+#end
+#src PCB temperature 2
+#dst Температура окружения 2
+#end
+#src PCB%d temperature 2
+#dst Температура окружения 2 ГП%d
+#end
+#src Memory temperature 2
+#dst Температура памяти 2
+#end
+#src GPU%d memory temperature 2
+#dst Температура памяти 2 ГП%d
+#end
+#src VRM temperature 2
+#dst Температура VRM 2
+#end
+#src GPU%d VRM temperature 2
+#dst Температура VRM 2 ГП%d
+#end
+
+#src GPU temperature 3
+#dst Температура ГП 3
+#end
+#src GPU%d temperature 3
+#dst Температура 3 ГП%d
+#end
+#src PCB temperature 3
+#dst Температура окружения 3
+#end
+#src PCB%d temperature 3
+#dst Температура окружения 3 ГП%d
+#end
+#src Memory temperature 3
+#dst Температура памяти 3
+#end
+#src GPU%d memory temperature 3
+#dst Температура памяти 3 ГП%d
+#end
+#src VRM temperature 3
+#dst Температура VRM 3
+#end
+#src GPU%d VRM temperature 3
+#dst Температура VRM 3 ГП%d
+#end
+
+#src GPU temperature 4
+#dst Температура ГП 4
+#end
+#src GPU%d temperature 4
+#dst Температура 4 ГП%d
+#end
+#src PCB temperature 4
+#dst Температура окружения 4
+#end
+#src PCB%d temperature 4
+#dst Температура окружения 4 ГП%d
+#end
+#src Memory temperature 4
+#dst Температура памяти 4
+#end
+#src GPU%d memory temperature 4
+#dst Температура памяти 4 ГП%d
+#end
+#src VRM temperature 4
+#dst Температура VRM 4
+#end
+#src GPU%d VRM temperature 4
+#dst Температура VRM 4 ГП%d
+#end
+
+#src GPU temperature 5
+#dst Температура ГП 5
+#end
+#src GPU%d temperature 5
+#dst Температура 5 ГП%d
+#end
+#src PCB temperature 5
+#dst Температура окружения 5
+#end
+#src PCB%d temperature 5
+#dst Температура окружения 5 ГП%d
+#end
+#src Memory temperature 5
+#dst Температура памяти 5
+#end
+#src GPU%d memory temperature 5
+#dst Температура памяти 5 ГП%d
+#end
+#src VRM temperature 5
+#dst Температура VRM 5
+#end
+#src GPU%d VRM temperature 5
+#dst Температура VRM 5 ГП%d
+#end
+#src <GPU plugin>
+#dst <плагин ГП>
+#end
+#src <CPU plugin>
+#dst <плагин ЦП>
+#end
+#src <motherboard plugin>
+#dst <плагин матплаты>
+#end
+#src <RAM plugin>
+#dst <плагин ОЗУ>
+#end
+#src <HDD plugin>
+#dst <плагин диска>
+#end
+#src <NET plugin>
+#dst <плагин сети>
+#end
+#src <PSU plugin>
+#dst <плагин БП>
+#end
+#src <UPS plugin>
+#dst <плагин ИБП>
+#end
+#src <miscellaneous plugin>
+#dst <прочий плагин>
+#end
+
+#src Framerate Min
+#dst Частота кадров Мин
+#end
+#src Framerate Avg
+#dst Частота кадров Сред
+#end
+#src Framerate Max
+#dst Частота кадров Макс
+#end
+#src Framerate 1% Low
+#dst Частота кадров ниже 1%
+#end
+#src Framerate 0.1% Low
+#dst Частота кадров ниже 0.1%
+#end
+
+#src CPU power
+#dst Энергопотребление ЦП
+#end
+#src CPU%d power
+#dst Энергопотребление ЦП%d
+#end
+
+#src Fan speed 2
+#dst Скорость кулера 2
+#end
+#src GPU%d fan speed 2
+#dst Скорость кулера 2 ГП%d
+#end
+#src Fan tachometer 2
+#dst Тахометр кулера 2
+#end
+#src GPU%d fan tachometer 2
+#dst Тахометр кулера 2 ГП%d
+#end
+
+#src Fan speed 3
+#dst Скорость кулера 3
+#end
+#src GPU%d fan speed 3
+#dst Скорость кулера 3 ГП%d
+#end
+#src Fan tachometer 3
+#dst Тахометр кулера 3
+#end
+#src GPU%d fan tachometer 3
+#dst Тахометр кулера 3 ГП%d
+#end
+
+#src Fan 1
+#dst Кулер 1
+#end
+#src Fan 2
+#dst Кулер 2
+#end
+#src Fan 3
+#dst Кулер 3 
+#end
+#src Fan 4
+#dst Кулер 4
+#end
+#src firmware
+#dst микропрограмма
+#end
+#src %d nodes
+#dst по %d точкам
+#end

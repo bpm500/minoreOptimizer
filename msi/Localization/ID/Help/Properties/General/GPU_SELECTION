@@ -1,0 +1,5 @@
+Daftar Graphics processors
+Tampilkan daftar grafis processors yang diinstall di sistem. semua pengaturan GPU yang anda lakukan di aplikasi utama akan dialihkan ke master GPU dan segala kegiatan yang serupa di GPU akan di sinkronisasi secara aktif.
+
+Petunjuk:
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

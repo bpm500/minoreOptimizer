@@ -1,0 +1,5 @@
+Limite di tempo di preregistrazione
+Permette definimg il limite di tempo per il buffer di preregistrazione in secondi. Si può impostare a zero per lasciare un tempo illimitato.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

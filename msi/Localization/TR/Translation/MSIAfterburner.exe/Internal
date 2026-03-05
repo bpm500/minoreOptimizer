@@ -1,0 +1,183 @@
+#src GPU temperature
+#dst GPU Sýcaklýðý
+#end
+#src GPU%d temperature
+#dst GPU%d Sýcaklýðý
+#end
+#src GPU voltage
+#dst GPU voltajý
+#end
+#src GPU%d voltage
+#dst GPU%d voltajý
+#end
+#src PCB temperature
+#dst PCB Sýcaklýðý
+#end
+#src PCB%d temperature
+#dst PCB%d Sýcaklýðý
+#end
+#src Fan speed
+#dst Fan Hýzý
+#end
+#src GPU%d fan speed
+#dst GPU%d Fan Hýzý
+#end
+#src Core clock
+#dst Ýþlemci Hýzý
+#end
+#src GPU%d core clock
+#dst GPU%d Ýþlemci Hýzý
+#end
+#src Shader clock
+#dst Shader hýzý
+#end
+#src GPU%d shader clock
+#dst GPU%d Shader hýzý
+#end
+#src Memory clock
+#dst Bellek Hýzý
+#end
+#src GPU%d memory clock
+#dst GPU%d Bellek Hýzý
+#end
+#src GPU usage
+#dst GPU kullanýmý
+#end
+#src GPU%d usage
+#dst GPU%d kullanýmý
+#end
+#src Framerate
+#dst FPS
+#end
+#src Memory usage
+#dst Bellek kullanýmý
+#end
+#src GPU%d memory usage
+#dst GPU%d bellek kullanýmý
+#end
+#src °C
+#dst °C
+#end
+#src V
+#dst V
+#end
+#src MHz
+#dst MHz
+#end
+#src MB
+#dst MB
+#end
+#src FPS
+#dst FPS
+#end
+#src %dMHz
+#dst %dMHz
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fV
+#end
+#src %+.3fV
+#dst %+.3fV
+#end
+#src Auto
+#dst Otomatik
+#end
+#src Aux voltage
+#dst Aux voltajý
+#end
+#src GPU%d aux voltage
+#dst GPU%d Aux voltajý
+#end
+#src Memory voltage
+#dst Bellek Voltajý
+#end
+#src GPU%d memory voltage
+#dst GPU%d Bellek Voltajý
+#end
+#src Fan tachometer
+#dst Fan Hýzý
+#end
+#src GPU%d fan tachometer
+#dst GPU%d Fan Hýzý
+#end
+#src RPM
+#dst RPM
+#end
+#src Memory temperature
+#dst Bellek Sýcaklýðý
+#end
+#src GPU%d memory temperature
+#dst GPU%d Bellek Sýcaklýðý
+#end
+#src VRM temperature
+#dst VRM Sýcaklýðý
+#end
+#src GPU%d VRM temperature
+#dst GPU%d VRM Sýcaklýðý
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst Kartýmýn belirtilen hýzaþýrtma sýnýrlarý dýþýna çýkmamam gerektiðini, eðer çýkarsam MSI'on bu konuda bana bir destek sunmayacaðýný biliyorum.
+#end
+#src Power
+#dst Güç
+#end
+#src GPU%d power
+#dst GPU%d Güç
+#end
+#src Frametime
+#dst
+#end
+#src ms
+#dst ms
+#end
+#src Temp limit
+#dst Sýcaklýk limiti
+#end
+#src GPU%d temp limit
+#dst GPU%d sýcaklýk limiti
+#end
+#src Power limit
+#dst Güç limiti
+#end
+#src GPU%d power limit
+#dst GPU%d güç limiti
+#end
+#src Voltage limit
+#dst Voltaj limiti
+#end
+#src GPU%d voltage limit
+#dst GPU%d voltaj limiti
+#end
+#src OV max limit
+#dst OV maks. limit
+#end
+#src GPU%d OV max limit
+#dst GPU%d OV maks limiti
+#end
+#src FB usage
+#dst FB kullanýmý
+#end
+#src GPU%d FB usage
+#dst GPU%d FB kullanýmý
+#end
+#src VID usage
+#dst VID kullanýmý
+#end
+#src GPU%d VID usage
+#dst GPU%d VID kullanýmý
+#end
+#src BUS usage
+#dst BUS kullanýmý
+#end
+#src GPU%d BUS usage
+#dst GPU%d BUS kullanýmý
+#end
+#src No load limit
+#dst Kullanma limiti
+#end
+#src GPU%d no load limit
+#dst GPU%d kullanma limiti
+#end

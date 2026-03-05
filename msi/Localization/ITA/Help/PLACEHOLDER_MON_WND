@@ -1,0 +1,10 @@
+Finestra di monitoraggio
+visualizza la storia dei grafici delle temperature delle GPU e di altri parametri di integrità hardware.
+
+Consigli:
+- Si può muovere il cursore sopra il grafico per monitorare i valori nella posizione del cursore.
+- È possibile scorrere i grafici con la rotella del mouse o catturare la finestra con il tasto sinistro del mouse e trascinarla su e giù.
+- Si può staccare e impostare la posizione personalizzata e la dimensione della finestra di controllo facendo doppio clic nella zona della finestra di monitoraggio o premendo il pulsante <Detach>. È possibile fare doppio clic sulla finestra di monitoraggio indipendentemente o chiuderla semplicemente per attaccarla di nuovo alla finestra principale.
+- Si può aprire la scheda <Grafici> in proprietà avanzate per configurare tutti i dati grafici da visualizzare nella On-Screen Display o nella barra delle applicazioni e controllare la temperatura della GPU e dei parametri di salute durante il lavoro o il gioco. In alternativa, basta fare clic destro in qualsiasi zona del grafico di questa finestra per accedere direttamente alle proprietà avanzate del grafico.
+- È possibile disattivare i grafici usati raramente o cambiare l'ordine dei grafici nella scheda <Grafici> in proprietà avanzate. Spunta i segni di spunta a sinistra di ogni grafico nella lista per attivare o disattivare e semplicemente trascinare e rilasciare i grafici nella lista per sistemarli.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

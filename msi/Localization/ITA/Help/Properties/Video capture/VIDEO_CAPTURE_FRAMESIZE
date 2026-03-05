@@ -1,0 +1,6 @@
+Dimensione del frame
+Quando si cattura un video in alta risoluzione con dimensioni di larghezza di banda a pieno frame sul bus PCIE può diventare un collo di bottiglia che limita il framerate dovuto alla mole di dati copiati dalla GPU alla CPU tramite il bus su ogni fotogramma.
+In tale situazione si può tentare di aumentare le prestazioni diminuendo la dimensione del frame, per esempio selezionando un mezzo formato della struttura al posto di un full frame si riduce la quantità di dati da trasferire dalla GPU alla CPU di un fattore 4. Diminuire la dimensione del frame, inoltre, riduce effettivamente il carico della CPU e del carico HDD, riducendo la quantità di dati da comprimere e scrivere su HDD.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

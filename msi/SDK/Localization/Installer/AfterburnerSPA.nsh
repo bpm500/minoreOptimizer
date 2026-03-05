@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_SPANISH}		"AfterburnerSPA.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_SPANISH}		"¡MSI Afterburner está actualmente activo, el proceso de instalación será abortado!"
+LangString AfterburnerAbortInstall 	${LANG_SPANISH}		"¡La instalación de MSI Afterburner falló!"
+LangString AfterburnerActiveUninstall 	${LANG_SPANISH}		"¡MSI Afterburner está actualmente activo, el proceso de desinstalación será abortado"
+LangString AfterburnerKeepSettings 	${LANG_SPANISH} 	"¿Quieres conservar tu configuración de MSI Afterburner? Haz click en Sí si estás desinstalando la utilidad antes de actualizar a una versión más reciente."
+LangString AfterburnerRebootUninstall 	${LANG_SPANISH}		"Algunos archivos de MSI Afterburner están actualmente en uso y no pueden ser borrados en este momento, un reinicio es requerido para terminar el proceso de desinstalación y borrar estos archivos. Si estás actualizando MSI Afterburner, se recomienda fuertemente que se reinicie el equipo antes de instalar una nueva versión. ¿Deseas reiniciar el equipo ahora?"
+LangString AfterburnerAbortUninstall 	${LANG_SPANISH} 	"¡La desinstalación de MSI Afterburner falló!"
+LangString AfterburnerCaption 		${LANG_SPANISH} 	"MSI Afterburner ${VER_DISPLAY} Setup"
+LangString DescSecAfterburner 		${LANG_SPANISH}		"Main MSI Afterburner application"
+LangString DescSecRTSS 			${LANG_SPANISH}		"Provides framerate monitoring, On-Screen Display and videocapture services to MSI Afterburner"
+LangString AfterburnerLocalization 	${LANG_SPANISH} 	"SPA"

@@ -1,0 +1,5 @@
+Qualité de captures d'écran 
+Ajuste la qualité des captures d'écran sauvegardées au format JPG. Une augmentation de la qualité d'image augmente la taille des fichiers et le temps de compression. Les formats BMP et PNG sont des formats sans perte de qualité et sont donc toujours à 100%.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,6 @@
+Correzione formula 
+Consente di applicare la formula di correzione personalizzata per l'attuale grafico selezionato. Le correzioni di formula possono essere utili per applicare gli offset termici per sensori personalizzati, ad esempio la formula "x+10" può aggiungere 10 gradi alla temperatura visualizzata.
+
+Suggerimenti:
+- Formule non correttamente specificate sono evidenziate dal colore rosso
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

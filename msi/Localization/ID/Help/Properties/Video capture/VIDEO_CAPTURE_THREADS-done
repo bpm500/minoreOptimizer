@@ -1,0 +1,5 @@
+Optimalisasi Multithreaded
+Kompresi video digunakan melalui beberapa CPU atau beberapa CPU cores. Secara default kompresi video otomatis menggunakan 1 thread untuk melakukan flush frame kompresi kepada HDD dan thread N-1 kepada antrian frame pada sistem melalui N CPUs di core CPU. Namun, anda dapat mengurangi beban thread atau non-aktifkan beberapa thread untuk troubleshooting atau sebagai komparasi performance. 
+
+Petunjuk:
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

@@ -1,0 +1,6 @@
+Valor da entrada
+As bibliotecas de cores, de alinhamentos e de tamanhos de cada estilo de exibição na tela podem incluir até 250 valores de sistema definidos pelo usuário e até 6 reservados pelo sistema, armazenados em 256 entradas indexadas. Os valores definidos pelo usuário (entradas 0-249) permitem que você aplique estilos de formatação personalizados para várias partes da exibição de informações na tela, enquanto que os valores do sistema (entradas 250-255) são reservados para definir o estilo de formatação para o status de exibição da informação na tela.
+O valor da entrada somente pode ser editado ao adicionar um novo item à biblioteca e não poderá ser alterado posteriormente.
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,6 @@
+Videoauflösung
+Bei der Aufnahme hochauflösender Videos in voller Auflösung kann die PCIe-Busbandbreite aufgrund der großen Datenmenge, die in jedem Bild von der GPU über den Bus zur CPU kopiert wird, zu einem Flaschenhals werden.
+Wenn das passiert, kann die Leistung erhöht werden, indem die Videoauflösung reduziert wird. Wenn Sie beispielsweise die <Halbe Videoauflösung> anstelle von <Volle Videoauflösung> auswählen, verringert sich die von der GPU zur CPU kopierte Datenmenge um den Faktor 4. Durch die Reduzierung der Videoauflösung wird auch die Belastung der CPU und der Festplatte bzw. SSD effektiv reduziert, da die Datenmenge reduziert wird.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

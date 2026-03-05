@@ -1,0 +1,6 @@
+Ridimensionamento della skin
+Consente il ridimensionamento della skin per fornire il miglior aspetto sul vostro monitor. Il ridimensionamento è supportato solo quando si utilizza la modalità di composizione della pelle a strati con canale alfa.
+Si prega di prendere nota che l'upscaling può ridurre le prestazioni di rendering della GUI del tema.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

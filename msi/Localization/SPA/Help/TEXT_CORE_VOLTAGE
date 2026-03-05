@@ -1,0 +1,10 @@
+Core voltage
+Voltaje del núcleo
+Visualiza el voltaje de la GPU principal. Dependiendo del modelo de la GPU el voltaje puede ser representado en un valor absoluto o como una variación del voltaje base. Valores con signo + representan variaciones sonre el voltaje original mientras que valores sin signo representan el valor absoluto.
+
+Sugerencias:
+- Cuando el modo de sincronización entre GPUs similares está activado, en la solapa <General> de las propiedades avanzadas, cualquier cambio en los ajustes en la tarjeta gráfica principal es aplicado al resto de tarjetas similares instaladas en el sistema.
+- El ajuste de voltaje está limitado a aquellas tarjetas gráficas provistas de un módulo de regulación de voltaje programable. En la documentación se encuentra la lista completa de los modelos que soportan regulación del voltaje.
+- Puedes hacer click en este texto directamente para cambiar el valor.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.
+

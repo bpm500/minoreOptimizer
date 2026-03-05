@@ -1,0 +1,4 @@
+Este plugin adiciona fontes de dados para monitoramento da [b]Temperatura do HDD[/b] das unidades de disco rígido compatíveis com S.M.A.R.T.
+
+Sugestões:
+- Pesquisas de dados S.M.A.R.T. frequêntes podem resultar em desempenho notável em determinadas unidades de disco rígido e combinações de controladores IDE. Você pode reduzir o desempenho atingido nestas condições, especificando um intervalo mínimo de pesquisa de dados S.M.A.R.T. no campo [b]MinPollingInterval[/b] na seção [Settings] do arquivo SMART.cfg.

@@ -1,0 +1,12 @@
+Perfil 6
+Salva as configurações atuais de tensão, frequências e controle da ventoinha para o perfil 6, carrega ou exclui configurações.
+
+Sugestões:
+- Pressione o botão <Salvar> e enquanto os perfis estiverem piscando, selecione o botão 6 para salvar as configurações aplicadas atualmente ao perfil 6. O Perfil salvo se aplica a todas as GPUs sincronizadas instaladas no sistema.
+- Você pode salvar as configurações aplicadas atualmente para substitiur o perfil 6 ou excluí-lo clicando com o botão direito do mouse. O Perfil salvo se aplica a todas as GPUs sincronizadas instaladas no sistema.
+- Você pode salvar as configurações aplicadas atualmente para substitur o perfil 6 ou excluir o perfil selecionado usado as teclas <Ctrl + 6> do teclado. O Perfil salvo se aplica a todas as GPUs sincronizadas instaladas no sistema.
+- Você pode carregar o perfil 6 clicando no botão 1.
+- Você pode carregar o perfil 6 pressionando diretamente <6> no teclado.
+- Você pode carregar e aplicar automaticamente os perfis através do menu do ícone na barra de tarefas do sitema ou mesmo atribuir atalhos para cada perfil na aba de propriedades dos perfis. Os perfis são carregados e sincronicamente aplicados a todas as GPUs instaladas no sistema.
+- Você pode usar a função de gerenciamento automático de perfis e atribuir perfis diferentes para aplicações 2D e 3D através na guia <Perfis>. Os perfis atribuídos serão carregados e sincronicamente aplicados a todas as GPUs instaladas no sistema a cada mudança 2D/3D.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

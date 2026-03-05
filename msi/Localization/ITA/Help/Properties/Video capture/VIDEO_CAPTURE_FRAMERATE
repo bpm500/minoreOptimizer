@@ -1,0 +1,5 @@
+Framerate
+Regola il framerate del video codificato. Alcuni fotogrammi saranno eliminati se il sistema non è abbastanza veloce per la codifica video al framerate desiderato, in questo caso si può tentare di diminuire il framerate del video per migliorare la scorrevolezza.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

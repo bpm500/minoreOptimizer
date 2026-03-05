@@ -1,0 +1,6 @@
+Check for available product beta versions
+
+Allows update checking system to notify you about new beta versions as well as official product updates. Please take a note that all beta versions have limited trial period and stop working when it expires. So install beta versions only if you want to join open beta testing and fully accept limited trial period condition.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

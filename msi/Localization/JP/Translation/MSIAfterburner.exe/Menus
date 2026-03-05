@@ -1,0 +1,35 @@
+#src Pause
+#dst 一時停止
+#end
+#src Clear history
+#dst 履歴クリア
+#end
+#src Show status
+#dst ステータス表示
+#end
+#src Log history to file
+#dst 履歴のファイルへの記録
+#end
+#src Always on top
+#dst 常にトップ
+#end
+#src Properties
+#dst プロパティ
+#end
+
+#src Copy
+#dst コピー
+#end
+
+#src Show
+#dst 表示
+#end
+#src Profiles
+#dst プロファイル
+#end
+#src Close
+#dst 閉じる
+#end
+#src There are no profiles
+#dst プロファイルがありません
+#end

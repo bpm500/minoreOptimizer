@@ -1,0 +1,2 @@
+Este plugin adiciona fontes de dados de monitoramento para [b]Uso individual de cada mecanismo da GPU[/b], [b]Uso de memória dedicada[/b] e [b]Uso de memória compartilhada[/b]. 
+Os contadores de desempenho D3DKMT também fornecem dados para este plug-in.

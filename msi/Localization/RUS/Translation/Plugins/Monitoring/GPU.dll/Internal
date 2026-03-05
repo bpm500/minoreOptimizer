@@ -1,0 +1,207 @@
+#src GPU%d engine 0 usage
+#dst Загрузка блока 0 ГП%d
+#end
+#src GPU%d engine 1 usage
+#dst Загрузка блока 1 ГП%d
+#end
+#src GPU%d engine 2 usage
+#dst Загрузка блока 2 ГП%d
+#end
+#src GPU%d engine 3 usage
+#dst Загрузка блока 3 ГП%d
+#end
+#src GPU%d engine 4 usage
+#dst Загрузка блока 4 ГП%d
+#end
+#src GPU%d engine 5 usage
+#dst Загрузка блока 5 ГП%d
+#end
+#src GPU%d engine 6 usage
+#dst Загрузка блока 6 ГП%d
+#end
+#src GPU%d engine 7 usage
+#dst Загрузка блока 7 ГП%d
+#end
+#src GPU%d engine 8 usage
+#dst Загрузка блока 8 ГП%d
+#end
+#src GPU%d engine 9 usage
+#dst Загрузка блока 9 ГП%d
+#end
+#src GPU%d engine 10 usage
+#dst Загрузка блока 10 ГП%d
+#end
+#src GPU%d engine 11 usage
+#dst Загрузка блока 11 ГП%d
+#end
+#src GPU%d engine 12 usage
+#dst Загрузка блока 12 ГП%d
+#end
+#src GPU%d engine 13 usage
+#dst Загрузка блока 13 ГП%d
+#end
+#src GPU%d engine 14 usage
+#dst Загрузка блока 14 ГП%d
+#end
+#src GPU%d engine 15 usage
+#dst Загрузка блока 15 ГП%d
+#end
+#src GPU%d engine 16 usage
+#dst Загрузка блока 16 ГП%d
+#end
+#src GPU%d engine 17 usage
+#dst Загрузка блока 17 ГП%d
+#end
+#src GPU%d engine 18 usage
+#dst Загрузка блока 18 ГП%d
+#end
+#src GPU%d engine 19 usage
+#dst Загрузка блока 19 ГП%d
+#end
+#src GPU%d engine 20 usage
+#dst Загрузка блока 20 ГП%d
+#end
+#src GPU%d engine 21 usage
+#dst Загрузка блока 21 ГП%d
+#end
+#src GPU%d engine 22 usage
+#dst Загрузка блока 22 ГП%d
+#end
+#src GPU%d engine 23 usage
+#dst Загрузка блока 23 ГП%d
+#end
+#src GPU%d engine 24 usage
+#dst Загрузка блока 24 ГП%d
+#end
+#src GPU%d engine 25 usage
+#dst Загрузка блока 25 ГП%d
+#end
+#src GPU%d engine 26 usage
+#dst Загрузка блока 26 ГП%d
+#end
+#src GPU%d engine 27 usage
+#dst Загрузка блока 27 ГП%d
+#end
+#src GPU%d engine 28 usage
+#dst Загрузка блока 28 ГП%d
+#end
+#src GPU%d engine 29 usage
+#dst Загрузка блока 29 ГП%d
+#end
+
+#src GPU engine 0 usage
+#dst Загрузка блока 0 ГП
+#end
+#src GPU engine 1 usage
+#dst Загрузка блока 1 ГП
+#end
+#src GPU engine 2 usage
+#dst Загрузка блока 2 ГП
+#end
+#src GPU engine 3 usage
+#dst Загрузка блока 3 ГП
+#end
+#src GPU engine 4 usage
+#dst Загрузка блока 4 ГП
+#end
+#src GPU engine 5 usage
+#dst Загрузка блока 5 ГП
+#end
+#src GPU engine 6 usage
+#dst Загрузка блока 6 ГП
+#end
+#src GPU engine 7 usage
+#dst Загрузка блока 7 ГП
+#end
+#src GPU engine 8 usage
+#dst Загрузка блока 8 ГП
+#end
+#src GPU engine 9 usage
+#dst Загрузка блока 9 ГП
+#end
+#src GPU engine 10 usage
+#dst Загрузка блока 10 ГП
+#end
+#src GPU engine 11 usage
+#dst Загрузка блока 11 ГП
+#end
+#src GPU engine 12 usage
+#dst Загрузка блока 12 ГП
+#end
+#src GPU engine 13 usage
+#dst Загрузка блока 13 ГП
+#end
+#src GPU engine 14 usage
+#dst Загрузка блока 14 ГП
+#end
+#src GPU engine 15 usage
+#dst Загрузка блока 15 ГП
+#end
+#src GPU engine 16 usage
+#dst Загрузка блока 16 ГП
+#end
+#src GPU engine 17 usage
+#dst Загрузка блока 17 ГП
+#end
+#src GPU engine 18 usage
+#dst Загрузка блока 18 ГП
+#end
+#src GPU engine 19 usage
+#dst Загрузка блока 19 ГП
+#end
+#src GPU engine 20 usage
+#dst Загрузка блока 20 ГП
+#end
+#src GPU engine 21 usage
+#dst Загрузка блока 21 ГП
+#end
+#src GPU engine 22 usage
+#dst Загрузка блока 22 ГП
+#end
+#src GPU engine 23 usage
+#dst Загрузка блока 23 ГП
+#end
+#src GPU engine 24 usage
+#dst Загрузка блока 24 ГП
+#end
+#src GPU engine 25 usage
+#dst Загрузка блока 25 ГП
+#end
+#src GPU engine 26 usage
+#dst Загрузка блока 26 ГП
+#end
+#src GPU engine 27 usage
+#dst Загрузка блока 27 ГП
+#end
+#src GPU engine 28 usage
+#dst Загрузка блока 28 ГП
+#end
+#src GPU engine 29 usage
+#dst Загрузка блока 29 ГП
+#end
+
+#src GPU%d dedicated memory usage
+#dst Загрузка встроенной памяти ГП%d
+#end
+#src GPU%d shared memory usage
+#dst Загрузка разделяемой памяти ГП%d
+#end
+#src GPU%d dedicated memory usage \ process
+#dst Загрузка встроенной памяти ГП%d \ процесс
+#end
+#src GPU%d shared memory usage \ process
+#dst Загрузка разделяемой памяти ГП%d \ процесс
+#end
+
+#src GPU dedicated memory usage
+#dst Загрузка встроенной памяти ГП
+#end
+#src GPU shared memory usage
+#dst Загрузка разделяемой памяти ГП
+#end
+#src GPU dedicated memory usage \ process
+#dst Загрузка встроенной памяти ГП \ процесс
+#end
+#src GPU shared memory usage \ process
+#dst Загрузка разделяемой памяти ГП \ процесс
+#end

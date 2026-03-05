@@ -1,0 +1,6 @@
+Graphics processor type
+Some graphics card models may use different types of graphics processors (e.g. high-leakage and low-leakage GPUs) with different default voltages and different 3D voltage control approaches. You may need to use this option to select your graphcis processor type and provide proper voltage control.   
+
+Hints:
+- Graphics processor type selection affects currently selected master GPU only, please re-open this window after changing master GPU selection to select new GPU type for it.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

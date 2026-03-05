@@ -1,0 +1,7 @@
+Fine registrazione hotkey
+Consente di definire l'hotkey globale finale per la registrazione delle statistiche di framerate. Quando la registrazione è attiva è possibile premere una volta questo tasto di scelta rapida per terminare la registrazione e salvare le statistiche di benchmark in un file di testo, ma mantenere i risultati visualizzati nell'On-Screen Display. È possibile premere il tasto di scelta rapida ancora una volta per nascondere i risultati dall'On-Screen Display.
+
+Suggerimenti:
+- L'attivazione di questa opzione provocherà l'avvio automatico dei un ulteriore processo di %SERVERPRODUCTNAME%. Il server fornisce i servizi di registrazione delle statistiche alle applicazioni 3D e non può essere scaricato fino a quando questa opzione non è disabilitata.
+- Alcune combinazioni di tasti di scelta rapida (ad esempio <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> e <Ctrl>+<D>) sono riservati e non possono essere utilizzati.
+- È possibile disabilitare le descrizioni comandi dell'interfaccia utente tramite la scheda <interfaccia utente> nelle proprietà avanzate.

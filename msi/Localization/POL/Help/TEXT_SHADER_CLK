@@ -1,0 +1,10 @@
+Taktowanie rdzenia
+Wyswietla biezacy glówny zegar rdzenia GPU.
+
+Wskazówki:
+- Gdy tryb synchronizacji ustawien GPU jest wlaczony w <General>tab w zaawansowanych wlasciwosciach, wszelkie zmiany zastosowane do glównego GPU sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie.
+- Niezalezna regulacja zegara shader jest dostepna tylko na kartach graficznych NVIDIA GeForce 8, 9 i 200. Shader i zegary rdzeniowe sa polaczone z hardwired 2x ratio na kartach graficznych z serii GeForce 400. Karty graficzne ATI nie obsluguja niezaleznej regulacji zegara modulu cieniujacego.
+- Podczas samodzielnej regulacji zegarów rdzeniowych i cieniujacych nalezy pamietac, ze minimalny dozwolony wspólczynnik shader do zegara rdzenia jest ograniczony przez sprzet. Próba wylozenia wspólczynnika poza zakres moze uniemozliwic stosowanie zegarów.
+- <Link>button musi byc niezaznaczony, aby ustawic zegar cieniujacy niezaleznie od zegara rdzenia.
+- Mozesz kliknac to pole, aby bezposrednio wpisac zadany zegar.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

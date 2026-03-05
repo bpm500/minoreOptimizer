@@ -1,0 +1,6 @@
+Launch application on alarm
+Allows launching external application when monitored value is beyond alarm threshold. This setting allows you to perform various safety scenarios, e.g. shut down the system or downclock your GPU and maximize its fan speed with %PRODUCTNAME% profile.
+
+Hints:
+- This option is affected by adjacent alarm timeout settings.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,6 @@
+Curvas de velocidades predefinidas 
+Exibe a lista de curvas predefinidas de velocidades da ventoinha. A lista possui sempre a curva padrão e pode, opcionalmente, conter curvas adicionais (modos silencioso ou de desempenho) para placas de vídeo MSI personalizadas. 
+
+Sugestões: 
+- A curva de velocidades automáticas da ventoinha não é afetada pelos perfis, é uma configuração global para todas as GPUs instaladas no sistema.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

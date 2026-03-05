@@ -1,0 +1,35 @@
+#src HDD%d usage
+#dst Uso do HDD %d
+#end
+#src HDD%d read rate
+#dst Taxa de Leitura do HDD %d
+#end
+#src HDD%d write rate
+#dst Taxa de Escrita do HDD %d
+#end
+#src MB/s
+#dst MB/s
+#end
+#src Free disk space C:
+#dst Espaço Livre no Disco C:
+#end
+#src GB
+#dst GB
+#end
+#src NET%d download rate
+#dst Taxa de Download da Rede %d
+#end
+#src NET%d upload rate
+#dst Taxa de Upload da Rede %d
+#end
+#src KB/s
+#dst KB/s
+#end
+
+#src Counter
+#dst Contador
+#end
+
+#src Counters exported to %s!
+#dst Contadores exportados para %s!
+#end

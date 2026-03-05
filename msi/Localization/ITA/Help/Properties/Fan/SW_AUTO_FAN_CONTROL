@@ -1,0 +1,7 @@
+Abilita il software del controllo automatico della ventola definito dall'utente
+Permette all'utente di definire la modalità di controllo automatico del software della ventola. In questa modalità il software controlla periodicamente la temperatura della GPU e la velocità è impostata in base alla curva di velocità della ventola di seguito definite.
+
+Consigli:
+- IL software automatico della modalità di controllo della ventola può essere attivato in alternativa con il tasto <User define> dalla finestra principale dell'applicazione.
+- Il software automatico di controllo della velocità della ventola non è influenzato dai profili, è un'impostazione globale per tutte le GPU installate nel sistema.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

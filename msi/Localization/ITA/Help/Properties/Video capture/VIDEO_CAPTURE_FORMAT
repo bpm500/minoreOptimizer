@@ -1,0 +1,11 @@
+Formato video
+Permette di selezionare il formato di cattura video. A seconda delle preferenze è possibile selezionare uno dei seguenti formati:
+
+- Non compresso - il video è codificato in formato RAW senza compressione, in qualsiasi forma. Nessun codec di terze parti sono richiesti per riprodurre i video codificati in questo formato. Si fa presente che è necessario un disco davvero veloce I/O di sottosistema per codificare video ad alta risoluzione in formato non compresso senza perdita di frame, ad esempio, per codificare i video non compressi a risoluzione di 1680x1050 a 30 fotogrammi al secondo, occorre un disco sottosistema di I/O con 150MB/S (1680*1050*3*30) di larghezza di banda.
+- Compressione RTV1 - il video è codificato in formato RivaTuner Video V1. L'installazione di RivaTuner Video Codec è necessaria per riprodurre video codificati in questo formato. Il formato RivaTuner video V1 è un formato di compressione con perdita di dati basato sull'algoritmo di compressione DXT1 con rapporto di compressione fisso 6x. L'encoder RTV1 è in grado di codificare video ad alta risoluzione ad un framerate elevato. Questo formato è consigliato per i sistemi con core singolo o lente dual core CPU.
+- Compressione MJPG - il video è codificato in formato nativo MJPG. Nessun codec di terze parti sono richiesti per riprodurre video codificati in questo formato, i video dovrebbero essere riproducibili su piattaforme diverse o anche su lettori hardware multimediali.
+Il formato di compressione MJPG ti offre il miglior rapporto di compressione, ma richiede una piuttosto veloce CPU multicore per codificare video ad alta risoluzione senza perdita di frame. Inoltre, tenere a mente che è possibile regolare l'equilibrio tra qualità dell'immagine e rapporto di compressione di questo formato.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

@@ -1,0 +1,8 @@
+Clock Memory 
+Pengaturan master GPU memory clock.
+
+Petunjuk:
+- Ketika pengaturan sinkronisasi GPU diaktifkan pada tab <General>, setiap perubahan pada master GPU maka akan berlaku terhadap semua GPU yang terpasang.
+- Ketika slider sudah difokus, anda dapat menggunakan kursor pada keyboard anda untuk mengatur clock.
+- Anda dapat klik di daerah ini untuk langsung mengatur tegangan yang diinginkan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

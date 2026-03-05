@@ -1,0 +1,12 @@
+Disable ULPS
+Allows disabling Ultra Low Power State mode. ULPS mode allows AMD display driver to disable the secondary graphics cards in idle in Crossfire configurations. However, ULPS mode can be the reason of system instability under certain conditions, so you can disable it for troubleshooting.
+Please take a note that this option also affects ZeroCore power saving technology on the latest AMD graphics cards.
+Also, please keep in mind that ULPS must be re-disabled after installing new AMD display drivers.
+
+WARNING! Use this option at your own risk! Both MSI and AMD will not provide you any support on it in any form including questions in the forums.
+
+Hints:
+- This option is only active if there is at least one supported AMD graphic card installed in the system.
+- Reboot is required to apply changes after toggling this option.
+- It is strongly recommended to disable ULPS mode when using unofficial overclocking mode on Crossfire configurations.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

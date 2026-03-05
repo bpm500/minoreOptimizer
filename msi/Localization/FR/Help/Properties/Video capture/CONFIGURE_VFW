@@ -1,0 +1,5 @@
+Configurer
+Permet de sélectionner et configurer des codecs externes. Ce button n'est disponible que si le format de compression vidéo est VFW.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,6 @@
+Hotkey für <Overlay-Bildschirmanzeige umschalten>
+Legt einen globalen Hotkey zum Umschalten der Overlay-Bildschirmanzeige fest.
+
+Hinweise:
+- Einige Hotkey-Kombinationen (z. B. <1>...<5>, <Strg>+<1>...<Strg>+<5> und <Strg>+<D>) sind reserviert und können nicht verwendet werden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

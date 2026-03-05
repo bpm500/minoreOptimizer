@@ -1,0 +1,8 @@
+Show in tray icon
+Allows showing currently selected graph values in the icon in system tray area.
+
+Hints:
+- You must activate and select desired graph to get access to this option.
+- You may hold <Shift> button pressed on your keyboard while changing this option to change it synchronically for all graphs.
+- You may select color for tray icon output by clicking the adjacent color preview field.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

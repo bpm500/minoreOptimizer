@@ -1,0 +1,6 @@
+Benutzerdefinierte Lüfterkurve aktivieren
+Aktiviert die benutzerdefinierte Lüfterkurve zur Steuerung der Lüftergeschwindigkeit. In diesem Modus liest die Software regelmäßig die Temperatur der GPU aus und stellt die neue Lüftergeschwindigkeit entsprechend der unten eingestellten Lüfterkurve ein.
+
+Hinweise:
+- Die softwaregesteuerte benutzerdefinierte Lüfterkurve kann auch über die Schaltfläche <Benutzerdefiniert> im Hauptanwendungsfenster aktiviert werden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

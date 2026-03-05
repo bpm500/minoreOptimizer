@@ -1,0 +1,6 @@
+Start minimized
+Forces minimizing %PRODUCTNAME% to system tray area on startup. 
+
+Hints:
+- This option affects manual application startup only. %PRODUCTNAME% is always minimized to system tray area at Windows startup regardless of this option state.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,7 @@
+Automatisch (Auto).
+Dit staat toe om ventilator van de primaire grafische kaart(GPU) op automatisch of manueel in te stellen.
+
+Hints:
+- Wanneer de synchroniseer mode is ingeschakeld worden deze veranderingen toegepast op alle gelijke GPU's.
+- De ventilator snelheid controle is niet beschikbaar als de GPU('s) dit niet ondersteunt.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

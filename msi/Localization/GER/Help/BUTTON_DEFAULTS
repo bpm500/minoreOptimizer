@@ -1,0 +1,7 @@
+Zurücksetzen
+Setzt die primäre GPU auf die Standardeinstellungen zurück.
+
+Hinweise:
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- <Strg> + <D> betätigen, um die primäre GPU auf die Standardeinstellungen zurückzusetzen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

@@ -1,0 +1,7 @@
+Diagrammname überschreiben
+Ermöglicht das Überschreiben von Diagrammnamen im Hardware-Überwachungsfenster.
+
+Hinweise:
+- Sie können die <Umschalt>-Taste auf Ihrer Tastatur gedrückt halten, während Sie diese Option ändern, um sie für alle Diagramme gleichzeitig zu ändern.
+- Wenn mehrere Diagramme gleichzeitig ausgewählt sind, wird die Änderung dieser Option gleichzeitig auf alle ausgewählten Diagramme angewendet. In diesem Fall können Sie beim Ändern dieser Option die Taste <Strg> auf der Tastatur gedrückt halten, um die Änderungen nur auf das aktuelle Diagramm anzuwenden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

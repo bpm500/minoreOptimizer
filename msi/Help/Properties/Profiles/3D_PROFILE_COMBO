@@ -1,0 +1,11 @@
+3D profile association
+Allows associating a profile slot with 3D system state. The profile from the associated slot will be automatically loaded and applied by automatic profiles manager as soon as running 3D applications counter becomes greater than zero.
+
+Hints:
+- Defining 3D profile association will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides running 3D applications list to automatic profiles manager and it cannot be unloaded until the association is canceled.
+- You may use %SERVERPRODUCTNAME% properties to define the exceptions and exclude any application from 3D detection if needed. You may always see which 3D application is currently running by pressing <i> button.
+- Automatic profiles management does not override own hardware downclocking technologies implemented in modern GPUs, it just loads desired profile on the first 3D application start and on the last 3D application quit events. 
+The primary objective of automatic profiles management is emulation of hardware downclocking technologies at software level for old graphics cards without own downclocking support (e.g. NVIDIA GeForce 8800 GTX series). However, automatic profiles management can be also used for different purposes, e.g. to force fixed fan speed only during 3D applications runtime.
+- It is not recommended to combine automatic profiles management with voltage control. Dynamic software voltage changes combined with dynamic clock changes can cause side effects and reduce system stability.
+- You may restart automatic profiles manager by pressing <Ctrl>+<A> buttons on your keyboard when main %PRODUCTNAME% window is focused.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

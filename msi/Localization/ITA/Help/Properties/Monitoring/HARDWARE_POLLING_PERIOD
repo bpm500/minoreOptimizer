@@ -1,0 +1,9 @@
+Aggiornamento del periodo hardware
+Grafici di aggiornamento hardware per regolare e monitorare l'aggiornamento del periodo.
+
+Consigli:
+- L'aggiornamento del periodo hardware non è assolutamente libero in termini di prestazioni, qualche ciclo di CPU è richiesto ad ogni iterazione di aggiornamento per leggere i dati da hardware. A seconda del modello di sensori GPU e dei protocolli di accesso hardware, l'aggiornamento del periodo hardware è collegato a un calo di prestazioni che può variare da un quasi invisibile a un visibile calo di prestazioni provocando un effetto di balbuzie in applicazioni intensive tramite CPU, come i giochi 3D.
+Se siete di fronte un tale effetto, mentre %PRODUCTNAME% è in esecuzione, tentate di sospendere temporaneamente il controllo per identificarlo come fonte del problema cliccando col tasto destro nella finestra di controllo e selezionando il comando <Pausa>. Poi provate a diminuire il carico della CPU aumentando il periodo hadrware di aggiornamento o disabilitando se usato raramente o non necessario, il monitoraggio attivo dei grafici hardware.
+Gli utenti esperti possono anche mostrare informazioni sulle prestazioni nella finestra  di stato di monitoraggio con clic destro su di esso e selezionando il comando <Show status>. Lo status visualizza le informazioni di utilizzo dei cicli della CPU per diversi processi in background tra cui l'aggiornamento del periodo hardware.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

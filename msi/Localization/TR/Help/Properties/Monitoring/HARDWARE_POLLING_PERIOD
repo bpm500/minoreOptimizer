@@ -1,0 +1,8 @@
+Hardware polling period
+Adjusts hardware polling and monitoring graphs update period.
+
+Hints:
+- Hardware polling is not absolutely free in terms of performance, some CPU time is required on each polling iteration to read data from hardware. Depending on GPU and senosor model and hardware access protocols, hardware polling related performance hit can vary from virtually invisible to noticable periodic performance hit causing an effect of stuttering in applications intensively using CPU, such as 3D games. 
+If you are facing such effect while %PRODUCTNAME% is running, try to temporarily pause monitoring to identify it as a problem source by right clicking the monitoring window and selecting the <Pause> command. Then try to decrease CPU load by increasing hadrware polling period or disabling rarely used or unnecessary active hardware monitoring graphs. 
+Experienced users can also show performance profiler status information in the monitoring window by right clicking it and selecting the <Show status> command. Status information displays CPU usage times for different background processes including hardware polling.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

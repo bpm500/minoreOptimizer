@@ -1,0 +1,7 @@
+Stroom grens
+Laat de huidige stroom grens van de hoofd GPU zien, als dit ondersteund wordt door de grafische kaart.
+
+Hints:
+- Wanneer de synchroniseer mode is ingesteld worden de aangepaste waarden toegepast op alle gelijke GPU's.
+- Je kan in het aanpas veld onmiddelijk een voltage waarde in tikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

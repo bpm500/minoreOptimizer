@@ -1,0 +1,9 @@
+Sblocca il monitoraggio della tensione
+Sblocca il monitoraggio della tensione, se è supportata dall'hardware. Evitare di sbloccare il controllo della tensione se si sta utilizzando qualsiasi altro software di controllo della tensione.
+
+Consigli:
+- Può essere pericoloso eseguire più applicazioni regolatrici di tensione che accedono alla tua scheda grafica contemporaneamente. Si prega di bloccare questa opzione se non siete sicuri che non vi siano tali applicazioni in esecuzione nel sistema.
+- Il controllo della tensione è disponibile su un numero limitato di modelli di schede grafiche dotate di modulo di regolazione della tensione programmabile. Si prega di fare riferimento alla documentazione per ottenere l'elenco completo dei modelli di schede grafiche che supportano la regolazione della tensione.
+- Il riavvio di %PRODUCTNAME% sarà necessario per applicare le modifiche dopo il cambio di questa opzione.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

@@ -1,0 +1,9 @@
+On-Screen Display Tasti di scelta rapida blocco server
+Alcune funzionalità di %PRODUCTNAME%, come il monitoraggio framerate, l'On-Screen Display rendering, la cattura dello schermo e la gestione automatica dei profili dipendono da processi aggiuntivi %SERVERPRODUCTNAME%. Questo è il motivo per cui %SERVERPRODUCTNAME% viene avviato automaticamente da %PRODUCTNAME% non appena si attiva una delle caratteristiche sopra elencate.
+Tuttavia, i sistemi anticheat di alcuni giochi online possono limitare l'On-Screen Display e l'utilizzo del blocco del collegamento al server di gioco quando %SERVERPRODUCTNAME% è in esecuzione.
+Per semplificare tale diagnostica di problemi si possono utilizzare una combinazione di tasti per bloccare temporaneamente %SERVERPRODUCTNAME% e scaricarlo dalla memoria, anche se è richiesto per la corretta funzionalità di %PRODUCTNAME%. Si prega di prendere atto che tutte le funzionalità a seconda del server smetteranno di funzionare mentre il server è bloccato e scaricato.
+
+Consigli:
+- Alcune applicazioni (ad esempio FEAR) possono appositamente bloccare i tasti di scelta rapida rompendo le catene a basso livello di aggancio della tastiera.
+- Alcune combinazioni di tasti (ad esempio, <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> e <Ctrl>+<D>) sono riservati e non possono essere utilizzati.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

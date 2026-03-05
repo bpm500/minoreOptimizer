@@ -1,0 +1,64 @@
+#src Motherboard temperature
+#dst Температура на дънната платка
+#end
+#src CPU fan speed
+#dst Скорост на вентилатора на процесора 
+#end
+#src CPU voltage
+#dst Напрежение на процесора
+#end
+#src PSU +3.3V voltage
+#dst Напрежение +3.3В
+#end
+#src PSU +5V voltage
+#dst Напрежение +5В
+#end
+#src PSU +12V voltage
+#dst Напрежение +12В
+#end
+
+#src Source
+#dst Източник
+#end
+#src Sensor
+#dst Сензор
+#end
+#src Value
+#dst Стойност
+#end
+
+#src Temperature
+#dst Температура
+#end
+#src Voltage
+#dst Напрежение
+#end
+#src Current
+#dst Ток
+#end
+#src Clock
+#dst Честота
+#end
+#src Usage
+#dst Използване
+#end
+#src Other
+#dst Други
+#end
+
+#src Sensors exported to %s!
+#dst Сензорите са експортирани в  %s!
+#end
+
+#src UPS voltage
+#dst Напрежение на UPS
+#end
+#src UPS power
+#dst Мощмост на UPS
+#end
+#src UPS load
+#dst Натоварване на UPS
+#end
+#src UPS charge level
+#dst Ниво на зареждане на UPS
+#end

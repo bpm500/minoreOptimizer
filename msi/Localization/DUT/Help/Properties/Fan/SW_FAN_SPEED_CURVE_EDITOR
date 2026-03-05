@@ -1,0 +1,10 @@
+Gedefinieerde ventilator snelheids curve editor.
+Dit staat toe om de ventilator snelheids curve aan te passen voor de gedefinieerde ventilator controle mode.
+
+Hint:
+- Je kan op de curve klikken om nieuwe punten te positioneren. Tot 8 nieuwe punten zijn toegestaan.
+- Je kan op deze punten klikken om ze te verschuiven naar wens.
+De punten kunnen ook fijn gepositioneerd worden door gebruik te maken van de pijltoetsen van het toetsenbord.
+- Je kan het geselecteerde punt verwijderen door op <Del> toets te drukken.
+- Je kan dubbel klikken op het aanpasvak om te schakelen tussen lineare en stapsgewijze curve mode. Stapsgewijze mode kan gekozen worden om minder cpu belasting te hebben omdat dit minder vaak ventilator snelheids aanpassingen vraagt.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen. 

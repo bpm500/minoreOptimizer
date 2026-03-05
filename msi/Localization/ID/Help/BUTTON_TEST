@@ -1,0 +1,7 @@
+Kombustor
+Tampilkan test stabilitas kartu grafis dengan MSI Kombustor. MSI Kombustor adalah perangkat terpisah yang dapat digunakan untuk mengetes stabilitas VGA anda dengan menggunakan teknologi FurMark. 
+
+Petunjuk:
+- Tombol tidak aktif jika MSI Kombustor tidak diinstall, silakan kunjungi https://msi.com/page/afterburner untuk download file MSI Kombustor versi terbaru.
+- Harap diingat test stabilitas tidak selalu harus dijadikan acuan yang 100% benar mengingat banyak variabel-variabel tertentu yang bisa dijadikan acuan juga. Jadi gunakan Kombustor sebagai bantuan untuk overclocking sistem anda, selalu ingat untuk memeriksa kembali dengan menggunakan aplikasi 3D.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

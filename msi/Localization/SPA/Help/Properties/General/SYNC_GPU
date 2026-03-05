@@ -1,0 +1,6 @@
+Sincronizar ajustes para GPUs similares
+Permite cambios de ajuste en las GPUs de forma independiente o conjunta (sincronizada). Si la opción está habilitada, los ajustes realizados en la GPU principal son aplicados a todas las GPUs similares presentes en el sistema.
+
+Sugerencias:
+- GPUs similares son identificadas mediante la comparación exacta del códgio PCI DeviceID; solo unidades idénticas serán sincronizadas.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

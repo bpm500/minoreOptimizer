@@ -1,0 +1,8 @@
+Video container
+Allows selecting container file format. Depending on your preferences you can select one of the following containers:
+
+- AVI - Audio Video Interleave is multimedia container introduced by Microsoft in early 90s. AVI container is widely used and supported by any video player. However, AVI container architecture is rather old and some modern video compression formats like H.264 fit better in more progressive container formats.
+- MKV - Matroska is modern flexible multimedia container introduced in 2002. Unlike AVI, MKV container natively supports timestamping of video and audio frames so it minimizes the risk of seeing audio/video sync issues during video playback. However, MKV container support can be limited in some video players.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

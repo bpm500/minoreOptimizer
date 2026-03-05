@@ -1,0 +1,5 @@
+Vorhandene Ergebnisdateien neu erstellen
+Wenn diese Option aktiviert ist, werden vorhandene Benchmark-Ergebnisdateien neu erstellt, wenn eine neue Aufzeichnungssitzung endet. Andernfalls wird die vorhandene Datei mit der neuen Sitzung aktualisiert.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

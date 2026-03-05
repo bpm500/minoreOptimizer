@@ -1,0 +1,5 @@
+Single tray icon mode
+Enables single tray icon mode. When single tray icon mode is enabled, the primary application tray icon is being replaced with hardware monitoring tray icon(s) if monitoring in system tray is enabled and %SERVERPRODUCTNAME% icon is not being displayed in tray when the server is loaded. Please take a note that %SERVERPRODUCTNAME% properties are still accessible via <More> button in <OSD> tab.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

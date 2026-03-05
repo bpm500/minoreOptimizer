@@ -1,0 +1,8 @@
+Iniciar registro histórico de monitoramento
+Permite definir uma tecla de atalho para o iniciar a gravação em arquivo do registro histórico de monitoramento.
+
+Sugestões: 
+- O %PRODUCTNAME% salva os registros em formato de arquivo RivaTuner nativo. Você pode usar o RivaTuner para visualizar os arquivos gravados no %PRODUCTNAME%. 
+- O registro de histórico de monitoramento consome recursos do sistema, principalmente da CPU, a cada atualização para gravar dados no disco rígido.
+- Algumas combinações de atalhos (por exemplo, <1> ... <5>, <Ctrl> + <1> ... <Ctrl> + <5> e <Ctrl> + <D>) são reservadas e não podem ser usadas.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

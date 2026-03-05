@@ -1,0 +1,11 @@
+Voltaggio ausiliario 2
+Regola la tensione ausiliaria per la GPU principale 2. A seconda del modello di scheda grafica la tensione può essere rappresentata sia esplicitamente o come uno slittamento aggiunto alla base di tensione. I valori firmati rappresentano i valori di slittamento, mentre quelli non firmati rappresentano la tensione assoluta.
+
+Consigli:
+- La tensione ausiliaria 2 è una tensione GDDR5X ausiliaria a 1.8V su alcune schede grafiche MSI.
+- Il controllo di tensione è bloccato di default per ragioni di sicurezza. Se comprendete e accettate i rischi connessi all'uso del controllo della tensione lo si può sbloccare nelle proprietà avanzate dell'applicazione.
+- Quando l'impostazione della modalità di sincronizzazione GPU è attivata nella scheda <Generale> in proprietà avanzate, qualsiasi modifica applicata alla GPU principale sarà applicata anche a tutte le GPU simili installate nel sistema.
+- Il controllo della tensione è disponibile su un numero limitato di modelli di schede grafiche dotate di modulo di regolazione della tensione programmabile. Si prega di fare riferimento alla documentazione per ottenere l'elenco completo dei modelli di schede grafiche che supportano le regolazioni di tensione.
+- Quando il cursore è focalizzato, è possibile utilizzare i tasti cursore sulla tastiera per affinare la tensione.
+- È possibile fare clic sul campo adiacente per modificare direttamente il tipo di tensione desiderata
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

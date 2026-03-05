@@ -1,0 +1,9 @@
+Ventilator snelheid (Fan speed).
+Dit past de ventilator snelheid van de primaire grafische kaart (GPU) aan.
+
+Hint:
+- Wanneer de synchroniseer mode is ingesteld worden de aangepaste waarden toegepast op alle gelijke GPU's.
+- Niet alle GPU's ondersteunen ventilator snelheid controle.
+- De <Auto> toets mag niet geselecteerd zijn om de ventilator snelhied zelf te bepalen.
+- Je kan in het aanpas veld onmiddelijk een waarde in tikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

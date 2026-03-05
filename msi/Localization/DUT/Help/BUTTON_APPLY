@@ -1,0 +1,7 @@
+Toepassen (Apply).
+Pas de huidige instelling toe op de primaire grafische kaart (GPU).
+
+Hint:
+- Wanneer de synchroniseer mode is ingeschakeld worden deze veranderingen toegepast op alle gelijke GPU's.
+- Bevestig (Apply) altijd de veranderingen voor u veranderd van Primaire GPU anders gaan de veranderingen verloren.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

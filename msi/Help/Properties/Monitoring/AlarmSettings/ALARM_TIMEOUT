@@ -1,0 +1,5 @@
+Alarm timeout
+Displays and allow editing alarm timeout in milliseconds. %PRODUCTNAME% will not play sound notification or launch external application on alarm if alarm condition is being reset in timeout period.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

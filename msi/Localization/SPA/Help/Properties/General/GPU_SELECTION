@@ -1,0 +1,6 @@
+Lista de procesadores gráficos (GPU)
+Visualiza la lista de unidades de proceso gráfico (GPU) presentes en el sistema y permite seleccionar una de ellas como la principal. Cualquier cambio realizado sobre la principal se aplicará al resto de GPUs similares presentes, en el caso de que la opción de sincronización con GPUs similares esté activada.
+
+Sugerencias:
+- Siempre aplica los cambios antes de seleccionar otra GPU. Los cambios no aplicados se pierden al seleccionar otra GPU.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

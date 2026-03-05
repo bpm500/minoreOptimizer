@@ -1,0 +1,8 @@
+Forceer constante voltage
+Sommige voltage regulators (vb. Voltera VT1165 of STMicroelectronics L6788A series) ondersteunen programmering van zelfstandige voltage energie toestanden (vb. voor 2D en 3D modes). 
+Standaard past %PRODUCTNAME% enkel het voltage voor de maximale prestatie aan (3D mode), zo staat het de hardware toe om de energie besparing modes actief te houden. Je kan %PRODUCTNAME% forceren om het voltage aan te passen voor alle energie toestanden door deze optie aan te zetten. Dit kan de stabiliteit van je systeem verbeteren.
+
+Hint:
+- Herstart is nodig om energie besparing te herstellen na het uit schakelen van deze optie.
+- %PRODUCTNAME% is ontworpen om 3D voltage controle te bieden op origineel ontworpen grafische kaarten met een 100% origineel VGA BIOS of een Custom ontworpen MSI grafische kaart. Sommige niet origineel ontworpen grafische kaarten kunnen alternatieve voltage controllers hebben en kan het zijn dat %PRODUCTNAME% het voltage voor de verkeerde energie toestand (2D mode) gaat aanpassen. Je kan deze optie gebruiken om op zulke grafische kaarten het voltage juist te controlleren.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

@@ -1,0 +1,5 @@
+Configurações de monitoramento
+Permite que as configurações de monitoramento sejam salvas ou carregadas a partir do perfil relacionado. Essas configurações incluem o intervalo de atualização das informações de monitoramento, a lista de sensores de monitoramento ativos, sua ordem de exibição e outras configurações específicas.
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

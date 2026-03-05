@@ -1,0 +1,5 @@
+Configure
+Allows selecting and configuring external codec. This button is only available when video format is set to VFW compression.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

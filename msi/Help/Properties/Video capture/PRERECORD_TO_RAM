@@ -1,0 +1,5 @@
+Prerecord to RAM
+Allows prerecord buffer to be stored in RAM. This mode suits best for prerecording short videos (e.g. a couple minutes of H.264 video) and it provides a bit better performance than prerecord to file. Also, unlike prerecord to file, prerecord to RAM minimizes writes so it can increase the lifetime of SSD if you plan to use the prerecording frequently.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

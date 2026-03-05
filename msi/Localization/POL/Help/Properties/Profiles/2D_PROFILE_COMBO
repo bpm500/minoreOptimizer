@@ -1,0 +1,11 @@
+Skojarzenie profilu 2D
+Umozliwia kojarzenie gniazda profilu ze stanem systemu 2D. Profil z skojarzonego gniazda zostanie automatycznie zaladowany i zastosowany przez menedzera profilów automatycznych, gdy tylko uruchomiony licznik aplikacji 3D stanie sie równy zeru.
+
+Wskazówki:
+- Definiowanie skojarzenia profilu 2D spowoduje automatyczne rozpoczecie dodatkowego procesu %SERVERPRODUCTNAME%. Serwer udostepnia liste aplikacji 3D automatycznemu menedzerowi profili i nie mozna go zwolnic, dopóki skojarzenie nie zostanie anulowane.
+- Mozna uzyc wlasciwosci %SERVERPRODUCTNAME%, aby zdefiniowac wyjatki i wykluczyc dowolna aplikacje z wykrywania 3D, jesli to konieczne. Zawsze mozesz zobaczyc, która aplikacja 3D jest aktualnie uruchomiona, naciskajac <i>button.
+- Automatyczne zarzadzanie profilami nie zastepuje wlasnych technologii downclocking sprzetu zaimplementowanych w nowoczesnych procesorach graficznych, po prostu laduje pozadany profil na pierwszym uruchomieniu aplikacji 3D i na ostatniej aplikacji 3D zamknac zdarzenia. 
+Glównym celem automatycznego zarzadzania profilami jest emulacja technologii downclockingu sprzetowego na poziomie oprogramowania dla starych kart graficznych bez wlasnej obslugi downclockingu (np. Jednak automatyczne zarzadzanie profilami moze byc równiez uzywane do róznych celów, na przyklad do wymuszania stalej predkosci wentylatora tylko w czasie pracy aplikacji 3D.
+- Nie zaleca sie laczenia automatycznego zarzadzania profilami z kontrola napiecia. Dynamiczne zmiany napiecia oprogramowania w polaczeniu z dynamicznymi zmianami zegara moga powodowac dzialania niepozadane i zmniejszac stabilnosc systemu.
+- Mozesz ponownie uruchomic menedzera profili automatycznych, naciskajac przyciski <Ctrl>+<A> na klawiaturze, gdy glówne okno %PRODUCTNAME% jest skoncentrowane.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

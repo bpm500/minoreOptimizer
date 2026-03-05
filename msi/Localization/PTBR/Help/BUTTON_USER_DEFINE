@@ -1,0 +1,8 @@
+Definir curva de velocidades da ventoinha
+Permite o controle automático da velocidade da ventoinha de acordo com os valores definidos pelo usuário. Este modo usa um software que verifica periodicamente a temperatura da GPU e ajusta a velocidade da ventoinha de acordo com a curva definida pelo usuário no menu <Ventoinha> em propriedades. 
+
+Sugestões: 
+- O controle automático da ventoinha não está disponível nas placas de vídeo que não oferecem suporte. A ventoinha deve ser controlável via software. 
+- O controle automático da velocidade da ventoinha não depende e nem é afetado pelos perfis. É uma configuração global para todas as placas de vídeo instaladas no sistema. 
+- Mesmo com o controle pelo usuário habilitado, ainda é possível alternar entre os modos manual e automático utilizando o botão <Auto>. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

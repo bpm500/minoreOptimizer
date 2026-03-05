@@ -1,0 +1,8 @@
+Force constant voltage
+Some voltage regulators (e.g. Voltera VT1165 or STMicroelectronics L6788A series) support programming of independent voltages for different power states (e.g. for 2D and 3D modes). 
+By default %PRODUCTNAME% adjusts voltage for the maximum performance power state only (i.e. 3D mode), allowing the hardware to keep power saving techniques active. However, you may force %PRODUCTNAME% to adjust voltage for all power states at once by enabling this option and this way effectively disable dynamic voltage switching. This may help to improve stability on some systems.
+
+Hints:
+- Reboot is required to restore power saving after disabling this option.
+- %PRODUCTNAME% is designed to provide 3D voltage control only on reference design graphics cards with 100% original VGA BIOS or custom design MSI graphics cards. Some non-reference graphics cards may have altered voltage control circuit or altered voltage table in VGA BIOS, so %PRODUCTNAME% may adjust voltage for wrong power state (e.g. 2D mode) if used with such non-standard graphics card. You may use this option to properly control voltage on such cards.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

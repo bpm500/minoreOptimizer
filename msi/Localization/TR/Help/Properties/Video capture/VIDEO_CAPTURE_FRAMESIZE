@@ -1,0 +1,6 @@
+Frame size
+When capturing video at high resolutions with full frame size PCIE bus bandwidth can become the bottleneck limiting your framerate due to huge amounts of data copied from GPU to CPU via the bus on each frame. 
+In such situation you may try to increase the performance by decreasing the frame size, for example selecting 1/2 frame size instead of full frame will reduce amount of data to be transfered from GPU to CPU by factor of 4. Decreasing frame size also effectively reduces CPU load and HDD load by reducing the amount of data to be compressed and written to HDD.   
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

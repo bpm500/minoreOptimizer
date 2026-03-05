@@ -1,0 +1,9 @@
+Active On-Screen Display layout properties
+Displays the list of properties for currently active On-Screen Display layout and allows customizing it. 
+
+Hints:
+- You may change a property via double clicking it or via selecting it and pressing <Enter> key.
+- You may change additional settings associated with some properties if you double click it while holding <Ctrl> pressed. For example, you may hold <Ctrl> pressed while double clicking a property in <Value alignment> node to toggle between fixed font size and variable font size alignment modes.
+- You may add child items to some property nodes (e.g. Colors library) via selecting root node or one of its children and pressing <Insert> key.
+- You may delete child items from some property nodes (e.g. Colors library) via selecting desired item and pressing <Delete> key.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,7 @@
+Aan elkaar koppelen (Link).
+Dit staat toe om de Core en de Shader klok los van elkaar of gekoppeld aan elkaar aan te passen.
+
+Hint:
+- Shader klok aanpassingen zijn enkel mogelijk vanaf NVIDIA GeForce 8 en hogere serie GPU's. ATI GPU's ondersteunen een onafhankelijke Shader klok aanpassing niet.
+- Wanneer u de Shader en de Core klok zelfstandig wil aanpassen begrijp dan dat de minimum Shader klok tot Core klok ratio gelimiteerd is door de GPU , een poging om deze ratio uit bereik in te stellen zal voorkomen dat de klok aanpassing wordt toegepast.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

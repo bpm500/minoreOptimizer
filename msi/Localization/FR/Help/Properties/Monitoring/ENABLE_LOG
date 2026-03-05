@@ -1,0 +1,7 @@
+Logger l'historique dans un fichier
+Active le logging du monitoring matériel dans un fichier. Vous pouvez aussi contrôler cette otpion via le menu contextuel de la fenêtre du monitoring matériel.
+
+Astuce:
+- %PRODUCTNAME% sauvegarde l'historique dans le format natif de log RivaTuner. Vous pouvez utiliser Rivatuner pour voir les logs enregistrés avec %PRODUCTNAME%. 
+- Le logging du monitoring matériel n'est pas totalement sans impact sur les performances, du temps CPU est requis pour chaque mise à jour du log sur le HDD/SSD. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

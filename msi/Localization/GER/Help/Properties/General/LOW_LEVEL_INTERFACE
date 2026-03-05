@@ -1,0 +1,6 @@
+Low-Level-Zugriff auf die GPU zulassen
+Erlaubt %PRODUCTNAME% Low-Level-Treiber für den Zugriff auf die GPU zu verwenden. Der Low-Level-Zugriff bietet die effizienteste Implementierung der Hardwareüberwachung und erweitert die Überwachung und Einstellungen der Grafikkarte über die Möglichkeiten von Standardtreibern hinaus. Bei Verwendung von Low-Level-Zugriffen können jedoch einige schlecht implementierte Systemanwendungen (z. B. der berüchtigte Punkbuster-Client für Battlefield: Bad Company 2) aufgrund ihres unbefugten Zugriffs auf Speicherbereiche, die für Hardware-I/O reserviert sind, schwerwiegende Probleme mit der Systemstabilität verursachen.
+Sie können den Low-Level-Zugriff zur Fehlerbehebung deaktivieren, um alle Low-Level-Zugriffe auf die Hardware zu verhindern. Sie verringert jedoch auch die Wirksamkeit der Hardwareüberwachung und führt auch zum Verlust einiger Funktionen im Bereich der Steuerung und Überwachung der Grafikkarte.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

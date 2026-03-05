@@ -1,0 +1,12 @@
+Type de source audio
+Permet de sélectionner le type de source audio. Vous pouvez sélectionner jusqu'à deux sources audio indépendantes et enregistrer deux pistes audio dans la vidéo finale. Le type de sources audio suivantes sont disponibles:
+
+- Sélection automatique - sélectionne automatiquement la source audio dépendant de la version de l'OS. Dans ce mode le stream audio est enregistré avec les paramètres par défaut du périphérique de capture DirectSound sous Windows XP, via la source audio #1 avec les périphériques de lecture WASAPI par défaut ou via les préiphériques de capture WASAPI par défaut pour la source audio #2 sous Windows Vista et les OS plus récents.
+- Périphérique de capture DirectSound - Capture le flux audio via les périphériques de capture DirectSound. Sous WindowsXP les périphériques de capture DirectSound sont accélérées de façon matériel, donc ce mode permet les meilleures performances en capture audio. 
+Néanmoins, DirectSound est déprécié et émulé via WASAPI depuis Windows Vista, il est donc recommandé d'utiliser les périphériques de capture audio WASAPI sous Windows Vista et les OS plus récents. 
+- Périphérique de lecture WASAPI - capture le flux audio via les périphériques de lecture WASAPI (seulement sous Windows Vista et OS plus récent). A l'inverse de DirectSound, WASAPI permet d'intercepter les flus audio bruts multi canaux avant qu'ils ne soient passé au driver audio et au périphérique de lecture audio. Celà permet des drivers audio unifiés indépendant du type d'implémentation de boucle d'enregistrement et permet d'enregsiter en multi canaux. 
+Veuillez noter que ce mode peut-être incompatible avec quelques applications utilisant des interfaces alternatives d'accélération matérielles audio comme OpenAL.
+- Périphérique d'enregistrement WASAPI - Capture les flux audio via les périphériques de capture WASAPI (seulement sous Windows Vista et OS plus récent). A l'inverse de DirectSound, WASAPI permet de capturer indépemment les flux audio entrant et sortant, qui vous permet d'enregistrer les flux audio venant des périphériques de sortie (comme les baffles) et venant de périphériques entrant (comme les microphones) indépendemment. Vous pouvez utiliser ce mode pour enregistrer des flux audio venant de périphérique d'entrée si nécessaire.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

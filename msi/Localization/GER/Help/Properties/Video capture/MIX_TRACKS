@@ -1,0 +1,5 @@
+Mehrere Audiostreams zusammenführen
+Wenn Sie zwei Audioquellen auswählen, können Sie im endgültigen Video zwei unabhängige Audiostreams aufnehmen. Sie können jedoch diese Option aktivieren, um unabhängige Audiostreams automatisch zu einem einzelnen Audiostream zusammenzuführen. Die Lautstärke der Streams wird dabei normalisiert.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

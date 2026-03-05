@@ -1,0 +1,7 @@
+Mostra On-Screen Display tasti di scelta rapida
+Consente di definire i tasti di scelta rapida a livello globale per la visualizzazione dell'On-Screen Display.
+
+Consigli:
+- Alcune applicazioni (ad esempio FEAR) possono appositamente bloccare i tasti di scelta rapida rompendo le catene a basso livello di aggancio della tastiera.
+- Alcune combinazioni di tasti (ad esempio, <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> e <Ctrl>+<D>) sono riservati e non possono essere utilizzati.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

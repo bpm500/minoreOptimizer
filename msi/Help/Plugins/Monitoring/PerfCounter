@@ -1,0 +1,4 @@
+This plugin allows %PRODUCTNAME% to import any hardware monitoring data sources from native Windows performance counters.
+
+Hints:
+- You may customize the list of imported data sources by clicking [b]Setup[/b].

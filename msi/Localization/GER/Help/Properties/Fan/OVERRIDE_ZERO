@@ -1,0 +1,6 @@
+Den Lüfterstopp durch eine Hardwarekurve ersetzen
+Einige Grafikkarten unterstützen nicht den gesamten Bereich der manuellen Anpassung der Lüftergeschwindigkeit und begrenzen die minimal und/oder maximal zulässige Lüftergeschwindigkeit. In diesem Fall werden die minimal und maximal zulässigen Lüftergeschwindigkeitsgrenzen als horizontale gepunktete Linie im Editorfenster visualisiert. Der Versuch, die Geschwindigkeit über den zulässigen Grenzwert hinaus einzustellen, führt dazu, dass die Geschwindigkeit auf den minimal/maximal zulässigen Wert begrenzt wird. In diesem Fall können Sie den Lüfterstopp nicht mithilfe einer Software-Lüfterkurve emulieren, indem Sie die Lüftergeschwindigkeit auf Null setzen.
+Sie können jedoch diese Option aktivieren, um den Lüfterstoppbereich auf der Softwarekurve auf die ursprüngliche Hardwarekurve zu ändern. In diesem Fall ist es möglich, den ursprünglichen Lüfterstopp beizubehalten, sofern er von der ursprünglichen Hardwarekurve Ihrer Grafikkarte nativ unterstützt wird.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

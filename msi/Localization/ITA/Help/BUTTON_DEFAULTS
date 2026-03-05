@@ -1,0 +1,7 @@
+Reset
+Ripristino impostazioni predefinite della GPU principale.
+
+Consigli:
+- Quando l'impostazione della modalità di sincronizzazione delle GPU è abilitata nella scheda <Generale> in proprietà avanzate, qualsiasi modifica applicata alla GPU principale sarà applicata anche a tutte le GPU simili installate nel sistema.
+- È possibile premere i tasti da tastiera <Ctrl>+<D> per ripristinare la GPU principale alle impostazioni predefinite.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

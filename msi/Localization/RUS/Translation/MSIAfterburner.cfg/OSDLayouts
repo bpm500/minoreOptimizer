@@ -1,0 +1,12 @@
+#src classic
+#dst классика
+#end
+#src modern
+#dst модерн
+#end
+#src modern mono
+#dst модерн моно
+#end
+#src modern web
+#dst модерн веб
+#end

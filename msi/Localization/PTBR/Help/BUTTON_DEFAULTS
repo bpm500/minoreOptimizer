@@ -1,0 +1,7 @@
+Restaurar Padrão
+Restaura as configurações padrões da placa de vídeo. 
+
+Sugestões: 
+- Quando o modo de sincronização entre GPUs está habilitado na guia <Geral> das propriedades avançadas, qualquer alteração nas configurações da GPU principal será aplicada às outras semelhantes instaladas no sistema. 
+- Você também pode pressionar as teclas <Ctrl + D> para restaurar as opções padrões. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

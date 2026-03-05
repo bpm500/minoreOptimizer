@@ -1,0 +1,5 @@
+Abilita il controllo e il monitoraggio hardware
+Consente di limitare il controllo hardware dei grafici e la funzionalità di monitoraggio. Questa funzione può essere utile se si utilizza %PRODUCTNAME% solo per il monitoraggio del framerate e la videocattura e non si vuole rischiare l'overclocking improvviso del vostro PC. La disattivazione di questa opzione accelera un po' l'avvio dell'applicazione.
+
+Suggerimenti:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

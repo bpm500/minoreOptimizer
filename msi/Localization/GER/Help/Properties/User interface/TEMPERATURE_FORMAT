@@ -1,0 +1,5 @@
+Temperaturmaß auswählen
+Legt Celsius oder Fahrenheit als Temperaturmaß fest. Bitte beachten Sie, dass diese Einstellung nur die Anzeige der Temperaturen im Überwachungsfenster betrifft. Hardware-Temperatureinstellungen werden immer in Celsius angezeigt und konfiguriert, um maximale Vereinheitlichung, Sicherheit und Kompatibilität zu gewährleisten.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

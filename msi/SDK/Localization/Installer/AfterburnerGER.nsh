@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_GERMAN}		"AfterburnerGER.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_GERMAN} 		"MSI Afterburner ist momentan aktiv, die Installation wird abgebrochen!"
+LangString AfterburnerAbortInstall 	${LANG_GERMAN} 		"MSI Afterburner Installation ist fehlgeschlagen!"
+LangString AfterburnerActiveUninstall 	${LANG_GERMAN} 		"MSI Afterburner ist derzeit aktiv, die Deinstallation wird abgebrochen!"
+LangString AfterburnerKeepSettings 	${LANG_GERMAN} 		"Möchten Sie Ihre MSI Afterburner Einstellungen beibehalten?Antworten Sie mit JA, wenn Sie das Programm vor einem Upgrade auf eine neue Version deinstallieren wollen."
+LangString AfterburnerRebootUninstall 	${LANG_GERMAN}		"Einige MSI Afterburner-Dateien werden momentan benutzt und können jetzt nicht entfernt werden,ein Neustart ist erforderlich, um die Deinstallation abzuschließen und diese Dateien zu entfernen.Falls Sie ein Upgrade von MSI Afterburner durchführen, wird dringend davon abgeraten, eine neue Version ohne Neustart des Systems zu installieren. Möchten Sie jetzt neu starten?"
+LangString AfterburnerAbortUninstall 	${LANG_GERMAN} 		"MSI Afterburner Deinstallation fehlgeschlagen!"
+LangString AfterburnerCaption 		${LANG_GERMAN} 		"MSI Afterburner ${VER_DISPLAY} Setup"
+LangString DescSecAfterburner 		${LANG_GERMAN} 		"Main MSI Afterburner application"
+LangString DescSecRTSS 			${LANG_GERMAN}		"Provides framerate monitoring, On-Screen Display and videocapture services to MSI Afterburner"
+LangString AfterburnerLocalization 	${LANG_GERMAN} 		"GER"

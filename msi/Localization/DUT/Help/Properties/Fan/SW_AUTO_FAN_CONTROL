@@ -1,0 +1,6 @@
+Schakel de gedefinieerde ventilator controle mode in.
+In deze mode gaat de software de temperatuur van de GPU('s) controleren en gaat de ventilator snelheid hieraan aanpassen volgens de curve die bepaald is door de gebruiker. 
+
+Hints:
+- De door de gebruiker gedefinieerde ventilator controle mode kan op een alternatieve manier ingeschakeld worden, door in het hoofdvenster op <User define> te klikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

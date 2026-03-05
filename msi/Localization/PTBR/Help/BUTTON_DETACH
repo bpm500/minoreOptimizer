@@ -1,0 +1,6 @@
+Separar 
+Janela de monitoramento separada da janela principal do programa. Permite colocar a janela do painel de monitoramento no tamanho e posição que você desejar e mantê-la sempre visível, mas a janela principal do programa será minimizada como um ícone para a barra de tarefas do sistema. 
+
+Sugestões: 
+- Clique duas vezes para separar a janela do painel de monitoramento. Restaure com um  duplo clique ou feche para ser anexada novamente à janela principal. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

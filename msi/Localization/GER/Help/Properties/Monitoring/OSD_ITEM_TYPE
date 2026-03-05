@@ -1,0 +1,10 @@
+Elementtyp der Bildschirmanzeige
+Legt die Anzeige aktuell ausgewählter Diagrammwerte in der Bildschirmanzeige als Text, Graph oder Kombination aus Text und Graph fest.
+
+Hinweise:
+- Sie müssen den gewünschten Graphen aktivieren und auswählen, um Zugriff auf diese Option zu erhalten.
+- Das Rendern auf dem Bildschirm erzeugt CPU-Last, denn jedes angezeigte Symbol erfordert sowohl CPU- als auch GPU-Ressourcen. Vermeiden Sie daher die Anzeige unnötiger Informationen in der Bildschirmanzeige, um die Leistungseinbußen zu minimieren.
+- Durch die Aktivierung dieser Option wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server stellt On-Screen-Display-Rendering-Dienste für 3D-Anwendungen bereit und der Prozess kann erst beendet werden, wenn Sie die On-Screen-Display-Ausgabe für alle Diagramme deaktivieren.
+- Sie können die <Umschalt>-Taste auf Ihrer Tastatur gedrückt halten, während Sie diese Option ändern, um sie für alle Diagramme gleichzeitig zu ändern.
+- Wenn mehrere Diagramme gleichzeitig ausgewählt sind, wird die Änderung dieser Option gleichzeitig auf alle ausgewählten Diagramme angewendet. In diesem Fall können Sie beim Ändern dieser Option die Taste <Strg> auf der Tastatur gedrückt halten, um die Änderungen nur auf das aktuelle Diagramm anzuwenden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

@@ -1,0 +1,7 @@
+Clock memory
+Tampilkan clock GPU memory.
+
+Petunjuk:
+- Ketika pengaturan sinkronisasi GPU diaktifkan pada tab <General>, setiap perubahan pada master GPU maka akan berlaku terhadap semua GPU yang terpasang.
+- Anda dapat klik di daerah ini untuk langsung mengatur clock yang diinginkan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

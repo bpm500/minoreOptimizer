@@ -1,0 +1,10 @@
+Lüftergeschwindigkeit
+Passt die Lüftergeschwindigkeit der primären GPU an.
+
+Hinweise:
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- Die Lüftergeschwindigkeitssteuerung ist nur verfügbar, wenn die Grafikkarte mit einem Lüftersteuerungscontroller und/oder einem steuerbaren Kühlsystem ausgestattet ist.
+- Die Schaltfläche <Auto> muss deaktiviert sein, um die Lüftergeschwindigkeit manuell anzupassen.
+- Wenn dieser Schieberegler fokussiert ist, können Sie die Lüftergeschwindigkeit mit den Cursortasten anpassen.
+- Sie können auf das nebenstehende Eingabefeld klicken, um den gewünschten Wert direkt einzugeben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

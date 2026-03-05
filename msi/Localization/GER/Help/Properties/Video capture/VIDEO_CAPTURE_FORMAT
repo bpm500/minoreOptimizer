@@ -1,0 +1,13 @@
+Videoformat
+wählt das Videoformat aus. Folgende Videoformate werden unterstützt:
+
+- Unkomprimiert: Das Video wird im Rohformat ohne jegliche Komprimierung codiert. Für die Wiedergabe von in diesem Format kodierten Videos sind keine Codecs von Drittanbietern erforderlich. Bitte beachten Sie, dass sehr schnelle HDDs bzw. SSDs benötigt werden, um hochauflösendes Video im unkomprimierten Format ohne Bildausfälle zu kodieren, z. B. um unkomprimiertes Video mit einer Auflösung von 1920 x 1080 und 30 Bildern pro Sekunde zu kodieren, müssen dauerhaft ca. 180 MB/s auf die HDD bzw. SSD geschrieben werden können.
+- NV12 (4:2:0, 24-Bit): Das Video wird mit einer Farbunterabtastung von 4:2:0 und einer Farbtiefe von 8-Bit pro Farbkanal kodiert.
+- RTV1 (RivaTuner Video V1): Das Video wird im RivaTuner-Videoformat V1 kodiert. Für die Wiedergabe von in diesem Format kodierten Videos ist die Installation des RivaTuner Video Codec erforderlich. Das RivaTuner-Videoformat V1 ist ein verlustbehaftetes Komprimierungsformat, das auf einer Mischung aus DXT1- und RLE-Komprimierungsalgorithmen mit einer Komprimierungsrate von 6x oder höher basiert. Der RTV1-Encoder ist in der Lage, hochauflösende Videos mit hoher Bildrate zu kodieren, ohne zu hohe CPU-Last zu enzeugen. Daher wird dieses Format für Systeme mit Single-Core- oder langsamen Dual-Core-CPUs empfohlen.
+- MJPEG (Motion JPEG): Das Video wird im nativen MJPEG-Format kodiert. Für die Wiedergabe von in diesem Format codierten Videos sind keine Codecs von Drittanbietern erforderlich. Solche Videos sollten auf verschiedenen Plattformen oder sogar auf Hardware-Mediaplayern unterstützt werden.
+MJPEG bietet die beste Komprimierungsrate, erfordert jedoch eine schnelle Multi-Core-CPU, um hochauflösende Videos ohne Bildausfälle zu kodieren. Außerdem kann bei diesem Format die Balance zwischen Bildqualität und Komprimierungsverhältnis angepasst werden.
+- VfW (Video for Windows): Das Video wird mit einem externen VfW-kompatiblen Encoder codiert. Zum Encodieren und Wiedergeben von Videos ist die Installation eines En- und Decoders eines Drittanbieters erforderlich. Es wird empfohlen, den <Lagarith Lossless Codec> für die verlustfreie Videoaufnahme oder <x264vfw> für die beste Komprimierungsrate herunterzuladen, zu installieren und zu verwenden. %PRODUCTNAME% wurde entwickelt, um die beste Kompatibilität mit diesen Codecs zu gewährleisten.
+- Externes Plug-in: Das Video wird durch ein externes hardwarebeschleunigtes Plug-in kodiert. %SERVERPRODUCTNAME% enthält Plug-ins für hardwarebeschleunigte H.264/AVC-Kodierung über Intel QuickSync, NVIDIA NVENC und AMD VCE.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

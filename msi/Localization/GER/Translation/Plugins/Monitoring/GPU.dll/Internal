@@ -1,0 +1,207 @@
+#src GPU%d engine 0 usage
+#dst GPU%d Engine 0-Auslastung
+#end
+#src GPU%d engine 1 usage
+#dst GPU%d Engine 1-Auslastung
+#end
+#src GPU%d engine 2 usage
+#dst GPU%d Engine 2-Auslastung
+#end
+#src GPU%d engine 3 usage
+#dst GPU%d Engine 3-Auslastung
+#end
+#src GPU%d engine 4 usage
+#dst GPU%d Engine 4-Auslastung
+#end
+#src GPU%d engine 5 usage
+#dst GPU%d Engine 5-Auslastung
+#end
+#src GPU%d engine 6 usage
+#dst GPU%d Engine 6-Auslastung
+#end
+#src GPU%d engine 7 usage
+#dst GPU%d Engine 7-Auslastung
+#end
+#src GPU%d engine 8 usage
+#dst GPU%d Engine 8-Auslastung
+#end
+#src GPU%d engine 9 usage
+#dst GPU%d Engine 9-Auslastung
+#end
+#src GPU%d engine 10 usage
+#dst GPU%d Engine 10-Auslastung
+#end
+#src GPU%d engine 11 usage
+#dst GPU%d Engine 11-Auslastung
+#end
+#src GPU%d engine 12 usage
+#dst GPU%d Engine 12-Auslastung
+#end
+#src GPU%d engine 13 usage
+#dst GPU%d Engine 13-Auslastung
+#end
+#src GPU%d engine 14 usage
+#dst GPU%d Engine 14-Auslastung
+#end
+#src GPU%d engine 15 usage
+#dst GPU%d Engine 15-Auslastung
+#end
+#src GPU%d engine 16 usage
+#dst GPU%d Engine 16-Auslastung
+#end
+#src GPU%d engine 17 usage
+#dst GPU%d Engine 17-Auslastung
+#end
+#src GPU%d engine 18 usage
+#dst GPU%d Engine 18-Auslastung
+#end
+#src GPU%d engine 19 usage
+#dst GPU%d Engine 19-Auslastung
+#end
+#src GPU%d engine 20 usage
+#dst GPU%d Engine 20-Auslastung
+#end
+#src GPU%d engine 21 usage
+#dst GPU%d Engine 21-Auslastung
+#end
+#src GPU%d engine 22 usage
+#dst GPU%d Engine 22-Auslastung
+#end
+#src GPU%d engine 23 usage
+#dst GPU%d Engine 23-Auslastung
+#end
+#src GPU%d engine 24 usage
+#dst GPU%d Engine 24-Auslastung
+#end
+#src GPU%d engine 25 usage
+#dst GPU%d Engine 25-Auslastung
+#end
+#src GPU%d engine 26 usage
+#dst GPU%d Engine 26-Auslastung
+#end
+#src GPU%d engine 27 usage
+#dst GPU%d Engine 27-Auslastung
+#end
+#src GPU%d engine 28 usage
+#dst GPU%d Engine 28-Auslastung
+#end
+#src GPU%d engine 29 usage
+#dst GPU%d Engine 29-Auslastung
+#end
+
+#src GPU engine 0 usage
+#dst GPU Engine 0-Auslastung
+#end
+#src GPU engine 1 usage
+#dst GPU Engine 1-Auslastung
+#end
+#src GPU engine 2 usage
+#dst GPU Engine 2-Auslastung
+#end
+#src GPU engine 3 usage
+#dst GPU Engine 3-Auslastung
+#end
+#src GPU engine 4 usage
+#dst GPU Engine 4-Auslastung
+#end
+#src GPU engine 5 usage
+#dst GPU Engine 5-Auslastung
+#end
+#src GPU engine 6 usage
+#dst GPU Engine 6-Auslastung
+#end
+#src GPU engine 7 usage
+#dst GPU Engine 7-Auslastung
+#end
+#src GPU engine 8 usage
+#dst GPU Engine 8-Auslastung
+#end
+#src GPU engine 9 usage
+#dst GPU Engine 9-Auslastung
+#end
+#src GPU engine 10 usage
+#dst GPU Engine 10-Auslastung
+#end
+#src GPU engine 11 usage
+#dst GPU Engine 11-Auslastung
+#end
+#src GPU engine 12 usage
+#dst GPU Engine 12-Auslastung
+#end
+#src GPU engine 13 usage
+#dst GPU Engine 13-Auslastung
+#end
+#src GPU engine 14 usage
+#dst GPU Engine 14-Auslastung
+#end
+#src GPU engine 15 usage
+#dst GPU Engine 15-Auslastung
+#end
+#src GPU engine 16 usage
+#dst GPU Engine 16-Auslastung
+#end
+#src GPU engine 17 usage
+#dst GPU Engine 17-Auslastung
+#end
+#src GPU engine 18 usage
+#dst GPU Engine 18-Auslastung
+#end
+#src GPU engine 19 usage
+#dst GPU Engine 19-Auslastung
+#end
+#src GPU engine 20 usage
+#dst GPU Engine 20-Auslastung
+#end
+#src GPU engine 21 usage
+#dst GPU Engine 21-Auslastung
+#end
+#src GPU engine 22 usage
+#dst GPU Engine 22-Auslastung
+#end
+#src GPU engine 23 usage
+#dst GPU Engine 23-Auslastung
+#end
+#src GPU engine 24 usage
+#dst GPU Engine 24-Auslastung
+#end
+#src GPU engine 25 usage
+#dst GPU Engine 25-Auslastung
+#end
+#src GPU engine 26 usage
+#dst GPU Engine 26-Auslastung
+#end
+#src GPU engine 27 usage
+#dst GPU Engine 27-Auslastung
+#end
+#src GPU engine 28 usage
+#dst GPU Engine 28-Auslastung
+#end
+#src GPU engine 29 usage
+#dst GPU Engine 29-Auslastung
+#end
+
+#src GPU%d dedicated memory usage
+#dst Nutzung des dedizierten GPU%d-Speichers
+#end
+#src GPU%d shared memory usage
+#dst Nutzung des gemeinsamen GPU%d-Speichers
+#end
+#src GPU%d dedicated memory usage \ process
+#dst Nutzung des dedizierten GPU%d-Speichers \ Prozess
+#end
+#src GPU%d shared memory usage \ process
+#dst Nutzung des gemeinsamen GPU%d-Speichers \ Prozess
+#end
+
+#src GPU dedicated memory usage
+#dst Nutzung des dedizierten GPU-Speichers
+#end
+#src GPU shared memory usage
+#dst Nutzung des gemeinsamen GPU-Speichers
+#end
+#src GPU dedicated memory usage \ process
+#dst Nutzung des dedizierten GPU-Speichers \ Prozess
+#end
+#src GPU shared memory usage \ process
+#dst Nutzung des gemeinsamen GPU-Speichers \ Prozess
+#end

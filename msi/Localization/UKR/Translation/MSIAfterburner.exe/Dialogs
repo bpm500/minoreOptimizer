@@ -1,0 +1,722 @@
+#src Information
+#dst Інформація
+#end
+#src System information
+#dst Системна інформація
+#end
+
+#src General
+#dst Основні
+#end
+#src Master graphics processor selection
+#dst Вибір провідного графічного процесора
+#end
+#src Synchronize settings for similar graphics processors
+#dst Синхронізувати налаштування схожих графічних процесорів
+#end
+#src General properties
+#dst Основні налаштування
+#end
+#src Start with Windows
+#dst Запускати разом із Windows
+#end
+#src Start minimized
+#dst Запускати мінімізованим
+#end
+#src Compatibility properties
+#dst Налаштування сумісності
+#end
+#src Enable hardware control and monitoring
+#dst Увімкнути керування та моніторинг
+#end
+#src Enable low-level IO driver
+#dst Увімкнути низькорівневий драйвер вводу-виводу
+#end
+#src Enable low-level hardware access interface
+#dst Увімкнути низькорівневий доступ до ГП
+#end
+#src kernel mode
+#dst режим ядра
+#end
+#src user mode
+#dst режим користувача
+#end
+#src Unlock voltage control
+#dst Розблокувати контроль напруги
+#end
+#src reference design
+#dst еталонний дизайн
+#end
+#src standard MSI
+#dst стандартний MSI
+#end
+#src extended MSI
+#dst розширений MSI
+#end
+#src Unlock voltage monitoring
+#dst Розблокувати моніторинг напруги
+#end
+#src Force constant voltage
+#dst Форсувати постійну напругу
+#end
+#src Restore settings after suspended mode
+#dst Відновити налаштування після сплячого режиму
+#end
+#src Graphics processor type
+#dst Тип графічного процесора
+#end
+#src Update checking properties
+#dst Налаштування системи пошуку оновлень
+#end
+#src Check for available product updates
+#dst Перевіряти наявність оновлень
+#end
+#src Check for available product beta versions
+#dst Перевіряти наявність бета-версій
+#end
+#src never
+#dst ніколи
+#end
+#src on startup
+#dst при завантаженні
+#end
+#src on startup daily
+#dst щодня
+#end
+#src on startup weekly
+#dst щотижня
+#end
+#src on startup monthly
+#dst щомісяця
+#end
+#src Check now
+#dst Перевірити
+#end
+#src AMD compatibility properties
+#dst Налаштування сумісності AMD
+#end
+#src Extend official overclocking limits
+#dst Розширити ліміти офіційного режиму розгону
+#end
+#src Disable ULPS
+#dst Вимкнути режим наднизького енергоспоживання (ULPS)
+#end
+#src Unofficial overclocking mode
+#dst Неофіційний режим розгону
+#end
+#src disabled
+#dst відключений
+#hst ComboBox 1255
+#end
+#src with PowerPlay support
+#dst з підтримкою PowerPlay
+#end
+#src without PowerPlay support
+#dst без підтримки PowerPlay
+#end
+#src Reset display mode on applying unofficial overclocking
+#dst Скинути відеорежим при застосуванні неофіційного розгону
+#end
+#src Enable unified GPU usage monitoring
+#dst Увімкнути режим універсального моніторингу завантаження ГП
+#end
+#src Erase autosaved startup settings
+#dst Видалити автоматично збережені налаштування запуску
+#end
+
+#src Fan
+#dst Вентилятор
+#end
+#src Automatic fan control properties
+#dst Налаштування автоматичного керування вентилятором
+#end
+#src Enable user defined software automatic fan control
+#dst Увімкнути програмний користувацький авторежим
+#end
+#src Use firmware control mode
+#dst Використовувати керування на рівні прошивки
+#end
+
+#src Temperature, °C
+#dst Температура, °C
+#end
+#src Fan speed, %
+#dst Швидкість вентилятора, %
+#end
+#src Predefined fan speed curve
+#dst Пресет кривої швидкості
+#end
+#src Custom
+#dst Довільний
+#end
+#src Default
+#dst За замовчуванням
+#end
+#src Fan speed update period (in milliseconds)
+#dst Період оновлення швидкості (у мілісекундах)
+#end
+#src Temperature hysteresis (in °C)
+#dst Температурний гістерезис (в °C)
+#end
+#src Force fan speed update on each period
+#dst Примусове оновлення швидкості вентилятора в кожному періоді
+#end
+#src Override zero fan speed with hardware curve
+#dst Заміна нульової швидкості вентилятора апаратною кривою
+#end
+
+#src Monitoring
+#dst Моніторинг
+#end
+#src Hardware monitoring properties
+#dst Налаштування моніторингу
+#end
+#src Hardware polling period (in milliseconds)
+#dst Період опитування обладнання (у мілісекундах)
+#end
+#src Hardware monitoring history logging properties
+#dst Налаштування журналювання історії моніторингу
+#end
+#src Browse
+#dst Огляд
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst Обмежити розмір журналу значенням (МБ)
+#end
+#src Recreate existing log files
+#dst Відновити існуючі файли журналів
+#end
+#src Global monitoring hotkeys
+#dst Гарячі клавіші моніторингу
+#end
+
+#src Begin logging
+#dst Початок запису звіту
+#end
+#src End logging
+#dst Кінець запису звіту
+#end
+#src Active hardware monitoring graphs
+#dst Активні графіки моніторингу
+#end
+#src Graph columns
+#dst Стовпчики графіка
+#end
+#src Data provider
+#dst Джерело даних
+#end
+#src Graph limits
+#dst Межі графіка
+#end
+#src Correction formula
+#dst Формула корекції
+#end
+#src Alarm when value is out of range
+#dst Тривога при виході значення за межі діапазону
+#end
+
+#src Override group name
+#dst Перевизначити назви групи
+#end
+#src Override graph name
+#dst Перевизначити назву графіка
+#end
+#src Enable data filtering
+#dst Увімкнути фільтрацію даних
+#end
+#src Layered graph color
+#dst Колір графіка в багатошаровому режимі
+#end
+
+#src Show in On-Screen Display
+#dst Відображати на ОЕД
+#end
+#src classic
+#dst классика
+#end
+#src Show in Logitech keyboard LCD display
+#dst Відображати на LCD дисплеї клавіатур Logitech
+#end
+#src Show in tray icon
+#dst Відображати у піктограмі в треї
+#end
+#src text
+#dst текст
+#end
+#src barchart
+#dst колонка
+#end
+#src text, graph
+#dst текст, графік
+#end
+
+#src On-Screen Display
+#dst ОЕД
+#end
+#src Global On-Screen Display hotkeys
+#dst Гарячі клавіші ОЕД
+#end
+#src Toggle On-Screen Display
+#dst Переключити ОЕД
+#end
+#src Show On-Screen Display
+#dst Показати ОЕД
+#end
+#src Hide On-Screen Display
+#dst Сховати ОЕД
+#end
+#src Additional On-Screen Display properties
+#dst Додаткові налаштування ОЕД
+#end
+#src Show system time
+#dst Показувати системний час
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst Показувати ОЕД на захоплених скріншотах та відео
+#end
+#src On-Screen Display server compatibility properties
+#dst Налаштування сумісності сервера ОЕД
+#end
+#src Toggle On-Screen Display server blocking
+#dst Блокування сервера ОЕД
+#end
+#src Framerate limiter compatibility properties
+#dst Налаштування сумісності обмежувача частоти кадрів
+#end
+#src Toggle framerate limiter
+#dst Переключити обмежувач частоти кадрів
+#end
+#src Enable framerate limiter
+#dst Увімкнути обмежувач частоти кадрів
+#end
+#src Disable framerate limiter
+#dst Вимкнути обмежувач частоти кадрів
+#end
+#src More
+#dst Додатково
+#dlu -100
+#end
+
+#src Benchmark
+#dst Бенчмарк
+#end
+#src Global benchmark hotkeys
+#dst Гарячі клавіші бенчмарка
+#end
+#src Begin recording
+#dst Почати запис
+#end
+#src End recording
+#dst Завершити запис
+#end
+#src Benchmark results file properties
+#dst Налаштування файлу результатів бенчмарка
+#end
+#src Benchmark results file
+#dst Файл результатів бенчмарка
+#end
+#src Recreate existing benchmark results files
+#dst Відновити наявні файли результатів
+#end
+
+
+#src Profiles
+#dst Профілі
+#end
+#src Profile contents
+#dst Вміст профілів
+#end
+#src Hardware settings
+#dst Налаштування обладнання
+#end
+#src Monitoring settings
+#dst Налаштування моніторингу
+#end
+#src Global profile hotkeys
+#dst Гарячі клавіші профілів
+#end
+#src Profile
+#dst Профіль
+#end
+#src Automatic profiles management
+#dst Автоматичне керування профілями
+#end
+#src 2D profile
+#dst 2D профіль
+#end
+#src 3D profile
+#dst 3D профіль
+#end
+
+#src User Interface
+#dst Користувацький інтерфейс
+#end
+#src User interface properties
+#dst Властивості користувацького інтерфейсу
+#end
+#src English
+#dst Англійська
+#end
+#src Language
+#dst Мова
+#end
+#src Show user interface tooltips
+#dst Показувати спливаючі підказки
+#end
+#src Show user interface hints
+#dst Показувати спливаючі підказки у вікні моніторингу
+#end
+#src Single tray icon mode
+#dst Режим одиночної піктограми в треї
+#end
+#src Regional properties
+#dst Регіональні налаштування
+#end
+#src Temperature format
+#dst Формат температури
+#end
+#src Celsius
+#dst Цельсій
+#end
+#src Fahrenheit
+#dst Фаренгейт
+#end
+#src Time format
+#dst Формат часу
+#end
+#src 12 hours
+#dst 12 годин
+#end
+#src 24 hours
+#dst 24 години
+#end
+
+#src User interface skinning properties
+#dst Налаштування скінів користувацького інтерфейсу
+#end
+#src Skin composition mode
+#dst Режим композиції скіна
+#end
+#src traditional
+#dst традиційний
+#end
+#src layered with colorkey
+#dst шари з кольоровим ключем
+#end
+#src layered with alpha
+#dst шари з альфа каналом
+#end
+#src Skin transparency
+#dst Прозорість скіна
+#end
+#src Transparent
+#dst Прозорий
+#end
+#src Opaque
+#dst Непрозорий
+#end
+
+#src Screen capture
+#dst Захоплення скріншота
+#end
+#src Global screen capture hotkeys
+#dst Гарячі клавіші захоплення скріншота
+#end
+#src Screen capture properties
+#dst Властивості скріншота
+#end
+#src Screenshot format
+#dst Формат скріншота
+#end
+#src Screenshots folder
+#dst Тека скріншотів
+#end
+#src View
+#dst Перегляд
+#end
+
+#src Video capture
+#dst Захоплення відео
+#end
+#src Video prerecord
+#dst Попередній запис відео
+#end
+#src manual
+#dst вручну
+#end
+#src auto
+#dst авто
+#end
+#src Prerecord buffer limit
+#dst Ліміт буфера попереднього запису
+#end
+#src sec or
+#dst сек або
+#end
+#src MB in
+#dst МБ у
+#end
+#src RAM
+#dst ОЗП
+#end
+#src file
+#dst файл
+#end
+#src Global video capture hotkeys
+#dst Гарячі клавіші захоплення відео
+#end
+#src Video capture properties
+#dst Налаштування захоплення відео
+#end
+#src Capture mode
+#dst Режим захоплення
+#end
+#src mixed
+#dst змішаний
+#end
+#src desktop
+#dst робочий стіл
+#end
+#src 3D application
+#dst 3D-додаток
+#end
+#src Frame size
+#dst Розмір кадру
+#end
+#src full frame
+#dst повний кадр
+#end
+#src 1/2 frame
+#dst 1/2 кадру
+#end
+#src 1/3 frame
+#dst 1/3 кадру
+#end
+#src 1/4 frame
+#dst 1/4 кадру
+#end
+#src Video format
+#dst Формат відео
+#end
+#src Container format
+#dst Формат контейнера
+#end
+#src uncompressed
+#dst нестиснутий
+#end
+#src RTV1 compression
+#dst cтиснення RTV1
+#end
+#src MJPG compression
+#dst cтиснення MJPG
+#end
+#src 1 FPS
+#dst 1 FPS
+#end
+#src 100 FPS
+#dst 100 кадрів/с
+#end
+#src Enable gamma correction
+#dst Увімкнути гамма-корекцію
+#end
+#src Videos folder
+#dst Тека відео
+#end
+#src Video capture compatibility properties
+#dst Налаштування сумісності захоплення відео
+#end
+#src Multithreaded optimization
+#dst Багатопотокова оптимізація
+#end
+#src automatic
+#dst автоматична
+#end
+#src disabled
+#dst відключена
+#end
+#src 1 compression thread
+#dst 1 потік пакувальника
+#end
+#src 2 compression threads
+#dst 2 потоки пакувальника
+#end
+#src 3 compression threads
+#dst 3 потоки пакувальника
+#end
+#src 4 compression threads
+#dst 4 потоки пакувальника
+#end
+#src 5 compression threads
+#dst 5 потоків пакувальника
+#end
+#src 6 compression threads
+#dst 6 потоків пакувальника
+#end
+#src 7 compression threads
+#dst 7 потоків пакувальника
+#end
+#src 8 compression threads
+#dst 8 потоків пакувальника
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst Обрізати розміри відео до значень, кратних 16
+#end
+#src Audio capture properties
+#dst Властивості захоплення звуку
+#end
+#src Downmix multichannel audio to stereo
+#dst Зводити багатоканальне аудіо в стерео
+#end
+#src stereo rip
+#dst відокремлення
+#end
+#src stereo mix
+#dst мікшування
+#end
+#src Mix multiple audio tracks
+#dst Зводити кілька аудіо треків в один
+#end
+#src None
+#dst Ні
+#end
+#src Auto select
+#dst Вибрати автоматично
+#end
+#src DirectSound capture device
+#dst Пристрій захоплення DirectSound
+#end
+#src WASAPI playback device
+#dst Пристрій відтворення WASAPI
+#end
+#src WASAPI capture device
+#dst WASAPI-захват
+#end
+#src Audio source #1
+#dst Джерело аудіо #1
+#end
+#src Audio source #2
+#dst Джерело аудіо #2
+#end
+#src Push-To-Talk hotkey
+#dst Клавіша Push-To-Talk
+#end
+#src There are no devices available
+#dst Пристрої недоступні
+#end
+#src Enable MJPG decoder
+#dst Увімкнути декодер MJPG
+#end
+#src Use dedicated encoder server
+#dst Використовувати виділений сервер кодування
+#end
+#src NV12 compression
+#dst стиснення NV12
+#end
+
+#src Voltage control
+#dst Керування напругою
+#end
+#src Voltage control properties
+#dst Налаштування керування напругою
+#end
+#src OK
+#dst ОК
+#end
+#src Cancel
+#dst Скасувати
+#end
+
+#src Hardware monitoring plugins
+#dst Плагіни модуля моніторингу
+#end
+#src Active plugin modules
+#dst Активні плагіни
+#end
+#src Setup
+#dst Налаштувати
+#end
+
+#src On-Screen Display layout
+#dst Стиль Оверлейного Екранного Дисплею
+#end
+#src Active layout selection
+#dst Вибір активного стилю
+#end
+#src Active layout properties
+#dst Налаштування активного стилю
+#end
+#src Reset
+#dst Скинути
+#end
+#src Apply
+#dst Застосувати
+#end
+
+#src Color
+#dst Колір
+#end
+
+#src Add color
+#dst Додати колір
+#end
+#src Variable slot
+#dst Слот змінної
+#end
+
+#src Add alignment
+#dst Додати вирівнювання
+#end
+#src Width (in characters)
+#dst Ширина (у символах)
+#end
+#src Type
+#dst Тип
+#end
+#src left
+#dst ліве
+#end
+#src right
+#dst праве
+#end
+
+#src Add size
+#dst Додати розмір
+#end
+#src Size (in percents)
+#dst Розмір (у відсотках)
+#end
+#src Style
+#dst Стиль
+#end
+#src superscript
+#dst надрядковий
+#end
+#src subscript
+#dst підрядковий
+#end
+
+#src Add item(s)
+#dst Додати елемент(и)
+#end
+
+#src Alarm settings
+#dst Налаштування тривоги
+#end
+#src Timeout (in milliseconds)
+#dst Таймаут (у мілісекундах)
+#end
+#src Play sound on alarm
+#dst Відтворювати звук за тривогою
+#end
+#src Launch application on alarm
+#dst Запускати програму за тривогою
+#end
+#src Path
+#dst Шлях
+#end
+#src Command line
+#dst Командний рядок
+#end
+#src Overclocking is disabled due to debug mod
+#dst Розгін вимкнено через налагоджувальний режим
+#end

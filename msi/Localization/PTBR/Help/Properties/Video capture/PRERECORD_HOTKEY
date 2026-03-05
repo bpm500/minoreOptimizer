@@ -1,0 +1,6 @@
+Atalhos de pre-gravação de vídeo 
+Permite definir teclas de atalho para iniciar e parar a pré-gravação do vídeo. Durante a pré-gravação o programa de captura de vídeo salva um arquivo pré-gravado na memória RAM ou no arquivo temporário. O "buffer" de gravação sempre conterá os últimos minutos do vídeo capturado. Se você pressionar a tecla de atalho de captura de vídeo durante a pré-gravação o vídeo resultante será anexado ao conteúdo do buffer de pré-gravação. 
+
+Sugestões: 
+- Habilitar esta opção criará um processo adicional para o %SERVERPRODUCTNAME% a ser iniciado automaticamente. O servidor fornece serviços de captura de vídeo em aplicações 3D e não pode ser interrompido até que seja desativado.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

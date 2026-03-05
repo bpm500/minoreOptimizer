@@ -1,0 +1,580 @@
+#src Failed to compile %s skin!
+#dst スキン %s をコンパイルできませんでした。
+#end
+
+#src %s skin has been successfully compiled!
+#dst %s スキンがコンパイルされました。
+#end
+
+#src %s skin has been successfully decompiled!
+#dst %s スキンがデコンパイルされました。
+#end 
+
+#src Failed to decompile %s skin!
+#dst スキン %s をデコンパイルできませんでした。
+#end
+
+#src Failed to load %s skin!
+#dst スキン %s をロードできませんでした。
+#end 
+
+#src Failed to load %s.sys driver!
+#dst  %s.sys ドライバをロードできませんでした。
+#end 
+
+#src This application is designed to use %s.sys driver v%d.%d. Different version of driver is installed and in use now. It is strongly recommended to close all applications using this driver and restart this application to allow correct driver version usage, otherwise it may function improperly.
+#dst このアプリケーションは %s.sys ドライバ v%d.%d を使用するように設計されています。別のバージョンのドライバがインストールされており、現在使用中です。正しいドライババージョンを使用できるように、このドライバを使用しているすべてのアプリケーションを閉じて、このアプリケーションを再起動することを強くお勧めします。そうしないと、正常に動作しない場合があります。
+#end 
+
+#src Some of MSI Afterburner components are expired, missing or corrupted!
+#dst 一部の MSI アフターバーナーのコンポーネントが期限切れ、紛失、または壊れています。
+#end 
+
+#src Failed to load %s skin, reverting to default skin!
+#dst スキン %s をロードできませんでした。デフォルトのスキンに戻します。
+#end 
+
+#src Unsupported %s skin file format!
+#dst サポートされていない %s スキンファイル形式です。
+#end 
+
+#src Your current system state has been used to build Hardware Emulation Layer. The application will function through HEL after the next restart.
+#dst ハードウェア・エミュレーション層をビルドするため、現在のシステム状態を使用します。.次回アプリケーションを再起動するとHELを通じて機能します。
+#end 
+
+#src I2C dump has been saved to the application folder.
+#dst I2C ダンプをアプリケーションフォルダーに保存しました。
+#end 
+
+#src Failed to save I2C dump to the application folder.
+#dst アプリケーションフォルダーに I2Cダンプを保存できませんでした。
+#end 
+
+#src Failed to initialize main window with %s skin, reverting to default skin!
+#dst スキン %s でメインウィンドウを初期化できませんでした。デフォルトのスキンに戻します。
+#end 
+
+#src Failed to initialize main window!
+#dst メインウィンドウを初期化できませんでした。
+#end 
+
+#src Sorry, the fan speed curve you've defined doesn't appear to be valid! It is not allowed to define a curve causing fan speed to decrease with increasing temperature!
+#dst ご迷惑をおかけします。定義されたファン回転速度曲線が有効ではありません。ファン回転速度を減速させ、温度上昇を引き起こす曲線を定義することはできません。
+#end 
+
+
+#src GPU%d : %s
+#dst GPU%d :%s
+#end 
+
+#src GPU%d
+#dst GPU%d
+#end 
+
+#src Emulated %s on %s GPU
+#dst 以下をエミュレート: %s 於 %s GPU
+#end 
+
+#src %s on %s GPU
+#dst %s 於 %s GPU
+#end 
+
+#src %-20s : %s
+#dst %-20s :%s
+#end 
+
+#src Display device
+#dst ディスプレイデバイス
+#end 
+
+#src Display driver
+#dst ディスプレイドライバ
+#end 
+
+#src %dMB
+#dst %dMB
+#end 
+
+#src On-board memory
+#dst オンボード・メモリ
+#end 
+
+#src BIOS
+#dst BIOS
+#end 
+
+#src GUID
+#dst GUID
+#end 
+
+#src master
+#dst マスター
+#end 
+
+#src synchronized with master
+#dst マスターと同期化
+#end 
+
+#src Multi-GPU role
+#dst マルチ GPU ロール
+#end 
+
+#src OSD
+#dst OSD
+#end 
+
+#src LCD
+#dst LCD
+#end 
+
+#src tray
+#dst トレイ
+#end 
+
+#src Select a graph to access graph properties
+#dst グラフのプロパティにアクセスするには、グラフを選択します
+#end 
+
+#src %s graph properties
+#dst %s グラフのプロパティ
+#end 
+
+#src Tick checkmark to activate the graph and access graph properties
+#dst グラフをアクティブにしてグラフのプロパティにアクセスするには、チェックボックスをチェックします
+#end 
+
+#src Updating %d graph(s) with %d ms period, polling time : %.3f ms, GUI time : %.3f ms
+#dst 更新対象::%d グラフ: %d ms 間隔、ポーリング時間: %.3f ms, GUI time : %.3f ms
+#end 
+
+#src Updating fan speed(s) with %d ms period, update time : %.3f ms
+#dst 更新対象: ファン回転速度: %d ms 間隔、更新時間: %.3f ms
+#end 
+
+#src Bitmap cache flushed
+#dst ビットマップキャッシュをフラッシュしました
+#end 
+
+#src Tip: MSI Afterburner is currently minimized to system tray area. You may click its' tray icon to bring MSI Afterburner window to top.
+#dst Tip:MSI アフターバーナーは現在最小化されて、システムトレイの領域に入っています。そのトレイアイコンをクリックして、MSI アフターバーナーウィンドウを最前面に移動できます。
+#end 
+
+#src Failed to restore main window DIB cache!
+#dst メインウィンドウの DIB キャッシュをリストアできませんでした。
+#end 
+
+#src MSI Afterburner properties
+#dst MSI アフターバーナーのプロパティ
+#end 
+
+#src The changes you've made will be applied after restarting MSI Afterburner.
+#dst 変更内容は MSI アフターバーナーの再起動後に適用されます。.
+#end 
+
+#src On-Screen Display server
+#dst オンスクリーンディスプレイ・サーバー
+#end 
+
+#src Active client(s)
+#dst アクティブなクライアント
+#end 
+
+#src server is not loaded
+#dst サーバーはロードされません
+#end 
+
+#src not detected
+#dst 検出されません
+#end 
+
+#src Active 3D process
+#dst アクティブな 3D プロセス
+#end 
+
+#src Additional server process has been loaded for the first time. The server is automatically loaded by MSI Afterburner as soon as you enable the functionality depending on it. Such functionality includes but not limited to automatic profiles management, screen capture, framerate monitoring and On-Screen Display rendering. When the server is loaded, you may check which MSI Afterburner modules are connected to it as the clients by clicking <i> button.
+#dst はじめて、追加のサーバープロセスがロードされました。.サーバーに依存する機能が有効化されるとすぐに、サーバーは自動的に MSI アフターバーナーによってロードされます。そのような機能には、例えば、自動プロファイルの管理、スクリーンキャプチャ、フレームレートの監視、オンスクリーンディスプレイのレンダリングなどがあります。サーバーがロードされれば、<i> ボタンをクリックすることで、そのサーバーにどの MSI アフターバーナーモジュールがクライアントとして接続されているかを確認できます。
+#end 
+
+#src Profile %d applied
+#dst プロファイル %d が適用されました
+#end 
+
+#src Profile %d loaded
+#dst プロファイル %d がロードされました
+#end 
+
+#src Profile %d deleted
+#dst プロファイル %d を削除しました
+#end 
+
+#src Profile %d saved
+#dst プロファイル %d を保存しました
+#end 
+
+#src GPU%d selected
+#dst GPU%d が選択されました
+#end 
+
+#src MSI Afterburner%s hardware monitor
+#dst MSI アフターバーナー%s ハードウェア監視
+#end 
+
+#src framerate monitoring module
+#dst フレームレート監視モジュール
+#end 
+
+#src On-Screen Display module
+#dst オンスクリーンディスプレイ・モジュール
+#end 
+
+#src automatic profiles manager
+#dst 自動プロファイルマネージャー
+#end 
+
+#src screen capture module
+#dst スクリーンキャプチャ・モジュール
+#end 
+
+#src You've activated user defined software automatic fan control mode for the first time. Please take a note that you can redefine the fan speed curve for this mode via advanced MSI Afterburner properties. Do you want to go to advanced properties and edit the curve right now?
+#dst はじめて、ユーザー定義ソフトウェアによる自動ファン制御モードがアクティブになりました。MSI アフターバーナーの詳細プロパティを使用して、このモードで使用するファン回転速度曲線を再定義することもできます。詳細プロパティに進み、今すぐ曲線を編集しますか?
+#end 
+
+#src Warning! You are trying to display too many text information in the On-Screen Display. Displayed text will be truncated causing some information to be lost, it is recommended to disable On-Screen Display output for some unnecessary hardware monitoring graphs. Do you want to do it right now?
+#dst 警告!オンスクリーンディスプレイに表示しようとしている文字情報が多すぎます。表示しきれないテキストが切り捨てられ、そのため情報が失われます。不要なハードウェアについては、監視グラフのオンスクリーンディスプレイへの出力を無効にすることをお勧めします。今すぐ実行しますか?
+#end 
+
+#src in %s
+#dst 場所 %s
+#end 
+
+#src Not assigned
+#dst 割り当てられていません
+#end 
+
+#src empty
+#dst 空です
+#end
+
+#src Graph
+#dst グラフ
+#end 
+
+#src Properties
+#dst プロパティ
+#end 
+
+#src Min
+#dst 最小
+#end 
+
+#src Max
+#dst 最大
+#end 
+
+#src About %s
+#dst %s について
+#end 
+
+#src expires on %s
+#dst 期限： %s
+#end
+
+#src Hardware monitor is paused
+#dst ハードウェア監視が一次停止されました
+#end
+
+#src %s localization creator
+#dst %s ローカライズ作成者
+#end
+
+#src MSI Afterburner %s localization feedback
+#dst MSI アフターバーナー %s のローカライズについてのフィードバック
+#end
+
+#src Profiles modification locked
+#dst プロファイル変更がロックされました
+#end
+
+#src Profiles modification unlocked
+#dst プロファイル変更のロックが解除されました
+#end
+
+#src Resource file copy has been successfully saved to %s!
+#dst リソースファイルのコピーが %s に保存されました!
+#end
+
+#src Failed to save resource file copy to %s!
+#dst リソースファイルのコピーを %s に保存できませんでした!
+#end
+
+#src Log session started
+#dst ログセッションを開始しました
+#end
+
+#src Log session terminated due to write failure
+#dst 書込みエラーによりログセッションが終了しました
+#end
+
+#src Log session terminated due to user request
+#dst ユーザーのリクエストによりログセッションが終了しました
+#end
+
+#src Log session terminated due to log size overflow
+#dst ログサイズがオーバーフローしたためログセッションが終了しました
+#end
+
+#src Logging to %s (%I64u bytes)
+#dst %s にロギングしています(%I64u バイト)
+#end
+
+#src RivaTuner hardware monitoring log files (*.hml)|*.hml|All files (*.*)|*.*||
+#dst RivaTuner ハードウェア監視のログファイル (*.hml)|*.hml|All files (*.*)|*.*||
+#end
+
+#src compiled on %d-%m-%Y %H:%M:%S
+#dst コンパイル日 %d-%m-%Y %H:%M:%S
+#end
+
+#src Voltage defaults captured
+#dst 電圧のデフォルトがキャプチャされました
+#end
+
+#src Failed to initialize hotkey handler, global hotkeys will not function properly!
+#dst ホットキーハンドラを初期化できませんでした。グローバルホットキーは正常に機能しません。
+#end
+
+#src Please select target folder for screen capture
+#dst スクリーンキャプチャの対象フォルダを選択してください
+#end
+
+#src CTaskSchedulerInterface::%s failed with error code %d!
+#dst CTaskSchedulerInterface::%s が次のエラーコードで終了しました。 %d!
+#end
+
+#src Beta %d
+#dst Beta %d
+#end
+
+#src On-Screen Display Server is blocked
+#dst オンスクリーンディスプレイ・サーバーがブロックされています
+#end
+
+#src Screenshot captured
+#dst スクリーンショットがキャプチャされました
+#end
+
+#src Please select target folder for video capture
+#dst ビデオキャプチャの対象フォルダを選択してください
+#end
+
+#src video capture module
+#dst ビデオキャプチャモジュール
+#end
+
+#src %d%% quality
+#dst %d%% 品質
+#end
+
+#src Framerate %d FPS
+#dst フレームレート %d FPS
+#end
+
+#src External profile applied
+#dst 外部プロファイルが適用されました
+#end
+
+#src There is no new version available at this time. Currently installed version is up to date.
+#dst
+#end
+
+#src MSI Afterburner v%s is available for download. Do you want to open the download page now?
+#dst
+#end
+
+#src Cannot retrieve update information from the update server!
+#dst
+#end
+
+#src Cannot establish connection with the update server!
+#dst
+#end
+
+#src cannot open internet connection
+#dst
+#end
+
+#src cannot open server connection
+#dst
+#end
+
+#src cannot open HTTP request
+#dst
+#end
+
+#src cannot send HTTP request
+#dst
+#end
+
+#src cannot query HTTP info
+#dst
+#end
+
+#src proxy authentification required
+#dst
+#end
+
+#src cannot read file
+#dst
+#end
+
+#src unknown reason %d
+#dst
+#end
+
+#src Reason : %s, error code %d
+#dst
+#end
+
+#src Last checked on %A, %B %d, %Y, %H:%M:%S
+#dst
+#end
+
+#src Warning! This version expires on %A, %B %d, %Y, %H:%M:%S!
+#dst
+#end 
+
+#src MPNG compression
+#dst
+#end
+
+#src Clock limits have been extended. Please reboot the PC in order to apply the changes.
+#dst
+#end
+
+#src Clock limits have been restored. Please reboot the PC in order to apply the changes.
+#dst
+#end
+
+#src It is strongly recommended to reboot the PC in order to detect default settings properly. Do you want to reboot it right now? Answer NO to detect default settings without rebooting the PC.
+#dst
+#end
+
+#src Framerate limit %d FPS
+#dst
+#end
+
+#src %d FPS
+#dst
+#end
+
+#src Framerate limit disabled
+#dst
+#end
+
+#src Power limit %s
+#dst
+#end
+
+#src VFW compression : %s
+#dst
+#end
+
+#src not configured
+#dst
+#end
+
+#src Please configure VFW compression or select different video format.
+#dst
+#end
+
+#src Assigned hotkeys
+#dst
+#end 
+
+#src Profile 1
+#dst
+#end 
+
+#src Profile 2
+#dst
+#end 
+
+#src Profile 3
+#dst
+#end 
+
+#src Profile 4
+#dst
+#end 
+
+#src Profile 5
+#dst
+#end 
+
+#src Toggle OSD
+#dst
+#end 
+
+#src Show OSD
+#dst
+#end 
+
+#src Hide OSD
+#dst
+#end 
+
+#src Block OSD Server
+#dst
+#end 
+
+#src Capture screenshot
+#dst
+#end 
+
+#src Capture video
+#dst
+#end 
+
+#src Push-To-Talk 1
+#dst
+#end 
+
+#src Push-To-Talk 2
+#dst
+#end 
+
+#src VDDC controller
+#dst
+#end
+
+#src MVDDC controller
+#dst
+#end
+
+#src AUX controller
+#dst
+#end
+
+#src %s on I2C bus %d, device %02Xh
+#dst
+#end
+
+#src The changes you've made will be applied after rebooting the PC.  Do you want to reboot it now?
+#dst
+#end
+
+#src Registry key
+#dst
+#end
+
+#src Path
+#dst
+#end
+
+#src %SERVERPRODUCTNAME% installation has been detected. It will be able to provide additional functionality to %PRODUCTNAME% after restarting the application.  Do you want to restart it now?
+#dst
+#end
+
+#src Version
+#dst
+#end

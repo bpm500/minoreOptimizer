@@ -1,0 +1,57 @@
+#src HwInfo plugin settings
+#dst Настройки на плъгина HwInfo
+#end
+#src Active data sources
+#dst Активни източници на данни
+#end
+#src Add
+#dst Добави
+#end
+#src Remove
+#dst Премахни
+#end
+#src Defaults
+#dst По-подразбиране
+#end
+
+#src Data source settings
+#dst Настройки на източника на данни
+#end
+#src HwInfo sensor properties
+#dst Свойства на сензора HwInfo
+#end
+#src Type
+#dst Тип
+#end
+#src Instance
+#dst Пример
+#end
+#src Name
+#dst Име
+#end
+#src Plugin data source properties
+#dst Свойства на източника на данни на плъгина
+#end
+#src Units
+#dst Единици
+#end
+#src Format
+#dst Формат
+#end
+#src Group
+#dst Група
+#end
+#src Range
+#dst Обхват
+#end
+
+
+#src Add new data source(s)
+#dst Добавете нов източник(ци) на данни
+#end
+#src Available HwInfo sensors
+#dst Налични сенсори на HwInfo 
+#end
+#src Export
+#dst Експортиране 
+#end

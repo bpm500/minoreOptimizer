@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_TURKISH}		"AfterburnerTR.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_TURKISH}		"MSI Afterburner is currently active, install process will be aborted!"
+LangString AfterburnerAbortInstall 	${LANG_TURKISH}		"MSI Afterburner installation failed!"
+LangString AfterburnerActiveUninstall 	${LANG_TURKISH}		"MSI Afterburner is currently active, uninstall process will be aborted!"
+LangString AfterburnerKeepSettings 	${LANG_TURKISH}		"Do you want to keep your MSI Afterburner settings? Answer YES if you're uninstalling the utility before upgrading it to a new version."
+LangString AfterburnerRebootUninstall 	${LANG_TURKISH}		"Some MSI Afterburner files are currently in use and cannot be removed right now, reboot is required to finish the uninstallation and remove these files. If you're upgrading MSI Afterburner, it is strongly not recommended to install new version without rebooting the system. Do you want to reboot now?"
+LangString AfterburnerAbortUninstall 	${LANG_TURKISH}		"MSI Afterburner uninstallation failed!"
+LangString AfterburnerCaption 		${LANG_TURKISH}		"MSI Afterburner ${VER_DISPLAY} Setup"
+LangString DescSecAfterburner 		${LANG_TURKISH}		"Main MSI Afterburner application"
+LangString DescSecRTSS 			${LANG_TURKISH}		"Provides framerate monitoring, On-Screen Display and videocapture services to MSI Afterburner"
+LangString AfterburnerLocalization 	${LANG_TURKISH}		"TR"

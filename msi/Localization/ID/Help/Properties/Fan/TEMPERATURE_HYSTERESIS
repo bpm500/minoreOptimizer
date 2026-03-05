@@ -1,0 +1,9 @@
+Temperatur hysteresis
+Tampilkan dan atur temperatur hysteresis untuk pilihan pengaturan kipas secara otomatis. Hysteresis dapat digunakan untuk mengurangi kecepatan kipas yang berlebihan dan memperbaiki efsiensi pendinginan. Ketika pilihan non-zero hysteresis ditentukan, pengaturan kipas secara otomatis akan melakukan cara algoritma:
+
+- Temperatur terakhir akan melakukan perubahan pada kecepatan kipas.
+- Ketika temperatur menurun, maka kipas tidak bisa merubah kecepatannya apabila temperatur saat itu dibawah nilai hysteresis.
+
+Petunjuk:
+- Anda dapat menutup tampilan tooltips user interface tooltips via tab <User interface> di properti advanced.
+

@@ -1,0 +1,6 @@
+Atalho "aperte para falar" 
+Permite definir teclas de atalho para captura de áudio no modo "aperte para falar". Quando a tecla de atalho estiver definida, o áudio será gravado somente quando esta for pressionada. 
+
+Sugestões: 
+- Algumas combinações de teclas (por exemplo, <1> ... <5>, <Ctrl> + <1> ... <Ctrl> + <5> e <Ctrl> + <D>) são reservadas e não podem ser usadas. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

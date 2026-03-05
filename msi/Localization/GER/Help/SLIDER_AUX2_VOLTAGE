@@ -1,0 +1,11 @@
+Hilfsspannung 2
+Passt die Hilfsspannung 2 der primären GPU an. Je nach Grafikkartenmodell kann die Hilfsspannung 2 entweder direkt (Wert ohne Vorzeichen) oder als zur Basis-Hilfsspannung 2 addierter Offset (Wert mit Vorzeichen) dargestellt werden. 
+
+Hinweise:
+- Die Hilfsspannung 2 ist bei einigen MSI-Grafikkarten die 1,8 V GDDR5X-Hilfsspannung.
+- Die Spannungssteuerung ist aus Sicherheitsgründen standardmäßig deaktiviert. Wenn Sie das Risiko des Spannungsmanagements verstehen und akzeptieren, können Sie diese Funktion in den erweiterten Einstellungen der Anwendung freischalten.
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- Die Spannungssteuerung ist nur für eine begrenzte Anzahl von Grafikkartenmodellen verfügbar, die mit einem programmierbaren Spannungsregelungscontroller ausgestattet sind. Eine vollständige Liste der Grafikkartenmodelle, die Spannungsanpassungen unterstützen, finden Sie in der Dokumentation.
+- Wenn dieser Schieberegler fokussiert ist, können Sie die Hilfsspannung 2 mit den Cursortasten anpassen.
+- Sie können auf das nebenstehende Eingabefeld klicken, um den gewünschten Wert direkt einzugeben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

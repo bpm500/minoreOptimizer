@@ -1,0 +1,122 @@
+[MAP]
+
+; Info dialog
+
+ID_1154 = Info\REPORT_WND
+ID_1155 = Info\BANNER_WND
+ID_1157 = Info\LOCALIZATION_CREATOR        
+ID_1158 = Info\LOCALIZATION_CREATOR_EMAIL  
+ID_1159 = Info\LOCALIZATION_CREATOR_ICQ    
+
+; Properties \ General tab
+
+ID_1145	= Properties\General\GPU_SELECTION
+ID_1028 = Properties\General\SYNC_GPU
+ID_1010 = Properties\General\START_WITH_WINDOWS
+ID_1043 = Properties\General\START_MINIMIZED
+ID_1221 = Properties\General\LOW_LEVEL_INTERFACE
+ID_1222 = Properties\General\MMIO_MODE
+ID_1150 = Properties\General\UNLOCK_VOLTAGE_CONTROL
+ID_1151 = Properties\General\UNLOCK_VOLTAGE_MONITORING
+ID_1173 = Properties\General\FORCE_CONSTANT_VOLTAGE
+ID_1213	= Properties\General\GPU_TYPE
+ID_1132 = Properties\General\UPDATE_CHECKING_PERIOD
+ID_1215 = Properties\General\UPDATE_CHECKING_ALLOW_BETAS
+ID_1131 = Properties\General\UPDATE_STATUS
+ID_1129 = Properties\General\CHECK_NOW
+
+; Propetties \ Fan tab
+
+ID_1135 = Properties\Fan\SW_AUTO_FAN_CONTROL
+ID_1152 = Properties\Fan\SW_FAN_SPEED_CURVE_EDITOR
+ID_1138 = Properties\Fan\SW_FAN_SPEED_UPDATE_PERIOD
+ID_1139 = Properties\Fan\SW_FAN_SPEED_UPDATE_PERIOD
+ID_1183 = Properties\Fan\TEMPERATURE_HYSTERESIS
+ID_1184 = Properties\Fan\TEMPERATURE_HYSTERESIS
+ID_1237 = Properties\Fan\FORCE_UPDATE
+
+; Properties \ Monitoring tab
+
+ID_1029 = Properties\Monitoring\HARDWARE_POLLING_PERIOD
+ID_1033 = Properties\Monitoring\HARDWARE_POLLING_PERIOD
+ID_1164 = Properties\Monitoring\ENABLE_LOG
+ID_1165 = Properties\Monitoring\LOG_PATH
+ID_1166 = Properties\Monitoring\BROWSE_LOG_PATH
+ID_1167 = Properties\Monitoring\LOG_LIMIT
+ID_1168 = Properties\Monitoring\LOG_LIMIT
+ID_1169 = Properties\Monitoring\LOG_LIMIT
+ID_1170 = Properties\Monitoring\RECREATE_LOG
+ID_1098 = Properties\Monitoring\SOURCES_LIST
+ID_1013 = Properties\Monitoring\SHOW_IN_OSD
+ID_1099 = Properties\Monitoring\SHOW_IN_LCD
+ID_1097 = Properties\Monitoring\LCD_FONT_COMBO
+ID_1100 = Properties\Monitoring\SHOW_IN_TRAY
+ID_1062 = Properties\Monitoring\TRAY_ICON_COLOR_PREVIEW
+ID_1160 = Properties\Monitoring\MIN_LIMIT
+ID_1161 = Properties\Monitoring\MAX_LIMIT
+ID_1187 = Properties\Monitoring\ENABLE_DATA_FILTERING
+ID_1235 = Properties\Monitoring\OVERRIDE_GROUP_NAME
+ID_1236 = Properties\Monitoring\OVERRIDE_GROUP_NAME
+
+; Properties \ Screen capture tab
+
+ID_1125	= Properties\Screen capture\SCREEN_CAPTURE_HOTKEY
+ID_1127	= Properties\Screen capture\SCREEN_CAPTURE_FORMAT
+ID_1128	= Properties\Screen capture\SCREEN_CAPTURE_FORMAT
+ID_1130	= Properties\Screen capture\SCREEN_CAPTURE_FORMAT
+ID_1196 = Properties\Screen capture\SCREEN_CAPTURE_QUALITY
+ID_1197 = Properties\Screen capture\SCREEN_CAPTURE_QUALITY
+ID_1031 = Properties\Screen capture\SCREEN_CAPTURE_FOLDER
+ID_1126 = Properties\Screen capture\VIEW_SCREEN_CAPTURE_FOLDER
+ID_1171 = Properties\Screen capture\BROWSE_SCREEN_CAPTURE_FOLDER
+
+; Properties \ Video capture tab
+
+ID_1192	= Properties\Video capture\VIDEO_CAPTURE_HOTKEY
+ID_1207	= Properties\Video capture\VIDEO_CAPTURE_FORMAT
+ID_1200	= Properties\Video capture\VIDEO_CAPTURE_QUALITY
+ID_1201	= Properties\Video capture\VIDEO_CAPTURE_QUALITY
+ID_1204	= Properties\Video capture\VIDEO_CAPTURE_FRAMESIZE
+ID_1203	= Properties\Video capture\VIDEO_CAPTURE_FRAMERATE
+ID_1202	= Properties\Video capture\VIDEO_CAPTURE_FRAMERATE
+ID_1206 = Properties\Video capture\VIDEO_CAPTURE_FRAMERATE_LIMIT
+ID_1229 = Properties\Video capture\VIDEO_CAPTURE_FRAMERATE_LIMIT
+ID_1226 = Properties\Video capture\VIDEO_CAPTURE_GAMMA_CORRECTION
+ID_1193 = Properties\Video capture\VIDEO_CAPTURE_FOLDER
+ID_1190 = Properties\Video capture\BROWSE_VIDEO_CAPTURE_FOLDER
+ID_1191 = Properties\Video capture\VIEW_VIDEO_CAPTURE_FOLDER
+ID_1205	= Properties\Video capture\VIDEO_CAPTURE_THREADS
+ID_1234 = Properties\Video capture\CROP_TO_ALIGN
+ID_1211 = Properties\Video capture\CAPTURE_AUDIO
+ID_1212 = Properties\Video capture\FORCE_STEREO
+ID_1214 = Properties\Video capture\AUDIO_SOURCE_TYPE
+ID_1216 = Properties\Video capture\AUDIO_SOURCE
+
+; Properties \ On-Screen Display tab
+
+ID_1123 = Properties\On-Screen Display\OSD_TOGGLE_HOTKEY
+ID_1119 = Properties\On-Screen Display\OSD_ON_HOTKEY
+ID_1120 = Properties\On-Screen Display\OSD_OFF_HOTKEY
+ID_1027 = Properties\On-Screen Display\SHOW_OSD_HEADER_TIME
+ID_1208 = Properties\On-Screen Display\CAPTURE_OSD
+ID_1188 = Properties\On-Screen Display\OSD_SERVER_BLOCK_HOTKEY
+ID_1121 = Properties\On-Screen Display\MORE_OSD
+
+; Properties \ Profiles tab
+
+ID_1085 = Properties\Profiles\PROFILE1_HOTKEY
+ID_1086 = Properties\Profiles\PROFILE2_HOTKEY
+ID_1087 = Properties\Profiles\PROFILE3_HOTKEY
+ID_1088 = Properties\Profiles\PROFILE4_HOTKEY
+ID_1089 = Properties\Profiles\PROFILE5_HOTKEY
+ID_1114 = Properties\Profiles\2D_PROFILE_COMBO
+ID_1115 = Properties\Profiles\3D_PROFILE_COMBO
+
+; Properties \ User interface tab
+
+ID_1037 = Properties\User interface\LANGUAGE_COMBO
+ID_1015 = Properties\User interface\SHOW_TOOLTIPS
+ID_1011 = Properties\User interface\SHOW_HINTS
+ID_1239 = Properties\User interface\SINGLE_TRAY_ICON_MODE
+ID_1153 = Properties\User interface\SKIN_PREVIEW
+ID_1051 = Properties\User interface\SKINS_COMBO

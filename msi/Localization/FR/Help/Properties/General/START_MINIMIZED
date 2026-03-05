@@ -1,0 +1,6 @@
+Démarrer minimisé
+Force le démarrage minimisé %PRODUCTNAME% au démarrage dans la zone de notification. 
+
+Astuce:
+- Cette option affecte seulement le démarrage manuel de l'application. %PRODUCTNAME% est toujours minimisé dans la zone de notification au démarrage de Windows, cette option n'y changera rien.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

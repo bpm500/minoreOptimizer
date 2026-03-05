@@ -1,0 +1,6 @@
+MJPEG-Decoder aktivieren
+MJPEG ist ein offener Videokomprimierungsstandard, der nativ vom Betriebssystem unterstützt wird und auch in verschiedenen Videoplayern unterstützt wird. Aus diesem Grund ist keine zusätzliche MJPEG-Codec-Installation erforderlich, um MJPEG-codierte Videos wiederzugeben.
+Einige Anwendungen (z. B. VEGAS Pro) unterstützen dieses Format jedoch möglicherweise nicht nativ. Sie können diese Option aktivieren, damit %PRODUCTNAME% seinen eigenen MJPEG-Decoder für diese Anwendungen installieren kann. Dies kann jedoch zu Konflikten mit anderen in Ihrem System installierten MJPEG-Decodern von Drittanbietern kommen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

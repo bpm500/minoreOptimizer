@@ -1,0 +1,8 @@
+Taktowanie pamiêci
+Adjusts master GPU memory clock.
+
+Wskazówki:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- When this slider is focused, you may use cursor keys on your keyboard to finetune the clock.
+- You may click the adjacent edit field to directly type in a desired clock.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

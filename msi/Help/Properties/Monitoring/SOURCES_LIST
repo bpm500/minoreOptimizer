@@ -1,0 +1,12 @@
+Hardware monitoring graphs list
+Displays the list of available hardware monitoring graphs, allows changing the graphs order and selecting active graphs.
+
+Hints:
+- The tickmark next to each graph name activates the graph. Active graphs are displayed in the monitoring window. Avoid activating unnecessary graphs, it will increase CPU time required to poll hardware and may decrease system performance. 
+- You may extend the list of graphs available on your system by enabling plugin modules.
+- You may hold <Shift> button pressed on your keyboard while activating or deactivating a graph to activate or deactivate all graphs at once. 
+- You may select multiple graphs using mouse cursor with <Shift> or <Ctrl> keyboard buttons. When multiple graphs are selected they are activated or deactivated synchronically. In this case you may hold <Ctrl> button on your keyboard to activate or deactivate the graphs independently.
+- Activating the <Framerate> graph will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides data for this graph and it cannot be unloaded until the graph is disabled.
+- You may drag and drop graphs in the list to rearrange them. You may drag a graph above topmost visible or below bottommost visible item in the list to automatically scroll it in desired direction.
+- You may click any graph in the list to select it and access the graph properties. The graph must be activated to access its properties.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

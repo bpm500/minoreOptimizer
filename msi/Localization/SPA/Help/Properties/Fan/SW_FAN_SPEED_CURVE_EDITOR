@@ -1,0 +1,10 @@
+Editor para la vurva de velocidad del control automático de la velocidad del ventilador
+Permite la edición de la vurva de velocidad utilizada para el control automático del ventilador de la GPU.
+
+Sugerencias:
+- Puedes hacer click en la curva para añadir nuevos nodos en la posición del ratón. Se permiten hasta 8 nodos. 
+- Puedes seleccionar un nodo existente y moverlo con el ratón para ajustarlo. El nodo seleccionado puede ser movido de forma más fina con las teclas de flecha.
+- Presiona <Del> para eliminar el nodo seleccionado.
+- Puedes presionar <Ctrl> - <D> para reiniciar la curva a su posición por defecto.
+- Puedes hacer doble click en el área de edición para cambiar entre los modos de edición linear y por pasos. El modo de edición por pasos se puede usar para disminuir el impacto del control en la CPU, disminuyendo la frecuencia de los cambios en la velocidad del ventilador y en las lecturas. 
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

@@ -1,0 +1,5 @@
+Show user interface hints
+Allows showing hint messages in hardware monitoring window area. The hints notify you about profile load and save events and other application activity. 
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,6 @@
+Synchronize settings for similar graphics processors
+Allows synchronized or independent GPU settings adjustment. When this option is enabled all GPU adjustments you're doing in the main application window are also applied to all similar GPUs installed in the system. 
+
+Hints:
+- Similar graphics processors are identified by exact PCI DeviceID matching, so only identical graphics card models can be synchronized.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

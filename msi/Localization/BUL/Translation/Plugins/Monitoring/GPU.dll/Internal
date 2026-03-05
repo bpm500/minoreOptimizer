@@ -1,0 +1,207 @@
+#src GPU%d engine 0 usage
+#dst Зареждане на блок 0 GPU%d
+#end
+#src GPU%d engine 1 usage
+#dst Зареждане на блок 1 GPU%d
+#end
+#src GPU%d engine 2 usage
+#dst Зареждане на блок 2 GPU%d
+#end
+#src GPU%d engine 3 usage
+#dst Зареждане на блок 3 GPU%d
+#end
+#src GPU%d engine 4 usage
+#dst Зареждане на блок 4 GPU%d
+#end
+#src GPU%d engine 5 usage
+#dst Зареждане на блок 5 GPU%d
+#end
+#src GPU%d engine 6 usage
+#dst Зареждане на блок 6 GPU%d
+#end
+#src GPU%d engine 7 usage
+#dst Зареждане на блок 7 GPU%d
+#end
+#src GPU%d engine 8 usage
+#dst Зареждане на блок 8 GPU%d
+#end
+#src GPU%d engine 9 usage
+#dst Зареждане на блок 9 GPU%d
+#end
+#src GPU%d engine 10 usage
+#dst Зареждане на блок 10 GPU%d
+#end
+#src GPU%d engine 11 usage
+#dst Зареждане на блок 11 GPU%d
+#end
+#src GPU%d engine 12 usage
+#dst Зареждане на блок 12 GPU%d
+#end
+#src GPU%d engine 13 usage
+#dst Зареждане на блок 13 GPU%d
+#end
+#src GPU%d engine 14 usage
+#dst Зареждане на блок 14 GPU%d
+#end
+#src GPU%d engine 15 usage
+#dst Зареждане на блок 15 GPU%d
+#end
+#src GPU%d engine 16 usage
+#dst Зареждане на блок 16 GPU%d
+#end
+#src GPU%d engine 17 usage
+#dst Зареждане на блок 17 GPU%d
+#end
+#src GPU%d engine 18 usage
+#dst Зареждане на блок 18 GPU%d
+#end
+#src GPU%d engine 19 usage
+#dst Зареждане на блок 19 GPU%d
+#end
+#src GPU%d engine 20 usage
+#dst Зареждане на блок 20 GPU%d
+#end
+#src GPU%d engine 21 usage
+#dst Зареждане на блок 21 GPU%d
+#end
+#src GPU%d engine 22 usage
+#dst Зареждане на блок 22 GPU%d
+#end
+#src GPU%d engine 23 usage
+#dst Зареждане на блок 23 GPU%d
+#end
+#src GPU%d engine 24 usage
+#dst Зареждане на блок 24 GPU%d
+#end
+#src GPU%d engine 25 usage
+#dst Зареждане на блок 25 GPU%d
+#end
+#src GPU%d engine 26 usage
+#dst Зареждане на блок GPU%d
+#end
+#src GPU%d engine 27 usage
+#dst Зареждане на блок GPU%d
+#end
+#src GPU%d engine 28 usage
+#dst Зареждане на блок 28 GPU%d
+#end
+#src GPU%d engine 29 usage
+#dst Зареждане на блок 29 GPU%d
+#end
+
+#src GPU engine 0 usage
+#dst Зареждане на блок 0 GPU
+#end
+#src GPU engine 1 usage
+#dst Зареждане на блок 1 GPU
+#end
+#src GPU engine 2 usage
+#dst Зареждане на блок 2 GPU
+#end
+#src GPU engine 3 usage
+#dst Зареждане на блок 3 GPU
+#end
+#src GPU engine 4 usage
+#dst Зареждане на блок 4 GPU
+#end
+#src GPU engine 5 usage
+#dst Зареждане на блок 5 GPU
+#end
+#src GPU engine 6 usage
+#dst Зареждане на блок 6 GPU
+#end
+#src GPU engine 7 usage
+#dst Зареждане на блок 7 GPU
+#end
+#src GPU engine 8 usage
+#dst Зареждане на блок 8 GPU
+#end
+#src GPU engine 9 usage
+#dst Зареждане на блок 9 GPU
+#end
+#src GPU engine 10 usage
+#dst Зареждане на блок 10 GPU
+#end
+#src GPU engine 11 usage
+#dst Зареждане на блок 11 GPU
+#end
+#src GPU engine 12 usage
+#dst Зареждане на блок 12 GPU
+#end
+#src GPU engine 13 usage
+#dst Зареждане на блок 13 GPU
+#end
+#src GPU engine 14 usage
+#dst Зареждане на блок 14 GPU
+#end
+#src GPU engine 15 usage
+#dst Зареждане на блок 15 GPU
+#end
+#src GPU engine 16 usage
+#dst Зареждане на блок 16 GPU
+#end
+#src GPU engine 17 usage
+#dst Зареждане на блок 17 GPU
+#end
+#src GPU engine 18 usage
+#dst Зареждане на блок 18 GPU
+#end
+#src GPU engine 19 usage
+#dst Зареждане на блок 19 GPU
+#end
+#src GPU engine 20 usage
+#dst Зареждане на блок 20 GPU
+#end
+#src GPU engine 21 usage
+#dst Зареждане на блок 21 GPU
+#end
+#src GPU engine 22 usage
+#dst Зареждане на блок 22 GPU
+#end
+#src GPU engine 23 usage
+#dst Зареждане на блок 23 GPU
+#end
+#src GPU engine 24 usage
+#dst Зареждане на блок 24 GPU
+#end
+#src GPU engine 25 usage
+#dst Зареждане на блок 25 GPU
+#end
+#src GPU engine 26 usage
+#dst Зареждане на блок 26 GPU
+#end
+#src GPU engine 27 usage
+#dst Зареждане на блок 27 GPU
+#end
+#src GPU engine 28 usage
+#dst Зареждане на блок 28 GPU
+#end
+#src GPU engine 29 usage
+#dst Зареждане на блок 29 GPU
+#end
+
+#src GPU%d dedicated memory usage
+#dst Зареждане на вградена памет на GPU%d
+#end
+#src GPU%d shared memory usage
+#dst Зарежда се споделена памет на GPU%d
+#end
+#src GPU%d dedicated memory usage \ process
+#dst Зареждане на вградена памет на GPU%d\ процес
+#end
+#src GPU%d shared memory usage \ process
+#dst Зарежда се споделена памет на GPU%d \ процес
+#end
+
+#src GPU dedicated memory usage
+#dst Зареждане на вградена памет на GPU
+#end
+#src GPU shared memory usage
+#dst Зарежда се споделена памет на GPU
+#end
+#src GPU dedicated memory usage \ process
+#dst Зареждане на вградена памет на GPU \ процес
+#end
+#src GPU shared memory usage \ process
+#dst Зарежда се споделена памет на GPU \ процес
+#end

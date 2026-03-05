@@ -1,0 +1,6 @@
+Limites de ativação do alarme
+Permite definir limites mínimos e máximos para que uma mensagem de alerta seja exibida na janela do painel de monitoramento quando o valor medido ultrapassar os limites definidos. Quando o estilo moderno estiver habilitado, esses valores também serão destacados por cor. 
+Nas configurações adicionais do alarme, você também pode configurar uma notificação sonora de alerta e a execução de um aplicativo externo (por exemplo, executar desligamento de emergência do sistema). Deixe o campo em branco para desativar o alarme.
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

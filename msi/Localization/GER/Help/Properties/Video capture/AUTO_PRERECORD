@@ -1,0 +1,6 @@
+Automatische Voraufzeichnung
+Ermöglicht die Auswahl der manuellen oder automatischen Voraufzeichnung. Wenn der Automatikmodus ausgewählt ist, startet die Voraufzeichnungssitzung automatisch beim Start jeder 3D-Anwendung. Sie können die Voraufzeichnung jedoch bei Bedarf auch mit dem Hotkey stoppen oder neu starten.
+
+Hinweise:
+- Durch die Aktivierung dieser Option wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server stellt Videoaufnahmefunktionen für 3D-Anwendungen bereit und der Prozess kann erst beendet werden, wenn Sie diese Option deaktivieren.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

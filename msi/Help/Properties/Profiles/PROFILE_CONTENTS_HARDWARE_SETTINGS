@@ -1,0 +1,5 @@
+Hardware settings
+Allows per-GPU hardware settings to be saved to or loaded from a profile slot.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

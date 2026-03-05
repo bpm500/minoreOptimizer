@@ -1,0 +1,9 @@
+Grafik Ýþlemcisi Hýz Ayarý
+Grafik iþlemcisi hýzýný ayarlar. Ekran kartý modeline göre seçilen hýz tam deðer olarak uygulanamayabilir. Seçtiðiniz deðerler kartýnýzýn kayýtlý deðerleri örnek alýnarak uygulanacaktýr.
+
+Hints:
+- Eðer <Genel Ayarlar> sekmesindeki, ayarlarý diðer grafik iþlemcileriyle eþitle seçeneði aktifse ayarlar diðer grafik kartlarýyla eþlenir.
+- Ýþlemci hýzýný ve shader hýzý baðýmsýz olarak ayarlarken, shader ve iþlemci hýzlarý arasýnda bir çarpan olduðunu unutmayýn. Bu çarpana uymayan deðerler kullanmak deðerleri uygulamanýza engel olabilir.
+- Kaydýrma çubuðu ön plandayken, çekirdek hýzýný dikkatlice ayarlamak için klavyedeki yön tuþlarýný kullanabilirsiniz.
+- Ýsterseniz kaydýrma çubuðunun saðýndaki deðer bölümüne týklayarak direk deðer girebilirsiniz.
+- Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.

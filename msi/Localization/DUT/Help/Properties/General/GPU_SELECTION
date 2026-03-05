@@ -1,0 +1,7 @@
+Lijst van de grafische kaarten (GPU's).
+Stelt een lijst van de geinstaleerde grafische kaarten van uw systeem tentoon en laat toe om de primaire GPU te kiezen. 
+Alle aanpassingen die je doet in het hoofd venster worden toegepast op de primaire GPU en optioneel op alle gelijke GPU's geinstaleerd in het systeem als je de synchroniseer optie hebt aangevinkt.
+
+Hint:
+- Bevestig(apply)altijd de gemaakte aanpassingen in het hoofdvenster voor je verandert van primaire GPU. Als u dit niet doet gaan alle aanpassingen verloren.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

@@ -1,0 +1,8 @@
+Auto
+Schaltet zwischen automatischer und manueller Lüftergeschwindigkeitsteuerung um.
+
+Hinweise:
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- Die Lüftergeschwindigkeitssteuerung ist nur verfügbar, wenn die Grafikkarte mit einem Lüftersteuerungschip und/oder einem steuerbaren Kühlsystem ausgestattet ist.
+- Abhängig vom Zustand der Schaltfläche <Benutzerdefiniert> erfolgt die Lüftergeschwindigkeitssteuerung entweder auf Hardwareebene durch einen dedizierten Lüftercontroller oder durch Software mit %PRODUCTNAME%.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

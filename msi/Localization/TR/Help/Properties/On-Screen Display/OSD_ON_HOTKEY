@@ -1,0 +1,6 @@
+Show On-Screen Display hotkey
+Allows defining global hotkey for showing On-Screen Display.
+
+Hints:
+- Some hotkey combinations (e.g. <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) are reserved and cannot be used.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

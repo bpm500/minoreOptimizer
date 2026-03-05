@@ -1,0 +1,10 @@
+Software automatico della velocità della ventola editor curva
+Permette di modificare la curva della velocità della ventola definita dall'utente in modalità di controllo automatico.
+
+Consigli:
+- È possibile fare clic sulla curva per aggiungere un nuovo nodo nella posizione del cursore. Fino a 8 nodi sono ammessi.
+- È possibile fare clic sul nodo esistente per selezionarlo e trascinarlo con il cursore del mouse per regolare la curva. Le posizioni dei nodi selezionati possono essere anche messe dalla tastiera con i tasti cursore.
+- È possibile premere <Del> per eliminare il nodo selezionato.
+- È possibile premere <Ctrl>+<D> per ripristinare la curva allo stato iniziale.
+- È possibile fare doppio clic sull'area di modifica per passare dalla modalità curva lineare a gradino. La modalità a gradino può essere utilizzata per ridurre l'aggiornamento della velocità della ventola della GPU senza cali di prestazioni a causa di cambiamenti meno frequenti della velocità della ventola.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

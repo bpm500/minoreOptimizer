@@ -1,0 +1,7 @@
+Abilita log
+Consente il monitoraggio hardware della storia di registrazione su file. È anche possibile controllare questa opzione dal menu contestuale della finestra di hardware monitor.
+
+Consigli:
+- %PRODUCTNAME% salva la storia nel formato nativo del file di log di RivaTuner. È possibile utilizzare RivaTuner per visualizzare i file di log registrati con %PRODUCTNAME%.
+- La storia di registrazione di monitoraggio hardware non è assolutamente libera in termini di prestazioni, qualche ciclo di CPU è richiesto ad ogni iterazione di aggiornamento del registro per scaricare i dati su HDD.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

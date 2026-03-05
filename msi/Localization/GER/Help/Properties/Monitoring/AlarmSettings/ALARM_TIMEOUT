@@ -1,0 +1,5 @@
+Alarm-Timeout
+Zeigt den Alarm-Timeout in Millisekunden an und ermöglicht dessen Bearbeitung. %PRODUCTNAME% gibt bei Alarm keine akustische Benachrichtigung ab und startet keine externe Anwendung, wenn der Alarmzustand innerhalb des Timeout-Zeitraums zurückgesetzt wird.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

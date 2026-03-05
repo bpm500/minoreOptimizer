@@ -1,0 +1,7 @@
+Salvar registro histórico de monitoramento
+Permite criar arquivos dos registro histórico de monitoramentos para acesso posterior. Você também pode controlar esta opção por meio do menu de contexto da janela do painel de monitoramento. 
+
+Sugestões: 
+- O %PRODUCTNAME% salva os registros em formato de arquivo RivaTuner nativo. Você pode usar o RivaTuner para visualizar os arquivos gravados no %PRODUCTNAME%. 
+- O processo de monitoramento consome recursos do sistema, sobretudo da CPU, a cada atualização para gravar dados no disco rígido. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

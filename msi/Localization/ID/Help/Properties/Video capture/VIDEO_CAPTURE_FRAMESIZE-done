@@ -1,0 +1,6 @@
+Ukuran Frame
+Ketika merekam video dalam resolusi tinggi menggunakan full frame maka bandwidth PCIe bus akan mengalami bottleneck dikarenakan banyaknya data yang di copy dari GPU ke CPU melalui PCIe bus dari tiap frame. 
+Dalam situasi tertentu anda bisa mencoba tingkatkan performance dengan cara mengurangi ukuran frame, sebagai contoh pilih 1/2 ukuran frame dari seluruh frame akan mengurangi banyaknya data yang ditransfer dari GPU ke CPU. Mengurangi ukuran frame juga bisa mengurangi beban CPU dan HDD karena mengurangi banyaknya data yang harus di kompres dan ditulis ke HDD.   
+
+Petunjuk:
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

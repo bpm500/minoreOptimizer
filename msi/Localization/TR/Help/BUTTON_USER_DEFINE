@@ -1,0 +1,8 @@
+Kullanýcý Ayarlý Fan Kontrolü
+Kullanýcý ayarlý fan kontrol modunu etkinleþtirir. Program bu modda grafik kartý sýcaklýðýný düzenli olarak kontrol eder ve ayarlar menüsünde <fan> sekmesi altýndan seçtiðiniz fan hýzlarýný uygular.
+
+Ýpuçlarý:
+- Grafik kartý fan kontrolünü destekleyen çipe veya fana sahip deðilse fan hýzý kontrol edilemez.
+- Yazýlým otomatik fan hýzý ayarý profil seçiminden baðýmsýzdýr, her ekran kartý için ayný fan hýzýný uygular.
+- Kullanýcý ayarlý fan kontrolü açýksa bile otomatik veya manuel fan kontrolü arasýnda geçiþ yapabilirsiniz.
+- Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.

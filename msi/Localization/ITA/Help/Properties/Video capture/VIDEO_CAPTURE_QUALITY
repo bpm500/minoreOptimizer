@@ -1,0 +1,5 @@
+Qualità video
+Regola la qualità dei video codificati in basso formato di compressione. Maggiore qualità in termini di risultati comporta maggiori dimensioni dei files video aumentando il carico della CPU dovuto ad un maggiore lasso di tempo di compressione. Puoi provare a diminuire la qualità video se il tuo sistema non è abbastanza veloce codificando un video al framerate desiderato.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

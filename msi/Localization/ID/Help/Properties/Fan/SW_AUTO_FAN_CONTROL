@@ -1,0 +1,7 @@
+Aktifkan pengaturan kipas otomatis
+Aktivasi mode pengaturan kipas secara otomatis. Pada pilihan ini anda dapat mengecek secara periodik temperatur GPU dan mengatur kecepatan kipas sesuai dengan pilihan di bawah ini. 
+
+Petunjuk:
+- Pengaturan kipas otomatis dapat diaktifkan juga melalui tombol <User define> dari window aplikasi utama.
+- Pengaturan kipas otomatis tidak berpengaruh pada profil, karena merupakan global setting untuk semua GPU yang di install di dalam sistem. 
+- Anda dapat menutup tampilan tooltips user interface tooltips via tab <User interface> di properti advanced.

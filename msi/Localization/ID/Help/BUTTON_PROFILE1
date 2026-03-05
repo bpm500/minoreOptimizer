@@ -1,0 +1,12 @@
+Slot Profil 1
+Simpan konfigurasi tegangan saat ini, clock dan kecepatan kipas pada slot profil 1, dan juga load atau hapus konfigurasi.
+
+Petunjuk:
+- Anda dapat menekan tombol <Save> kemudian  setelah berkedip simpan konfigurasi saat ini pada slot profil 1. Semua profil slot yang diinstall di sistem akan tersimpan secara sinkronisasi.
+- Anda dapat menyimpan konfigurasi saat ini pada profil kosong di slot 1 atau hapus profil dari profil yang digunakan di slot 1  demgan cara menekan tombol ini dua kali. Semua profil slot yang diinstall di sistem akan tersimpan secara sinkronisasi.
+- Anda dapat menyimpan konfigurasi saat ini di slot profil 1 dengan cara menekan tombol <Ctrl> + <1> pada keyboard. Semua profil slot yang diinstall di sistem akan tersimpan secara sinkronisasi.
+- Anda dapat melakukan load profil master GPU dari slot profil 1 dengan menekan tombol ini.
+- Anda dapat loading profil master GPU dari slot profil 1 dengan menekan tombol <1> pada keyboard.
+- Anda dapat loading profil dan otomatis gunakan konfigurasi pada profil melalui tray menu atau gunakan hotkey pada setiap slot profil melalui window properti advanced. Semua profil slot yang diinstall di sistem akan tersimpan secara sinkronisasi.
+- Anda dapat menggunakan manajemen profil otomatis dan gunakan profil berbeda untuk aplikasi 2D dan 3D melalui tab <Profiles> pada properti advanced. Semua profil yang sudah di load akan di sinkronisasi kepada semua GPU pada sistem 2D/3D.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

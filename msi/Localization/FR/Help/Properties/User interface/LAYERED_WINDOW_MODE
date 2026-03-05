@@ -1,0 +1,9 @@
+Mode de composition de skin
+Permet de choisir le mode de composition du skin. Le mode de composition définit commetn les pixels du skin sont combinés avec le desktop et les pixels sous la fenêtre. Vous pouvez choisir ces modes de composition:
+
+- Traditionnel - Offre une rétrocompatibilité avec les vieux systèmes d'exploitation et les skins. Ce mode de composition utilise les régions "GDI clip" pour rendre les fenêtres non rectangulaire. Les performances peuvent se dégrader si la fenêtre contient trop d'aires non rectangulaire.
+- En couche avec clef couleur - fournit la meilleure performance pour le rendu des skins sur les systèmes d'exploitation modernes. Ce mode supporte l'accélération matérielle des clefs de couleurs, les performances de mise à jour ne dépends pas de la forme de la fenêtre. En plus vous pouvez ajuster le niveau de transparence avec ce mode. 
+- En couche avec alpha - fournit des effets additionnels sur le moteur de skin. Ce mode supporte l'accélération matérielle alpha channel par pixel, donc le designer de skin peut définir des zones semi transparentes dans le skin, appliqer de l'antialiasing sur les flancs des skins etc... Vous pouvez ajuster le niveau de transparence avec ce mode. 
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,6 @@
+Synchronizuj ustawienia dla podobnych procesorów graficznych
+Umozliwia zsynchronizowane lub niezalezne dostosowanie ustawien GPU. Gdy ta opcja jest wlaczona, wszystkie korekty gpu, które wykonujesz w glównym oknie aplikacji, sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie. 
+
+Wskazówki:
+- Podobne procesory graficzne sa identyfikowane przez dokladne dopasowanie PCI DeviceID, wiec mozna synchronizowac tylko identyczne modele kart graficznych.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

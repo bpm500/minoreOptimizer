@@ -1,0 +1,9 @@
+Tampilkan Layar On-Screen
+Untuk menampilkan nilai grafis pada layar On-Screen.
+
+Petunjuk:
+- Anda harus aktifkan dan pilih grafis yang anda inginkan untuk akses pilihan ini.
+- Rendering layar On-Screen membutuhkan kinerja CPU dan GPU. Jadi hindari menampilkan yang tidak perlu untuk mengurangi beban pada sistem.
+- Dengan aktivasi pilihan ini maka proses %SERVERPRODUCTNAME% akan segera berjalan secara otomatis. 
+- Anda dapat menahan tombol <Shift> di keyboard anda ketika merubah pilihan di dalam setiap grafis.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

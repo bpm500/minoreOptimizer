@@ -1,0 +1,11 @@
+Painel de Monitoramento
+Veja os gráficos de monitoramento de temperatura e outros parâmetros de vários componentes do sistema. 
+
+Sugestões:
+- Você pode posicionar o cursor do mouse sobre um gráfico para exibir os valores na posição do cursor.
+- Mantenha pressionada a tecla <Alt> ao clicar no gráfico para adicionar um marcador personalizado de acompanhamento na posição do cursor.
+- Você pode mover a barra de rolagem com a roda do mouse ou mover a janela clicando com o botão esquerdo do mouse e arrastando para cima e para baixo.
+- Você pode separar o painel de monitoramento da janela principal do programa com um duplo clique ou com o botão <Separar>. Você pode reuni-las novamente fechando ou clicando duas vezes sobre a janela.
+- Na aba <Monitoramento> das configurações avançadas você pode configurar todos os dados de sensores e o modo como serão mostrados, como informações em tempo real na tela ou como ícones na bandeja do sistema. Alternativamente, clique com o botão direito do mouse nesta janela para acessar diretamente as propriedades avançadas de monitoramneto.
+- Você pode desativar sensores desnecessários e reordená-los na guia <Monitoramento> das configurações avançadas. Marque ou Desmarque a caixa à esquerda de cada sensor para ativar ou desativar e arraste-os com o mouse para mudar a ordem em que os gráficos aparecem no painel de monitoramento.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

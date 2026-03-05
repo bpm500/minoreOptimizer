@@ -1,0 +1,7 @@
+Aplicar configurações
+Aplica as configurações atuais à GPU principal. 
+
+Sugestões: 
+- Quando o modo de sincronização entre GPUS estiver habilitado na guia <Geral> das propriedades avançadas, qualquer alteração nas configurações na GPU principal serão aplicada às outas semelhantes instaladas no sistema.
+- Sempre aplique as alterações feitas antes de escolher outra GPU. As alterações não aplicadas serão perdidas quando você selecionar outra GPU. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

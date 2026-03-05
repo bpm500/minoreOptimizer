@@ -1,0 +1,8 @@
+Limitazione della potenza
+Regola il limite di potenza della GPU principale, se è supportato dalla scheda grafica.
+
+suggerimenti:
+- Quando la modalità di sincronizzazione GPU è attivata tutte le modifiche applicate alla GPU principale si riflettono anche a tutte le GPU simili installate nel sistema.
+- Quando il cursore è focalizzato, è possibile usare i tasti cursore sulla tastiera per affinare il limite.
+- È possibile fare clic sul campo adiacente di modifica per digitare direttamente un limite di potenza desiderato.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

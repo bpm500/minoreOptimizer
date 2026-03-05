@@ -1,0 +1,5 @@
+Audio source
+Allows selecting audio source manually or automatically. In automatic mode default capture or playback device seleced in OS sound properties is being used.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

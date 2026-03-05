@@ -1,0 +1,5 @@
+Low-level hardware access mode
+Low-level access to graphics hardware can be performed in both user and kernel modes. User mode access provides the best monitoring performance and doesn't consume kernel address space, whilst kernel mode can protect hardware mapped memory ranges from unauthorized access by badly designed applications (e.g. infamous Punkbuster client for Battlefield : Bad Company 2) and this way protect the system from instability.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

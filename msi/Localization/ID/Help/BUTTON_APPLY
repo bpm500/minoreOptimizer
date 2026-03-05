@@ -1,0 +1,7 @@
+Apply
+Gunakan konfigurasi saat ini pada master GPU.
+
+Petunjuk:
+- Ketika pilihan sinkronisasi setting GPU diaktifkan di tab <General> pada properti advanced, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Always apply the changes you've made before switching to a new master GPU. Any unapplied GPU settings are lost on new master GPU selection.
+- Anda dapat menutup tampilan tooltips user interface tooltips via tab <User interface> di properti advanced.

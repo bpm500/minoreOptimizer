@@ -1,0 +1,6 @@
+Reproduzir som no alarme
+Permite a reprodução de notificação sonora de alerta quando o valor monitorado ultrapassar os limites do alarme.
+
+Sugestões:
+- Esta opção é afetada pelas configurações de tempo de disparo do alarme.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,35 @@
+#src Pause
+#dst 暫停
+#end
+#src Clear history
+#dst 清除歷史紀錄
+#end
+#src Show status
+#dst 顯示狀態
+#end
+#src Log history to file
+#dst 儲存歷史記錄至檔案
+#end
+#src Always on top
+#dst 永遠在前景
+#end
+#src Properties
+#dst 選項
+#end
+
+#src Copy
+#dst 複製
+#end
+
+#src Show
+#dst 顯示
+#end
+#src Profiles
+#dst 個人設定
+#end
+#src Close
+#dst 關閉
+#end
+#src There are no profiles
+#dst 無個人設定
+#end

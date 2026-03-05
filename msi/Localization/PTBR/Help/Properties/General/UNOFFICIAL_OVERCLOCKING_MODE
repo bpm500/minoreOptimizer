@@ -1,0 +1,10 @@
+Modo de overclocking não oficial
+O Catalyst Control Center e todas as ferramentas de overclocking oficiais da AMD impõem limites de overclock padrão muito baixos e definidos pela BIOS da VGA.
+O modo de overclocking não oficial pode ajudar a superar esses limites sem alterar a BIOS da VGA, no entanto, esse modo usa uma interface não documentada de drivers de vídeo da AMD que não são totalmente suportados e que possuem vários problemas de compatibilidade com as próprias tecnologias de economia de energia da AMD. Portanto, use-o somente se estiver familiarizado com esses problemas de compatibilidade e saiba como contorná-los.
+
+ATENÇÃO! Utilize esta opção por sua conta e risco! A MSI e a AMD não irão lhe fornecer suporte, sob qualquer forma, incluindo perguntas nos fóruns.
+
+Sugestões:
+- Esta opção somente será ativada se houver pelo menos uma placa de vídeo da AMD instalada no sistema.
+- É altamente recomendável desativar o modo ULPS quando utilizar o "Modo de overclock não oficial" nas configurações Crossfire.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

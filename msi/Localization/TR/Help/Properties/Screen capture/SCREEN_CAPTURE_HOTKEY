@@ -1,0 +1,7 @@
+Screen capture hotkey
+Allows defining global hotkey for capturing a screenshot.
+
+Hints:
+- Enabling this option will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides screen capture services to 3D applications and it cannot be unloaded until this option is disabled.
+- Some hotkey combinations (e.g. <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) are reserved and cannot be used.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

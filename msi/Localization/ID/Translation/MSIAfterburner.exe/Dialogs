@@ -1,0 +1,369 @@
+#src Information
+#dst Informasi
+#end
+#src System information
+#dst Sistem Informasi
+#end
+
+#src General
+#dst Umum
+#end
+#src Master graphics processor selection
+#dst Pilihan master grafis processor
+#end
+#src Synchronize settings for similar graphics processors
+#dst Pengaturan sinkronisasi dengan prosessor grafis yang serupa
+#end
+#src General properties
+#dst Properti umum
+#end
+#src Start with Windows
+#dst Aktifkan pada saat Windows berjalan
+#end
+#src Start minimized
+#dst Minimize pada saat berjalan
+#end
+#src Compatibility properties
+#dst 
+#end
+#src Enable low-level hardware access interface
+#dst
+#end
+#src kernel mode
+#dst 
+#end
+#src user mode
+#dst 
+#end
+#src Unlock voltage control
+#dst Unlock pengaturan voltage
+#end
+#src Unlock voltage monitoring
+#dst Unlock monitoring voltage
+#end
+#src Force constant voltage
+#dst Force constant voltage
+#end
+#src Restore settings after suspended mode
+#dst
+#end
+#src Graphics processor type
+#dst
+#end
+#src Update checking properties
+#dst 
+#end
+#src Check for available product updates
+#dst 
+#end
+#src Check for available product beta versions
+#dst
+#end
+#src never
+#dst 
+#end
+#src on startup
+#dst 
+#end
+#src on startup daily
+#dst 
+#end
+#src on startup weekly
+#dst 
+#end
+#src on startup monthly
+#dst 
+#end
+#src Check now
+#dst 
+#end
+
+#src Fan
+#dst Kipas
+#end
+#src Automatic fan control properties
+#dst Pengaturan otomatis kecepatan kipas
+#end
+#src Enable user defined software automatic fan control
+#dst Aktifkan pilihan user untuk pengaturan kipas otomatis
+#end
+#src Temperature, °C
+#dst Temperatur ¢XC
+#end 
+#src Fan speed, %
+#dst Kecepatan kipas, %
+#end
+#src Predefined fan speed curve
+#dst
+#end
+#src Custom
+#dst
+#end
+#src Default
+#dst
+#end
+#src Fan speed update period (in milliseconds)
+#dst Update periode kecepatan kipas (dalam milidetik)
+#end
+#src Temperature hysteresis (in °C)
+#dst Temperatur histeresis
+#end
+#src Force fan speed update on each period
+#dst
+#end
+
+#src Monitoring
+#dst Monitoring
+#end
+#src Hardware monitoring properties
+#dst Properti monitoring hardware
+#end
+#src Hardware polling period (in milliseconds)
+#dst Periode polling hardware (dalam milidetik)
+#end
+#src Hardware monitoring history logging properties
+#dst Properti log monitoring hardware 
+#end
+#src Browse
+#dst Browse
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst Stop menyimpan log jika ukuran file melebihi (in MB)
+#end
+#src Recreate existing log files
+#dst Buat ulang file log
+#end
+#src Active hardware monitoring graphs
+#dst Statistik monitoring hardware
+#end
+#src Maximum limit
+#dst Limitasi Maximum
+#end
+#src Minimum limit
+#dst Limitasi Minimum
+#end
+#src Override group name
+#dst
+#end
+#src Show in On-Screen Display
+#dst Tampilkan dalam Layar Display
+#end
+#src Show in Logitech keyboard LCD display
+#dst Tampilkan dalam layar keyboard Logitech
+#end
+#src Show in tray icon
+#dst Tampilkan dalam ikon tray 
+#end
+
+#src On-Screen Display
+#dst Tampilan On-Screen
+#end
+#src Global On-Screen Display hotkeys
+#dst Hotkey Layar Display Global
+#end
+#src Toggle On-Screen Display
+#dst Toggle Layar Display
+#end
+#src Show On-Screen Display
+#dst Tampilan Layar Display
+#end
+#src Hide On-Screen Display
+#dst Sembunyikan Layar Display
+#end
+#src Additional On-Screen Display properties
+#dst Properti tambahan Layar Display
+#end
+#src Show system time
+#dst Tampilan Jam Sistem
+#end
+#src More
+#dst Lebih lanjut
+#dlu -100
+#end
+
+#src Profiles
+#dst Profile
+#end
+#src Global profile hotkeys
+#dst Hotkey profil global
+#end
+#src Profile
+#dst Profil
+#end
+#src Automatic profiles management
+#dst Manajemen profil otomatis
+#end
+#src 2D profile
+#dst Profil 2D
+#end
+#src 3D profile
+#dst Profil 3D
+#end
+
+#src User Interface
+#dst Tampilan User
+#end
+#src User interface properties
+#dst Properti tampilan user
+#end
+#src English
+#dst Inggris
+#end
+#src Language
+#dst Bahasa
+#end
+#src Show user interface tooltips
+#dst Tampilkan tips tampilan user
+#end
+#src Show user interface hints
+#dst Tampilkan petunjuk tampilan user
+#end
+#src Single tray icon mode
+#dst
+#end
+#src User interface skinning properties
+#dst Properti skin tampilan user
+#end
+
+#src Screen capture
+#dst Hasil Tangkapan Layar
+#end
+#src Global screen capture hotkeys
+#dst Hotkey tangkapan layar
+#end
+#src Screen capture properties
+#dst Properti tangkapan layar
+#end
+#src Screenshot format
+#dst Format screenshot
+#end
+#src Screenshots folder
+#dst Folder screenshot
+#end
+#src View
+#dst Tampilan
+#end
+
+#src Video capture
+#dst
+#end
+#src Global video capture hotkeys
+#dst
+#end
+#src Video capture properties
+#dst
+#end
+#src Frame size
+#dst
+#end
+#src full frame
+#dst
+#end
+#src 1/2 frame
+#dst
+#end
+#src 1/3 frame
+#dst
+#end
+#src 1/4 frame
+#dst
+#end
+#src Video format
+#dst
+#end
+#src uncompressed
+#dst
+#end
+#src RTV1 compression
+#dst
+#end
+#src MJPG compression
+#dst
+#end
+#src 1 FPS
+#dst
+#end
+#src 100 FPS
+#dst
+#end
+#src Enable gamma correction
+#dst
+#end
+#src Videos folder
+#dst
+#end
+#src Video capture compatibility properties
+#dst
+#end
+#src Multithreaded optimization
+#dst
+#end
+#src automatic
+#dst
+#end
+#src disabled
+#dst
+#end
+#src 1 compression thread
+#dst
+#end
+#src 2 compression threads
+#dst
+#end
+#src 3 compression threads
+#dst
+#end
+#src 4 compression threads
+#dst
+#end
+#src 5 compression threads
+#dst
+#end
+#src 6 compression threads
+#dst
+#end
+#src 7 compression threads
+#dst
+#end
+#src 8 compression threads
+#dst
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst
+#end
+#src Audio capture properties
+#dst
+#end
+#src Downmix multichannel audio to stereo
+#dst
+#end
+#src None
+#dst 
+#end
+#src Auto select
+#dst 
+#end
+#src DirectSound capture device
+#dst 
+#end
+#src WASAPI playback device
+#dst 
+#end
+#src WASAPI capture device
+#dst 
+#end
+#src Audio source #1
+#dst 
+#end
+#src Audio source #2
+#dst 
+#end
+#src Push-To-Talk hotkey
+#dst
+#end
+#src There are no devices available
+#dst 
+#end
+#src Enable MJPG decoder
+#dst
+#end

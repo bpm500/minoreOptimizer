@@ -1,0 +1,5 @@
+; SMART.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SMART"
+
+EXPORTS

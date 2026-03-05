@@ -1,0 +1,6 @@
+Período de obtención de lecturas del hardware
+Ajusta el período de obtención de lecturas del hardware y el período de actualización de los gráficos.
+
+Sugerencias:
+- La obtención de lecturas del hardware tiene un coste en tiempo de CPU. Dependiendo de la tarjeta gráfica, y de los sensores y los protocolos de acceso, el efecto en el rendimiento del sistem puede variar desde casi. Si estás sufriendo este tipo de problemas, deshabilita temporalmente la monitorización para determinar si ésta es la causa (lo puedes hacer usando el botón <Pausa> de la ventana de monitorización). En el caso de que lo sea, aumenta el período de obtención de lecturas o deshabilita gráficas no necesarias o de poco uso. Los usuarios expertos pueden utilizar el monitor de rendimiento haciendo click con el botón derecho del ratón en la ventana de monitorización y seleccionando la opción <Mostrar estado>. La información de estado visualiza la carga de CPU para los diversos procesos en memoria incluyendo los de monitorización.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

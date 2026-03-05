@@ -1,0 +1,10 @@
+Otomatis
+Ijinkan pengaturan kecepatan kipas master GPU secara otomatis atau secara manual.
+
+Petunjuk:
+- Ketika pengaturan sinkronisasi GPU diaktifkan pada tab <General>, setiap perubahan pada master GPU maka akan berlaku terhadap semua GPU yang terpasang.
+- Pengaturan kecepatan kipas tidak berfungsi pada kartu grafis yang tidak dilengkapi oleh chipset controller kecepatan kipas.
+- Tombol <Auto> harus di uncheck untuk mengatur kecepatan kipas.
+- Tergantung pada tombol <User define>, kecepatan pengaturan kipas dapat diatur dari hardware melalui controller chip atau melalui software di %PRODUCTNAME%. 
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.
+

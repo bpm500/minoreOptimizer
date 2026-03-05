@@ -1,0 +1,5 @@
+Preregistrazione su file
+Consente al buffer di di preregistrazione di essere memorizzato in un file temporaneo. Questa modalità si adatta meglio per le preregistrazioni video lunghe (ad esempio 10 minuti o più di H.264 video) o per la preregistrazione video con basso rapporto di compressione (ad esempio Video lossless Lagarith).
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

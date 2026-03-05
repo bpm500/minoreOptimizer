@@ -1,0 +1,8 @@
+Unlock voltage monitoring
+Unlocks voltage monitoring if it is supported by hardware. Avoid unlocking voltage monitoring if you're using any other voltage monitoring software.
+
+Hints:
+- It can be dangerous to run multiple applications accessing your graphics card voltage regulators simultaneously. Please lock this option if you're not sure that there are no such applications running in your system.
+- Voltage monitoring is available on limited set of graphics card models equipped with programmable voltage regulator modules supporting runtime target voltage reading. Not all voltage control capable display adapters support runtime output voltage reading. Please refer to documentation to get full list of graphic card models supporting voltage monitoring.
+- %PRODUCTNAME% restart is required to apply the changes after toggling this option.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

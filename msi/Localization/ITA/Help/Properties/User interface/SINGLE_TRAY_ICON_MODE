@@ -1,0 +1,5 @@
+Modalità singola icona nella barra delle applicazioni
+Attiva la modalità singola icona nel tray. Quando la modalità di singola icona è attivata, la principale icona della barra delle applicazioni viene sostituita con l'icona(e) di monitoraggio hardware nella barra delle applicazioni se il monitoraggio nella barra delle applicazioni di sistema è attivato e l'icona %SERVERPRODUCTNAME% non viene visualizzata nella barra quando il server viene caricato . Si prega di prendere nota che le proprietà %SERVERPRODUCTNAME% sono ancora accessibili attraverso il pulsante <Altro> nel tab <Informazioni Schermo>.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

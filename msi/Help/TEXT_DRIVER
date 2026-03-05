@@ -1,0 +1,5 @@
+Driver version
+Displays master GPU driver version.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

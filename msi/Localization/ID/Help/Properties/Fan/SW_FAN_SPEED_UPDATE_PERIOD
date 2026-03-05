@@ -1,0 +1,8 @@
+Update periode kecepatan kipas
+Tampilkan dan atur kecepatan kipas secara otomatis.
+
+Petunjuk:
+- Berbahaya menggunakan aplikasi yang berbeda dengan penggunaan yang sama pada kartu grafis anda. Kunci pilihan ini apabila anda tidak paham benar yang sedang anda gunakan.
+- Monitoring Voltage dapat digunakan pada model-model kartu grafis tertentu. Tidak semua control tegangan dapat mendukung pembacaan output. Silakan melihat dokumentasi kembali untuk keterangan lebih lanjut mengenai kartu grafis anda.
+- Restart %PRODUCTNAME% dibutuhkan setelah anda merubah pilihan yang ada.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

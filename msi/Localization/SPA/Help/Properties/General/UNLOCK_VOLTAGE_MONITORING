@@ -1,0 +1,8 @@
+Desbloquear monitorización de voltaje
+Desbloquea (habilita) la monitorización del voltaje si está soportada por el hardware. No utilice esta opción si está usando cualquier otra solución de monitorización de voltaje de las GPUs. 
+
+Sugerencias:
+- Puede ser peligroso ejecutar varias aplicaciones que accedan a los reguladores de voltaje de forma simultánea. Por favor no utilize esta opción si no está seguro de esto.
+- El ajuste de voltaje está limitado a aquellas tarjetas gráficas provistas de un módulo de regulación de voltaje programable. En la documentación se encuentra la lista completa de los modelos que soportan regulación del voltaje.
+- Se requiere reiniciar %PRODUCTNAME% para aplicar los cambios de esta opción.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

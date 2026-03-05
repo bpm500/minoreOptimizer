@@ -1,0 +1,7 @@
+Limite de temperatura
+Exibe o limite atual da temperatura da GPU principal, se suportado.
+
+Sugestões:
+- Quando o modo de sincronização entre GPUs similares estiver habilitado em <Geral>, as alterações nas configurações da placa de vídeo principal serão aplicadas às outras placas semelhantes instaladas no sistema. 
+- Você pode clicar na caixa de texto e inserir o valor desejado diretamente.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

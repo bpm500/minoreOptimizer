@@ -1,0 +1,6 @@
+Datenfilterung aktivieren
+Der gleichzeitige Zugriff mehrerer Überwachungsanwendungen auf denselben Hardwaresensor (z. B. GPU-Temperatursensor) kann zu fehlerhaft ausgelesenen Daten des Sensors führen, was zu ungewöhnlich hohen oder niedrigen Spitzenwerten in den Diagrammen führt. Durch Aktivieren dieser Option werden die Daten mit einem speziellen mathematischen Filteralgorithmus verarbeitet, der solche Spitzenwerte hemmt.
+Bitte beachten Sie, dass die Filterung reale Spitzenwerte (z. B. Spitzen bei der GPU-Nutzung) zurückweisen könnte und Diagrammaktualisierungen um bis zu vier Abfrageperioden verzögert werden.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

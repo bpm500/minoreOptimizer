@@ -1,0 +1,6 @@
+Ton bei Alarm wiedergeben
+Ermöglicht die Wiedergabe eines Alarmtons in Schleife, wenn der überwachte Wert den Alarmschwellenwert überschreitet.
+
+Hinweise:
+- Diese Option wird durch die benachbarten Alarm-Timeout-Einstellungen beeinflusst.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

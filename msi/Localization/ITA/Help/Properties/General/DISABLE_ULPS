@@ -1,0 +1,12 @@
+Disattiva ULPS
+Consente di disattivare la modalità Ultra Low Power State. La modalità ULPS consente ai driver video AMD di disabilitare le schede grafiche secondarie in stand-by in configurazioni Crossfire. Tuttavia, la modalità ULPS può essere il motivo di instabilità del sistema in determinate condizioni, in modo da poterlo disattivare per la risoluzione dei problemi.
+Si prega di prendere nota che questa opzione influenza anche la tecnologia per il risparmio della potenza ZeroCore sulle più recenti schede grafiche AMD.
+Inoltre, si prega di tenere presente che ULPS deve essere nuovamente disattivato dopo l'installazione di nuovi driver video AMD.
+
+ATTENZIONE! Utilizzate questa opzione a vostro rischio e pericolo! Sia MSI che AMD non vi forniranno alcun supporto su di essa in qualsiasi forma, incluse le domande sul forum.
+
+Suggerimenti:
+- Questa opzione è attiva solo se è presente almeno una scheda grafica AMD supportata installata nel sistema.
+- È necessario riavviare per applicare le modifiche dopo la commutazione questa opzione.
+- Si consiglia vivamente di disabilitare la modalità ULPS quando si utilizza la modalità di overclocking non ufficiale su configurazioni Crossfire.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

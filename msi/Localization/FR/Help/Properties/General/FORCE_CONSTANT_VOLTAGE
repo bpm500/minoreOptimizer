@@ -1,0 +1,9 @@
+Force une tension constante
+Quelques régulateurs de tention (par example: Voltera VT1165 ou la série STMicroelectronics L6788A) supportent la programmation de tensions indépendantes pour différent états de puissance (par example pour les mode 2D et 3D). 
+Par défaut %PRODUCTNAME% permet au matériel de garder active les technologies de consommation. Néanmoins, vous pouvez forcer %PRODUCTNAME% à ajuster une tension unique pour chaque état de puissance en activant cette option et dès lors de désactiver la gestion dynamique de la tension. Cela pourrait aider à améliorer la stabilité du système sur certains systèmes.
+
+Astuce:
+- Un re-démarrage est nécessaire après avoir désactivé cette option (donc pour restaurer la gestion dynamique de tension).
+- %PRODUCTNAME% est conçue pour contrôler les tensions sur les cartes graphiques de référence avec un BIOS VGA original à 100% ou des cartes au design customisées comme les cartes graphiques MSI. Quelques cartes graphiques customisées pauvent avoir altéré le cicruti de contrôle de tension ou la table de tension dans le BIOS VGA, dès lors %PRODUCTNAME% pourrait ajuster la tension de façon incorrecte pour certains états de puissance (ex. en mode 2D). Vous pourriez utiliser cette option pour fixer la tension et réduire les instabilités.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.
+

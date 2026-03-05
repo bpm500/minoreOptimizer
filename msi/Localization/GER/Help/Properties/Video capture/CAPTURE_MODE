@@ -1,0 +1,6 @@
+Videoaufnahmemodus
+Standardmäßig erfasst %PRODUCTNAME% Videos im gemischten Modus, was es ihm ermöglicht, Videostreams je nach Kontext entweder vom Desktop oder von laufenden 3D-Anwendungen zu erfassen. In diesem Modus wird der Desktop-Videoaufnahmemodus ausgewählt, wenn Sie die Aufnahme starten, während keine 3D-Anwendung ausgeführt wird, andernfalls wird der 3D-Anwendungs-Videoaufnahmemodus ausgewählt.
+Sie können diese Option verwenden, um die Verwendung des Desktop- oder 3D-Anwendungserfassungsmodus unabhängig vom Kontext zu erzwingen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

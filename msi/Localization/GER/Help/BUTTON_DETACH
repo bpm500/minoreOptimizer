@@ -1,0 +1,6 @@
+Trennen
+Trennt das Überwachungsfenster vom Hauptanwendungsfenster und ermöglicht seine Position und Größe beliebig festzulegen und das Überwachungsfenster auch dann geöffnet zu lassen, wenn die Software in der Taskleiste minimiert ist.
+
+Hinweise:
+- Sie können das Überwachungsfenster auch durch einen Doppelklick abtrennen. Durch erneutes Doppelklicken oder einfaches Schließen eines getrennten Fensters wird es wieder verbunden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

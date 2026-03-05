@@ -1,0 +1,6 @@
+Restore settings after suspended mode
+Normally graphics card state is being saved and properly restored by display driver after resuming from suspended mode. However, some bugged display drivers may fail to resotore it. In this case you may enable this option as a workaround to force %PRODUCTNAME% to save graphics card state to a temporary profile on entering suspended mode and apply this profile on resuming from suspended mode.
+
+Hints:
+- %PRODUCTNAME% must reside in memory to make this option function properly.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

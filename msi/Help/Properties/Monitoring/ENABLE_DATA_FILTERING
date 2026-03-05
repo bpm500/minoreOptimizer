@@ -1,0 +1,6 @@
+Enable data filtering
+Simultaneous access to the same hardware sensor (e.g. GPU temperature sensor) by multiple software products may result in sensor misreading resulting in seeing spontaneous abnormally low or abnormally high spikes on the graphs. Enabling this option allows processing the data with special math filtering algorithm rejecting such spikes. 
+Please take a note that enabling filtering may reject real data spikes (e.g. shot GPU usage spikes) as well delay graph updates by up to 4 polling periods.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

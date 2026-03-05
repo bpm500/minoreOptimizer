@@ -1,0 +1,8 @@
+Modalità di composizione Skin
+Consente di selezionare la modalità di composizione Skin. La modalità composizione definisce come i pixels delle finestre del tema vengono combinati dal motore Skin con i pixels del desktop e delle finestre sottostanti. È possibile selezionare una delle seguenti modalità di composizione:
+- Tradizionale - fornisce compatibilità con i vecchi sistemi operativi e i vecchi temi. Questa modalità di composizione utilizza zone GDI di clip per la renderizzazione della finestra non rettangolare, quindi le prestazioni di aggiornamento della finestra possono diminuire se la finestra contiene troppe zone non rettangolari.
+- A strati con colorkey - offre migliori prestazioni di rendering della pelle della finestra per i moderni sistemi operativi. Questa modalità di composizione utilizza finestre sovrapposte con supporto di accelerazione hardware colorkey, quindi le prestazioni di aggiornamento della finestra non dipendono dalla forma della finestra. Inoltre in questa modalità è possibile regolare il livello di trasparenza Skin.
+- A strati con alfa - fornisce supporto per effetti supplementari al motore Skin. Questa modalità di composizione utilizza finestre sovrapposte con accelerazione hardware per pixel sul canale alfa, quindi i progettisti Skin possono definire aree semi-trasparenti all'interno della Skin, applicare l'antialiasing ai bordi della Skin e così via. Inoltre in questa modalità è possibile regolare il livello di trasparenza Skin.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

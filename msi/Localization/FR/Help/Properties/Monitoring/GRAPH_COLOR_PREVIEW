@@ -1,0 +1,9 @@
+couleurs du graph en couche
+Affiche un graphique en couleur pour le mode de rendu en couche. Cliquez ce champ pour changer les couleurs.
+
+
+Astuce:
+- Vous pouvez créer un groupe de graphique en couche en cliquant avec le bouton droit sur le graphique dans la fenêtre de monitoring. Selectionnez <Attach> du menu contextuel puis cliquez sur le graph de destination. Les groupes vous permet de rendre autant de graphiques en couche sur le même grille que vous le voulez.
+- Vous devez activer et choisir le graphique désiré pour avoir accès à cette option.
+- Vous pouvez maintenir la touche <Shift> lors du changement de cette option pour changer de façon synchrone tout les graphiques.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

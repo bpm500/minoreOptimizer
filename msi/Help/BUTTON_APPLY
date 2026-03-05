@@ -1,0 +1,7 @@
+Apply
+Applies current settings to the master GPU.
+
+Hints:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Always apply the changes you've made before switching to a new master GPU. Any unapplied GPU settings are lost on new master GPU selection.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

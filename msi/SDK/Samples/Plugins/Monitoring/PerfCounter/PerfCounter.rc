@@ -1,0 +1,316 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Russian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+#ifdef _WIN32
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\PerfCounter.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ADD_SOURCE_DIALOG DIALOGEX 0, 0, 250, 250
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Add new data source(s)"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           " Available performance counters",IDC_COUNTER_PROPERTIES_HEADER,5,5,240,15,SS_CENTERIMAGE | SS_SUNKEN
+    CONTROL         "",IDC_SOURCES_LIST,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_OWNERDRAWFIXED | LVS_ALIGNLEFT | WS_TABSTOP,5,25,240,199,WS_EX_CLIENTEDGE
+    DEFPUSHBUTTON   "OK",IDOK,140,231,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,195,231,50,14
+    DEFPUSHBUTTON   "Export",IDC_EXPORT_BUTTON,5,231,50,14
+END
+
+IDD_SETUP_DIALOG DIALOGEX 0, 0, 250, 225
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "PerfCounter plugin settings"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           " Active data sources",IDC_SOURCE_PROPERTIES_HEADER,5,5,240,15,SS_CENTERIMAGE | SS_SUNKEN
+    CONTROL         "",IDC_SOURCES_LIST,"SysListView32",LVS_REPORT | LVS_SHOWSELALWAYS | LVS_OWNERDRAWFIXED | LVS_ALIGNLEFT | WS_TABSTOP,5,25,240,150,WS_EX_CLIENTEDGE
+    PUSHBUTTON      "Setup",IDC_SETUP_SOURCE_BUTTON,5,180,50,14
+    PUSHBUTTON      "Add",IDC_ADD_SOURCE_BUTTON,140,180,50,14
+    PUSHBUTTON      "Remove",IDC_REMOVE_SOURCE_BUTTON,195,180,50,14
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,5,200,240,1
+    PUSHBUTTON      "Defaults",IDC_DEFAULTS_BUTTON,5,206,50,14
+    PUSHBUTTON      "OK",IDOK,140,206,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,195,206,50,14
+END
+
+IDD_SETUP_SOURCE_DIALOG DIALOGEX 0, 0, 250, 310
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Data source settings"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           " Performance counter properties",IDC_COUNTER_PROPERTIES_HEADER,5,5,240,15,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "Object name",IDC_STATIC,5,25,130,8
+    LTEXT           "Instance name or index",IDC_STATIC,140,25,105,8
+    EDITTEXT        IDC_OBJECT_NAME_EDIT,5,40,130,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_OBJECT_INSTANCE_EDIT,140,40,85,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_SELECT_INSTANCE_BUTTON,230,40,15,14
+    LTEXT           "Counter name",IDC_STATIC,5,60,240,8
+    EDITTEXT        IDC_COUNTER_NAME_EDIT,5,75,240,14,ES_AUTOHSCROLL
+    LTEXT           " Plugin data source properties",IDC_SOURCE_PROPERTIES_HEADER,5,100,240,15,SS_CENTERIMAGE | SS_SUNKEN
+    CONTROL         "Enable dynamic mode",IDC_DYNAMIC_CHECK,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,5,120,240,10
+    LTEXT           "Type",IDC_STATIC,5,135,185,8
+    LTEXT           "Instance",IDC_STATIC,195,135,50,8
+    COMBOBOX        IDC_SOURCE_ID_COMBO,5,150,185,150,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_SOURCE_INSTANCE_EDIT,195,150,50,14,ES_AUTOHSCROLL
+    LTEXT           "Name",IDC_STATIC,5,170,130,8
+    LTEXT           "Units",IDC_STATIC,140,170,50,8
+    LTEXT           "Format",IDC_STATIC,195,170,50,8
+    EDITTEXT        IDC_SOURCE_NAME_EDIT,5,185,130,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SOURCE_UNITS_EDIT,140,185,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SOURCE_FORMAT_EDIT,195,185,50,14,ES_AUTOHSCROLL
+    LTEXT           "Formula",IDC_STATIC,5,205,75,8
+    LTEXT           "Offset",IDC_STATIC,85,205,50,8
+    LTEXT           "Multiplier",IDC_STATIC,140,205,50,8
+    LTEXT           "Divider",IDC_STATIC,195,205,50,8
+    LTEXT           "x = off + x * mul / div",IDC_STATIC,5,223,75,8
+    EDITTEXT        IDC_OFF_EDIT,85,220,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_MUL_EDIT,140,220,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_DIV_EDIT,195,220,50,14,ES_AUTOHSCROLL
+    LTEXT           "Group",IDC_STATIC,5,240,130,8
+    LTEXT           "Range",IDC_STATIC,140,240,105,8
+    EDITTEXT        IDC_SOURCE_GROUP_EDIT,5,255,130,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SOURCE_MIN_EDIT,140,255,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SOURCE_MAX_EDIT,195,255,50,14,ES_AUTOHSCROLL
+    LTEXT           "Min",IDC_STATIC,140,275,50,8
+    RTEXT           "Max",IDC_STATIC,195,275,50,8
+    PUSHBUTTON      "OK",IDOK,140,291,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,195,291,50,14
+END
+
+IDD_SELECT_INSTANCE_DIALOG DIALOGEX 0, 0, 200, 60
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Instance name"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    COMBOBOX        IDC_INSTANCE_COMBO,5,5,190,30,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Use instance index instead of name",IDC_USE_INDEX_CHECK,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,5,25,190,10
+    PUSHBUTTON      "OK",IDOK,90,41,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,145,41,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ADD_SOURCE_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 5
+        RIGHTMARGIN, 245
+        VERTGUIDE, 190
+        VERTGUIDE, 195
+        TOPMARGIN, 5
+        BOTTOMMARGIN, 245
+        HORZGUIDE, 25
+    END
+
+    IDD_SETUP_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 5
+        RIGHTMARGIN, 245
+        VERTGUIDE, 190
+        VERTGUIDE, 195
+        TOPMARGIN, 5
+        BOTTOMMARGIN, 220
+        HORZGUIDE, 25
+        HORZGUIDE, 175
+        HORZGUIDE, 180
+        HORZGUIDE, 200
+    END
+
+    IDD_SETUP_SOURCE_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 5
+        RIGHTMARGIN, 245
+        VERTGUIDE, 80
+        VERTGUIDE, 85
+        VERTGUIDE, 135
+        VERTGUIDE, 140
+        VERTGUIDE, 190
+        VERTGUIDE, 195
+        VERTGUIDE, 225
+        VERTGUIDE, 230
+        TOPMARGIN, 5
+        BOTTOMMARGIN, 305
+        HORZGUIDE, 25
+        HORZGUIDE, 40
+        HORZGUIDE, 60
+        HORZGUIDE, 75
+        HORZGUIDE, 100
+        HORZGUIDE, 120
+        HORZGUIDE, 135
+        HORZGUIDE, 150
+        HORZGUIDE, 170
+        HORZGUIDE, 185
+        HORZGUIDE, 205
+        HORZGUIDE, 220
+        HORZGUIDE, 227
+        HORZGUIDE, 240
+        HORZGUIDE, 255
+        HORZGUIDE, 275
+    END
+
+    IDD_SELECT_INSTANCE_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 5
+        RIGHTMARGIN, 195
+        VERTGUIDE, 140
+        VERTGUIDE, 145
+        TOPMARGIN, 5
+        BOTTOMMARGIN, 55
+        HORZGUIDE, 25
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_SELECT              ICON                    "Icons\\Select.ico"
+IDI_SELECT_PLACEHOLDER  ICON                    "Icons\\SelectPlaceholder.ico"
+#endif    // Russian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,4,0,0
+ PRODUCTVERSION 1,4,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "FileDescription", "PerfCounter monitoring import plugin for MSI Afterburner"
+            VALUE "FileVersion", "1, 4, 0, 0"
+            VALUE "InternalName", "PerfCounter"
+            VALUE "LegalCopyright", "Copyright (C) 2017-2018 by Alexey Nicolaychuk aka Unwinder"
+            VALUE "OriginalFilename", "PerfCounter.DLL"
+            VALUE "ProductName", "PerfCounter Dynamic Link Library"
+            VALUE "ProductVersion", "1, 4, 0, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\PerfCounter.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

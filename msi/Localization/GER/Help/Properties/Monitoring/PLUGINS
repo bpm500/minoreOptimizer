@@ -1,0 +1,5 @@
+Plug-ins auswählen
+Ermöglicht die Auswahl aktiver Plug-ins für das Hardware-Überwachungsmodul. Plug-ins implementieren Unterstützung für zusätzliche Datenquellen von Drittanbietern und können die Liste der auf dem System verfügbaren Überwachungsmoduldiagramme erweitern.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

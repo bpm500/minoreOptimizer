@@ -1,0 +1,6 @@
+Audio bron
+Staat toe om de audio bron manueel of automatisch te selecteren.
+In automatische mode zal standaard het afspeel of opname apparaat worden gebruikt dat in de geluids eigenshappen van het besturingssysteem (OS) is geselecteerd.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

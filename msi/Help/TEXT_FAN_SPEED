@@ -1,0 +1,8 @@
+Fan Speed 
+Displays the current master GPU fan speed.
+
+Hints:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Fan speed control is not available if graphics card is not equipped with fan controller chip and (or) controllable cooling system.
+- You may click this field to directly type in a desired speed.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,7 @@
+Pfad der Alarmanwendung
+Zeigt den Pfad für den Start externer Anwendungen bei Alarm an und ermöglicht dessen Bearbeitung.
+
+Hinweise:
+- Diese Option wird durch die benachbarten Alarm-Timeout-Einstellungen beeinflusst.
+- Sie können im Pfad Makrovariablen verwenden. Verwenden Sie %WinDir%, um das Windows-Verzeichnis anzugeben, %SysDir%, um das Windows\System32-Verzeichnis anzugeben, %ABDir%, um das %PRODUCTNAME%-Installationsverzeichnis anzugeben, oder %AB%, um den vollständigen Pfad zur ausführbaren Datei %PRODUCTNAME% anzugeben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

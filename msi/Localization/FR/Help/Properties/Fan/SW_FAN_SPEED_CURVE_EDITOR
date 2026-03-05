@@ -1,0 +1,10 @@
+Editeur de courbe de vitesse du ventilateur
+Permet d'éditer la courbe de vitesse du ventilateur pour le contrôle automatique du ventilateur en mode utilisateur.
+
+Astuce:
+- Vous pouvez cliquer sur la courbe pour rajouter un point à l'endroit du pointeur. Un maximm de 8 points est autorisé.
+- Vous pouvez choisir un point et le déplacer avec le curseur de la souris pour ajuster la courbe. La position des points peut-être déplacé finement à l'aide des touches de déplacement du clavier.
+- Vous pouvez appuyer sur la touche <Del> pour effacer un point.
+- Vous pouvez appuyer sur les touches <Ctrl> + <D> pour ressetter la courbe dans l'état par défaut.
+- Vous pouvez double cliquer sur la zone d'édition pour basculer la courbe du mode linéaire vers le mode escalier. Le mode escalier peut-être utilisé pour réduire les changements de vitesse du ventilateur.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

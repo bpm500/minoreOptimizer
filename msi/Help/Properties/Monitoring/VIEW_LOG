@@ -1,0 +1,6 @@
+View
+Allows viewing previously recorded hardware monitoring history log files.
+
+Hint:
+- %PRODUCTNAME% saves history in native RivaTuner log file format. You may use either built-in viewer or RivaTuner to view log files recorded with %PRODUCTNAME%. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

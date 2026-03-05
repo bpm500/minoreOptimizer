@@ -1,0 +1,5 @@
+Limite de tempo de pré-gravação 
+Permite definir um tempo limite em segundos para o uso do "buffer" de pré-gravação. Você pode configurá-lo a zero e deixar o tempo ilimitado. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

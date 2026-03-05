@@ -1,0 +1,5 @@
+Enable hardware control and monitoring
+Allows you to restrict graphics hardware control and monitoring functionality. This feature can be useful if you are using %PRODUCTNAME% for framerate monitoring and videocapture only and don't want to risk suddenly overclocking your PC. Disabling this option also speeds up application startup a bit.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

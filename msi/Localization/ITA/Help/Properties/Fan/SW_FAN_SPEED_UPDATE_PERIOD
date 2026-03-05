@@ -1,0 +1,8 @@
+Velocità della ventola periodo di aggiornamento
+Consente di visualizzare e di regolare il periodo di aggiornamento della velocità della ventola definita dall'utente in modalità controllo automatico da parte del software.
+
+Consigli:
+- Il software di controllo automatico della velocità della ventola non è assolutamente libero in termini di prestazioni, qualche ciclo di CPU è richiesto ad ogni iterazione di aggiornamento della velocità della ventola per leggere la temperatura da hardware e aggiornare la velocità della ventola, se necessario. A seconda del modello di GPU e di sensori e protocolli di accesso hardware, il software di controllo automatico della ventola può aver un calo di prestazioni e può variare da un quasi invisibile a un visibile degrado di prestazioni provocando un effetto di balbuzie in applicazioni intensive tramite CPU, come i giochi 3D.
+Se siete di fronte un tale effetto, mentre %PRODUCTNAME% è in esecuzione, provate a disattivare temporaneamente il controllo automatico della velocità della ventola per identificare il problema deselezionando il pulsante <User define>. Poi provate a diminuire il carico della CPU, aumentando il periodo di aggiornamento della velocità della ventola.
+Gli utenti esperti possono anche mostrare informazioni sulle prestazioni nella finestra di stato di monitoraggio cliccando col destro su di esso e selezionando il comando <Show status>. Lo status visualizza le informazioni di utilizzo della CPU per i diversi processi tra cui l'aggiornamento della velocità della ventola.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

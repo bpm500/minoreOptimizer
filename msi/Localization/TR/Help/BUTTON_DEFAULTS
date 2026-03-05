@@ -1,0 +1,8 @@
+Reset
+Ana/Birincil GPU ayarlarýný varsayýlan hale döndürür.
+
+Ýpuçlarý:
+- Eðer <Genel Ayarlar> sekmesindeki, ayarlarý diðer grafik iþlemcileriyle eþitle seçeneði aktifse ayarlar diðer grafik kartlarýyla eþlenir.
+- Ýsterseniz <Ctrl> + <D> tuþlarýna basarak Ana/Birincil Grafik iþlemcisi ayarlarýný sýfýrlayabilirsiniz.
+
+[Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.]

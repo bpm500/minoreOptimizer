@@ -1,0 +1,47 @@
+#src Pause
+#dst Pausa
+#end
+#src Clear history
+#dst Cancella storia
+#end
+#src Show status
+#dst Mostra lo stato
+#end
+#src Log history to file
+#dst Log storia dei file
+#end
+#src Always on top
+#dst Sempre in primo piano
+#end
+#src Attach
+#dst Attaccare
+#end
+#src Detach
+#dst Staccare
+#end
+#src Detach all
+#dst Staccare tutto
+#end
+#src Properties
+#dst Proprietà
+#end
+#src Remove all markers
+#dst Rimuovere tutti gli indicatori
+#end
+
+#src Copy
+#dst Copia
+#end
+
+#src Show
+#dst Mostra
+#end
+#src Profiles
+#dst Profili
+#end
+#src Close
+#dst Chiudi
+#end
+#src There are no profiles
+#dst Non ci sono profili
+#end

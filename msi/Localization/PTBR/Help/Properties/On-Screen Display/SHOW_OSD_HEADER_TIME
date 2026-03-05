@@ -1,0 +1,6 @@
+Mostrar a hora do sistema 
+Mostra a hora atual do sistema na tela. 
+
+Sugestões: 
+- O servidor de monitoramento será automaticamente iniciado ao habilitar esta opção e somente será interrompido quando desabilitá-la. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

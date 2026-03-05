@@ -1,0 +1,8 @@
+Hystérésis de température
+Affiche et ajuste l'hystérésis de température pour le contrôle automatique du ventilateur en mode utilisateur. L'hystérésis peut-être utilisé pour réduire les flucatuations de vitesse du ventilateur et pour également améliorer le refroidissement. Quand une valeure non nulle d'hystérésis est définie, la couche d'ajustement de contrôle automatique du ventilateur utilise l'algorithme suivant:
+
+- La dernière température qui a causé le changement de vitesse de température est mémorisée.
+- Quand la température décroit, la vitesse du ventilateur ne se réduira pas si la différence entre la température mémorisée et la température courantee est inférieure à la valeur hystérésis.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

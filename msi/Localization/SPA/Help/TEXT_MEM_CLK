@@ -1,0 +1,7 @@
+Velocidad del reloj de la memoria
+Visualiza la velocidad actual del reloj de la memoria de la GPU principal.
+
+Sugenrecias:
+- Cuando el modo de sincronización entre GPUs similares está activado, en la solapa <General> de las propiedades avanzadas, cualquier cambio en los ajustes en la tarjeta gráfica principal es aplicado al resto de tarjetas similares instaladas en el sistema.
+- Puedes hacer click en este texto directamente para cambiar el valor.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

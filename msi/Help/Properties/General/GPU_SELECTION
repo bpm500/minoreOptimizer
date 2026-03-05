@@ -1,0 +1,6 @@
+Graphics processors list
+Displays the list of graphics processors installed in the system and allows selecting the master GPU. All GPU adjustments you are doing in the main application window are applied to the master GPU and optionally to all similar GPUs installed in the system if the adjacent graphics processor settings synchronization option is enabled.
+
+Hints:
+- Always apply the changes you've made in the main application window before switching to a new master GPU. Any unapplied GPU settings are lost on new master GPU selection.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

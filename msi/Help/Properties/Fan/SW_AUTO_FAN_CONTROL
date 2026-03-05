@@ -1,0 +1,7 @@
+Enable user defined software automatic fan control
+Enables user defined software automatic fan control mode. In this mode software periodically checks GPU temperature and sets new fan speed according to the fan speed curve defined below. 
+
+Hints:
+- User defined software automatic fan control mode can be alternately enabled with <User define> button from the main application window.
+- Software automatic fan speed curve is not affected by the profiles, it is a global setting for all GPUs installed in the system. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

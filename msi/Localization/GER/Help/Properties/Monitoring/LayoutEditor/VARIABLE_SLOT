@@ -1,0 +1,6 @@
+Variabler Steckplatz
+Die Farb-, Ausrichtungs- und Größenbibliothek jedes On-Screen-Display-Layouts kann bis zu 250 benutzerdefinierte und bis zu 6 vom System reservierte Variablen enthalten, die in 256 indizierten Variablenplätzen gespeichert sind. Mit benutzerdefinierten Variablen (Steckplatz 0–249) können Sie einen benutzerdefinierten Formatierungsstil für verschiedene Teile der Bildschirmanzeige anwenden, während Systemvariablen (Steckplätze 250–255) für die Definition des Formatierungsstils für den Bildschirmanzeigestatus reserviert sind.
+Der variable Steckplatzindex kann nur beim Hinzufügen eines neuen Elements zur Bibliothek bearbeitet und später nicht mehr geändert werden.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

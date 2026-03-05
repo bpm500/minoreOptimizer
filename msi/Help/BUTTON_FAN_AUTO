@@ -1,0 +1,8 @@
+Auto
+Allows control of master GPU fan speed to be automatic or manual.
+
+Hints:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Fan speed control is not available if graphics card is not equipped with fan controller chip and (or) controllable cooling system.
+- Depending on <User define> button state, automatic fan speed control is performed either at hardware level by dedicated fan controller chip or at software level by %PRODUCTNAME%. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

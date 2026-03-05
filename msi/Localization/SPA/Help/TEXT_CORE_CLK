@@ -1,0 +1,8 @@
+Reloj del núcleo
+Visualiza la velocidad del reloj del núcleo.
+
+Sugenrencias:
+- Cuando el modo de sincronización entre GPUs similares está activado, en la solapa <General> de las propiedades avanzadas, cualquier cambio en los ajustes en la tarjeta gráfica principal es aplicado al resto de tarjetas similares instaladas en el sistema.
+- A la hora de ajustar la velocidad del núcleo y de los procesadores gráficos de forma independiente, tenga en cuenta que el ratio mínimo entre la velocidad del núcleo y de los procesadores gráficos (shader) está limitado por el hardware. Tratar de ajustar dichos valores fuera del rango válido puede invalidar los ajustes y éstos no pueden ser aplicados. 
+- Puedes hacer click en este texto directamente para cambiar el valor.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

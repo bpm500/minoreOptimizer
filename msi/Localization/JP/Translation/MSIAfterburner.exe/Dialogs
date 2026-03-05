@@ -1,0 +1,369 @@
+#src Information
+#dst 情報
+#end
+#src System information
+#dst システム情報
+#end
+
+#src General
+#dst 全般
+#end
+#src Master graphics processor selection
+#dst マスター グラフィックス プロセッサの選択 
+#end
+#src Synchronize settings for similar graphics processors
+#dst 類似のグラフィックス プロセッサの設定の同期化
+#end
+#src General properties
+#dst 全般的なプロパティ
+#end
+#src Start with Windows
+#dst Windows と一緒に起動
+#end
+#src Start minimized
+#dst 最小化の状態で起動
+#end
+#src Compatibility properties
+#dst 安全上のプロパティ
+#end
+#src Enable low-level hardware access interface
+#dst 
+#end
+#src kernel mode
+#dst 
+#end
+#src user mode
+#dst 
+#end
+#src Unlock voltage control
+#dst 電圧制御のロック解除
+#end
+#src Unlock voltage monitoring
+#dst 電圧モニタリングのロック解除
+#end
+#src Force constant voltage
+#dst 強制定電圧
+#end
+#src Restore settings after suspended mode
+#dst
+#end
+#src Graphics processor type
+#dst グラフィックス・プロセッサの種類
+#end
+#src Update checking properties
+#dst アップデート チェッキング フリークンシーを設定する
+#end
+#src Check for available product updates
+#dst 利用できるアップデートをチェックする
+#end
+#src Check for available product beta versions
+#dst 利用できるベータバージョンをチェックする
+#end
+#src never
+#dst 必要なし
+#end
+#src on startup
+#dst 毎回起動するとチェックする
+#end
+#src on startup daily
+#dst 毎日一回起動するときチェックする
+#end
+#src on startup weekly
+#dst 毎週一回起動するときチェックする
+#end
+#src on startup monthly
+#dst 毎月一回起動するときチェックする
+#end
+#src Check now
+#dst 今すぐチェックする
+#end
+
+#src Fan
+#dst ファン
+#end
+#src Automatic fan control properties
+#dst 自動ファン制御プロパティ
+#end
+#src Enable user defined software automatic fan control
+#dst ユーザー定義ソフトウェアによる自動ファン制御を有効にする
+#end
+#src Temperature, 蚓
+#dst 温度、℃
+#end 
+#src Fan speed, %
+#dst ファン回転速度、 %
+#end
+#src Predefined fan speed curve
+#dst
+#end
+#src Custom
+#dst
+#end
+#src Default
+#dst
+#end
+#src Fan speed update period (in milliseconds)
+#dst ファン回転速度の更新間隔 (ミリ秒)
+#end
+#src Temperature hysteresis (in 蚓)
+#dst 温度ヒステリシス (℃)
+#end
+#src Force fan speed update on each period
+#dst
+#end
+
+#src Monitoring
+#dst モニタリング
+#end
+#src Hardware monitoring properties
+#dst ハードウェア監視プロパティ
+#end
+#src Hardware polling period (in milliseconds)
+#dst ハードウェアのポーリング間隔 (ミリ秒)
+#end
+#src Hardware monitoring history logging properties
+#dst ハードウェア監視履歴のロギングプロパティ
+#end
+#src Browse
+#dst 参照
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst ログサイズがこの値を超えたらロギングを停止 (MB)
+#end
+#src Recreate existing log files
+#dst 既存のログファイルの再作成
+#end
+#src Active hardware monitoring graphs
+#dst アクティブハードウェア監視グラフ
+#end
+#src Maximum limit
+#dst 最大リミット
+#end
+#src Minimum limit
+#dst 最小リミット
+#end
+#src Override group name
+#dst
+#end
+#src Enable data filtering
+#dst データのフィルタリングの有効化
+#end
+#src Show in On-Screen Display
+#dst オンスクリーンディスプレイでの表示
+#end
+#src Show in Logitech keyboard LCD display
+#dst Logitech キーボードの LCD ディスプレイに表示
+#end
+#src Show in tray icon
+#dst トレイアイコン内に表示
+#end
+
+#src On-Screen Display
+#dst オンスクリーンディスプレイ
+#end
+#src Global On-Screen Display hotkeys
+#dst オンスクリーンディスプレイのグローバルホットキー
+#end
+#src Toggle On-Screen Display
+#dst オンスクリーンディスプレイの切り替え
+#end
+#src Show On-Screen Display
+#dst オンスクリーンディスプレイの表示
+#end
+#src Hide On-Screen Display
+#dst オンスクリーンディスプレイの非表示
+#end
+#src Additional On-Screen Display properties
+#dst オンスクリーンディスプレイの追加プロパティ
+#end
+#src Show system time
+#dst システム時刻の表示
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst キャプチャした画面ショットやビデオについてオンスクリーンディスプレイを表示
+#end
+#src On-Screen Display server compatibility properties
+#dst オンスクリーンディスプレイのサーバー互換性プロパティ
+#end
+#src Toggle On-Screen Display server blocking
+#dst オンスクリーンディスプレイのサーバーブロッキングの切り替え
+#end
+#src More
+#dst 詳細情報
+#dlu -100
+#end
+
+#src Profiles
+#dst プロファイル
+#end
+#src Global profile hotkeys
+#dst プロファイルのグローバルホットキー
+#end
+#src Profile
+#dst プロファイル
+#end
+#src Automatic profiles management
+#dst 自動プロファイル管理
+#end
+#src 2D profile
+#dst 2D プロファイル
+#end
+#src 3D profile
+#dst 3D プロファイル
+#end
+
+#src User Interface
+#dst ユーザーインターフェイス
+#end
+#src User interface properties
+#dst 
+#end
+#src English
+#dst 英語
+#end
+#src Language
+#dst 言語
+#end
+#src Show user interface tooltips
+#dst ユーザーインターフェイスのツールチップの表示
+#end
+#src Show user interface hints
+#dst ユーザーインターフェイスのヒントの表示
+#end
+#src Single tray icon mode
+#dst
+#end
+#src  User interface skinning properties
+#dst ユーザーインターフェイスのスキンプロパティ
+#end
+
+#src Screen capture
+#dst スクリーンキャプチャ
+#end 
+#src Global screen capture hotkeys 
+#dst スクリーンキャプチャのグローバルホットキー
+#end
+#src Screen capture properties
+#dst スクリーンキャプチャのプロパティ
+#end
+#src Screenshot format
+#dst スクリーンショットのフォーマット
+#end
+#src Screenshots folder
+#dst スクリーンショットのフォルダー
+#end
+#src View
+#dst 表示
+#end
+
+#src Video capture
+#dst ビデオキャプチャ
+#end
+#src Global video capture hotkeys
+#dst ビデオキャプチャのグローバルホットキー
+#end
+#src Video capture properties
+#dst ビデオキャプチャのプロパティ
+#end
+#src Frame size
+#dst フレームサイズ
+#end
+#src full
+#dst フル
+#end
+#src half
+#dst ハーフ
+#end
+#src Video format
+#dst ビデオフォーマット
+#end
+#src lossless
+#dst 無損失
+#end
+#src 1 FPS
+#dst 1 FPS
+#end
+#src 100 FPS
+#dst 100 FPS
+#end
+#src Enable gamma correction
+#dst
+#end
+#src Videos folder
+#dst ビデオフォルダー
+#end
+#src Video capture compatibility properties
+#dst ビデオキャプチャの互換性プロパティ
+#end
+#src Multithreaded optimization
+#dst マルチスレッド化の最適化
+#end
+#src automatic
+#dst 自動
+#end
+#src disabled
+#dst 無効
+#end
+#src 1 compression thread
+#dst 1 圧縮スレッド
+#end
+#src 2 compression threads
+#dst 2 圧縮スレッド
+#end
+#src 3 compression threads
+#dst 3 圧縮スレッド
+#end
+#src 4 compression threads
+#dst 4 圧縮スレッド
+#end
+#src 5 compression threads
+#dst 5 圧縮スレッド
+#end
+#src 6 compression threads
+#dst 6 圧縮スレッド
+#end
+#src 7 compression threads
+#dst 7 圧縮スレッド
+#end
+#src 8 compression threads
+#dst 8 圧縮スレッド
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst
+#end
+#src Audio capture properties
+#dst オーディオキャプチャのプロパティ
+#end
+#src Downmix multichannel audio to stereo
+#dst マルチチャンネルのオーディオからステレオへのダウンミックス
+#end
+#src None
+#dst
+#end
+#src Auto select
+#dst
+#end
+#src DirectSound capture device
+#dst
+#end
+#src WASAPI playback device
+#dst
+#end
+#src WASAPI capture device
+#dst
+#end
+#src Audio source #1
+#dst
+#end
+#src Audio source #2
+#dst
+#end
+#src Push-To-Talk hotkey
+#dst
+#end
+#src There are no devices available
+#dst
+#end
+#src Enable MJPG decoder
+#dst
+#end

@@ -1,0 +1,8 @@
+Forçar tensão constante
+Alguns reguladores de tensão (por exemplo, VT1165 ou Voltera STMicroelectronics série L6788A) possuem programação independente de suporte de tensões para estados de energia diferentes (por exemplo, para os modos 2D e 3D).
+Por padrão, o %PRODUCTNAME% ajusta a tensão para um único estado de energia em máxima performance (ou seja, o modo 3D), permitindo que as modos de economia de energia permaneçam ativos. No entanto, você pode forçar que o %PRODUCTNAME% ajuste a tensão para todos os estados de energia de uma só vez, permitindo efetivamente desativar a alternância dinâmica de tensão. Isso pode ajudar a melhorar a estabilidade em alguns sistemas.
+
+Sugestões:
+- É necessário reiniciar o programa para restaurar a economia de energia depois de desativar essa opção.
+- O %PRODUCTNAME% foi projetado para fornecer controle tensão em modo 3D somente para modelos de placas de vídeo referência com BIOS 100% original ou modelos MSI personalizados. Algumas placas de referência não podem alterar a curva de tensão por circuito de controle de tensão ou via BIOS e o %PRODUCTNAME% pode ajustar a tensão de alimentação para o estado errado (por exemplo, o modo 2D ) se usado em modelos que não sejam de referência. Você pode usar essa opção para controlar adequadamente a tensão quando disponível.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

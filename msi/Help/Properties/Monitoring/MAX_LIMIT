@@ -1,0 +1,6 @@
+Maximum limit
+Displays and adjusts the maximum limit for currently selected graph.
+
+Hints:
+- You must activate and select desired graph to get access to this option.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

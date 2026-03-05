@@ -1,0 +1,35 @@
+#src HDD%d usage
+#dst Завантаження диска %d
+#end
+#src HDD%d read rate
+#dst Швидкість читання диска %d
+#end
+#src HDD%d write rate
+#dst Швидкість запису диска %d
+#end
+#src MB/s
+#dst МБ/c
+#end
+#src Free disk space C:
+#dst Вільне місце на диску C:
+#end
+#src GB
+#dst ГБ
+#end
+#src NET%d download rate
+#dst Швидкість завантаження мережі %d
+#end
+#src NET%d upload rate
+#dst Швидкість віддачі мережі %d
+#end
+#src KB/s
+#dst КБ/c
+#end
+
+#src Counter
+#dst Лічильник
+#end
+
+#src Counters exported to %s!
+#dst Лічильники експортовані в %s!
+#end

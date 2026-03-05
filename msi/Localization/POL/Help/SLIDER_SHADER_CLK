@@ -1,0 +1,11 @@
+Taktowanie shader-ów
+Adjusts master GPU shader clock.
+
+Wskazówki:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Independent shader clock adjustment is available only on NVIDIA GeForce 8, 9 and 200 series graphics cards. Shader and core clocks are linked with hardwired 2x ratio on GeForce 400 series graphics cards. ATI graphics cards don't support independent shader clock adjustment.
+- When adjusting core and shader clocks independently please remember that the minimum allowed shader to core clock ratio is limited by hardware. Attempt to drive the ratio out of range may prevent the clocks from applying.
+- <Link> button must be unchecked in order to adjust shader clock independently of core clock.
+- When this slider is focused, you may use cursor keys on your keyboard to finetune the clock.
+- You may click the adjacent edit field to directly type in a desired clock.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

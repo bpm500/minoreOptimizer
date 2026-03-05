@@ -1,0 +1,9 @@
+Propriedades do estilo de exibição de informações na tela
+Exibe os itens das propriedades do estilo de exibição de informações na tela atualmente ativo e permite personalizá-los.
+
+Sugestões:
+- Você pode alterar as propriedades de um item clicando duas vezes ou selecionando e pressionando a tecla <Enter>.
+- Você pode alterar diretamente as configurações adicionais associadas a alguns itens clicando duas vezes enquanto pressiona <Ctrl>. Por exemplo, mantenha pressionada a tecla <Ctrl> ao clicar duas vezes nos itens associados a <Alinhamento do Valor> para selecionar o tamanho de fonte fixo ou algum dos modos de alinhamento de tamanho de fonte variável.
+- Você pode adicionar subitens a alguns itens da lista (por exemplo, Biblioteca de Cores), selecionando a raiz do item ou um de seus subitens e pressionando <Insert>.
+- Você pode excluir subitens de alguns itens da lista (por exemplo, Biblioteca de Cores), selecionando o subitem desejado e pressionando <Delete>.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,7 @@
+Hotkey für <Aufnahme beenden>
+Ermöglicht einen Hotkey festzulegen, um die Aufzeichnung der Bildratenstatistiken zu beenden. Während der Aufzeichnung können Sie diese Tastenkombination drücken, um die Benchmark-Statistiken in einer Textdatei zu speichern und gleichzeitig die Benchmark-Ergebnisse auf dem Overlay-Bildschirm anzuzeigen. Den Hotkey erneut drücken, um die Ergebnisse aus der Overlay-Bildschirmanzeige zu löschen.
+
+Hinweise:
+- Durch die Aktivierung dieser Option wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server ermöglicht 3D-Anwendungen Statistiken aufzuzeichnen und der Prozess kann erst beendet werden, wenn diese Option deaktiviert ist.
+- Einige Hotkey-Kombinationen (z. B. <1>...<5>, <Strg>+<1>...<Strg>+<5> und <Strg>+<D>) sind reserviert und können nicht verwendet werden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

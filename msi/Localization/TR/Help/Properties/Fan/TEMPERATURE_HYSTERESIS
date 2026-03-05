@@ -1,0 +1,8 @@
+Temperature hysteresis
+Displays and adjusts temperature hysteresis for user defined software automatic fan control mode. Hysteresis can be used to reduce unwanted fan speed fluctuations as well as improve cooling efficiency. When non-zero hysteresis value is defined, software automatic fan control adjustment layer uses the following algorithm:
+
+- Last temperature value causing fan speed to change is being latched.
+- When temperature is decreasing no fan speed changes are allowed while the diffference between latched and current temperature values is less than hysteresis value.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,8 @@
+Tasto di scelta rapida cattura video
+Consente di definire i tasti di scelta rapida a livello globale per avviare e fermare la cattura video.
+
+Consigli:
+- L'attivazione di questa opzione causerà un ulteriore %SERVERPRODUCTNAME% processo ad essere avviato automaticamente. Il server fornisce servizi di acquisizione video per applicazioni 3D e non può essere scaricato fino a quando questa opzione è disabilitata.
+- Alcune applicazioni (ad esempio FEAR) possono appositamente bloccare i tasti di scelta rapida rompendo le catene a basso livello di aggancio della tastiera.
+- Alcune combinazioni di tasti (ad esempio, <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> e <Ctrl>+<D>) sono riservati e non possono essere utilizzati.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

@@ -1,0 +1,5 @@
+Przytnij wymiary wideo do wielokrotnoœci liczby 16
+Niektóre dekodery wideo innych firm (np. wbudowany dekoder wideo VirtualDub MJPG) moga nie zdekodowac wideo, jesli szerokosc i wysokosc nie sa wielokrotnoscia 16. Mozna wlaczyc te opcje, aby przyciac wymiary wideo, aby uzyskac wielokrotnosc 16, aby poprawic zgodnosc z takimi aplikacjami do edycji wideo innych firm.
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

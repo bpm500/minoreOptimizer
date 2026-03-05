@@ -1,0 +1,446 @@
+#src GPU temperature
+#dst Температура на видеокарта
+#end
+#src GPU%d temperature
+#dst Температура на видеокарта%d
+#end
+#src GPU voltage
+#dst Напрeжение на видеокартата
+#end
+#src GPU%d voltage
+#dst Напрeжение на видеокартата%d
+#end
+#src PCB temperature
+#dst Температура на платката
+#end
+#src PCB%d temperature
+#dst Температура на платката на GPU%d
+#end
+#src Fan speed
+#dst Скорост на вентилатора
+#end
+#src GPU%d fan speed
+#dst Скорост на вентолатора на GPU%d
+#end
+#src Core clock
+#dst Чeстота на ядрото
+#end
+#src GPU%d core clock
+#dst Чeстота на ядрото на GPU%d
+#end
+#src Shader clock
+#dst Чeстота на шейдърите
+#end
+#src GPU%d shader clock
+#dst Чeстота на шейдърите на GPU%d
+#end
+#src Memory clock
+#dst Чeстота на видеопаметта
+#end
+#src GPU%d memory clock
+#dst Честота на видеопаметта на GPU%d
+#end
+#src GPU usage
+#dst Използване на GPU
+#end
+#src GPU%d usage
+#dst Използване на GPU%d
+#end
+#src Framerate
+#dst Кадри
+#end
+#src Memory usage
+#dst Използване на видеопаметта
+#end
+#src GPU%d memory usage
+#dst Използване на видеопаметта%d
+#end
+#src Memory usage \ process
+#dst Използване на видеопаметта\ процес
+#end
+#src GPU%d memory usage \ process
+#dst Използване на видеопаметта%d \ процесс
+#end
+#src °C
+#dst °C
+#end
+#src V
+#dst В
+#end
+#src MHz
+#dst Мхц
+#end
+#src MB
+#dst МБ
+#end
+#src FPS
+#dst кадри/c
+#end
+#src %dMHz
+#dst %dМхц
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fВ
+#end
+#src %+.3fV
+#dst %+.3fВ
+#end
+#src Auto
+#dst Автоматичен
+#end
+#src Aux voltage
+#dst Помощно напрежение
+#end
+#src GPU%d aux voltage
+#dst Помощно напрежение на GPU%d
+#end
+#src Memory voltage
+#dst Напрeжение на Рам паметта
+#end
+#src GPU%d memory voltage
+#dst Напрежение на паметта на GPU%d
+#end
+#src Fan tachometer
+#dst Обороти на вентилатора
+#end
+#src GPU%d fan tachometer
+#dst Обороти на вентилатора на GPU%d
+#end
+#src RPM
+#dst об/мин
+#end
+#src Memory temperature
+#dst Температура на видеопаметта
+#end
+#src GPU%d memory temperature
+#dst Температура на паметта на GPU%d
+#end
+#src VRM temperature
+#dst Температура на VRM
+#end
+#src GPU%d VRM temperature
+#dst Температура на VRM на GPU%d
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst Потвърждавам, че съм наясно с неофициалните ограничения за овърклок и напълно разбирам, че MSI няма да ми предостави никаква поддръжка за него
+#end
+#src Power
+#dst Енергопотребление на GPU
+#end
+#src GPU%d power
+#dst Енергопотребление на GPU%d
+#end
+#src Power percent
+#dst Процент на eнергопотребление
+#end
+#src GPU%d power percent
+#dst Процент на енергопотребление на GPU%d
+#end
+#src Frametime
+#dst Време на кадрите
+#end
+#src ms
+#dst мс
+#end
+#src Temp limit
+#dst Ограничение на температурaтa
+#end
+#src GPU%d temp limit
+#dst Ограничение на температурaтa на GPU%d
+#end
+#src Power limit
+#dst Ограничение на енергопотреблението
+#end
+#src GPU%d power limit
+#dst Ограничение на енергопотреблението на GPU%d
+#end
+#src Voltage limit
+#dst Ограничение на напрежението
+#end
+#src GPU%d voltage limit
+#dst Ограничение на напрежението на GPU%d
+#end
+#src OV max limit
+#dst OV максимална граница
+#end
+#src GPU%d OV max limit
+#dst OV максимална граница на GPU%d
+#end
+#src FB usage
+#dst Използване на контролера на видеопаметта
+#end
+#src GPU%d FB usage
+#dst Използване на контролера на паметта на GPU%d
+#end
+#src VID usage
+#dst Използване на VID
+#end
+#src GPU%d VID usage
+#dst Използване на GPU%d VID
+#end
+#src BUS usage
+#dst Използване на шината
+#end
+#src GPU%d BUS usage
+#dst Използване на шината на GPU%d
+#end
+#src No load limit
+#dst Без ограничение на натоварването
+#end
+#src GPU%d no load limit
+#dst Без ограничение на натоварването на GPU%d
+#end
+#src CPU usage
+#dst Използване на Процесора
+#end
+#src CPU%d usage
+#dst Използване на Процесора%d
+#end
+#src RAM usage
+#dst Използване на Рам паметта
+#end
+#src RAM usage \ process
+#dst Използване на Рам паметта\ процес
+#end
+#src Commit charge
+#dst Виртуална памет
+#end
+#src CPU temperature
+#dst Температура на Процесора
+#end
+#src CPU%d temperature
+#dst Температура на процесора%d
+#end
+#src SLI sync limit
+#dst Ограничение за синхронизиране на SLI
+#end
+#src GPU%d SLI sync limit
+#dst Ограничение за синхронизиране на SLI GPU%d
+#end
+#src Frequency, MHz
+#dst Честота, МХц
+#end
+#src Voltage, mV
+#dst Напрежение, мВ
+#end
+#src Power, %
+#dst Енергопотребление, %
+#end
+#src OC Scanner
+#dst Овърклок скенер
+#end
+#src W
+#dst Вт
+#end
+#src CPU clock
+#dst Честота на процесора
+#end
+#src CPU%d clock
+#dst Честота на процесора%d
+#end
+#src Aux2 voltage
+#dst Помощно напрежение 2
+#end
+#src GPU%d aux2 voltage
+#dst Помощно напрежение 2 GPU%d
+#end
+
+#src GPU temperature 2
+#dst Температура на GPU 2
+#end
+#src GPU%d temperature 2
+#dst Температура на GPU 2%d
+#end
+#src PCB temperature 2
+#dst Температура на платката 2
+#end
+#src PCB%d temperature 2
+#dst Температура на платката на GPU 2%d
+#end
+#src Memory temperature 2
+#dst Температура на паметта 2
+#end
+#src GPU%d memory temperature 2
+#dst Температура на паметта на GPU 2%d
+#end
+#src VRM temperature 2
+#dst Температура на VRM 2
+#end
+#src GPU%d VRM temperature 2
+#dst Температура на VRM на GPU 2%d
+#end
+
+#src GPU temperature 3
+#dst Температура на GPU 3
+#end
+#src GPU%d temperature 3
+#dst Температура na GPU 3%d
+#end
+#src PCB temperature 3
+#dst Температура на платката 3
+#end
+#src PCB%d temperature 3
+#dst Температура на платката на GPU 3%d
+#end
+#src Memory temperature 3
+#dst Температура на паметта 3
+#end
+#src GPU%d memory temperature 3
+#dst Температура на паметта на GPU 3%d
+#end
+#src VRM temperature 3
+#dst Температура на VRM 3
+#end
+#src GPU%d VRM temperature 3
+#dst Температура на VRM на GPU 3%d
+#end
+
+#src GPU temperature 4
+#dst Температура на GPU 4
+#end
+#src GPU%d temperature 4
+#dst Температура на GPU 4%d
+#end
+#src PCB temperature 4
+#dst Температура на платката 4
+#end
+#src PCB%d temperature 4
+#dst Температура на платката на GPU 4%d
+#end
+#src Memory temperature 4
+#dst Температура на паметта 4
+#end
+#src GPU%d memory temperature 4
+#dst Температура на паметта на GPU 4%d
+#end
+#src VRM temperature 4
+#dst Температура на VRM 4
+#end
+#src GPU%d VRM temperature 4
+#dst Температура на VRM на GPU 4%d
+#end
+
+#src GPU temperature 5
+#dst Температура на GPU 5
+#end
+#src GPU%d temperature 5
+#dst Температура на GPU 5%d
+#end
+#src PCB temperature 5
+#dst Температура на платката 
+#end
+#src PCB%d temperature 5
+#dst Температура на платката на GPU 5%d
+#end
+#src Memory temperature 5
+#dst Температура на паметта 5
+#end
+#src GPU%d memory temperature 5
+#dst Температура на паметта на GPU 5%d
+#end
+#src VRM temperature 5
+#dst Температура на VRM 5
+#end
+#src GPU%d VRM temperature 5
+#dst Температура на VRM на GPU 5%d
+#end
+
+#src <GPU plugin>
+#dst <GPU плъгин>
+#end
+#src <CPU plugin>
+#dst <плъгин на централния процесор>
+#end
+#src <motherboard plugin>
+#dst <плагин на дънната платка>
+#end
+#src <RAM plugin>
+#dst <плъгин на Рам паметта>
+#end
+#src <HDD plugin>
+#dst <плъгин на диска>
+#end
+#src <NET plugin>
+#dst <плъгин на мрежата>
+#end
+#src <PSU plugin>
+#dst <плъгин на захранването>
+#end
+#src <UPS plugin>
+#dst <плъгин на UPS>
+#end
+#src <miscellaneous plugin>
+#dst <друг плъгин>
+#end
+
+#src Framerate Min
+#dst Честота на кадрите Минимално
+#end
+#src Framerate Avg
+#dst Честота на кадрите Средно
+#end
+#src Framerate Max
+#dst Честота на кадрите Максимално
+#end
+#src Framerate 1% Low
+#dst Честота на кадрите ниски 1%
+#end
+#src Framerate 0.1% Low
+#dst Честота на кадрите ниски 0.1%
+#end
+
+#src CPU power
+#dst Мощност на процесора
+#end
+#src CPU%d power
+#dst Мощност на процесора%d
+#end
+
+#src Fan speed 2
+#dst Скорост на вентилатора 2
+#end
+#src GPU%d fan speed 2
+#dst Скорост на вентилатора на GPU 2%d
+#end
+#src Fan tachometer 2
+#dst Обороти на вентилатора 2
+#end
+#src GPU%d fan tachometer 2
+#dst Обороти на вентилатора на GPU 2%d
+#end
+
+#src Fan speed 3
+#dst Скорост на вентилатора 3
+#end
+#src GPU%d fan speed 3
+#dst Скорост на вентилатора на GPU 3%d
+#end
+#src Fan tachometer 3
+#dst Обороти на вентилатора 3
+#end
+#src GPU%d fan tachometer 2
+#dst Обороти на вентилатора на GPU 2%d
+#end
+
+#src Fan 1
+#dst Вентилатор 1
+#end
+#src Fan 2
+#dst Вентилатор 2
+#end
+#src Fan 3
+#dst Вентилатор 3
+#end
+#src Fan 4
+#dst Вентилатор 4
+#end
+#src firmware
+#dst фърмуер
+#end
+
+#src %d nodes
+#dst по %d възли
+#end

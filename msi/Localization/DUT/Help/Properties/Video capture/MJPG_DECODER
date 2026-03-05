@@ -1,0 +1,7 @@
+Schakel MJPG decoder in
+
+MJPG is een standaard open video compressie, van origine onderteund door het bestuuringssysteem en door het merendeel van de beschikbare video spelers. Hierdoor is een bijkomende MJPG codec installatie niet nodig om MJPG gecodeerde video's af te spelen. Het is wel mogelijk dat sommige toepassingen (vb Sony Vega PRO) het niet ondersteunen zonder aanpassingen. Je kan deze optie inschakelen om %PRODUCTNAME%  eigen MJPG decoder te installeren voor zulke toepassingen. Het is mogelijk dat deze conflicten kan veroorzaken met andere MJPG decoders die geïnstalleerd zijn op je systeem.
+
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

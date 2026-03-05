@@ -1,0 +1,9 @@
+Eigenschaften des aktiven Overlay-Bildschirmanzeigestils
+Zeigt die Liste der Eigenschaften für den aktiven Stil der Overlay-Bildschirmanzeige an und ermöglicht dessen Anpassung.
+Ermöglicht die Auswahl verschiedener Formatierungs- und Anzeigestile für die Overlay-Bildschirmanzeige. Die Eigenschaften des aktiven Stils können in der Liste unten angepasst werden.
+Hinweise:
+- Sie können eine Eigenschaft ändern, indem Sie darauf doppelklicken oder sie auswählen und die <Eingabetaste> drücken.
+- Sie können zusätzliche Einstellungen für einige Eigenschaften ändern, indem Sie darauf doppelklicken und dabei die <Strg>-Taste gedrückt halten. Sie können beispielsweise die <Strg>-Taste gedrückt halten, während Sie auf eine Eigenschaft im Knoten <Wertausrichtung> doppelklicken, um zwischen den Ausrichtungsmodi "Feste Schriftgröße" und "Variable Schriftgröße" umzuschalten.
+- Sie können einigen Eigenschaftsknoten (z. B. der Farbbibliothek) untergeordnete Elemente hinzufügen, indem Sie den Stammknoten oder einen seiner untergeordneten Knoten auswählen und die Taste <Einfügen> drücken.
+- Sie können untergeordnete Elemente aus einigen Eigenschaftsknoten (z. B. der Farbbibliothek) löschen, indem Sie das gewünschte Element auswählen und die Taste <Entf> drücken.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

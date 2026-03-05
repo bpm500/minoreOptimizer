@@ -1,0 +1,11 @@
+Horloge shader
+Ajuste l'horloge shader du GPU maître.
+
+Astuce:
+- Quand le paramètre mode de syncronisation GPU est activé dans la tabulation <Générale> dans les propiétés avancées, tout changement appliqué au GPU maître est également appliqué à tous les GPU similaires installé dans le système.
+- L'ajustement indépendant de l'horloge shader n'est disponible que sur les cartes graphiques de la série GeForce 8, 9 et 200 d'Nvidia . Les horloges Shader et core sont liées avec un ratio 2x sur les carte graphiques de série GeForce 400. Les cartes graphique AMD ne supportent pas l'ajustement indépendant core/shader.
+- Lorsque vous ajustez indépendemment l'horloge core et shader veuillez garder à l'esprit que le ratio minimal de l'horloge shader à core est limité par le matériel. Essayer de conduire un ratio hors limites pourrait empêcher l'application des horloges.
+- Le bouton <Lien> doit être décoché pour pouvoir ajuster la clock shader independemment de la clock core.
+- Quand le curseur de clock est focalisé, vous pouvez utiliser les curseurs du clavier pour régler finement la clock.
+- Vous pouvez cliquer sur le champ d'édition adjacent pour taper directement la clock désirée.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

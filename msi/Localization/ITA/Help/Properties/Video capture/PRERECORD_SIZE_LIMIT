@@ -1,0 +1,5 @@
+Limite dimensione di preregistrazione
+Consente la definizione del limite di dimensione per il buffer di preregistrazione in megabyte. Si può impostare a zero per lasciare la dimensione illimitata. Si prega di prendere nota che in caso di la preregistrazione in un file lo spazio riservato effettivo del file sarà due volte più grande per fornire un efficace anello di buffering.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

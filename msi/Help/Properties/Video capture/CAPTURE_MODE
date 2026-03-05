@@ -1,0 +1,6 @@
+Video capture mode
+By default %PRODUCTNAME% is captuing video in mixed mode, which is allowing it to capture video stream either from desktop or from running 3D application(s) depending on the context. In this mode desktop video capture mode is selected if you start capture when no 3D application(s) are running, otherwise 3D application capture mode is selected. 
+You may use this option to force desktop or 3D application capture mode usage regardless of the context.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

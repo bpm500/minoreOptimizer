@@ -1,0 +1,5 @@
+Framerate
+Adjusts the framerate of encoded video. Some frames will be dropped if your system is not fast enough to encode video at desired framerate, in this case you may try to decrease the framerate to improve video smoothness.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

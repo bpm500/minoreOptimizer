@@ -1,0 +1,6 @@
+Abilita l'accesso dell'interfaccia di basso livello hardware
+Consente %PRODUCTNAME% di utilizzare driver di basso livello per l'accesso dell'hardware grafico. L'accesso di basso livello fornisce la più efficace implementazione hardware di controllo e estende la possibilità per il monitoraggio hardware e il controllo oltre i limiti del driver della scheda grafica. Tuttavia, quando l'accesso di basso livello hardware è in uso in alcune applicazioni di sistema mal progettate (ad esempio client PunkBuster, infame per Battlefield: Bad Company 2) può causare seri problemi di stabilità a causa del loro accesso non autorizzato a intervalli di memoria hardware mappata.
+È possibile utilizzare questa opzione per risolvere tali questioni, ma potrà anche ridurre le prestazioni del modulo hardware di monitoraggio e un certo controllo hardware o funzioni di controllo andranno perse.
+
+suggerimenti:
+- È possibile disabilitare i suggerimenti interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

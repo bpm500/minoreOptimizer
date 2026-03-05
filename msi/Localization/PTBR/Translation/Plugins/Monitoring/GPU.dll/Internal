@@ -1,0 +1,207 @@
+#src GPU%d engine 0 usage
+#dst Uso do Mecanismo 0 da GPU %d
+#end
+#src GPU%d engine 1 usage
+#dst Uso do Mecanismo 1 da GPU %d
+#end
+#src GPU%d engine 2 usage
+#dst Uso do Mecanismo 2 da GPU %d
+#end
+#src GPU%d engine 3 usage
+#dst Uso do Mecanismo 3 da GPU %d
+#end
+#src GPU%d engine 4 usage
+#dst Uso do Mecanismo 4 da GPU %d
+#end
+#src GPU%d engine 5 usage
+#dst Uso do Mecanismo 5 da GPU %d
+#end
+#src GPU%d engine 6 usage
+#dst Uso do Mecanismo 6 da GPU %d
+#end
+#src GPU%d engine 7 usage
+#dst Uso do Mecanismo 7 da GPU %d
+#end
+#src GPU%d engine 8 usage
+#dst Uso do Mecanismo 8 da GPU %d
+#end
+#src GPU%d engine 9 usage
+#dst Uso do Mecanismo 9 da GPU %d
+#end
+#src GPU%d engine 10 usage
+#dst Uso do Mecanismo 10 da GPU %d
+#end
+#src GPU%d engine 11 usage
+#dst Uso do Mecanismo 11 da GPU %d
+#end
+#src GPU%d engine 12 usage
+#dst Uso do Mecanismo 12 da GPU %d
+#end
+#src GPU%d engine 13 usage
+#dst Uso do Mecanismo 13 da GPU %d
+#end
+#src GPU%d engine 14 usage
+#dst Uso do Mecanismo 14 da GPU %d
+#end
+#src GPU%d engine 15 usage
+#dst Uso do Mecanismo 15 da GPU %d
+#end
+#src GPU%d engine 16 usage
+#dst Uso do Mecanismo 16 da GPU %d
+#end
+#src GPU%d engine 17 usage
+#dst Uso do Mecanismo 17 da GPU%d
+#end
+#src GPU%d engine 18 usage
+#dst Uso do Mecanismo 18 da GPU %d
+#end
+#src GPU%d engine 19 usage
+#dst Uso do Mecanismo 19 da GPU %d
+#end
+#src GPU%d engine 20 usage
+#dst Uso do Mecanismo 20 da GPU %d
+#end
+#src GPU%d engine 21 usage
+#dst Uso do Mecanismo 21 da GPU %d
+#end
+#src GPU%d engine 22 usage
+#dst Uso do Mecanismo 22 da GPU %d
+#end
+#src GPU%d engine 23 usage
+#dst Uso do Mecanismo 23 da GPU %d
+#end
+#src GPU%d engine 24 usage
+#dst Uso do Mecanismo 24 da GPU %d
+#end
+#src GPU%d engine 25 usage
+#dst Uso do Mecanismo 25 da GPU%d
+#end
+#src GPU%d engine 26 usage
+#dst Uso do Mecanismo 26 da GPU %d
+#end
+#src GPU%d engine 27 usage
+#dst Uso do Mecanismo 27 da GPU %d
+#end
+#src GPU%d engine 28 usage
+#dst Uso do Mecanismo 28 da GPU %d
+#end
+#src GPU%d engine 29 usage
+#dst Uso do Mecanismo 29 da GPU %d
+#end
+
+#src GPU engine 0 usage
+#dst Uso do Mecanismo 0 da GPU
+#end
+#src GPU engine 1 usage
+#dst Uso do Mecanismo 1 da GPU
+#end
+#src GPU engine 2 usage
+#dst Uso do Mecanismo 2 da GPU
+#end
+#src GPU engine 3 usage
+#dst Uso do Mecanismo 3 da GPU
+#end
+#src GPU engine 4 usage
+#dst Uso do Mecanismo 4 da GPU
+#end
+#src GPU engine 5 usage
+#dst Uso do Mecanismo 5 da GPU
+#end
+#src GPU engine 6 usage
+#dst Uso do Mecanismo 6 da GPU
+#end
+#src GPU engine 7 usage
+#dst Uso do Mecanismo 7 da GPU
+#end
+#src GPU engine 8 usage
+#dst Uso do Mecanismo 8 da GPU
+#end
+#src GPU engine 9 usage
+#dst Uso do Mecanismo 9 da GPU
+#end
+#src GPU engine 10 usage
+#dst Uso do Mecanismo 10 da GPU
+#end
+#src GPU engine 11 usage
+#dst Uso do Mecanismo 11 da GPU
+#end
+#src GPU engine 12 usage
+#dst Uso do Mecanismo 12 da GPU
+#end
+#src GPU engine 13 usage
+#dst Uso do Mecanismo 13 da GPU
+#end
+#src GPU engine 14 usage
+#dst Uso do Mecanismo 14 da GPU
+#end
+#src GPU engine 15 usage
+#dst Uso do Mecanismo 15 da GPU
+#end
+#src GPU engine 16 usage
+#dst Uso do Mecanismo 16 da GPU
+#end
+#src GPU engine 17 usage
+#dst Uso do Mecanismo 17 da GPU
+#end
+#src GPU engine 18 usage
+#dst Uso do Mecanismo 18 da GPU
+#end
+#src GPU engine 19 usage
+#dst Uso do Mecanismo 19 da GPU
+#end
+#src GPU engine 20 usage
+#dst Uso do Mecanismo 20 da GPU
+#end
+#src GPU engine 21 usage
+#dst Uso do Mecanismo 21 da GPU
+#end
+#src GPU engine 22 usage
+#dst Uso do Mecanismo 22 da GPU
+#end
+#src GPU engine 23 usage
+#dst Uso do Mecanismo 23 da GPU
+#end
+#src GPU engine 24 usage
+#dst Uso do Mecanismo 24 da GPU
+#end
+#src GPU engine 25 usage
+#dst Uso do Mecanismo 25 da GPU
+#end
+#src GPU engine 26 usage
+#dst Uso do Mecanismo 26 da GPU
+#end
+#src GPU engine 27 usage
+#dst Uso do Mecanismo 27 da GPU
+#end
+#src GPU engine 28 usage
+#dst Uso do Mecanismo 28 da GPU
+#end
+#src GPU engine 29 usage
+#dst Uso do Mecanismo 29 da GPU
+#end
+
+#src GPU%d dedicated memory usage
+#dst Uso de VRAM Dedicada da GPU %d
+#end
+#src GPU%d shared memory usage
+#dst Uso de VRAM Compartilhada da GPU %d
+#end
+#src GPU%d dedicated memory usage \ process
+#dst Uso de VRAM Dedicada/Processo da GPU %d
+#end
+#src GPU%d shared memory usage \ process
+#dst Uso de VRAM Compartilhada/Processo da GPU %d
+#end
+
+#src GPU dedicated memory usage
+#dst Uso de VRAM Dedicada
+#end
+#src GPU shared memory usage
+#dst Uso de VRAM Compartilhada
+#end
+#src GPU dedicated memory usage \ process
+#dst Uso de VRAM Dedicada/Processo
+#end
+#src GPU shared memory usage \ process
+#dst Uso de VRAM Compartilhada/Processo
+#end

@@ -1,0 +1,7 @@
+Touche de capture vidéo
+Permet de définir la touche globale pour démarrer et arrêter la capture vidéo.
+
+Astuce:
+- Activer cette option va démarrer automatiquement des processus du serveur %SERVERPRODUCTNAME%. Le serveur permet la catpure d'écran pour les applications 3D et ne peux pas être déchargé tant que cette option est active.
+- Certaines combinaisons de touches (ex: <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) sont réservées et ne peuvent être utilisées.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

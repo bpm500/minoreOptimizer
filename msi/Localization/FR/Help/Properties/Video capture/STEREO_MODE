@@ -1,0 +1,9 @@
+Mode de réduction
+les flux audio Multi pistes capturés sur des cartes sons multi pistes peuvent être réduite en flux stéréo dans deux modes différents:
+
+- Capture stéréo - les pistes audio frontales gauche et droite sont capturées du flux multi pistes. Ce mode laisse le volume audio original, mais perd lles flux audio central et surround.
+- Mix stéréo - les pistes stéréo sont mixées à partir des pistes gauche, droite, centre et surround gauche et droite. Ce mode change le volume original à cause du mixage. 
+
+Astuce:
+- Cette option fonctionne seulement quand vous capturez l'audio via les périhériques de lecture WASAPI sous Windows Vista ou OS plus récent. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,72 @@
+#src Pause
+#dst Pause
+#end
+#src Clear history
+#dst Verlauf löschen
+#end
+#src Show status
+#dst Status anzeigen
+#end
+#src Show profiler panel
+#dst Profiler-Panel anzeigen
+#end
+#src Log history to file
+#dst Verlauf in Datei schreiben
+#end
+#src Always on top
+#dst Immer im Vordergrund
+#end
+#src Hide attached monitoring panel
+#dst Angehängtes Überwachungspanel ausblenden
+#end
+#src Attach
+#dst Anhängen
+#end
+#src Detach
+#dst Abtrennen
+#end
+#src Detach all
+#dst Alle abtrennen
+#end
+#src Properties
+#dst Eigenschaften
+#end
+#src Mark minimum %s
+#dst Minimum %s markieren
+#end
+#src Mark maximum %s
+#dst Maximum %s markieren
+#end
+#src Remove all markers
+#dst Alle Markierungen entfernen
+#end
+#src Remove selection
+#dst Auswahl entfernen
+#end
+
+#src Copy
+#dst Kopie
+#end
+
+#src Show
+#dst Anzeigen
+#end
+#src Profiles
+#dst Profile
+#end
+#src Close
+#dst Schließen
+#end
+#src There are no profiles
+#dst Es sind keine Profile vorhanden
+#end
+
+#src Select by type
+#dst Nach Typ auswählen
+#end
+#src Select by group
+#dst Nach Gruppe auswählen
+#end
+#src Reset order
+#dst Reihenfolge zurücksetzen
+#end

@@ -1,0 +1,7 @@
+Power limit
+Displays the current master GPU power limit, if it is supported by graphics card.
+
+Hints:
+- When GPU synchronization mode is enabled any changes applied to the master GPU are also mirrored to all similar GPUs installed in the system.
+- You may click this field to directly type in a desired power limit.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

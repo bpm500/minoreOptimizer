@@ -1,0 +1,5 @@
+Größe
+Gibt die Größe an. Bitte beachten Sie, dass die beste Qualität bei der Skalierung und Darstellung von Schriftarten durch vordefinierte Größen mit den Werten 40 %, 50 %, 80 % und 100 % erreicht wird. Alle anderen Werte werden von der 100 %-Schriftgröße interpoliert und können unerwünschte Unschärfeeffekte aufweisen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

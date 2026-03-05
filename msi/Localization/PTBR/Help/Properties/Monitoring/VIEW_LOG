@@ -1,0 +1,7 @@
+Visualizar arquivos de monitoramento
+Permite buscar e selecionar para visualização arquivos de monitoramento gravados.
+
+Sugestões:
+- O %PRODUCTNAME% salva os monitoramentos em formato de arquivo RivaTuner nativo. Você pode usar o RivaTuner para visualizar os arquivos gravados com o %PRODUCTNAME%. 
+- O processo de monitoramento consome recursos do sistema, sobretudo da CPU, a cada atualização para gravar dados no disco rígido. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

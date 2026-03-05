@@ -1,0 +1,6 @@
+Reset display mode on applying unofficial overclocking
+Due to bug in the AMD Catalyst drivers, display may flicker after applying unofficial overclocking until display mode change. You may enable this option as a workaround to force display mode to be reset after applying unofficial overclocking.
+
+Hints:
+- This option is only active if there is at least one supported AMD graphic card installed in the system.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

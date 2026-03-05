@@ -1,0 +1,11 @@
+Voltage control mode
+
+Allows selecting one of the following voltage control modes:
+
+- Reference design - only reference design cards and voltage controllers are supported.
+- Standard MSI - both reference design and custom design MSI cards and voltage controllers are supported.
+- Extended MSI - both reference design and custom design MSI cards and voltage controllers are supported and extended voltage control range is available for some models.
+- Third party - community-supported mode providing voltage control for some third party custom design cards. If your third party custom design card is equipped with supported voltage controller and not supported by this mode yet, then you can try to add it to third party hardware database yourself. Refer to %PRODUCTNAME% SDK documentation to get more detailed info. Please take a note that this mode is not supported by MSI in any form, please use it at your own risk.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties. 

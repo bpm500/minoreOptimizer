@@ -1,0 +1,7 @@
+Core klok.
+Dit past de Core klok van de primaire grafische kaart(GPU) aan.
+
+Hint:
+- Wanneer de synchroniseer mode is ingesteld dan wordt dit op alle gelijke GPU's toegepast.
+- Je kan op het aanpas veld klikken en onmiddelijk een waarde in tikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

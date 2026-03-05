@@ -1,0 +1,9 @@
+Use dedicated encoder server
+By default video encoding is performed in context of 3D process video being captured from. This means that only 32-bit versions of codecs can be used when capturing video from 32-bit applications and only 64-bit versions of codecs can be used when capturing video from 64-bit applications. 
+You may enable this option to force the encoding to be performed in helper dedicated encoder service process. This way you can use 32-bit versions of codecs when capturing video from 64-bit applications and vice versa. 
+Addtitionally, dedicated encoder server runs in separate address space so enabling this option allows reserving much more RAM for prerecord buffer without eating the address space of 3D application you're capturing video from.
+Dedicated encoder server can be also useful in some specific cases when in-process video encoding performance suffer because of different DirectX syncronization issues. For example, dedicated video encoder usage may boost encoding performance via Intel QuickSync plugin working in Direct3D9 hardware acceleration mode when capturing video from Direct3D9 applications.
+
+Hints:
+- This option requires enabling dedicated encoder server service in compatibility properties of %SERVERPRODUCTNAME%. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

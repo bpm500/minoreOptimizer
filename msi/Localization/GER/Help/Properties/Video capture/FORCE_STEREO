@@ -1,0 +1,6 @@
+Downmix von Mehrkanal-Audio auf Stereo
+Ermöglicht das Downmixen von Mehrkanal-Audiostreams in Stereo-Audiostreams. Das Downmixing reduziert die resultierende Videodateigröße und verbessert die Kompatibilität mit verschiedenen Videoplayern und Videobearbeitungssoftwares.
+
+Hinweise:
+- Diese Option funktioniert nur, wenn Audio über WASAPI-Wiedergabegeräte ab Windows Vista aufgenommen wird.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

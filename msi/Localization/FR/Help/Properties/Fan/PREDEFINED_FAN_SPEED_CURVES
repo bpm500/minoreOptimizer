@@ -1,0 +1,6 @@
+Courbes de vitesse de ventilateur prédéfinie
+Affiche la liste des courbes de vitesse de ventilateur prédéfinie. La liste contient toujours la courbe par défaut et peut optionnellement contenir d'autres courbes (comme silencieuse ou performance) pour quelques designs de carte graphique MSI custom.
+
+Astuce:
+- La courbe de vitesse de contrôle automatique du ventilateur n'est pas affectée par les profils, c'est un paramètre global pour tout les GPUs installés dans le système. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

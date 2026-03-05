@@ -1,0 +1,5 @@
+Monitoring settings
+Allows monitoring module settings to be saved to or loaded from a profile slot. Profile related monitoring module settings includes hardware polling rate, active monitoring graphs list, graphs order and graph specific settings.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

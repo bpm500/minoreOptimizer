@@ -1,0 +1,6 @@
+Synchronize fan speeds
+Allows synchronized or asynchronous GPU fan speed adjustment on graphics cards with multiple independent fan controllers. 
+When synchronization is enabled all GPU fans are running at the same speed in fixed or software automatic fan speed modes. In default automatic mode fans are always asynchronous.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

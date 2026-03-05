@@ -1,0 +1,5 @@
+Formato Temperatura
+Consente di selezionare entrambi i formati di temperatura Celsius o Fahrenheit. Si prega di prendere nota che questa impostazione influisce solo le letture di temperatura nella finestra di monitoraggio hardware. Regolazioni di temperatura Hardware correlate (ad esempio, la velocità della ventola per mappatura curva di temperatura per tutte le schede o la regolazione della temperatura di destinazione per la serie NVIDIA Kepler) vengono sempre visualizzate e regolate in gradi Celsius per la massima unificazione, sicurezza e compatibilità.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

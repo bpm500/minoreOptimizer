@@ -1,0 +1,9 @@
+Mostra in On-Screen Display
+Permette di mostrare i valori del grafico selezionato nella On-Screen Display.
+
+Consigli:
+- È necessario attivare e selezionare il grafico desiderato per avere accesso a questa opzione.
+- On-Screen Display rendering non è libero in termini di prestazioni, ogni simbolo visualizzato richiede risorse di CPU e GPU. Quindi cercate di evitare la visualizzazione di informazioni non necessarie in per la visualizzazione sullo schermo, al fine di ridurre al minimo il calo di prestazioni.
+- L'attivazione di questa opzione causerà un ulteriore processo di %SERVERPRODUCTNAME% ad essere avviato automaticamente. Il server fornisce On-Screen Display di prestazione dei servizi per applicazioni 3D e non può essere scaricato fino a quando si disattiva l'uscita On-Screen Display per tutti i grafici.
+- Si può tenere premuto il tasto sulla tastiera <Shift>, mentre si modifica questa opzione per cambiare sincronicamente tutti i grafici.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

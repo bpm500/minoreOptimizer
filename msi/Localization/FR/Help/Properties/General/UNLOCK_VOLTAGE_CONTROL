@@ -1,0 +1,9 @@
+Débloquage du contrôle de la tension
+Débloque le contrôle de la tension si supporté par le matériel. Bloquez le contrôle de la tension si vous n'avez pas besoin des fonctionnalités de contrôle de la tension et si vous n'êtes pas un utilisateur expermimenté et ne comprenez pas les risques du contrôle de la tension.
+
+Astuce:
+- Il peut-être dangereux de lancer plusieurs applications qui accèdent simultanément le régulateur de tension de votre carte graphique. Veuillez bloquer cette option si vous n'êtes pas certain qu'il n'y a pas une telle application dans votre système.
+- Il n'est pas recommandé de combiner le management automatique des profils avec le contrôle de tension. Des changements logiciel dynamique de tension et fréquence peut causer des effets aléatoires et réduire la stabilité du système.
+- Le contrôle de tension n'est disponible que sur un nombre limité de cartes graphique équipées de régulateur de tension programmable. Veuillez vous réferer à la documentation pour avoir la liste complète des modèles de carte qui supportent l'ajustemetn de tension.
+- Un redémarrage de %PRODUCTNAME% est requis pour appliquer les changemetns après basculement de cette option.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

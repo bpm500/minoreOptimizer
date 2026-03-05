@@ -1,0 +1,10 @@
+Velocità ventola
+Regola la velocità della ventola della GPU principale.
+
+Consigli:
+- Quando l'impostazione della modalità di sincronizzazione GPU è attivata nella scheda <Generale> in proprietà avanzate, qualsiasi modifica applicata alla GPU principale sarà applicata anche a tutte le GPU simili installate nel sistema.
+- Il controllo della velocità della ventola non è disponibile se la scheda grafica non è dotata di chip Fan Controller e (o) sistema di raffreddamento controllabili.
+- Il pulsante "Auto" deve essere liberato al fine di controllare il ventilatore direttamente.
+- Quando il cursore è focalizzato, è possibile utilizzare i tasti cursore sulla tastiera per affinare la velocità.
+- Si può scegliere nell'adiacente campo di modifica di scrivere direttamente una velocità desiderata.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

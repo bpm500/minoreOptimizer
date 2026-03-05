@@ -1,0 +1,6 @@
+Ativar filtragem de dados 
+O acesso simultâneo para o mesmo sensor (por exemplo, o sensor de temperatura da GPU) por vários programas diferentes pode resultar em leituras erradas do sensor, provocando anomalias de picos baixos ou elevados nos gráficos. Habilitar esta opção permite o processamento dos dados com um algoritmo especial de filtragem matemática que previne tais picos. 
+Por favor, note que habilitar a filtragem pode rejeitar picos de dados reais (picos de uso da GPU, por exemplo), bem como retardar as atualizações de gráficos em até 4 ciclos. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

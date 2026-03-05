@@ -1,0 +1,11 @@
+2D-Profil zuordnen
+Ermöglicht ein Profil dem 2D-Systemstatus zuzuordnen. Das Profil wird automatisch geladen und aktiviert, wenn keine 3D-Anwendung ausgeführt wird.
+
+Hinweise:
+- Durch die Aktivierung der 2D-Profilzuordnung wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server stellt dem automatischen Profilmanager eine Liste laufender 3D-Anwendungen zur Verfügung und kann erst beendet werden, wenn die Zuordnung aufgehoben wird.
+- Sie können %SERVERPRODUCTNAME%-Eigenschaften verwenden, um die Ausnahmen zu definieren und bei Bedarf Anwendungen von der 3D-Erkennung auszuschließen. Sie können jederzeit sehen, welche 3D-Anwendung gerade ausgeführt wird, indem Sie die Taste <i> drücken.
+- Die automatische Profilverwaltung setzt die in modernen GPUs implementierten eigenen Hardware-Downclocking-Technologien nicht außer Kraft, sondern lädt lediglich das gewünschte Profil beim ersten Start der 3D-Anwendung und beim letzten Beenden der 3D-Anwendung.
+Das Hauptziel der automatischen Profilverwaltung ist die Emulation von Hardware-Downclocking-Technologien auf Softwareebene für alte Grafikkarten ohne eigene Downclocking-Unterstützung (z. B. NVIDIA-GeForce-8-Serie. Die automatische Profilverwaltung kann jedoch auch für andere Zwecke genutzt werden, z. B. um eine feste Lüftergeschwindigkeit nur während der Laufzeit von 3D-Anwendungen zu erzwingen.
+- Es wird nicht empfohlen, die automatische Profilverwaltung mit der Spannungssteuerung zu kombinieren. Dynamische Software-Spannungsänderungen in Kombination mit dynamischen Taktänderungen können Nebenwirkungen verursachen und die Systemstabilität verringern.
+- Sie können den Profilautomatisierungsmanager neu starten, indem Sie die Tasten <Strg>+<A> auf Ihrer Tastatur drücken, wenn das Hauptfenster von %PRODUCTNAME% den Fokus hat.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

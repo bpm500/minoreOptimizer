@@ -1,0 +1,5 @@
+Velocidades da ventoinha em intervalo constante
+Por padrão a velocidade da ventoinha é alterada em módulos de controle automático apenas quando há mudanças de temperaturas. Isso minimiza a carga de controle da ventoinha pela CPU, no entanto, alguns drivers de vídeo podem periodicamente interceptar o controle da ventoinha e causar alterações inesperadas a cada leitura de temperatura da GPU. Neste caso, você pode ativar essa opção para forçar a velocidade da ventoinha a ser atualizada em intervalo de tempo fixo e constante. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

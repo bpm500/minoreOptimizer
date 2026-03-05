@@ -1,0 +1,6 @@
+Einstellungen nach dem Ruhezustand wiederherstellen
+Unter normalen Bedingungen wird der Status der Grafikkarte gespeichert und vom Grafiktreiber nach dem Aufwachen aus dem Ruhemodus korrekt wiederhergestellt. Aufgrund von Fehlern stellen einige Treiber jedoch möglicherweise den Status der Grafikkarte falsch wieder her. In diesem Fall können Sie diese Option verwenden, um dieses Problem zu umgehen und %PRODUCTNAME% zu zwingen, den Status der Grafikkarte vor dem Eintritt in den Ruhezustand in ein temporäres Profil zu schreiben und dieses Profil nach dem Ruhezustand anzuwenden.
+
+Hinweise:
+- %PRODUCTNAME% muss ausgeführt werden, damit diese Option ordnungsgemäß funktioniert.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

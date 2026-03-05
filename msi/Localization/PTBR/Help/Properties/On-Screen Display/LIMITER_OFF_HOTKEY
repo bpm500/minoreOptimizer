@@ -1,0 +1,6 @@
+Desativar o limitador de taxa de quadros
+Permite definir uma tecla de atalho para desativar o limitador de taxa de quadros.
+
+Sugestões:
+- Algumas combinações de teclas de atalho (por exemplo, <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> e <Ctrl>+<D>) são reservadas e não podem ser usadas.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

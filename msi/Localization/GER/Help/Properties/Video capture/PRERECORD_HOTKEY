@@ -1,0 +1,7 @@
+Hotkey für Videovoraufzeichnung
+Ermöglicht einen Hotkey zum Starten und Stoppen der Videovoraufzeichnung festzulegen. Während der Voraufzeichnung erfasst %PRODUCTNAME% Videos und speichert sie in einem Voraufzeichnungspuffer im RAM oder in einer temporären Datei. Somit enthält der Voraufzeichnungspuffer immer die letzten Minuten des aufgenommenen Videos. Wenn Sie während der Voraufzeichnung den Hotkey für die Videoaufnahme drücken, wird das resultierende Video mit dem Inhalt des Voraufzeichnungspuffers aufgefüllt.
+
+Hinweise:
+- Durch die Aktivierung dieser Option wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server stellt Videoaufnahmefunktionen für 3D-Anwendungen bereit und der Prozess kann erst beendet werden, wenn Sie diese Option deaktivieren.
+- Einige Hotkey-Kombinationen (z. B. <1>...<5>, <Strg>+<1>...<Strg>+<5> und <Strg>+<D>) sind reserviert und können nicht verwendet werden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

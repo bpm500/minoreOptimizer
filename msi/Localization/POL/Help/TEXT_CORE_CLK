@@ -1,0 +1,8 @@
+Taktowanie rdzenia
+Wyœwietla taktowanie rdzenia g³ównego GPU.
+
+Wskazówki:
+- Gdy tryb synchronizacji ustawien GPU jest wlaczony w <General>tab w zaawansowanych wlasciwosciach, wszelkie zmiany zastosowane do glównego GPU sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie.
+- Podczas samodzielnej regulacji zegarów rdzeniowych i cieniujacych nalezy pamietac, ze minimalny dozwolony wspólczynnik shader do zegara rdzenia jest ograniczony przez sprzet. Próba wylozenia wspólczynnika poza zakres moze uniemozliwic stosowanie zegarów.
+- Mozesz kliknac to pole, aby bezposrednio wpisac zadany zegar.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

@@ -1,0 +1,6 @@
+Alignment width
+Displays and allows editing alignments library variable.
+
+Hints:
+- You may toggle between fixed font size and variable font size alignment modes when associating alignment variable with formatted text.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,5 @@
+Ativar monitoramento unificado do uso da GPU 
+Por padrão, o MSI Afterburner exibe os dados do contador nativo de desempenho da AMD. No entanto, os codificadores de desempenho da AMD também podem ser acessados pelos drivers de algumas GPUs (por exemplo, a série "Sea Islands GPU family"), assim, o uso da GPU relatado pelo driver da AMD pode estar errado. Neste caso, você pode ativar esta opção para monitorar o uso da GPU por um decodificador alternativo de desempenho Direct3D unificado. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,10 @@
+Editor für Lüfterkurven
+Ermöglicht benutzerdefinierte Lüfterkurven zu bearbeiten.
+
+Hinweise:
+- Sie können mit der linken Maustaste auf die Kurve klicken, um neue Ankerpunkte hinzuzufügen. Sie können bis zu 8 Ankerpunkte erstellen.
+- Sie können mit der linken Maustaste auf vorhandene Ankerpunkte klicken, um sie auszuwählen, und sie mit der Maus verschieben, um die Kurve zu bearbeiten. Die Position des ausgewählten Ankerpunkts kann auch über die Tastatur mit den Cursortasten stufenlos angepasst werden.
+- Sie können die Taste <Entf> drücken, um den ausgewählten Ankerpunkt zu löschen.
+- Sie können die Tastenkombination <Strg> + <D> drücken, um die Kurve in den ursprünglichen Zustand zurückzusetzen.
+- Sie können mit der linken Maustaste auf den Bearbeitungsbereich doppelklicken, um zwischen dem linearen und dem Stufenkurvenmodus zu wechseln. Sie können den gestaffelten Modus verwenden, um die durch häufige Neuprogrammierung der Lüftergeschwindigkeit verursachte CPU-Last zu reduzieren, indem Sie die Häufigkeit von Lüftergeschwindigkeitsänderungen reduzieren.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

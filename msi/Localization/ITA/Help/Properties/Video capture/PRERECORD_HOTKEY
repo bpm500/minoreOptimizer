@@ -1,0 +1,7 @@
+Preregistrazione Video tasto di scelta rapida
+Permette di definire un tasto di scelta rapida globale per avviare e arrestare la preregistrazione video. Durante la preregistrazione %PRODUCTNAME% blocca il video e lo salva nel buffer di preregistrazione nella RAM o in un file temporaneo. Così la preregistrazione buffer contiene sempre gli ultimi minuti di video catturato. Se si preme il tasto di scelta rapida di video cattura durante la preregistrazione poi il risultante video viene accodato dal contenuto del buffer di preregistrazione.
+
+Suggerimenti:
+- L'attivazione di questa opzione causerà un ulteriore processo di %SERVERPRODUCTNAME% ad essere avviato automaticamente. Il server fornisce servizi di acquisizione video per applicazioni 3D e non può essere scaricato fino a quando questa opzione è disabilitata.
+- Alcune combinazioni di tasti (ad esempio <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> e <Ctrl>+<D>) sono riservati e non possono essere utilizzati.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

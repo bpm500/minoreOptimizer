@@ -1,0 +1,5 @@
+Forza l'aggiornamento velocità della ventola in ciascun periodo
+Per impostazione predefinita la velocità della ventola viene alterata dal modulo software per il controllo automatico della ventola solo quando la velocità della ventola si suppone essere modificata a causa del cambiamento di temperatura. Questo minimizza il relativo calo di prestazioni CPU del controllo della ventola, perché la nuova programmazione della velocità della ventola non è esente in termini di prestazioni. Tuttavia, alcuni driver video potrebbero intercettare periodicamente il controllo della ventola e causare un inaspettato cambio della velocità della ventola ad essere impostata finché non cambia la temperatura della GPU. In questo caso è possibile attivare questa opzione per forzare la velocità della ventola ad essere aggiornata in ciascun periodo.
+
+suggerimenti:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

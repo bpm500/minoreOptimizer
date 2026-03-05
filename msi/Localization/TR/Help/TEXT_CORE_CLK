@@ -1,0 +1,8 @@
+Grafik Ýþlemcisi Hýzý
+Þu anki grafik iþlemcisi hýzýný görüntüler. Grafik kartý modeline baðlý olarak deðerler tam deðer olarak ayarlanamayabilir. Ayarlar uygulanýrken kartýnýza kayýtlý iþlemci hýzlarý temel alýnacaktýr.
+
+Ýpuçlarý:
+- Eðer <Genel Ayarlar> sekmesindeki, ayarlarý diðer grafik iþlemcileriyle eþitle seçeneði aktifse ayarlar diðer grafik kartlarýyla eþlenir.
+- Baðýmsýz iþlemci ve shader hýzý ayarlarken donanýmýnýz bir en düþük shader-iþlemci çarpaný olduðunu unutmayýn. Eðer bu çarpan sýnýrlarý dýþýnda deðerler girerseniz ayarlar uygulanamayabilir.
+- Buraya týklayarak direk deðer girebilirsiniz.
+- Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.

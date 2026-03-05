@@ -1,0 +1,5 @@
+Force fan speed update on each period
+By default fan speed is being altered by software automatic fan control module only when fan speed is supposed to be changed due to changing temperature. This minimizes fan control related CPU performance hit, because programming new fan speed is not free in terms of performance. However, some bugged display drivers may periodically intercept fan control and cause unexpected fan speed to be set until GPU temperature changes. In this case you may enable this option to force fan speed to be updated on each period.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

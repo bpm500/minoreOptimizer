@@ -1,0 +1,369 @@
+#src Information
+#dst Información
+#end
+#src System information
+#dst Información del sistema
+#end
+
+#src General
+#dst General
+#end
+#src Master graphics processor selection
+#dst Selección del procesador gráfico principal
+#end
+#src Synchronize settings for similar graphics processors
+#dst Sincronizar ajustes para procesadores gráficos similares
+#end
+#src General properties
+#dst Propiedades generales
+#end
+#src Start with Windows
+#dst Iniciar al iniciar Windows
+#end
+#src Start minimized
+#dst Iniciar minimizado
+#end
+#src Compatibility properties
+#dst
+#end
+#src Enable low-level hardware access interface
+#dst
+#end
+#src kernel mode
+#dst 
+#end
+#src user mode
+#dst 
+#end
+#src Unlock voltage control
+#dst Desbloquear control de voltaje
+#end
+#src Unlock voltage monitoring
+#dst Desbloquear monitorización de voltaje
+#end
+#src Force constant voltage
+#dst
+#end
+#src Restore settings after suspended mode
+#dst
+#end
+#src Graphics processor type
+#dst
+#end
+#src Update checking properties
+#dst 
+#end
+#src Check for available product updates
+#dst 
+#end
+#src Check for available product beta versions
+#dst
+#end
+#src never
+#dst 
+#end
+#src on startup
+#dst 
+#end
+#src on startup daily
+#dst 
+#end
+#src on startup weekly
+#dst 
+#end
+#src on startup monthly
+#dst 
+#end
+#src Check now
+#dst 
+#end
+
+#src Fan
+#dst Ventilador
+#end
+#src Automatic fan control properties
+#dst Propieades del control automático del ventilador
+#end
+#src Enable user defined software automatic fan control
+#dst Habilitar programa de usuario para el control automático del ventilador
+#end
+#src Temperature, °C
+#dst Temperatura, °C 
+#end 
+#src Fan speed, %
+#dst Velocidad del ventilador, %
+#end
+#src Predefined fan speed curve
+#dst
+#end
+#src Custom
+#dst
+#end
+#src Default
+#dst
+#end
+#src Fan speed update period (in milliseconds)
+#dst Período de actualización de la velocidad del ventilador (en milisegundos)
+#end
+#src Temperature hysteresis (in °C)
+#dst 
+#end
+#src Force fan speed update on each period
+#dst
+#end
+
+#src Monitoring
+#dst Monitorización
+#end
+#src Hardware monitoring properties
+#dst Propiedades de monitorización de hardware
+#end
+#src Hardware polling period (in milliseconds)
+#dst Período de refresco información del hardware (en milisegundos)
+#end
+#src Hardware monitoring history logging properties
+#dst
+#end
+#src Browse
+#dst
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst
+#end
+#src Recreate existing log files
+#dst
+#end
+#src Active hardware monitoring graphs
+#dst Gráficas de monitorización de hardware activas
+#end
+#src Maximum limit
+#dst Límite máximo
+#end
+#src Minimum limit
+#dst Mímite mínimo
+#end
+#src Override group name
+#dst
+#end
+#src Enable data filtering
+#dst
+#end
+#src Show in On-Screen Display
+#dst Mostrar en información en pantalla
+#end
+#src Show in Logitech keyboard LCD display
+#dst Mostrar en información en el dispositivo LCD del teclado Logitech
+#end
+#src Show in tray icon
+#dst Mostrar en la bandeja de sistema
+#end
+
+#src On-Screen Display
+#dst Información en pantalla
+#end
+#src Global On-Screen Display hotkeys
+#dst Atajos de teclado globales para información en pantalla
+#end
+#src Toggle On-Screen Display
+#dst Activar información en pantalla
+#end
+#src Show On-Screen Display
+#dst Mostrar información en pantalla
+#end
+#src Hide On-Screen Display
+#dst Esconder información en pantalla
+#end
+#src Additional On-Screen Display properties
+#dst Propieades adicionales para información en pantalla
+#end
+#src Show system time
+#dst Mostrar fecha / hora del sistema
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst 
+#end
+#src On-Screen Display server compatibility properties
+#dst
+#end
+#src Toggle On-Screen Display server blocking
+#dst
+#end
+#src More
+#dst Mas
+#dlu -100
+#end
+
+#src Profiles
+#dst Perfiles
+#end
+#src Global profile hotkeys
+#dst Atajos de teclado globales para los perfiles
+#end
+#src Profile
+#dst Perfil
+#end
+#src Automatic profiles management
+#dst Gestión automática de perfiles
+#end
+#src 2D profile
+#dst perfil 2D
+#end
+#src 3D profile
+#dst perfil 3D
+#end
+
+#src User Interface
+#dst Interfaz de usuario
+#end
+#src User interface properties
+#dst Propieades del interfaz de usuario
+#end
+#src English
+#dst Inglés
+#end
+#src Language
+#dst Lenguaje
+#end
+#src Show user interface tooltips
+#dst Mostrar sugerencias de interfaz de usuario
+#end
+#src Show user interface hints
+#dst Mostrar sugerencias de interfaz de usuario
+#end
+#src Single tray icon mode
+#dst
+#end
+#src User interface skinning properties
+#dst Propiedades de los temas en la interfaz de usuario
+#end
+
+#src Screen capture
+#dst
+#end
+#src Global screen capture hotkeys
+#dst
+#end
+#src Screen capture properties
+#dst
+#end
+#src Screenshot format
+#dst
+#end
+#src Screenshots folder
+#dst
+#end
+#src View
+#dst
+#end
+
+#src Video capture
+#dst
+#end
+#src Global video capture hotkeys
+#dst
+#end
+#src Video capture properties
+#dst
+#end
+#src Frame size
+#dst
+#end
+#src full
+#dst
+#end
+#src half
+#dst
+#end
+#src Video format
+#dst
+#end
+#src lossless
+#dst
+#end
+#src 1 FPS
+#dst
+#end
+#src 100 FPS
+#dst
+#end
+#src Enable gamma correction
+#dst
+#end
+#src Videos folder
+#dst
+#end
+#src Video capture compatibility properties
+#dst
+#end
+#src Multithreaded optimization
+#dst
+#end
+#src automatic
+#dst
+#end
+#src disabled
+#dst
+#end
+#src 1 compression thread
+#dst
+#end
+#src 2 compression threads
+#dst
+#end
+#src 3 compression threads
+#dst
+#end
+#src 4 compression threads
+#dst
+#end
+#src 5 compression threads
+#dst
+#end
+#src 6 compression threads
+#dst
+#end
+#src 7 compression threads
+#dst
+#end
+#src 8 compression threads
+#dst
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst
+#end
+#src Audio capture properties
+#dst
+#end
+#src Downmix multichannel audio to stereo
+#dst
+#end
+#src None
+#dst 
+#end
+#src Auto select
+#dst 
+#end
+#src DirectSound capture device
+#dst 
+#end
+#src WASAPI playback device
+#dst 
+#end
+#src WASAPI capture device
+#dst 
+#end
+#src Audio source #1
+#dst 
+#end
+#src Audio source #2
+#dst 
+#end
+#src Push-To-Talk hotkey
+#dst
+#end
+#src There are no devices available
+#dst 
+#end
+#src Enable MJPG decoder
+#dst
+#end

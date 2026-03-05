@@ -1,0 +1,5 @@
+Escalas de temperatura
+Permite mudar entre as escalas de temperatura Celsius ou Fahrenheit. Por favor, note que essa configuração afeta apenas as leituras de temperatura no painel de monitoramento. Os ajustes de temperatura relacionados ao hardware (por exemplo, velocidade da ventoinha para curva de temperaturas e ajustes da temperatura limite para a série NVIDIA Kepler) serão sempre apresentados e ajustados na escala Celsius para padronização, segurança e compatibilidade máximas.
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

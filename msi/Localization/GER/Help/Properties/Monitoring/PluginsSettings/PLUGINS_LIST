@@ -1,0 +1,7 @@
+Liste der Hardware-Überwachungs-Plug-ins
+Zeigt eine Liste der installierten Hardware-Überwachungs-Plug-ins an und ermöglicht die Auswahl aktiver Plug-ins. Die Plug-ins bieten Unterstützung für zusätzliche Hardware-Überwachungsdatenquellen von Drittanbietern und können die Liste der auf dem System verfügbaren Hardware-Überwachungsdiagramme erweitern.
+Aktivieren Sie das Kontrollkästchen neben dem Plug-in, um es zu aktivieren.
+
+Hinweise:
+- Halten Sie die <Umschalt>-Taste auf Ihrer Tastatur gedrückt, während Sie ein Plug-in aktivieren oder deaktivieren, um alle Plug-ins gleichzeitig zu aktivieren oder zu deaktivieren.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

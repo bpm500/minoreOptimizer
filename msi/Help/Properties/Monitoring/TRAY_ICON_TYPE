@@ -1,0 +1,8 @@
+Tray icon type
+Allows selecting text or barchart indicator mode for tray icon output. Barchart indicator mode can be useful for CPU or GPU usage graphs.
+
+Hints:
+- You must activate and select desired graph to get access to this option.
+- You may hold <Shift> button pressed on your keyboard while changing this option to change it synchronically for all graphs.
+- When multiple graphs are selected this option is changed synchronically for all selected graphs. In this case you may hold <Ctrl> button pressed on your keyboard while changing this option to change it for focused graph only.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

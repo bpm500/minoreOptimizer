@@ -1,0 +1,7 @@
+Buat kembali log files
+Untuk buat kembali log files dari setiap sesi aktivitas ketika logging diaktifkan.
+
+Petunjuk:
+- %PRODUCTNAME% simpan history pada format native RivaTuner file log. Anda bisa menggunakan RivaTuner untuk melihat log files %PRODUCTNAME%. 
+- Penyimpanan Monitoring Hardware akan membebani waktu CPU dibutuhkan sebelum data di flush di HDD. 
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

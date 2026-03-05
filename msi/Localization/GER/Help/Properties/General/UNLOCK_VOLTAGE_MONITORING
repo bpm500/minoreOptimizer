@@ -1,0 +1,8 @@
+Spannungsüberwachung freischalten
+Schaltet die Spannungsüberwachung frei, wenn dies von der Hardware unterstützt wird. Schalten Sie die Spannungsüberwachung nicht frei, wenn Sie andere Spannungsüberwachungsprogramme verwenden!
+
+Hinweise:
+- Es kann gefährlich sein, mehrere Anwendungen auszuführen, die gleichzeitig auf die Spannungsregler der Grafikkarte zugreifen. Bitte deaktivieren Sie diese Option, wenn Sie nicht sicher sind, ob auf dem System derartige Anwendungen ausgeführt werden.
+- Die Spannungsregelung ist nur für eine begrenzte Anzahl von Grafikkartenmodellen verfügbar, die mit einem programmierbaren Spannungsregelungsmodul ausgestattet sind. Eine vollständige Liste der Grafikkartenmodelle, die Spannungsanpassungen unterstützen, finden Sie in der Dokumentation.
+- Nach dem Umschalten dieser Option ist ein Neustart von %PRODUCTNAME% erforderlich, um die Änderungen zu übernehmen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

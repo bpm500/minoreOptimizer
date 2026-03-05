@@ -1,0 +1,6 @@
+Untuk sembunyikan hotkey Layar On-Screen
+
+Petunjuk:
+- Beberapa aplikasi seperti (F.E.A.R.) akan melakukan blok hotkey.
+- Beberapa kombinasi hotkey seperti (<1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> dan <Ctrl>+<D>) sudah terdaftar dan tidak bisa digunakan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

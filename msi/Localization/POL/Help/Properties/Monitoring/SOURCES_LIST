@@ -1,0 +1,9 @@
+Lista wykresów monitorowania sprzetu
+Wyswietla liste dostepnych wykresów monitorowania sprzetu, umozliwia zmiane kolejnosci wykresów i wybór aktywnych wykresów.
+
+Wskazówki:
+- Znacznik znacznika obok kazdej nazwy wykresu aktywuje wykres. Aktywne wykresy sa wyswietlane w oknie monitorowania. Unikaj aktywacji niepotrzebnych wykresów, zwiekszy to czas procesora procesora wymagany do sondowania sprzetu i moze zmniejszyc wydajnosc systemu. 
+- Aktywacja <Framerate>grafu spowoduje automatyczne uruchomienie dodatkowego procesu %SERVERPRODUCTNAME%. Serwer udostepnia dane dla tego wykresu i nie mozna go zwolnic, dopóki wykres nie zostanie wylaczony.
+- Mozesz przeciagac i upuszczac wykresy na liscie, aby je zmienic.
+- Mozesz kliknac dowolny wykres na liscie, aby go wybrac i uzyskac dostep do wlasciwosci wykresu. Wykres musi byc aktywowany, aby uzyskac dostep do jego wlasciwosci.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

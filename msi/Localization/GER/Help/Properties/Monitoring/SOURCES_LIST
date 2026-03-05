@@ -1,0 +1,12 @@
+Liste der Hardware-Überwachungsdiagramme
+Zeigt eine Liste der verfügbaren Hardware-Überwachungsdiagramme an und ermöglicht die Auswahl aktiver Diagramme sowie deren Reihenfolge und Elementtyp.
+
+Hinweise:
+- Aktivieren Sie das Kontrollkästchen neben dem Diagrammnamen, um es zu aktivieren. Aktive Diagramme werden im Überwachungsfenster angezeigt. Vermeiden Sie die Aktivierung unnötiger Diagramme, da dies die zum Abfragen der Hardware erforderliche CPU-Last erhöht und möglicherweise die Systemleistung beeinträchtigt.
+- Sie können die Liste der auf Ihrem System verfügbaren Diagramme erweitern, indem Sie Plug-in-Module aktivieren.
+- Sie können die <Umschalt>-Taste auf Ihrer Tastatur gedrückt halten, während Sie diese Option ändern, um sie für alle Diagramme gleichzeitig zu ändern.
+- Wenn mehrere Diagramme gleichzeitig ausgewählt sind, wird die Änderung dieser Option gleichzeitig auf alle ausgewählten Diagramme angewendet. In diesem Fall können Sie beim Ändern dieser Option die Taste <Strg> auf der Tastatur gedrückt halten, um die Änderungen nur auf das aktuelle Diagramm anzuwenden.
+- Durch die Aktivierung des <Framerate>-Diagramms wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server stellt Daten für dieses Diagramm bereit und der Prozess kann erst beendet werden, wenn das Diagramm deaktiviert ist.
+- Sie können Diagramme per Drag-and-Drop in der Liste verschieben, um sie neu anzuordnen. Sie können ein Diagramm über das oberste sichtbare oder unter das unterste sichtbare Element in der Liste ziehen, um es automatisch in die gewünschte Richtung zu scrollen.
+- Sie können auf ein beliebiges Diagramm in der Liste klicken, um es auszuwählen und auf die Diagrammeigenschaften zuzugreifen. Der Graph muss aktiviert sein, um auf seine Eigenschaften zugreifen zu können.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

@@ -1,0 +1,6 @@
+Sincronizzare le impostazioni per i processori grafici simili
+Consente di sincronizzare o rendere indipendenti le regolazioni delle impostazioni GPU. Quando questa opzione è attivata tutte le regolazioni alla GPU applicate nella finestra principale sono applicate anche a tutte le GPU simili installate nel sistema.
+
+Consigli:
+- I processori grafici simili sono identificati dalla corrispondenza esatta del PCI DeviceID, in modo che solo i modelli identici di schede grafiche possono essere sincronizzati.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

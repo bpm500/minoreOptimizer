@@ -1,0 +1,4 @@
+This plugin provides [b]HDD temperature[/b] hardware monitoring data sources for S.M.A.R.T. capable hard disk drives.
+
+Hints:
+- Frequent S.M.A.R.T. data polling can cause noticable performance hit on certain hard drive and IDE controller combinations. You may reduce performance hit on such systems by specifying minimum S.M.A.R.T. data polling interval in [b]MinPollingInterval[/b] field in [Settings] section of SMART.cfg file.

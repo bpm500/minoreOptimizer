@@ -1,0 +1,83 @@
+#src PerfCounter plugin settings
+#dst PerfCounter-Plug-in-Einstellungen
+#end
+#src Active data sources
+#dst Aktive Datenquellen
+#end
+#src Add
+#dst Hinzufügen
+#end
+#src Remove
+#dst Entfernen
+#end
+#src Defaults
+#dst Zurücksetzen
+#end
+
+#src Data source settings
+#dst Datenquelleneinstellungen
+#end
+#src Performance counter properties
+#dst Eigenschaften der Leistungsüberwachung
+#end
+#src Object name
+#dst Objektname
+#end
+#src Instance name or index
+#dst Instanzname oder Index
+#end
+#src Counter name
+#dst Zählername
+#end
+#src Plugin data source properties
+#dst Eigenschaften der Plug-in-Datenquelle
+#end
+#src Enable dynamic mode
+#dst Dynamischen Modus aktivieren
+#end
+#src Units
+#dst Einheiten
+#end
+#src Format
+#dst Format
+#end
+#src Formula
+#dst Formel
+#end
+#src x = off + x * mul / div
+#dst x = off + x * mul / div
+#end
+#src Offset
+#dst Offset
+#end
+#src Multiplier
+#dst Multiplikator
+#end
+#src Divider
+#dst Teiler
+#end
+
+#src Group
+#dst Gruppe
+#end
+#src Range
+#dst Bereich
+#end
+
+
+#src Add new data source(s)
+#dst Neue Datenquelle(n) hinzufügen
+#end
+#src Available performance counters
+#dst Verfügbare Leistungsüberwachungen
+#end
+#src Export
+#dst Exportieren
+#end
+
+#src Instance name
+#dst Instanzname
+#end
+#src Use instance index instead of name
+#dst Instanzindex anstelle des Namens verwenden
+#end

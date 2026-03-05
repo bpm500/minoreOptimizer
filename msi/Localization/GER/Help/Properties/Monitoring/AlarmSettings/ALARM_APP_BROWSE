@@ -1,0 +1,6 @@
+Durchsuchen
+Ermöglicht die Suche nach externen Anwendungen, die bei Alarm gestartet werden sollen, oder die Auswahl einer vordefinierten befehlszeilenbasierten Aktion (z. B. Herunterfahren des Systems oder Anwenden von Profilen aus %PRODUCTNAME%-Profilslots).
+
+Hinweise:
+- Diese Option wird durch die benachbarten Alarm-Timeout-Einstellungen beeinflusst.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

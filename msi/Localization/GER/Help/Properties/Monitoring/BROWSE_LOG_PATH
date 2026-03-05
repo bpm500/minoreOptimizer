@@ -1,0 +1,7 @@
+Durchsuchen
+Gibt das Zielverzeichnis der Protokolldatei an und ermöglicht auch die Suche nach bereits aufgezeichneten Protokolldateien.
+
+Hinweise:
+- %PRODUCTNAME% speichert den Verlauf im nativen RivaTuner-Protokoll-Dateiformat. Sie können entweder den integrierten Viewer oder RivaTuner verwenden, um mit %PRODUCTNAME% aufgezeichnete Protokolldateien anzuzeigen.
+- Die Protokollierung des Hardware-Überwachungsverlaufs erzeugt CPU-Last. Bei jeder Protokollaktualisierungsiteration wird CPU-Leistung benötigt, um Daten auf das Laufwerk (SSD oder HDD) zu schreiben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

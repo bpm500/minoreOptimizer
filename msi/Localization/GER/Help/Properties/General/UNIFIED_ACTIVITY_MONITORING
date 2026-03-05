@@ -1,0 +1,5 @@
+Einheitliche GPU-Nutzungsüberwachung aktivieren
+Standardmäßig zeigt %PRODUCTNAME% den AMD-GPU-Hardwareleistungszähler im GPU-Auslastungsdiagramm an. Bei einigen GPUs (z. B. der Sea Islands GPU-Familie) funktioniert der Zugriff auf Hardware-Leistungsindikatoren jedoch aufgrund eines Fehlers in den AMD-Grafiktreibern möglicherweise nicht ordnungsgemäß, sodass der vom AMD-Grafiktreiber berechnete GPU-Lastwert möglicherweise falsch ist. In diesem Fall können Sie diese Option aktivieren, um einen alternativen generischen Direct3D-Software-Leistungsindikator im GPU-Lastdiagramm anzuzeigen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

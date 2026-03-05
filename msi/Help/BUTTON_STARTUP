@@ -1,0 +1,6 @@
+Apply at Windows Startup
+Allows applying current voltage, clock and fan control settings at Windows startup.
+
+Hints:
+- You may press and hold <Ctrl> key immediately after logging in to Windows to bypass applying the settings.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

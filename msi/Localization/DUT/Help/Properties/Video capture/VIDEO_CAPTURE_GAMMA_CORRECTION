@@ -1,0 +1,7 @@
+Schakel gamma correctie in.
+Standaard gaat %PRODUCTNAME% video vastleggen zonder enige verandering aan de frambuffer.
+Maar het is mogelijk dat sommige games het gamma zelf opkrikken waar door de vast gelegde video er donkerder kan uit zien als in de game zelf.
+In dit geval kan je deze optie inschakelen om dit te vermijden maar dit heeft een kleine impact op de prestaties van het systeem.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

@@ -1,0 +1,11 @@
+Association du profil 3D
+Permet d'associer un emplacement de profil pour un état système 3D. Le profil associé à l'emplacement va être automatiquement chargé et appliqué par le manager automatique de profil dès que le compteur d'activité d'application 3D devient supérieur à 0.
+
+Astuce:
+- Définir des associations de profil 3D va causer le démarrage de processus additionnels du serveur %SERVERPRODUCTNAME%. Le serveur donne une liste des applications 3D pour démarrer le manager automatique de profil et il ne peux pas être déchargé tant que l'association n'est pas annulée.
+- Vous pouvez utiliser les propriétés du serveur %SERVERPRODUCTNAME% pour définir des exceptions et exclure n'importe quelle application de la détection 3D si nécessaire. Vous pouvez toujours voir quelle application 3D est executée en pressant le boutton <i>.
+- Le manager automatique de profil n'override pas les technologies matérielle de sous cadencage des GPUs modernes, Il charge juste le profil au premier démarrage de l'application 3D et lors de la fermeture de la dernière application 3D. 
+L'objectif premier du manager automatique de profil est l'émulation des technologies matérielle de sous cadencage des GPUs au niveau logiciel pour les vieilles cartes graphiques qui ne possèdent pas de support de sous cadencage (ex: la série NVIDIA GeForce 8800 GTX). Cependant, le manager automatique de profil peut aussi être utilisé à d'autres fin, ex: pour forcer une vitesse de ventilateur seulement lors de l'utilisation d'applications 3D.
+- Il n'est pas recommandé de combiner le manager automatique de profil avec le contrôle de tension. Le changement dynamique logiciel de la tension et de l'horloge peut réduire la stabilité du système.
+- Vous pouvez redémarrer le manager automatique de profil en pressant les touches du clavier <Ctrl>+<A> quand la fenêtre principale de %PRODUCTNAME% est sélectionnée.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

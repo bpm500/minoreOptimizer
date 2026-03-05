@@ -1,0 +1,6 @@
+Override zero fan speed with hardware curve
+Some graphics cards do not allow full manual fan speed adjustment range and put restrictions on the minumum and/or maximum allowed fan speeds. In this case the minimum and the maximum allowed fan speed limits are visualized in the editor with horizontal dotted lines. Attempt to set fan speed beyond the limit will result in clipping fan speed to the minimum/maximum allowed value. In this case you are unable to emulate fan stop mode with a curve via setting fan speed to zero.
+However, you may enable this option to override zero fan speed zone on the software curve with default hardware fan curve. In this case you may keep fan stop mode, if it is natively supported by your graphics card in default hardware fan curve mode.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

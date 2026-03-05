@@ -1,0 +1,7 @@
+Hardware vernieuwings periode.
+Dit past de actualiserings periode van de hardware vernieuwing en toezicht grafieken aan.
+
+Hint:
+- Deze functie kan een invloed hebben op de performance ,aangezien elke vernieuwing een aanspraak maakt op de cpu , als dit het geval is sluit dan deze functie of zoek een juiste instelling hiervoor. 
+Verhoog de hardware vernieuwings periode om de cpu belasting minder te laten schommelen of zet onnodige toezichten uit.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

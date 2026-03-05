@@ -1,0 +1,35 @@
+#src Pause
+#dst Pausa
+#end
+#src Clear history
+#dst Limpiar histórico
+#end
+#src Show status
+#dst Mostrar estado
+#end
+#src Log history to file
+#dst Log history to file
+#end
+#src Always on top
+#dst Siempre visible
+#end
+#src Properties
+#dst Propiedades
+#end
+
+#src Copy
+#dst Copiar
+#end
+
+#src Show
+#dst Mostrar
+#end
+#src Profiles
+#dst Perfiles
+#end
+#src Close
+#dst Cerrar
+#end
+#src There are no profiles
+#dst No hay perfiles
+#end

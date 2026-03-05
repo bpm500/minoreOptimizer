@@ -1,0 +1,12 @@
+Emplacement profil 0
+Sauvegarde les paramètres appliqués de tension, d'horloge et de paramètres de contrôle de ventilateur dans l'emplacement de profil 0, charge ou efface les paramètres de celui-ci.
+
+Astuce:
+- Vous pouvez presser le bouton <Sauver> et ensuite presser ce bouton lorsqu'il flash pour sauvegarder les paramètres appliqués dans l'emplacement de profil 0. Les emplacements de profil de tous les GPU installés dans le système sont sauvegardés de façon synchrone.
+- Vous pouvez sauvegarder les paramètres appliqués dans un emplacement de profil 0 vide ou effacer le profil de l'emplacement 1 en cliquant droit ce bouton. Les emplacements de profil de tous les GPU installés dans le système sont modifiés de façon synchrone.
+- Vous pouvez sauvegarder les paramètres appliqués dans un emplacement de profil 0 vide ou effacer le profil de l'emplacement 1 en pressant les touches <Ctrl> + <1> de votre clavier. Les emplacements de profil de tous les GPU installés dans le système sont modifiés de façon synchrone.
+- Vous pouvez charger le profil GPU maître de l'emplacement de profil 0 en cliquant ce bouton.
+- Vous pouvez charger le profil GPU maître de l'emplacement de profil 0 en pressant la touche <1> de votre clavier.
+- Vous pouvez charger et appliquer automatiquement les profils via le tray menu ou même en assignant des touches globales pour chaque emplacement de profil via la fenêtre des propiétés avancées. Les emplacements de profil de tous les GPU installés dans le système sont chargés de façon synchrone.
+- Vous pouvez utiliser la fonction management automatique des profils et assigner différents profils pour les applications 2D et 3D via la tabulation <Profils> dans les propriétés avancées. Les profils assignés seront chargés et appliqués de façon synchrone pour tous les GPUs installés dans le système lors du changement d'état 2D/3D.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

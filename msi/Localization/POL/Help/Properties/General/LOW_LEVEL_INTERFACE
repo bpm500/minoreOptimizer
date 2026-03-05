@@ -1,0 +1,6 @@
+W³¹cza niskopoziomowy interfejs dostêpu do sprzêtu
+Umozliwia %PRODUCTNAME% uzywanie sterownika niskiego poziomu do uzyskiwania dostepu do sprzetu graficznego. Dostep na niskim poziomie zapewnia najbardziej efektywna implementacje monitorowania sprzetu i rozszerza mozliwosci monitorowania sprzetu i kontroli poza granice sterowników kart graficznych. Jednakze, gdy niski poziom dostepu do sprzetu jest w uzyciu niektóre zle zaprojektowane aplikacje systemowe (np. nieslawny klient Punkbuster dla Battlefield: Bad Company 2) moze spowodowac powazne problemy ze stabilnoscia ze wzgledu na ich nieautoryzowany dostep do sprzetu mapowane zakresy pamieci. 
+Mozesz uzyc tej opcji do rozwiazywania takich problemów, ale zmniejszy to równiez wydajnosc modulu monitorowania sprzetu, a niektóre funkcje monitorowania sprzetu lub sterowania zostana utracone.
+
+Wskazówka:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

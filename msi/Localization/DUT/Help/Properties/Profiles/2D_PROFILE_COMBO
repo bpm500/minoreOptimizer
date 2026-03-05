@@ -1,0 +1,13 @@
+2D profiel associatie.
+Dit staat toe om een profiel vak te associeren met een 2D status.
+Dit profiel wordt automatisch geladen en toegepast door de automatische profiel beheerder van zodra de lopende 3D applicatie teller gelijk is met nul.
+
+Hint:
+- Deze optie zorgt ervoor dat de "%SERVERPRODUCTNAME%" mee opstart. De server verleent automatisch een lijst van active 3D toepassingen aan de profiel beheerder en dit kan niet stop gezet worden tot de associatie is geannuleerd.
+- Je kan de "%SERVERPRODUCTNAME%" eigenschappen gebruiken om uitzonderingen voor 3D toepassingen te creëren.
+Je kan zien welke 3D toepassing actief is door op de <i> toets te drukken.
+- Deze automatische profiel beheer overschrijft niet de eigen downklok technologie van de GPU. Het laad enkel het gewilde profiel op bij de eerste detectie van een 3D applicatie en bij sluiten van de 3D applicatie.
+Deze toepassing is bedoelt om oudere GPU's (b.v. GTX8800 nvidia) een downklok technologie te geven aangezien dit software matig is. Toch kan men deze automatische profiel beheer functie gebruiken voor verschillende doelen , zoals b.v. een vaste ventilator snelheid in een wel bepaalde 3D toepassing.
+- Deze optie niet gebruiken samen met voltage controle.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.
+

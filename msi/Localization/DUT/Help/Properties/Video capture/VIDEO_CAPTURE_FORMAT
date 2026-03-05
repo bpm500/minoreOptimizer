@@ -1,0 +1,13 @@
+Video formaat.
+Staat toe om het formaat van de vast te leggen video te bepalen.
+Bepaald door jouw voorkeur kan je één van de volgende formaten selecteren.
+
+-ongecomprimeerd- De video wordt gecodeerd in raw formaat zonder enige compressie. Geen third party codec is vereist om deze video af te spelen in dit formaat. Hoe wel rekening dat je met deze instelling je een zeer snelle disk I/O subsysteem nodig hebt om hoge resolutie video in ongecomprimeerd formaat zonder framerate drops weer te geven , vb: om een ongecomprimeerde video te coderen in 1680x1050 met een resolutie van 30 frames per seconden heb je een disk I/O subsysteem met een bandbreedte van 150MB/s nodig.
+
+-RTV1compressie- De video wordt gecodeerd in RivaTuner Video formaat V1. RivaTuner video codec installatie is vereist om de video opgenomen in dit formaat te kunnen afspelen. RivaTuner Video formaat V1 is gebaseerd op de DXT1 compressie algoritmen met een vaste 6x compressie ratio. RTV1 codeerder is in staat om hoge resolutie video te coderen tegen een hoge framerate zonder te veel de CPU te belasten , dit formaat is dus aangeraden op een systemen met een single core of dual core CPU's.
+
+-MJPG compressie- De video wordt gecodeerd in het standaard MPJG formaat. Geen third party codec is vereist om deze video af te spelen op genomen in dit formaat , deze video zou moeten afgespeeld kunnen worden op verschillende platformen en media-spelers.
+MPJG compressie geeft de beste compressie ratio maar vereist wel snelle multicore CPU's om een hoge resolutie video te coderen zonder framrate drops. Hou er ook rekening mee dat je voor dit formaat je de ballans tussen de beeldkwaliteit en de compressie ratio moet fijn afstellen.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

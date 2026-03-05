@@ -1,0 +1,9 @@
+Modes de contrôle de la tension
+
+Permet de sélectioner un des Modes de contrôle de la tension suivant:
+- Référence - Seul les cartes de référence et les contrôleurs de tension sont supportés.
+- Standart MSI - Les designs de référence et custom MSI ainsi que les contrôleurs de tension sont supportés.
+- Extended MSI - Les designs de référence et custom MSI ainsi que les contrôleurs de tension et une plage étendue de contrôle de tension sur certains modèles sont supportés.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,6 @@
+Qualidade do vídeo 
+Ajusta a qualidade dos vídeos codificados em RTV1, MJPG e formatos de compressão VFW. Melhores qualidades de vídeo em maior tamanho podem afetar o desempenho da compressão e gravação. Você pode tentar diminuir a qualidade do vídeo se o seu sistema não suportar codificar vídeo nas taxa de quadros desejadas. 
+
+Sugestões: 
+- Esta definição pode não ser suportada por alguns codecs externos quando se utiliza o formato de compressão VFW. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

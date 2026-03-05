@@ -1,0 +1,7 @@
+End recording hotkey
+Allows defining global hotkey for ending framerate statistics recording. While recording is active you may press this hotkey once to end recording and save benchmark statistics to a text file, but keep the results shown in On-Screen Display. You may press the hotkey one more time to hide the results from the On-Screen Display.
+
+Hints:
+- Enabling this option will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides statistics recording services to 3D applications and it cannot be unloaded until this option is disabled.
+- Some hotkey combinations (e.g. <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) are reserved and cannot be used.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

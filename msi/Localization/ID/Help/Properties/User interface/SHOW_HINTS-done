@@ -1,0 +1,5 @@
+Tampilkan petunjuk user interface
+Tampilkan pesan petunjuk dalam area monitoring hardware. Petunjuk akan menampilkan tentang profil dan menyimpan event dari segala aktivitas aplikasi yang sedang digunakan. 
+
+Petunjuk:
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

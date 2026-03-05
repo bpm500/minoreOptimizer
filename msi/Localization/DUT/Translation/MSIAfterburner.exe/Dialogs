@@ -1,0 +1,391 @@
+#src Information
+#dst Informatie
+#end
+#src System information
+#dst Systeem informatie
+#end
+
+#src General
+#dst Algemene instellingen
+#end
+#src Master graphics processor selection
+#dst Selecteren van de primaire grafische kaart
+#end
+#src Synchronize settings for similar graphics processors
+#dst Synchroniseer de instelling van gelijksoortige grafische kaarten
+#end
+#src General properties
+#dst Algemene eigenschappen
+#end
+#src Start with Windows
+#dst Start met Windows
+#end
+#src Start minimized
+#dst Start geminimaliseerd
+#end
+#src Compatibility properties
+#dst Compatibiliteits eigenschappen
+#end
+#src Enable low-level hardware access interface
+#dst Schakel low-level hardware toegang in
+#end
+#src kernel mode
+#dst kernel mode
+#end
+#src user mode
+#dst gebruiker mode
+#end
+#src Unlock voltage control
+#dst Geef voltage controle vrij
+#end
+#src Unlock voltage monitoring
+#dst Geef voltage toezicht vrij
+#end
+#src Force constant voltage
+#dst Forceer constante voltage
+#end
+#src Restore settings after suspended mode
+#dst
+#end
+#src Graphics processor type
+#dst Grafische processor type
+#end
+#src Update checking properties
+#dst Update eigenschappen
+#end
+#src Check for available product updates
+#dst Controleer op beschikbare updates
+#end
+#src Check for available product beta versions
+#dst Controleer op beschikbare beta updates
+#end
+#src never
+#dst nooit
+#end
+#src on startup
+#dst bij opstart
+#end
+#src on startup daily
+#dst dagelijks na opstart
+#end
+#src on startup weekly
+#dst weekelijks na opstart
+#end
+#src on startup monthly
+#dst maandelijks na opstart
+#end
+#src Check now
+#dst Controleer nu
+#end
+
+#src Fan
+#dst Ventilator
+#end
+#src Automatic fan control properties
+#dst Eigenschappen van de automatische ventilator controle
+#end
+#src Enable user defined software automatic fan control
+#dst Inschakelen van de door de gebruiker gedefinieerde ventilator controle
+#end
+#src Temperature, °C
+#dst Temeratuur, °C 
+#end 
+#src Fan speed, %
+#dst Ventilator snelheid, %
+#end
+#src Predefined fan speed curve
+#dst
+#end
+#src Custom
+#dst
+#end
+#src Default
+#dst
+#end
+#src Fan speed update period (in milliseconds)
+#dst Actualisering van de ventilator snelheid(in ms)
+#end
+#src Temperature hysteresis (in °C)
+#dst Temperatuur hysteresis (in °C)
+#end
+#src Force fan speed update on each period
+#dst Forceer ventilator snelheid vernieuwing elke periode
+#end
+
+#src Monitoring
+#dst Toezicht
+#end
+#src Hardware monitoring properties
+#dst Hardware toezicht eigenschappen
+#end
+#src Hardware polling period (in milliseconds)
+#dst Vernieuwing van de hardware informatie (in ms)
+#end
+#src Hardware monitoring history logging properties
+#dst Eigenschappen van de hardware toezicht log geschiedenis
+#end
+#src Browse
+#dst Zoek
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst Stop loggen wanneer log groter is dan (in MB)
+#end
+#src Recreate existing log files
+#dst Recreëer bestaande log bestanden
+#end
+#src Active hardware monitoring graphs
+#dst Toezicht grafieken van de actieve hardware
+#end
+#src Maximum limit
+#dst Maximale grens
+#end
+#src Minimum limit
+#dst Minimale grens
+#end
+#src Override group name
+#dst Overschrijf groep naam
+#end
+#src Enable data filtering
+#dst Schakel data filtering in
+#end
+
+#src Show in On-Screen Display
+#dst Toon informatie op het scherm (OSD)
+#end
+#src Show in Logitech keyboard LCD display
+#dst Toon op het Logitech toetsenbord LCD scherm
+#end
+#src Show in tray icon
+#dst Toon een icoon op de werkbalk
+#end
+
+#src On-Screen Display
+#dst Informatie op het scherm (OSD)
+#end
+#src Global On-Screen Display hotkeys
+#dst Sneltoetsen voor de algemene informatie op het scherm (OSD)
+#end
+#src Toggle On-Screen Display
+#dst Aan/uit schakelen van de informatie op het scherm
+#end
+#src Show On-Screen Display
+#dst Toon informatie op het scherm
+#end
+#src Hide On-Screen Display
+#dst Verberg informatie op het scherm
+#end
+#src Additional On-Screen Display properties
+#dst Bijkomende eigenschappen van de informatie op het scherm (OSD)
+#end
+#src Show system time
+#dst Toon systeem tijd
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst Toon de OSD info op de vastgelegde beeldschermfoto's en video's
+#end
+#src On-Screen Display server compatibility properties
+#dst Sneltoets voor de OSD server compatibilteits eigenschappen
+#end
+#src Toggle On-Screen Display server blocking
+#dst Aan/uit schakelen van de OSD server blokkering
+#end
+#src More
+#dst Meer
+#dlu -100
+#end
+
+#src Profiles
+#dst Profielen
+#end
+#src Global profile hotkeys
+#dst Sneltoetsen voor de profielen
+#end
+#src Profile
+#dst Profiel
+#end
+#src Automatic profiles management
+#dst Beheer automatische profielen
+#end
+#src 2D profile
+#dst 2D profiel
+#end
+#src 3D profile
+#dst 3D profiel
+#end
+
+#src User Interface
+#dst Gebruikers interface
+#end
+#src User interface properties
+#dst Eigenschappen van het gebruikers interface
+#end
+#src English
+#dst Engels
+#end
+#src Language
+#dst Taal
+#end
+#src Show user interface tooltips
+#dst Toon gebruikers interface werktips
+#end
+#src Show user interface hints
+#dst Toon gebruikers interface hints
+#end
+#src Single tray icon mode
+#dst Enkelvoudig werkbalk icoon
+#end
+#src User interface skinning properties
+#dst Eigenschappen van de gebruikers interface thema's
+#end
+
+#src Screen capture
+#dst Beeldscherm foto
+#end
+#src Global screen capture hotkeys
+#dst Sneltoets voor het vastleggen van een beeldscherm foto
+#end
+#src Screen capture properties
+#dst Eigenschappen van de beeldscherm foto
+#end
+#src Screenshot format
+#dst Bestandstype van de beeldscherm foto
+#end
+#src Screenshots folder
+#dst Scherm foto's map
+#end
+#src View
+#dst Toon
+#end
+
+#src Video capture
+#dst Video vastleggen
+#end
+#src Global video capture hotkeys
+#dst Sneltoets om een video vast te leggen
+#end
+#src Video capture properties
+#dst Eigenschappen van de vast te leggen video
+#end
+#src Frame size
+#dst Beeld grootte
+#end
+#src full frame
+#dst volledig beeld
+#end
+#src 1/2 frame
+#dst 1/2 beeld
+#end
+#src 1/3 frame
+#dst 1/3 beeld
+#end
+#src 1/4 frame
+#dst 1/4 beeld
+#end
+#src Video format
+#dst Video formaat
+#end
+#src uncompressed
+#dst ongecomprimeerd
+#end
+#src RTV1 compression
+#dst RTV1 compressie
+#end
+#src MJPG compression
+#dst MJPG compressie
+#end
+#src 1 FPS
+#dst 1 FPS
+#end
+#src 100 FPS
+#dst 100 FPS
+#end
+#src Enable gamma correction
+#dst Schakel gamma correctie in
+#end
+#src Videos folder
+#dst Video's map
+#end
+#src Video capture compatibility properties
+#dst Compatibilteits eigenschappen van de video verwerking
+#end
+#src Multithreaded optimization
+#dst Multithreaded optimalisatie
+#end
+#src automatic
+#dst automatisch
+#end
+#src disabled
+#dst uitgeschakeld
+#end
+#src 1 compression thread
+#dst 1 compressie thread
+#end
+#src 2 compression threads
+#dst 2 compressie threads
+#end
+#src 3 compression threads
+#dst 3 compressie threads
+#end
+#src 4 compression threads
+#dst 4 compressie threads
+#end
+#src 5 compression threads
+#dst 5 compressie threads
+#end
+#src 6 compression threads
+#dst 6 compressie threads
+#end
+#src 7 compression threads
+#dst 7 compressie threads
+#end
+#src 8 compression threads
+#dst 8 compressie threads
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst Bewerk video dimenties om het "multiples of 16" te maken
+#end
+#src Audio capture properties
+#dst Eigenshappen van de vast te leggen audio
+#end
+#src Downmix multichannel audio to stereo
+#dst Vorm multichannel audio om naar stereo
+#end
+#src stereo rip
+#dst stereo rip
+#end
+#src stereo mix
+#dst stereo mix
+#end
+#src Mix multiple audio tracks
+#dst Mix meerdere audio sporen
+#end
+#src None
+#dst Geen
+#end
+#src Auto select
+#dst Auto select
+#end
+#src DirectSound capture device
+#dst DirectSound opname apparaat
+#end
+#src WASAPI playback device
+#dst WASAPI afspeel apparaat
+#end
+#src WASAPI capture device
+#dst WASAPI opname apparaat
+#end
+#src Audio source #1
+#dst Audio bron #1
+#end
+#src Audio source #2
+#dst Audio bron #2
+#end
+#src Push-To-Talk hotkey
+#dst
+#end
+#src There are no devices available
+#dst Er zijn geen apparaten beschikbaar
+#end
+#src Enable MJPG decoder
+#dst Schakel MJPG decoder in
+#end

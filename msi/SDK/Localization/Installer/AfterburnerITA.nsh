@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_ITALIAN}		"AfterburnerITA.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_ITALIAN}		"MSI Afterburner è attualmente attivo, la procedura d'installazione sarà interrotta!"
+LangString AfterburnerAbortInstall 	${LANG_ITALIAN} 	"MSI Afterburner installazione fallita!"
+LangString AfterburnerActiveUninstall 	${LANG_ITALIAN}		"MSI Afterburner è attualmente attivo, il processo di disinstallazione sarà interrotto!"
+LangString AfterburnerKeepSettings 	${LANG_ITALIAN} 	"Si desidera mantenere le proprie impostazioni di MSI Afterburner? Rispondere SI se si sta disinstallando l'utility prima di aggiornare a una nuova versione."
+LangString AfterburnerRebootUninstall 	${LANG_ITALIAN}		"Alcuni file di MSI Afterburner sono attualmente in uso e non possono essere rimossi in questo momento, è necessario riavviare per completare la disinstallazione e rimuovere questi file. Se si sta aggiornando MSI Afterburner, non è vivamente consigliato installare la nuova versione senza riavviare il sistema. Si desidera riavviare ora? "
+LangString AfterburnerAbortUninstall 	${LANG_ITALIAN} 	"MSI Afterburner disinstallazione fallita!"
+LangString AfterburnerCaption 		${LANG_ITALIAN} 	"Installazione MSI Afterburner ${VER_DISPLAY}"
+LangString DescSecAfterburner 		${LANG_ITALIAN}		"Applicazione principale di MSI Afterburner"
+LangString DescSecRTSS 			${LANG_ITALIAN}		"Fornisce servizi di monitoraggio framerate, On-Screen Display e cattura video a MSI Afterburner"
+LangString AfterburnerLocalization 	${LANG_ITALIAN} 	"ITA"

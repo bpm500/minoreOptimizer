@@ -1,0 +1,7 @@
+Hotkey pour le pré-enregistrement vidéo
+Permet de définir une hotkey globale pour démarrer et stopper un pré-enregistrement vidéo. Durant le pré-enregistrement, %PRODUCTNAME% capture la vidéo et la sauve dans le buffer de pré-enregistrement dans la RAM ou dans un fichier temporaire. Donc le buffer de pré-enregistrement contient toujours les dernières minutes de capture vidéo. Si vous appuyez sur la hotkey de capture vidéo durant le pré-enregistrement, la vidéo résultante contiendra le contenu du buffer de pré-enregistrement.
+
+Astuce:
+- Cette option demande l'activation d'un service dédié pour l'encodage dans les propriétés de compatibilté de %SERVERPRODUCTNAME%. 
+- Quelques combinaisons de touches (par ex.  <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>)  sont réservées et ne peuvent être utilisées.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

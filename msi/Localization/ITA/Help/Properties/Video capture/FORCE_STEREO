@@ -1,0 +1,5 @@
+Downmix audio da multicanale a stereo
+Consente di sottomiscelare il flusso audio multicanale catturato sulle schede audio multicanale in un flusso audio stereo. Il downmixing riduce la dimensione del file video risultante e migliora la compatibilità con vari lettori video e software di editing video.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

@@ -1,0 +1,6 @@
+Korrekturformel
+Ermöglicht die Anwendung einer benutzerdefinierten Korrekturformel auf das aktuell ausgewählte Diagramm. Korrekturformeln können nützlich sein, um thermische Offsets auf kundenspezifische Sensoren anzuwenden, z. B. Die Formel „x+10“ kann 10 Grad zur angezeigten Temperatur hinzufügen.
+
+Hinweise:
+- Fehlerhafte Eingaben werden rot hervorgehoben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

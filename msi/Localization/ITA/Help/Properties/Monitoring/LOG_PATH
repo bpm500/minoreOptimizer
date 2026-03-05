@@ -1,0 +1,8 @@
+Percorso log
+Consente di visualizzare il percorso e permette l'editing del file di log.
+
+Consigli:
+- %PRODUCTNAME% salva la storia nel formato nativo del file di log di RivaTuner. È possibile utilizzare RivaTuner per visualizzare i file di log registrati con %PRODUCTNAME%.
+- La registrazione della storia del monitoraggio hardware non è assolutamente libera in termini di prestazioni, qualche ciclo di CPU è richiesto ad ogni iterazione di aggiornamento del registro per scaricare i dati su HDD.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

@@ -1,0 +1,10 @@
+Modalità di controllo della tensione
+
+Consente di selezionare una delle seguenti modalità di controllo di tensione:
+
+- Riferimento - solo le schede di design di riferimento e i controllers di tensione sono supportati.
+- MSI standard - Le schede MSI e i controllers di tensione sono supportati sia nel design di riferimento che nel design personalizzato .
+- MSI estesa - Le schede MSI e i controllers di tensione sono supportati sia nel design di riferimento che nel design personalizzato e la gamma di controllo della tensione estesa è disponibile per alcuni modelli.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

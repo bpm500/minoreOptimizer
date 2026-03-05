@@ -1,0 +1,14 @@
+Editor da curva tensão/frequência
+Mostra o editor da curva Tensão/Frequência. O editor permite ajustar as frequências por compensações (offsets) de forma independente para cada ponto da curva. No painel do editor estão disponíveis as seguintes funcionalidades:
+
+- Desloque de forma independente cada ponto da curva com o cursor do mouse ou com as setas direcionais <Cima> e <Baixo>.
+- Mantenha pressionada a tecla <Ctrl> para definir um parâmetro base para as compensações de frequências no ponto mínimo e/ou máximo de tensão e ajuste com o mouse a compensação de qualquer outro ponto para interpolar linearmente os deslocamentos entre o ponto base e de ajuste.
+- Segure a tecla <Shift> enquanto ajustar o deslocamento de qualquer ponto para aplicar de forma fixa o mesmo deslocamento para todos os pontos. Isso equivale ao ajuste com o controle deslizante do painel principal do programa.
+- Pressione <Ctrl> + <D> para desfazer as alterações feitas para todos os pontos.
+- Utilize simultaneamente o controle deslizante tradicional do painel principal e o editor da curva tensão/frequência para ajuste comparativo e em tempo real.
+- Pressione a tecla <L> depois de selecionar qualquer ponto da curva para desativar o ajuste dinâmico de tensão/frequência e bloquear a frequência e a tensão da GPU no ponto definido. Este recurso permite que você teste a estabilidade da placa de vídeo de forma independente para cada ponto da curva usando aplicativos 3D reais ou qualquer programa de estresse de sua escolha. Além de testes de estabilidade em cenários de uso, o %PRODUCTNAME% permite que você salve como um perfil a curva com as configurações de bloqueio por ajuste pontual. Assim, você pode facilmente alternar em tempo real entre as gestões dinâmicas e fixas de tensão/frequência (por exemplo, para alcançar a máxima pontuação em benchmarking). Por favor, note que as configurações fixas de tensão/frequência não permitem que você desabilite as limitações de energia e temperatura.
+
+Sugestões:
+- A curva tensão/frequência exibida no editor não é estática, mas constantemente ajustada pelo driver de vídeo de acordo com as condições térmicas, por isso, não espere por frequências fixas em cada ponto, pois apenas o deslocamento definido para cada ponto permanece fixo.
+- Você também pode usar as teclas de atalho <CTRL> + <F> para abrir o editor da curva tensão/frequência.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

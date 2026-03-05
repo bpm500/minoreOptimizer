@@ -1,0 +1,5 @@
+Mode d'accès matériel graphique bas niveau
+L'accès matériel graphique bas niveau peut-être effectué en mode utilisateur ou kernel. Le mode d'accès utilisateur offre les meilleures performances de monitoring et consomme pas d'espace d'addressage du kernel, tandis que le mode kernel peut protéger le mapping mémoire du matériel contre des accès non autorisé par des applications mal concues (ex. Le client Punkbuster de Battlefield : Bad Company 2) et de cette façon protège le système d'instabilité.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

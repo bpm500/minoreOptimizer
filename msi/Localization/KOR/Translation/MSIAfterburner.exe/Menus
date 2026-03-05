@@ -1,0 +1,35 @@
+#src Pause
+#dst 정지
+#end
+#src Clear history
+#dst 기록 초기화
+#end
+#src Show status
+#dst 상태창 표시
+#end
+#src Log history to file
+#dst 모니터링 기록을 파일에 저장
+#end
+#src Always on top
+#dst 항상 위에
+#end
+#src Properties
+#dst 설정
+#end
+
+#src Copy
+#dst 복사
+#end
+
+#src Show
+#dst 보기
+#end
+#src Profiles
+#dst 프러파일
+#end
+#src Close
+#dst 닫기
+#end
+#src There are no profiles
+#dst 프러파일이 없습니다.
+#end

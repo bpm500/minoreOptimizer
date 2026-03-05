@@ -1,0 +1,21 @@
+#src Load profile 1
+#dst Загрузка профиля 1
+#end
+#src Load profile 2
+#dst Загрузка профиля 2
+#end
+#src Load profile 3
+#dst Загрузка профиля 3
+#end
+#src Load profile 4
+#dst Загрузка профиля 4
+#end
+#src Load profile 5
+#dst Загрузка профиля 5
+#end
+#src System
+#dst Система
+#end
+#src System shutdown
+#dst Выключение системы
+#end

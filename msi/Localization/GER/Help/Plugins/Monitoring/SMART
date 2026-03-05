@@ -1,0 +1,4 @@
+Dieses Plug-in fügt Datenquellen zur Überwachung von [b]Festplattentemperatur[/b] für Geräte hinzu, die die S.M.A.R.T-Technologie unterstützen.
+
+Hinweis:
+- Häufige Abfrage von S.M.A.R.T. kann bei Kombinationen einiger Laufwerksmodelle und IDE-Controller zu erheblichen Leistungseinbußen führen. Sie können Leistungseinbußen auf solchen Systemen abmildern, indem Sie einen minimalen S.M.A.R.T.-Abfragezeitraum festlegen. Diesen im Feld [b]MinPollingInterval[/b] des Abschnitts [Settings] der SMART.cfg-Konfigurationsdatei eintragen.

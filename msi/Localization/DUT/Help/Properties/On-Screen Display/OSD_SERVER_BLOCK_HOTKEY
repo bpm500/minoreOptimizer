@@ -1,0 +1,9 @@
+Aan/uit schakelen van de OSD server blokkering
+
+Sommige %PRODUCTNAME% functionaliteiten, zoals framerate toezicht, OSD rendering, scherm vastleggen en automatische profiel beheer hangen af aan bijkomende %SERVERPRODUCTNAME% proces. Dat is waarom %SERVERPRODUCTNAME% automatisch start bij  %PRODUCTNAME% van het ogenblik je één van de bovenstaande toepassingen inschakeld.
+Het is mogelijk dat anti-cheat systemen van sommige online games het gebruik van Informatie op het scherm (OSD) blokkeren en de connectie van de game server verbreken wanneer %SERVERPRODUCTNAME% gestart is.
+Om deze problemen te voorkomen kan je een sneltoets gebruiken om tijdelijk %SERVERPRODUCTNAME% te blokkeren en het ontladen uit het geheugen als het vereist is om het juist functioneren van %PRODUCTNAME%. Gelieve nota te nemen dat elke functionaliteit van de server zal stoppen wanneer deze is geblokkeerd en ontladen.
+
+Hint:
+- Sommige sneltoets combinaties zijn gereserveerd en kunnen niet gebruikt worden (v.b <1>...<5>...<ctrl>+<1>...<ctrl>+<5> en <ctrl>+<D>).
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

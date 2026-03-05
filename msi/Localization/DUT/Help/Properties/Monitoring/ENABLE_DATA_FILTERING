@@ -1,0 +1,8 @@
+Schakel data filtering in
+Gelijktijdige toegang tot dezelfde hardware sensor (vb. GPU temperatuur sensor)door meerdere software producten kan resulteren in het slecht uitlezen van deze hardware sensor en kan leiden tot abnormale pieken in de toezicht grafieken.
+Het inschakelen van deze optie voorkomt deze abnormale pieken.
+Gelieve nota te nemen dat het inschakelen van deze optie de werkelijke data pieken ( vb. GPU gebruiks pieken) niet altijd zal weergeven. Ook zal de grafiek vernieuwings periode tot 4 maal hoger liggen dan de vastgestelde vernieuwings periode.
+.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

@@ -1,0 +1,8 @@
+Contenitore video
+Permette di selezionare il formato del file contenitore. A seconda delle preferenze è possibile selezionare uno dei seguenti contenitori:
+
+- AVI - Audio Video Interleave è un contenitore multimediale introdotto da Microsoft nei primi anni '90. Il contenitore AVI è ampiamente utilizzato e supportato da qualsiasi lettore video. Tuttavia, l'architettura del contenitore AVI è piuttosto vecchia e alcuni moderni formati di compressione video come H.264, si adatterebbe meglio a formati contenitore più progressisti.
+- MKV - Matroska è un moderno contenitore multimediale flessibile introdotto nel 2002. A differenza di AVI, il contenitore MKV supporta nativamente timestamp di fotogrammi video e audio in modo di ridurre al minimo il rischio di vedere problemi di sincronizzazione audio/video durante la riproduzione video. Tuttavia, il supporto al contenitore MKV può essere limitato in alcuni lettori video.
+
+suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

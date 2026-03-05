@@ -1,0 +1,7 @@
+Log geschiedenis naar een bestand
+Schakeld hardware toezicht geschiedenis logging naar een bestand in.
+
+Hint:
+- %PRODUCTNAME% slaat de geschiedenis op als een RivaTuner log bestandsoort. Je kan RivaTuner gebruiken om log bestanden te bekijken die je maakte met %PRODUCTNAME%.
+- Hardware toezicht logging geschiedenis is niet vrij van prestatie beinvloeding, CPU belasting is vereist om bij elke log vernieuwing de data naar de HDD te schrijven.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

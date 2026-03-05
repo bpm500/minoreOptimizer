@@ -1,0 +1,5 @@
+Gammakorrektur aktivieren
+Standardmäßig erfasst %PRODUCTNAME% den Videostream unverändert, ohne dass Anpassungen am Framebuffer vorgenommen werden. Bei manchen Spielen im Vollbildmodus kann es jedoch zu einem höheren Gammawert kommen, sodass aufgenommene Videos möglicherweise dunkler sind. In diesem Fall können Sie diese Option aktivieren, um die Gammakorrektur auf den aufgenommenen Videostream anzuwenden, allerdings mit einem geringfügigen Leistungsabfall.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

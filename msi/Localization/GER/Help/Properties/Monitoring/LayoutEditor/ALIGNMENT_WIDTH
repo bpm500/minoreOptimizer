@@ -1,0 +1,6 @@
+Ausrichtungsbreite
+Zeigt die Ausrichtungsbreite für eine Variable aus der Ausrichtungsbibliothek an und ermöglicht deren Bearbeitung.
+
+Hinweise:
+- Sie können zwischen den Ausrichtungsmodi "Feste Schriftgröße" und "Variable Schriftgröße" umschalten, wenn Sie eine Ausrichtungsvariable mit formatiertem Text verknüpfen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

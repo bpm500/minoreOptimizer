@@ -1,0 +1,6 @@
+Beeld grootte
+Wanneer men een video vastlegt op hoge resolutie en met een volledige beeld grootte kan de PCIE bus bandbreedte een flessenhals (bottleneck) worden en zo je beeldverversing snelheid limiteren, dit door de hoeveelheid aan data die gekopieerd wordt tussen GPU en CPU.
+In zulke gevallen kan je de prestatie verhogen door de beeld grootte te verkleinen. VB: het selecteren van 1/2 beeld grootte inplaats van volledig beeld zal de data stroom tussen GPU en CPU verkleinen met een factor van 4. Dit heeft ook een effect op de prestaties van de CPU en de hardeschijf omdat er minder data moet weg geschreven worden.  
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

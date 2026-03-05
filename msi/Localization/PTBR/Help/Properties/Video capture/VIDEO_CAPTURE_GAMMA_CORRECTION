@@ -1,0 +1,5 @@
+Correção de gama 
+Por padrão, o %PRODUCTNAME% captura videos sem aplicar quaisquer ajustes. Alguns jogos em tela cheia podem aumentar a exposição gama e o vídeo capturado pode parecer mais escuro do que visto durante os jogos. Neste caso, você pode ativar essa opção para aplicar a correção de gama ao vídeo capturado ao custo de uma perfromance menor. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

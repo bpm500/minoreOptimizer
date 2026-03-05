@@ -1,0 +1,7 @@
+Atividade do Servidor de Monitoramento 
+Algumas funcionalidades do %PRODUCTNAME%, como o monitoramento de taxa de quadros, mostrador de informações na tela, capturas de tela e gestão automática de perfis dependem de processos adicionais do %SERVERPRODUCTNAME%. Por isso, o %SERVERPRODUCTNAME% é automaticamente iniciado pelo %PRODUCTNAME% assim que você ativar qualquer um dos recursos citados acima. 
+No entanto, sistemas "Anticheat" de alguns jogos online podem restringir o uso do mostrador de informações na tela quando o %SERVERPRODUCTNAME% estiver em execução. Para minimizar este tipo de problema, você pode criar um atalho para bloquear temporariamente o %SERVERPRODUCTNAME% interrompendo seu processo na memória mesmo que seja necessário para o bom funcionamento do %PRODUCTNAME%. Por favor, note que todas as funcionalidades que dependam do servidor irão parar de funcionar enquanto o servidor de monitoramento estiver bloqueado e inativo. 
+
+Sugestões: 
+- Algumas combinações de teclas (por exemplo, <1> ... <5>, <Ctrl> + <1> ... <Ctrl> + <5> e <Ctrl> + <D>) estão reservadas e não podem ser usadas.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

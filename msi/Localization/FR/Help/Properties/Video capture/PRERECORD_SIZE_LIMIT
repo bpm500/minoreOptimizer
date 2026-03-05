@@ -1,0 +1,5 @@
+Taille limite de pré-enregistrement
+Permet de définir la taille limite du buffer de pré-enregistrment en mégaoctets. Vous pouvez le mettre à 0 pour laisser une taille illimitée. Veuillez noter que dans le cas de pré-enregistrement dans un fichier, l'espace réservée pour le fichier sera le double pour permettre un ring buffering efficace.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

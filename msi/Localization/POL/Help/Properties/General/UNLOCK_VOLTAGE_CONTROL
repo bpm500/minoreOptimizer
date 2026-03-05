@@ -1,0 +1,9 @@
+Odblokuj kontrolê napiêcia
+Odblokowuje kontrole napiecia, jesli jest obslugiwana przez sprzet. Zablokuj kontrole napiecia, jesli nie potrzebujesz funkcji kontroli napiecia, jesli nie jestes doswiadczonym uzytkownikiem i nie rozumiesz ryzyka zwiazanego z kontrola napiecia.
+
+Wskazówki:
+- Moze to byc niebezpieczne, aby uruchomic wiele aplikacji dostepu do regulatorów napiecia karty graficznej jednoczesnie. Zablokuj te opcje, jesli nie masz pewnosci, ze w systemie nie ma takich aplikacji.
+- Nie zaleca sie laczenia automatycznego zarzadzania profilami z kontrola napiecia. Dynamiczne zmiany napiecia oprogramowania w polaczeniu z dynamicznymi zmianami zegara moga powodowac dzialania niepozadane i zmniejszac stabilnosc systemu.
+- Regulacja napiecia jest dostepna w ograniczonym zestawie modeli kart graficznych wyposazonych w programowalny modul regulacji napiecia. Zapoznaj sie z dokumentacja, aby uzyskac pelna liste modeli kart graficznych obslugujacych regulacje napiecia.
+- Ponowne uruchomienie %PRODUCTNAME% jest wymagane do zastosowania zmian po przelaczenie tej opcji.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

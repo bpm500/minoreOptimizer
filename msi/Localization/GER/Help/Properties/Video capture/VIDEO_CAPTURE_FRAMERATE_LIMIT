@@ -1,0 +1,5 @@
+Bildratenlimit
+Legt ein Bildratenlimit für 3D-Anwendungen während der Videoaufnahme fest. Durch dieses Limit wird das resultierende Video flüssiger. Außerdem wird es auch flüssiger, wenn die Bildrate ein Vielfaches der Bildrate der Videoaufnahme beträgt. Deshalb wird das Limit als Vielfaches der Bildrate der Videoaufnahme festgelegt.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

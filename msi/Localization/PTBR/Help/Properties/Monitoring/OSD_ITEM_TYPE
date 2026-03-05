@@ -1,0 +1,10 @@
+Modos de exibição de informações na tela
+Permite selecionar o modo como os valores do sensor atualmente selecionado serão exibidos na tela. Como texto, gráfico ou ambos.
+
+Sugestões:
+- Você precisa marcar e ativar um sensor para acessar esta opção.
+- Esta opção pode ter impacto sobre o rendimento do sistema, cada símbolo exibido requer recursos de CPU e GPU. Desative sensores desnecessários para minimizar o impacto no desempenho. 
+- Ativar esta opção irá executar processos adicionais do %SERVERPRODUCTNAME% iniciados automaticamente. O servidor fornece os serviços de renderização de exibição na tela para aplicativos 3D e não pode ser interrompido até que todos os sensores de monitoramento sejam desativados. 
+- Você pode manter pressionado <Shift> ao modificar esta opção para alterar todos os sensores de uma só vez. 
+- Quando vários sensores estiverem selecionados, segure a tecla <Ctrl> ao modificar esta opção para alterar de forma sincrônica todos os sensores selecionados. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,6 @@
+Lüftergeschwindigkeit synchronisieren
+Ermöglicht die synchronisierte oder asynchrone Anpassung der GPU-Lüftergeschwindigkeit auf Grafikkarten mit mehreren unabhängigen Controllern.
+Wenn die Synchronisierung aktiviert ist, laufen die Lüfter mit fester Geschwindigkeit oder per benutzerdefinierter Lüfterkurve mit der gleichen Geschwindigkeit. Im standardmäßigen Automatikmodus sind die Lüfter immer asynchron.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

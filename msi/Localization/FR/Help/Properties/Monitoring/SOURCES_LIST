@@ -1,0 +1,9 @@
+Liste des graphs du monitoring matériel
+Affiche la liste des graphs du monitoring matériel disponible, permet de changer l'ordre des graphs et l'activation de ceux-ci.
+
+Astuce:
+- Le checkmark à côté de chaque nom de graph active celui-ci. Les graphs actifs sont affichés dans la fenêtre de monitoring. Evitez d'activer des graphs inutilement, cela augmentera le temps CPU requis pour inspecter le matériel et peut dégrader les performances. 
+- Activating the <Framerate> graph will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides data for this graph and it cannot be unloaded until the graph is disabled.
+- Vous pouvez prendre et déplacer les graphs pour les ré-arranger.
+- Vous pouvez cliquer sur n'importe quel graph dans la liste pour le selectionner et accéder aux options du graph. Le graph doit être activé pour accéder à ses options.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

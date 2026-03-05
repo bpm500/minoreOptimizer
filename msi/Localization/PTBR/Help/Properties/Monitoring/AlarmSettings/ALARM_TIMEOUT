@@ -1,0 +1,5 @@
+Tempo de disparo do alarme
+Exibe e edita o tempo de acionamento do alarme em milissegundos. O %PRODUCTNAME% não reproduz a notificação sonora nem executa a aplicação externa quando a ativação do alarme se reiniciar no intervalo de tempo de disparo.
+
+Sugestões:
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

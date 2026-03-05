@@ -1,0 +1,10 @@
+Modo de ícone único na barra do sistema  
+Exibe um único ícone na barra de tarefas do sistema. Ao habilitar esta opção, o ícone principal do programa será substituído pelo(s) ícone(s) de monitoramento quando houver sensores de monitoramento ativos ou apenas pelo ícone do MSI Afterburner quando não houver nenhum monitoramento ativo. 
+Por favor, observe que as propriedades do Servidor de Monitoramento (RivaTuner) ainda são acessíveis através do botão <Mais> na guia <Informações na Tela> das propriedades do MSI Afterburner.
+ 
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.
+
+
+
+

@@ -1,0 +1,10 @@
+Downmix mode
+Het vastleggen van meerdere audiokanalen op een multichannel geluidskaart kan gedownmixed worden tot een stereospoor in twee verschillende modes:
+
+- Stereo rip - voorste , linkse en rechtse audiokanalen worden ontrokken van het origineel multichannel audiospoor.
+- Stereo mix - Stereo kanalen worden gemixed van de originele voorste, linkse, midden en surround links en rechtse kanalen. Deze mode verandert het originele audio volume veroorzaakt door het mixen.
+
+
+Hint:
+- Deze optie werkt alleen wanneer het vastleggen van de audio via WASAPI afspeelapparaten gebeurt onder windows Vista of een nieuwer besturingssysteem.
+- Je kan de gebruikers interface werktips uitschakelen via de <gebruikers interface> tab in geavanceerde eigenschappen.

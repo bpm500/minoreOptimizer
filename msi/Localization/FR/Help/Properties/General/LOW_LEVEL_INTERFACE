@@ -1,0 +1,6 @@
+Donne l'accès à l'interface bas niveau du matériel
+Permet %PRODUCTNAME% d'utiliser les drivers bas niveau pour accéder au matériel graphique. L'accès bas niveau offre et étends le monitoring matériel le plus efficace et offre des possibilités de contrôles au delà des limites du driver graphique de la carte. Néanmoins, lorsque l'accès bas niveau est en utilation quelques applications sytème au mauvais design (ex. le client Punkbuster pour Battlefield : Bad Company 2) peuvent créer des problèmes d'instabilités sérieux à cause de leur accès illégal à la mémoire qui ne leur est pas dédié. 
+Vous pouvez désactiver cette option pour détecter la cause de l'instabilité du système, mais cela réduira les performances du module de monitoring hardware et/ou les fonctionnalités de contrôle.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

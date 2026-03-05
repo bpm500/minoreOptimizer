@@ -1,0 +1,9 @@
+Core clock
+Adjusts master GPU core clock. Depending on graphics card model the clock can be represented either excplicitly or as an offset added to base clock. Signed values represent the offset whilst unsigned values represent absolute clock.
+
+Hints:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- When adjusting core and shader clocks independently please remember that the minimum allowed shader to core clock ratio is limited by hardware. Attempt to drive the ratio out of range may prevent the clocks from applying.
+- When this slider is focused, you may use cursor keys on your keyboard to finetune the clock.
+- You may click the adjacent edit field to directly type in a desired clock.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

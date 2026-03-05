@@ -1,0 +1,10 @@
+Prêdkoœæ wentylatora
+Adjusts master GPU fan speed.
+
+Wskazówki:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Fan speed control is not available if graphics card is not equipped with fan controller chip and (or) controllable cooling system.
+- <Auto> button must be unchecked in order to control the fan directly.
+- When this slider is focused, you may use cursor keys on your keyboard to finetune the speed.
+- You may click the adjacent edit field to directly type in a desired speed.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

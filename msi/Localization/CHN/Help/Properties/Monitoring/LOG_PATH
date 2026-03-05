@@ -1,0 +1,7 @@
+Log path
+Displays and allows editing path to log file.
+
+Hints:
+- MSI Afterburner saves history in native RivaTuner log file format. You may use RivaTuner to view log files recorded with MSI Afterburner. 
+- Hardware monitoring history logging is not absolutely free in terms of performance, some CPU and is required on each log update iteration to flush data to HDD. 
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

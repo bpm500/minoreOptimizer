@@ -1,0 +1,9 @@
+Toon informatie op het scherm (OSD).
+Dit staat toe om de geselecteerde grafiek waarden te zien op het scherm.
+
+Hint:
+- U moet de gewilde grafiek selecteren en activeren om toegang te krijgen tot deze optie.
+- Deze functie kan ook invloed hebben op de performance.
+- Deze optie vereist het automatisch opstarten van de bijkomende  "on-screen display server"
+- Bij problemen met punkbuster kan u de optie "stealth" aanvinken op de bijkomende "on-screen display server"
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

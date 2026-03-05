@@ -1,0 +1,6 @@
+Taille de la capture vidéo
+Quand vous capturez la vidéo en haute résolution en taille entière la bande passante du bus PCIE peut devenir le bottleneck qui limite le framerate à cause de l'énorme afflux de données à copier du GPU vers le CPU via le bus à chaque image. 
+Dans de telle situations, vous pouvez essayer d'améliorer la performance en réduisant la taille de la capture, par exemple en sélectionnant la moitié de la taille au lieu de la taille entière va réduire le nombre de données par un facteur 4. Réduire la taille de capture réduire aussi la charge CPU et HDD en réduisant le nombre de données à compresser et à écrire sur le disque dur.   
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

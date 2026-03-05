@@ -1,0 +1,6 @@
+Processori grafici
+Visualizza la lista dei processori grafici installati nel sistema e permette di selezionare la GPU principale. Tutte le regolazioni GPU che si stanno facendo nella finestra principale vengono applicate alla GPU principale e, facoltativamente, per tutte le GPU simili installate nel sistema, se per l'adiacente processore grafico sono attivate le impostazioni delle opzioni di sincronizzazione.
+
+Consigli:
+- Applicare sempre le modifiche apportate nella finestra principale dell'applicazione prima di passare a una nuova GPU principale. Tutte le impostazioni GPU inapplicate saranno perdute su una nuova selezione GPU principale.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

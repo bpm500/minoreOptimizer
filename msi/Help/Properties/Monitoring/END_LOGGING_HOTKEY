@@ -1,0 +1,8 @@
+End recording hotkey
+Allows defining global hotkey for ending logging hardware monitoring history to file.
+
+Hints:
+- %PRODUCTNAME% saves history in native RivaTuner log file format. You may use either built-in viewer or RivaTuner to view log files recorded with %PRODUCTNAME%. 
+- Hardware monitoring history logging is not absolutely free in terms of performance, some CPU time is required on each log update iteration to flush data to HDD. 
+- Some hotkey combinations (e.g. <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) are reserved and cannot be used.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

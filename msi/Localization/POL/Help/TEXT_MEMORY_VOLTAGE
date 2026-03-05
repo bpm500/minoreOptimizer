@@ -1,0 +1,9 @@
+Napiêcie pamiêci
+Wyswietla aktualne napiecie pamieci glównej procesora GPU. W zaleznosci od modelu karty graficznej napiecie moze byc reprezentowane albo w sposób ekscytacji lub jako przesuniecie dodane do napiecia bazowego. Podpisane wartosci reprezentuja przesuniecie, podczas gdy niepodpisane wartosci reprezentuja napiecie bezwzgledne.
+
+Wskazówki:
+- Kontrola napiecia jest domyslnie zablokowana ze wzgledów bezpieczenstwa. Jesli rozumiesz i akceptujesz ryzyko zwiazane z uzywaniem kontroli napiecia, mozesz odblokowac go w zaawansowanych wlasciwosciach aplikacji.
+- Gdy tryb synchronizacji ustawien GPU jest wlaczony w <General>tab w zaawansowanych wlasciwosciach, wszelkie zmiany zastosowane do glównego GPU sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie.
+- Regulacja napiecia jest dostepna w ograniczonym zestawie modeli kart graficznych wyposazonych w programowalny modul regulacji napiecia. Zapoznaj sie z dokumentacja, aby uzyskac pelna liste modeli kart graficznych obslugujacych regulacje napiecia.
+- Mozesz kliknac to pole, aby bezposrednio wpisac zadane napiecie.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

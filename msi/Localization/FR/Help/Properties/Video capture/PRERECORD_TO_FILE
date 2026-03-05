@@ -1,0 +1,5 @@
+pré-enregistrement vers fichier
+Permet de pré-enregister vers un fichier temporaire. Ce mode est approprié pour le pré-enregistrement de longues vidéos (par ex. 10 minutes ou plus de vidéo H.264) ou pour pré-enregistrer des vidéos avec un faible taux de compresssion (par ex. lossless Lagarith)
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

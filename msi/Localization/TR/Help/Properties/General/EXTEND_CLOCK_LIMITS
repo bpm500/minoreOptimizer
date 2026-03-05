@@ -1,0 +1,11 @@
+Extend official overclocking limits
+By default overclocking limits in AMD Catalyst Control Center and in all overclocking tools using official AMD Overclocking implementation are rather low and defined by AMD VGA BIOS.
+This option may help extending the limits without altering them in VGA BIOS. Please take a note that the limits are being extended only for graphics cards connected to Windows desktop.
+Also, please keep in mind that the limits must be re-extended after installing new AMD display drivers.
+
+WARNING! Use this option at your own risk! Both MSI and AMD will not provide you any support on it in any form including questions in the forums.
+
+Hints:
+- This option is only active if there is at least one supported AMD graphic card installed in the system.
+- Reboot is required to apply changes after toggling this option.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

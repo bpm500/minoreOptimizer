@@ -1,0 +1,6 @@
+Ressetter le mode d'affichage lors d'application d'overclocking non officiel
+A cause d'un bug dans les drivers Catalyst AMD, l'affichage peut scintiller lors d'application d'overclocking non officiel jusqu'à ce que le mode d'affichage change. Vous pouvez activer cette option pour forcer le reset du mode d'affichage lors de l'application d'overclocking non officiel.
+
+Astuce:
+- Cette option ne fonctionne que si il y a au moins une carte graphique AMD active installée dans le système.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,9 @@
+Velocidade da ventoinha 
+Exibe a velocidade atual da(s) ventoinha(s) da placa de vídeo principal. 
+
+Sugestões: 
+- Quando o modo de sincronização entre GPUs similares estiver habilitado na guia <Geral>, as alterações nas configurações da placa de vídeo principal serão aplicadas às outras placas semelhantes instaladas no sistema.
+- O controle automático da ventoinha não está disponível nas placas de vídeo que não o suportam. A ventoinha dever ser controlável via software.
+- O botão <Auto> deve ser desativado para controlar a velocidade da ventoinha manualmente.
+- Você pode clicar na caixa de texto e inserir o valor desejado diretamente.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,12 @@
+Profile Slot 4
+Saves current applied voltage, clock and fan control settings to profile slot 4, loads or deletes settings from it.
+
+Hints:
+- You may press <Save> button then press this button while it is flashing to save current applied settings to profile slot 4. Profile slots of all GPUs installed in the system are saved synchronically.
+- You may save current applied settings to empty profile slot 4 or delete profile from used profile slot 4 by right clicking this button. Profile slots of all GPUs installed in the system are modified synchronically.
+- You may save current applied settings to empty profile slot 4 or delete profile from used profile slot 4 by pressing <Ctrl> + <4> keys on your keyboard. Profile slots of all GPUs installed in the system are modified synchronically.
+- You may load master GPU profile from profile slot 4 by clicking this button.
+- You may load master GPU profile from profile slot 4 by pressing <4> key on your keyboard.
+- You may load and automatically apply the profiles via tray menu or even assign global hotkeys for each profile slot via advanced properties window. Profiles are loaded and synchronically applied for all GPUs installed in the system.
+- You may use automatic profiles management function and assign different profiles for 2D and 3D applications via the <Profiles> tab in advanced properties. Assigned profiles will be loaded and synchronically applied for all GPUs installed in the system on 2D/3D state changes.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_PORTUGUESEBR}	"AfterburnerPTBR.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_PORTUGUESEBR} 	"O MSI Afterburner está atualmente em execução, o processo de instalação será abortado!"
+LangString AfterburnerAbortInstall 	${LANG_PORTUGUESEBR} 	"A instalação do MSI Afterburner falhou!"
+LangString AfterburnerActiveUninstall 	${LANG_PORTUGUESEBR}	"O MSI Afterburner está atualmente em execução, o processo de desinstalação será abortado!"
+LangString AfterburnerKeepSettings 	${LANG_PORTUGUESEBR} 	"Você deseja manter suas configurações do MSI Afterburner? Responda SIM se você estiver desinstalando o programa antes de atualizar para a versão mais recente."
+LangString AfterburnerRebootUninstall 	${LANG_PORTUGUESEBR}	"Alguns arquivos do MSI Afterburner estão atualmente em uso e não podem ser removidos agora, você deve reiniciar o computador para remover esses arquivos e concluir a desinstalação. Se você estiver atualizando o MSI Afterburner, é altamente recomendável que você reinicie o computador antes de instalar a nova versão. Deseja reiniciar agora?"
+LangString AfterburnerAbortUninstall 	${LANG_PORTUGUESEBR} 	"A desinstalação do MSI Afterburner falhou!"
+LangString AfterburnerCaption 		${LANG_PORTUGUESEBR} 	"Instalação do MSI Afterburner ${VER_DISPLAY}"
+LangString DescSecAfterburner 		${LANG_PORTUGUESEBR} 	"Aplicação principal do MSI Afterburner"
+LangString DescSecRTSS 			${LANG_PORTUGUESEBR}	"Fornece serviços de monitoramento de taxa de quadros, exibição de informações na tela e captura de vídeos para o MSI Afterburner"
+LangString AfterburnerLocalization 	${LANG_PORTUGUESEBR}	"PTBR"

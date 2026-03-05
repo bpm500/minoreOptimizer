@@ -1,0 +1,9 @@
+Show in Logitech keyboard LCD display
+Allows showing currently selected graph values in Logitech keyboard LCD display.
+
+Hints:
+- You must activate and select desired graph to get access to this option.
+- You may hold <Shift> button pressed on your keyboard while changing this option to change it synchronically for all graphs.
+- You may select the font for Logitech keyboard LCD output in the adjacent dropdown list.
+- You may scroll the text displayed in Logitech keyboard LCD using 4 Logitech keyboard soft buttons. Vertical and horizontal scrolling positions can be reset by pressing up/down or left/right scroll buttons simultaneously.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

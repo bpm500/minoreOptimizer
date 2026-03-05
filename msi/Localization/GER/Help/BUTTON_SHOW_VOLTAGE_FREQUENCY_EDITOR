@@ -1,0 +1,14 @@
+Kernspannungs-Kerntaktraten-Kurveneditor anzeigen/verbergen
+Schaltet die Sichtbarkeit des Kernspannungs-Kerntaktraten-Kurveneditors um. Der Editor ermöglicht die unabhängige Anpassung des Kerntaktraten-Offsets für jeden Punkt auf der Kurve. Der Editor bietet folgende Funktionen:
+
+- Sie können den Kerntaktraten-Offset für jeden Punkt unabhängig mit dem Mauszeiger oder den Tasten <Auf> / <Ab> anpassen.
+- Sie können die <Strg>-Taste gedrückt halten, um den Anker zu setzen und den Kerntaktraten-Offset im minimalen/maximalen Kernspannungspunkt festzulegen und den Offset jedes anderen Punktes mit der Maus anzupassen, um den Offset zwischen dem Anker und den Anpassungspunkten linear zu interpolieren.
+- Sie können die <Umschalt>-Taste gedrückt halten, während Sie den Offset eines beliebigen Punkts mit der Maus anpassen, um den gleichen festen Offset auf alle Punkte anzuwenden. Das entspricht der Anpassung des Offsets mit dem Schieberegler im Hauptanwendungsfenster.
+- Sie können <Strg> + <D> drücken, um die Offsets für alle Punkte zurückzusetzen.
+- Sie können zwischen dem herkömmlichen Kerntaktratenschieberegler im Hauptfenster und dem Kurveneditor wechseln und in Echtzeit sehen, wie sie sich gegenseitig beeinflussen.
+- Sie können <L> drücken, nachdem Sie mit der Maus einen beliebigen Punkt auf der Kurve ausgewählt haben, um die dynamische Kernspannungs-Kerntaktraten-Anpassung der GPU zu deaktivieren und die Kernspannung und -taktrate auf den durch den Zielpunkt festgelegten Zustand zu fixieren. Mit dieser Funktion können Sie die Stabilität einer Grafikkarte unabhängig für jeden Punkt der Kernspannungs-Kerntaktraten-Kurve mithilfe realer 3D-Anwendungen oder mithilfe Ihres bevorzugten Stresstests prüfen. Zusätzlich zum Stabilitätstest-Nutzungsszenario können Sie mit %PRODUCTNAME% eine Kurve mit gesperrter Punkteinstellung in einem Profil speichern, sodass Sie problemlos in Echtzeit zwischen dynamischem Kernspannungs-Kerntaktraten-Management und festen Kernspannungs-Kerntaktraten-Einstellungen wechseln können (z. B. um die maximale Leistung im Benchmark zu erreichen). Bitte beachten Sie, dass Sie mit festen Kernsspannungs- und Kerntaktraten-Einstellungen das Leistungs- und Temperaturlimit nicht deaktivieren können.
+
+Hinweise:
+- Die im Kurveneditor angezeigte Kernspannungs-Kerntaktraten-Kurve ist nicht statisch. Die Kurve wird vom Grafiktreiber abhängig von den thermischen Bedingungen dynamisch verändert, so dass man für keinen Punkt der Kurve eine statische Festlegung der Kerntaktraten erwarten kann. Der einzige feste Parameter ist der Offset, den Sie für jeden Punkt festlegen.
+- Sie können <Strg> + <F> drücken, um über die Tastatur auf das Editorfenster für die Frequenz-/Spannungskurve zuzugreifen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

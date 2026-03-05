@@ -1,0 +1,7 @@
+Hotkey für <Aufnahme starten>
+Ermöglicht einen Hotkey festzulegen, um die Aufzeichnung der Bildratenstatistiken zu starten. Einmal gestartet, bleibt der Aufzeichnungsmodus für alle nachfolgend gestarteten Anwendungen aktiv, auch wenn das System neu gestartet wird. Während der Aufnahme können Sie die minimale, durchschnittliche und maximale Bildrate in der Overlay-Bildschirmanzeige sehen, indem Sie die Option zur Anzeige benutzerdefinierter Statistiken in %SERVERPRODUCTNAME% aktivieren. Während der Aufnahme den Hotkey erneut drücken, um die Aufnahme neu zu starten, oder den Hotkey zum Beenden der Aufzeichnung drücken, um die Benchmark-Statistiken in einer Textdatei zu speichern.
+
+Hinweise:
+- Durch die Aktivierung dieser Option wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server ermöglicht 3D-Anwendungen Statistiken aufzuzeichnen und der Prozess kann erst beendet werden, wenn diese Option deaktiviert ist.
+- Einige Hotkey-Kombinationen (z. B. <1>...<5>, <Strg>+<1>...<Strg>+<5> und <Strg>+<D>) sind reserviert und können nicht verwendet werden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

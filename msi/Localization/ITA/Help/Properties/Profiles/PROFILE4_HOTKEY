@@ -1,0 +1,8 @@
+Slot profilo 4 tasti di scelta rapida
+Consente di definire tasti di scelta rapida a livello globale per caricare ed applicare il profilo dello slot profilo 4.
+
+Consigli:
+- Fare attenzione quando si applicano i profili di overclock al volo durante la runtime di un applicativo 3D. A seconda del modello di scheda grafica e dell'architettura del driver di visualizzazione, possono aver luogo effetti indesiderati e riduzione della stabilità del sistema.
+- Alcune applicazioni (ad esempio FEAR) possono appositamente bloccare tasti di scelta rapida rompendo le catene a basso livello di aggancio della tastiera.
+- Alcune combinazioni di tasti (ad esempio, <1>...<5>, <Ctrl> + <1>...<Ctrl>+<5> e <Ctrl>+<D>) sono riservati e non possono essere utilizzati.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

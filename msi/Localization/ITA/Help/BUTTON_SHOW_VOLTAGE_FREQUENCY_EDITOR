@@ -1,0 +1,14 @@
+Tensione/frequenza editor di curva
+Attiva o disattiva la visibilità dell'editor di curva della tensione/frequenza. L'editor permette la regolazione di offset della frequenza del core clock indipendentemente per ciascun punto di tensione/frequenza della curva. La finestra dell'editor vi offre le seguenti funzionalità:
+
+- È possibile regolare l'offset della frequenza di clock in modo indipendente per ogni punto con il cursore del mouse o con i tasti <SU> <GIU'>.
+- È possibile tenere premuto il tasto <Ctrl> per impostare l'ancora e fissare un punto di tensione minimo/massimo di offset della frequenza di clock e regolare l'offset di qualsiasi altro punto con il mouse per interpolare linearmente gli offset tra i punti di ancoraggio e di regolazione.
+- È possibile tenere premuto <Shift> mentre si regola l'offset di qualsiasi punto con il mouse per applicare lo stesso offset fisso per tutti i punti. Questo è uguale alla regolazione dell'inclinazione con il cursore nella finestra principale dell'applicazione.
+- È possibile premere <Ctrl> + <D> per resettare gli offset di tutti i punti.
+- Si può passare dal cursore di controllo del core clock tradizionale nella finestra principale alla finestra dell'editor di curva della tensione/frequenza per vedere come si influenzano l'un l'altro in tempo reale.
+- È possibile premere <L> dopo aver selezionato qualsiasi punto della curva con il cursore del mouse per disabilitare la regolazione della tensione/frequenza della GPU dinamica e bloccare la frequenza e il voltaggio del core clock di base per uno stato definito dal punto di destinazione. Questa funzione permette di testare la stabilità della scheda grafica in modo indipendente per ogni punto di tensione/frequenza della curva utilizzando applicazioni 3D reali o qualsiasi altro stress test di vostra scelta. Oltre allo scenario di utilizzo di test di stabilità, %PRODUCTNAME% consente di salvare una curva con regolazione del punto bloccato a un profilo, quindi si può passare facilmente tra impostazioni della tensione/frequenza dinamica e tensione/frequenza fissa in tempo reale (ad esempio, per ottenere il massimo delle prestazioni durante il benchmarking). Si prega di prendere nota che le impostazioni di tensione e frequenza fissate non consentono di disattivare la forza di strozzamento termico.
+
+suggerimenti:
+- La curva della tensione/frequenza visualizzata nell'editor non è statica. La curva viene regolata dal driver video a seconda delle condizioni termiche, quindi non ci si può aspettare di regolare le frequenze di clock in qualsiasi punto. L'unica cosa fissa è l'offset che si definisce per ogni punto.
+- È possibile premere <Ctrl> + <F> per attivare l'editor di curva tensione/frequenza dalla tastiera.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite <Interfaccia utente> scheda nelle proprietà avanzate.

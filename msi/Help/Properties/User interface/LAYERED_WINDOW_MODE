@@ -1,0 +1,9 @@
+Skin composition mode
+Allows selecting skin compisition mode. Composition mode defines how skinned window pixels are being combined by skin engine with desktop and underlaying windows pixels. You can select one of the following composition modes:
+
+- Traditional - provides backward compatibility with old operating systems and skins. This composition mode uses GDI clip regions to render non-rectangular window shape, so window update performance can decrease if window contains too many non-rectangular areas.
+- Layered with colorkey - provides best skinned window rendering performance for modern operating systems. This composition mode uses layered windows with hardware accelerated colorkey support, so window update performance doesn't depend on window shape. Additionally, you can adjust skin transparency level in this mode.
+- Layered with alpha - provides additional effects support to skin engine. This composition mode uses layered windows with hardware accelerated per-pixel alpha channel, so skin designers may define semi-transparent areas inside the skin, apply antialiasing to skin edges and so on. You can also adjust skin transparency level in this mode.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

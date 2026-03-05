@@ -1,0 +1,11 @@
+Überwachungsfenster
+Zeigt Verlaufsdiagramme für die Temperaturen der GPU und andere Hardware-Zustandsparameter an.
+
+Hinweise:
+- Sie können den Mauszeiger über die Diagramme bewegen, um die Werte an der Cursorposition zu verfolgen.
+- Sie können beim Klicken auf das Diagramm die <Alt>-Taste gedrückt halten, um eine benutzerdefinierte Markierung an der Cursorposition zu setzen.
+- Sie können die Diagramme mit dem Mausrad scrollen oder das Fenster mit der linken Maustaste erfassen und nach oben und unten ziehen.
+- Sie können das Überwachungsfensters abtrennen um die Position und Größe individuell festlegen, indem Sie auf den Bereich des Überwachungsfensters doppelklicken oder die Schaltfläche <Abtrennen> klicken. Sie können auf das abgetrennte Überwachungsfenster doppelklicken oder es einfach schließen, um es wieder mit dem Hauptfenster zu verbinden.
+- Sie können die Registerkarte <Überwachung> in den erweiterten Einstellungen öffnen, um die Anzeige der Werte eines beliebigen Diagramms in der Overlay-Bildschirmanzeige und/oder im Taskleistensymbol festzulegen und die GPU-Temperatur und andere Zustandsparameter während der Arbeit oder beim Spielen überwachen. Alternativ können Sie einfach mit der rechten Maustaste auf einen beliebigen Diagrammbereich in diesem Fenster klicken, um direkt zu den erweiterten Diagrammeinstellungen zu gelangen.
+- Sie können selten verwendete Diagramme deaktivieren und die Reihenfolge der Diagramme auf der Registerkarte <Überwachung> in den erweiterten Einstellungen ändern. Mit den Kontrollkästchen links neben den Diagrammnamen in der Liste aktivieren oder zu deaktivieren sie diese und ziehen Sie die Diagramme einfach per Drag & Drop in der Liste, um sie anzuordnen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

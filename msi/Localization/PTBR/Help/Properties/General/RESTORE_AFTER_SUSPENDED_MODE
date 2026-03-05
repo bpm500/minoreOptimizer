@@ -1,0 +1,6 @@
+Restaurar configurações após modo de suspensão 
+Normalmente o estado atual da placa de vídeo é salvo e devidamente restaurado pelo driver de vídeo após retornar do modo de suspensão. No entanto, alguns drivers de vídeo podem não retomar ao estado anterior, nesse caso, você pode ativar essa opção como uma solução alternativa para forçar o programa a salvar o estado atual da placa de vídeo para um perfil temporário ao entrar em modo de suspensão e aplicar este perfil ao retornar do modo de suspensão. 
+
+Sugestões: 
+- O programa deve ser carregado na memória para realizar essa tarefa corretamente. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

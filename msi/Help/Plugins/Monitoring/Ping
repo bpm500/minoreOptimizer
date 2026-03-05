@@ -1,0 +1,4 @@
+This plugin provides [b]Ping[/b] hardware monitoring data source. 
+
+Hints:
+- The plugin is configure to monitor ping to [b]www.guru3d.com[/b] by default, it is up to you to specify target server name or IP address in the plugin properties.

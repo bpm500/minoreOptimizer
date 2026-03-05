@@ -1,0 +1,5 @@
+Enable gamma correction
+By default %PRODUCTNAME% captures videostream as is without applying any adjustments to the framebuffer. Howerver, some fullscreen games may boost display gamma so captured video may appear darker than you see it while gaming. In this case you may enable this option to apply gamma correction to captured video stream at the cost of minor perfromance drop. 
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,6 @@
+Active la capture audio
+Permet de capturer le flux audio et encodé dans le fichier vidéo. 
+
+Astuce:
+- Pour capturer sous windows XP, veuillez activer l'enregistrement <ce que vous entendez> / <mix stéréo> dans les propiétés du mixeur de son.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

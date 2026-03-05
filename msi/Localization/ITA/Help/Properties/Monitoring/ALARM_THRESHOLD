@@ -1,0 +1,5 @@
+Allarme quando il valore è fuori campo
+Consente di definire le soglie minime e massime per visualizzare il messaggio di allarme nella finestra di monitor hadrware quando il valore è al di là della soglia. Quando il layout moderno dell'On-Screen Display è selezionato, questi valori vengono evidenziati anche dal colore presente. Lasciare vuoto il campo per evitare di abilitare la soglia. 
+
+Suggerimenti:
+- È possibile disabilitare le descrizioni comandi dell'interfaccia utente tramite la scheda <interfaccia utente> nelle proprietà avanzate.

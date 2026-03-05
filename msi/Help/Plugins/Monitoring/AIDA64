@@ -1,0 +1,6 @@
+This plugin allows %PRODUCTNAME% to import any hardware monitoring data sources from AIDA64 software.
+
+Hints:
+- If AIDA64 is installed on your system, it will be automatically started when this plugin is active.
+- [b]Enable shared memory[/b] option must be ticked in AIDA64 in [b]File \ Preferences \ Hardware monitoring \ External applications[/b] tab to allow %PRODUCTNAME% to import data from it.
+- You may customize the list of imported data sources by clicking [b]Setup[/b].

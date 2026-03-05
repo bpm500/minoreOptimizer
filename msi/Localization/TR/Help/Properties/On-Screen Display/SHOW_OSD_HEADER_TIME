@@ -1,0 +1,6 @@
+Show system time
+Allows showing system time in the On-Screen Display.
+
+Hints:
+- Enabling this option will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides On-Screen Display rendering services to 3D applications and it cannot be unloaded until this option is disabled.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,11 @@
+Penggabungan Profil 3D
+Untuk penggabungan slot profil dengan sistem 3D. Profil dengan slot yang terhubung akan otomatis di load dan otomatis digunakan pada profil manager setelah penggunaan aplikasi 3D lebih besar dari nol.
+
+Petunjuk:
+- Dengan menggabungkan profil 3D akan mengakibatkan proses %SERVERPRODUCTNAME% dimulai. Server akan menjalankan aplikasi 3D dan otomatis akan membuat list pada profil manager dan tidak dapat di load hingga penggabungan dibatalkan.
+- Anda dapat gunakan properti %SERVERPRODUCTNAME% untuk mendefinisikan pengecualian semua aplikasi 3D jika diperlukan. Anda dapat melihat aplikasi 3D yang sedang berjalan dengan menekan tombol <i>.
+- Manajemen profil otomatis tidak akan melakukan penguncian hardware dalam GPU seri baru, load profil yang diinginkan pada aplikasi 3D yang akan dimulai dan yang akan berakhir. 
+Tujuan utama dari profil otomatis adalah melakukan emulasi hardware downclocking seperti pada model (seri NVIDIA GeForce 8800 GTX). Namun, manajemen profil secara otomatis dapat juga digunakan untuk tujuan lain, misal untuk mengatur kecepatan kipas pada saat aplikasi 3D.
+- Sangat tidak dianjurkan untuk melakukan kombinasi manajemen profil otomatis dengan pengaturan tegangan. Perubahan tegangan melalui software digabungkan dengan perubahan clock dapat menyebabkan efek samping dan mengurangi stabilitas pada sistem.
+- Anda dapat otomatis restart profil dengan menekan tombol <Ctrl>+<A> pada keyboard ketika window %PRODUCTNAME% muncul.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

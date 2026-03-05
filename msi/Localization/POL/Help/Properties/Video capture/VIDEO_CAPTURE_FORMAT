@@ -1,0 +1,10 @@
+Formatowanie wideo
+Umozliwia wybór formatu przechwytywania wideo. W zaleznosci od preferencji mozna wybrac jeden z nastepujacych formatów:
+
+- Bez kompresji - film jest kodowany w formacie raw bez kompresji w jakiejkolwiek formie. Do odtwarzania filmów zakodowanych w tym formacie nie sa wymagane kodery-dekodery innych firm. Prosze zwrócic uwage, ze potrzebujesz naprawde szybkiego dysku I /O susbsystem do kodowania wideo o wysokiej rozdzielczosci w nieskompresowanym formacie bez porzuconych klatek, na przyklad do kodowania nieskompresowanego wideo w rozdzielczosci 1680x1050 przy 30 klatkach na sekunde, potrzebujesz podsystemu We/Wy dysku o przepustowosci 150 MB/s (1680 * 1050 * 3 * 30) przepustowosci. 
+- Kompresja RTV1 - film jest kodowany w formacie RivaTuner Video V1. RivaTuner Video Codec instalacja jest wymagana do odtwarzania wideo zakodowane w tym formacie. RivaTuner Video format V1 jest stratny format kompresji oparty na algorytm kompresji DXT1 o stalym 6-krotnym wspólczynniku kompresji. Koder RTV1 jest w stanie zakodowac wideo o wysokiej rozdzielczosci przy wysokiej szybkosci klatek na sekunde bez zuzywania zbyt duzo czasu procesora, wiec ten format jest zalecany dla systemów z jednordzeniowymi lub powolnymi procesorami dwurdzeniowymi.
+- Kompresja MJPG - film jest kodowany w rodzimym formacie MJPG. Do odtwarzania wideo zakodowanego w tym formacie nie sa wymagane kodery-dekodery innych firm, takie wideo powinno byc odtwarzane na róznych platformach, a nawet na sprzetowych odtwarzaczach multimedialnych. 
+Format kompresji MJPG zapewnia najlepszy stopien kompresji, ale reqiures dosc szybki procesor wielordzeniowy do kodowania wysokiej rozdzielczosci wideo bez porzuconych klatek. Nalezy równiez pamietac, ze w tym formacie mozna dostroic równowage miedzy jakoscia obrazu a wspólczynnikiem kompresji.
+
+Wskazówka:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

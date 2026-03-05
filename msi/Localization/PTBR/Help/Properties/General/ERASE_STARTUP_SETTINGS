@@ -1,0 +1,7 @@
+Apagar configurações de inicialização salvas automaticamente
+Os drivers da família AMD Crimson salvam automaticamente algumas configurações de hardware (por exemplo, definições de overclock e controle da ventoinha) no registro para aplicá-las na inicialização do Windows. Esse recurso pode tornar as configurações aplicadas por ferramentas de overclocking praticamente permanentes, permanecendo ativas no sistema mesmo depois de reiniciar ou desligar o computador. 
+Todavia, essa implementação é insegura e potencialmente perigosa, pois não é possível desfazer um overclock instável com a reinicialização do sistema ou mesmo com a reinstalação do driver de vídeo. Para evitar erros e mal funcionamento do sistema, o %PRODUCTNAME% pode, opcionalmente, apagar as configurações de inicialização salvas automaticamente pelo driver da AMD depois de aplicadas novas configurações de hardware.
+
+Sugestões:
+- Esta opção somente estará disponível se houver pelo menos uma placa de vídeo AMD instalada no sistema.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

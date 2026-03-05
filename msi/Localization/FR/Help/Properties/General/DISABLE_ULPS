@@ -1,0 +1,12 @@
+Désactiver ULPS
+Permet de désactiver l'état ultra basse consommation. Le mode ULPS permets aux drivers AMD de désactiver la seconde carte graphique dans les configurations Crossfire en mode IDLE. Néanmoins, le mode ULPS peut-être une raison d'instabilité système dans certaines conditions, vous pouvez donc le désactiver pour améliorer la stabilité.
+Veuillez noter que cette option affecte également le ZeroCore power saving technology sur les dernières cartes graphique AMD.
+Gardez à l'esprit que le mode ULPS doit être désativé après chaque ré-installation des drivers graphiques AMD.
+
+ATTENTION! Utilisez cette option à vos propres risques! MSI et AMD n'apporteront aucun support sous quelque forme que ce soit (incluant les questions sur forum) sur cette option.
+
+Astuce:
+- Cette option ne fonctionne que si il y a au moins une carte graphique AMD active installée dans le système.
+- Un re-démarrage est nécessaire après avoir basculé cette option pour qu'elle soit effective.
+- Il est fortement recommandé de désactiver le mode ULPS quand vous utilisez des modes d'overclocking non supporté officiellement sur les configurations Crossfire.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,8 @@
+Ontsluit voltage toezicht.
+Dit ontsluit het voltage toezicht als de GPU('s) dit ondersteunen. Vermijd deze optie als je niet zeker bent of er nog andere voltage toezicht software actief is.
+
+Hint:
+- Het kan gevaarlijk zijn meerdere voltage toezicht software gelijktijdig te activeren.
+-Voltage toezicht moet ondersteunt worden door de GPU. Raadpleeg de lijst welke GPU's deze functie ondersteunen.
+- %PRODUCTNAME% herstart is nodig na dat deze optie aan/uit te hebben gechakeld en toe te passen.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

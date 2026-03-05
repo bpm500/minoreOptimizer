@@ -1,0 +1,6 @@
+Dieses Plug-in ermöglicht %PRODUCTNAME% den Import beliebiger Datenquellen aus AIDA64.
+
+Hinweise:
+- Wenn AIDA64 auf Ihrem System installiert ist, wird es automatisch gestartet, wenn Sie dieses Plug-in aktivieren.
+- Die Option [b]Enable Shared Memory[/b] muss in AIDA64 in der Registerkarte [b]Datei\Einstellungen\Hardware Überwachung\Externe Applikationen[/b] aktiviert sein, damit %PRODUCTNAME% Daten importieren kann.
+- Sie können die Liste der vom Plug-in importierten Datenquellen ändern, indem Sie auf [b]Anpassen[/b] klicken.

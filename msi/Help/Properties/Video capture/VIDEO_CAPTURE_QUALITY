@@ -1,0 +1,6 @@
+Video quality 
+Adjusts quality of videos encoded in RTV1, MJPG and VFW compression formats. Higher video quality results in larger file size and may impact performance. You may try to decrease video quality if your system is not fast enough to encode video at desired framerate.
+
+Hints:
+- This setting may not be supported by some external codecs when using VFW compression format.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

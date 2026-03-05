@@ -1,0 +1,8 @@
+Link
+Ijinkan penggabungan pengaturan shader clock dan core independensi.
+
+Petunjuk:
+- Pengaturan tersendiri shader clock hanya berlaku pada seri NVIDIA GeForce 8, 9 dan 200. Shader dan core clocks terhubung dengan rasio 2x pada seri GeForce 400. Kartu grafis ATI tidak mendukung pengaturan tersendiri pada shader clock.
+- Ketika mengatur core dan shader clock jangan lupa minimal shader pada rasio core clock tergantung pada hardware.
+- Tombol <Link> harus di uncheck untuk mengatur shader clock secara tersendiri.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

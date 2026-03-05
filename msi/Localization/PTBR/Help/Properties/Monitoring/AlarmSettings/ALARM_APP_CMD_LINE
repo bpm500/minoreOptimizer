@@ -1,0 +1,6 @@
+Linha de comando da aplicação iniciada por alarme
+Exibe e edita parâmetros de linha de comando para a aplicação externa iniciada por alarme. 
+
+Sugestões:
+- Esta opção é afetada pelas configurações de tempo de disparo do alarme.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

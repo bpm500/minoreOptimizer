@@ -1,0 +1,7 @@
+Tray icon text color
+Displays text color for tray icon output. Click this field to customize the color.
+
+Hints:
+- You must activate and select desired graph to get access to this option.
+- You may hold <Shift> button pressed on your keyboard while changing this option to change it synchronically for all graphs.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,10 @@
+Modalità non ufficiale di overclocking
+Di default i limiti predefiniti di overclocking in AMD Catalyst Control Center e in tutti gli strumenti di overclocking che utilizzano implementazione ufficiale Overclocking AMD sono piuttosto bassi e definiti da AMD VGA BIOS.
+La modalità overclocking non ufficiale può aiutare a bypassare i limiti senza alterarli nel BIOS VGA. Tuttavia, la modalità di overclocking non ufficiale utilizza l'interfaccia non documentata di driver video AMD, che non sono supportati da AMD in qualsiasi forma e che ha aperti numerosi problemi di compatibilità con le tecnologie di risparmio energetico AMD proprie. Quindi utilizzare solo se si ha familiarità con i problemi di compatibilità e sapere come aggirarli.
+
+ATTENZIONE! Utilizzate questa opzione a vostro rischio e pericolo! Sia MSI e AMD non vi forniranno alcun supporto su di essa in qualsiasi forma incluse le domande sul forum.
+
+Suggerimenti:
+- Questa opzione è attiva solo se è presente almeno una scheda grafica supportata AMD installata nel sistema.
+- Si consiglia vivamente di disabilitare la modalità La quando si utilizza la modalità di overclocking non ufficiale su configurazioni Crossfire.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

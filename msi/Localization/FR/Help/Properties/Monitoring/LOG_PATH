@@ -1,0 +1,7 @@
+Chemin du log
+Affiche et permet d'éditer le chemin du fichier de log.
+
+Astuce:
+- %PRODUCTNAME% sauvegarde l'historique dans le format natif de RivaTuner. Vous pouvez utiliser RivaTuner pour voir le log enregistré avec %PRODUCTNAME%. 
+- Le logging du monitoring matériel demande des performances, du temps CPU est requis à chaque mise à jour pour enregistrer le données sue le disque dur/SSD. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

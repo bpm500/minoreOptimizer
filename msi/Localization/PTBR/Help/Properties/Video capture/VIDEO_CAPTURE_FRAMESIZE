@@ -1,0 +1,6 @@
+Tamanho do quadro do vídeo
+Quando a captura de vídeo ocorrer em altas resoluções, em largura de banda PCIE completa, pode-se formar um gargalo que limita a taxa de quadros devido a enormes quantidades de dados copiados da GPU para CPU através do barramento a cada novo quadro. 
+Em tal situação, você pode tentar aumentar o desempenho, diminuindo o tamanho do quadro, por exemplo, selecionando 1/2 quadro vai reduzir quantidade de dados a serem transferidos da GPU para CPU num fator de 4. Diminuir o tamanho do quadro também reduz efetivamente a carga da CPU e do HD, reduzindo a quantidade de dados a serem comprimidos e gravados no disco rígido. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

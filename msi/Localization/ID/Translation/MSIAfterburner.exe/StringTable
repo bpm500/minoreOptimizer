@@ -1,0 +1,575 @@
+#src Failed to compile %s skin!
+#dst Gagal compile skin %s!
+#end
+
+#src %s skin has beed successfully decompiled!
+#dst Skin %s telah sukses di decompile
+#end 
+
+#src Failed to decompile %s skin!
+#dst Gagal decompile skin %s!
+
+#src Failed to load %s skin!
+#dst Gagal load skin %s!
+#end 
+
+#src Failed to load %s.sys driver!
+#dst Gagal load driver %s.sys!
+#end 
+
+#src This application is designed to use %s.sys driver v%d.%d. Different version of driver is installed and in use now. It is strongly recommended to close all applications using this driver and restart this application to allow correct driver version usage, otherwise it may function improperly.
+#dst Aplikasi di desain dengan menggunakan v%d.%d driver %s.sys. Saat ini driver dengan versi berbeda sudah di install dan digunakan. Disarankan anda menutup seluruh aplikasi yang menggunakan driver ini dan restart kembali agar windows menggunakan driver yang sesuai, dan tidak terjadi kegagalan fungsi.
+#end 
+
+#src Some of MSI Afterburner components are expired, missing or corrupted!
+#dst Beberapa komponen MSI Afterburner telah hilang, rusak!
+#end 
+
+#src Failed to load %s skin, reverting to default skin!
+#dst Gagal untuk melakukan load skin %s, kembali ke skin default!
+#end 
+
+#src Unsupported %s skin file format!
+#dst Format file untuk skin %s tidak didukung!
+#end 
+
+#src Your current system state has been used to build Hardware Emulation Layer. The application will function through HEL after the next restart.
+#dst Sistem anda menunjukkan bahwa sedang menggunakan Hardware Emulation Layer, aplikasi akan berfungsi melalui HEL setelah melakukan restart.
+#end 
+
+#src I2C dump has been saved to the application folder.
+#dst I2C dump telah tersimpan dalam folder aplikasi.
+#end 
+
+#src Failed to save I2C dump to the application folder.
+#dst Gagal untuk menyimpan I2C dump dalam folder aplikasi.
+#end 
+
+#src Failed to initialize main window with %s skin, reverting to default skin!
+#dst Gagal  melakukan inisialisasi window utama dengan skin %s, kembali ke skin default!
+#end 
+
+#src Failed to initialize main window!
+#dst Gagal untuk melakukan inisialisasi window utama!
+#end 
+
+#src Sorry, the fan speed curve you've defined doesn't appear to be valid! It is not allowed to define a curve causing fan speed to decrease with increeasing temperature!
+#dst Maaf, kecepatan kipas yang anda tentukan tidak valid! Tidak diperbolehkan mengatur kecepatan kipas dibawah kecepatan pada saat temperatur naik!
+#end 
+
+
+#src GPU%d : %s
+#dst GPU%d : %s
+#end 
+
+#src GPU%d
+#dst GPU%d
+#end 
+
+#src Emulated %s on %s GPU
+#dst Emulasi %s pada %s GPU
+#end 
+
+#src %s on %s GPU
+#dst %s pada %s GPU
+#end 
+
+#src %-20s : %s
+#dst %-20s : %s
+#end 
+
+#src Display device
+#dst Tampilkan device
+#end 
+
+#src Display driver
+#dst Tampilkan driver
+#end 
+
+#src %dMB
+#dst %dMB
+#end 
+
+#src On-board memory
+#dst Memory on-board
+#end 
+
+#src BIOS
+#dst BIOS
+#end 
+
+#src GUID
+#dst GUID
+#end 
+
+#src master
+#dst master
+#end 
+
+#src synchronized with master
+#dst sinkronisasi dengan master
+#end 
+
+#src Multi-GPU role
+#dst Multi-GPU role
+#end 
+
+#src OSD
+#dst OSD
+#end 
+
+#src LCD
+#dst LCD
+#end 
+
+#src tray
+#dst tray
+#end 
+
+#src Select a graph to access graph properties
+#dst Pilih graph untuk melakukan akses properti graph
+#end 
+
+#src %s graph properties
+#dst Properti graph %s
+#end 
+
+#src Tick checkmark to activate the graph and access graph properties
+#dst Klik centang untuk aktivasi graph dan akses properti graph
+#end 
+
+#src Updating %d graphs(s) with %d ms period, poilling time : %.3f ms, GUI time : %.3f ms
+#dst Updating graphs(s) %d dengan periode %d ms, poiling time: %.3f ms, waktu GUI: %.3f ms
+#end 
+
+#src Updating fan speed(s) with %d ms period, update time : %.3f ms
+#dst Updatting kecepatan kipas dengan periode %d ms, waktu update: %.3f ms
+#end 
+
+#src Bitmap cache flushed
+#dst Cache bitmap telah di flush
+#end 
+
+#src Tip: MSI Afterburner is currently minimized to system tray area. You may click its' tray icon to bring MSI Afterburner window to top.
+#dst Tip: MSI Afterburner telah di minimize ke dalam sistem tray. Anda cukup melakukan klik icon tray kembali untuk menampilkan kembali MSI Afterburner.
+#end 
+
+#src Failed to restore main window DIB cache!
+#dst Gagal untuk melakukan restore cache window DIB!
+#end 
+
+#src MSI Afterburner properties
+#dst Properti MSI Afterburner
+#end 
+
+#src The changes you've made will be applied after restarting MSI Afterburner.
+#dst Perubahan yang anda gunakan akan berlaku setelah MSI Afterburner di restart.
+#end 
+
+#src On-Screen Display server
+#dst Display server On-Screen
+#end 
+
+#src Active client(s)
+#dst Aktif klien
+#end 
+
+#src server is not loaded
+#dst server tidak di loading
+#end 
+
+#src not detected
+#dst tidak terdeteksi
+#end 
+
+#src Active 3D process
+#dst Proses 3D aktif
+#end 
+
+#src Additional server process has been loaded for the first time. The server is automatically loaded by MSI Afterburner as soon as you enable the functionality depending on it. Such functionality includes but not limited to automatic profiles management, screen capture, framerate monitoring and On-Screen Display rendering. When the server is loaded, you may check which MSI Afterburner modules are connected to it as the clients by clicking <i> button.
+#dst Proses tambahan server telah di loading. Server otomatis akan di load oleh MSI Afterburner setelah anda melakukan aktivasi fungsinya. Fungsi tersebut seperti manajemen profil otomatis, screen capture, monitoring framerate dan rendering tampilan On-Screen. Ketika server telah berhasil di loading, anda bisa cek pada module MSI Afterburner telah terhubung bisa dilihat dengan cara menekan tombol <i>.
+#end 
+
+#src Profile %d applied
+#dst Profil %d telah di apply
+#end 
+
+#src Profile %d loaded
+#dst Profil %d telah di load
+#end 
+
+#src Profile %d deleted
+#dst Profil %d telah dihapus
+#end 
+
+#src Profile %d saved
+#dst Profil %d telah disimpan
+#end 
+
+#src GPU%d selected
+#dst GPU%d telah dipilih
+#end 
+
+#src MSI Afterburner%s hardware monitor
+#dst Monitor hardware MSI Afterburner%s 
+#end 
+
+#src framerate monitoring module
+#dst Modul monitoring framerate
+#end 
+
+#src On-Screen Display module
+#dst Module OSD 
+#end 
+
+#src automatic profiles manager
+#dst profil manager otomatis
+#end 
+
+#src screen capture module
+#dst modul capture layar
+#end 
+
+#src You've activated user defined software automatic fan control mode for the first time. Please take a note that you can redefine the fan speed curve for this mode via advanced MSI Afterburner properties. Do you want to go to advanced properties and edit the curve right now?
+#dst Anda telah mengaktifkan pilihan pengaturan kipas otomatis untuk pertama kali. Sebagai catatan anda bisa mengatur kecepatan kipas melalui properti di MSI Afterburner. Apakah anda ingin menuju properti tambahan dan mengatur kecepatan kipas sekarang?
+#end 
+
+#src Warning! You are trying to display too many text information in the On-Screen Display. Displayed text will be truncated causing some information to be lost, it is recommended to disable On-Screen Display output for some unnecessary hardware monitoring graphs. Do you want to do it right now?
+#dst Perhatian! Anda mencoba menampilkan informasi yang melebihi kapasitas pada tampilan On-Screen. Diharapkan lakukan non-aktivasi beberapa fitur yang tidak diperlukan. Apakah anda ingin melakukannya sekarang?
+#end 
+
+#src in %s
+#dst pada %s
+#end 
+
+#src Not assigned
+#dst Belum terpasang
+#end 
+
+#src empty
+#dst kosong
+#end
+
+#src Graph
+#dst Graph
+#end 
+
+#src Properties
+#dst Properti
+#end 
+
+#src Min
+#dst Min
+#end 
+
+#src Max
+#dst Max
+#end 
+
+#src About %s
+#dst Tentang %s
+#end 
+
+#src expires on %s
+#dst berakhir pada %s
+#end
+
+#src Hardware monitor is paused
+#dst monitoring hardware di pause
+#end
+
+#src %s localization creator
+#dst Lokalisasi creator %s
+#end
+
+#src MSI Afterburner %s localization feedback
+#dst Feedback lokalisasi MSI Afterburner %s
+#end
+
+#src Profiles modification locked
+#dst Modifikasi prodil terkunci
+#end
+
+#src Profiles modification unlocked
+#dst Modifikasi profil tidak terkunci
+#end
+
+#src Resource file copy has been succesfully saved to %s!
+#dst File resource telah sukses disimpan di %s!
+#end
+
+#src Failed to save resource file copy to %s!
+#dst Gagal untuk menyimpan file resource di %s!
+#end
+
+#src Log session started
+#dst Sesi log dimulai
+#end
+
+#src Log session terminated due to write failure
+#dst Sesi log dibatalkan karena gagal disimpan
+#end
+
+#src Log session terminated due to user reqest
+#dst Sesi log dibatalkan karena permintaan user
+#end
+
+#src Log session terminated due to log size overflow
+#dst Sesi log dibatalkan karena ukuran log melebihi kapasitas
+#end
+
+#src Logging to %s (%I64u bytes)
+#dst Logging ke %s (%I64u bytes)
+#end
+
+#src RivaTuner hardware monitoring log files (*.hml)|*.hml|All files (*.*)|*.*||
+#dst File log hardware monitoring RivaTuner (*.hml)|*.hml|Semua files (*.*)|*.*||
+#end
+
+#src compiled on %d-%m-%Y %H:%M:%S
+#dst compile pada %d-%m-%Y %H:%M:%S
+#end
+
+#src Voltage defaults captured
+#dst Tegangan default telah disimpan
+#end
+
+#src Failed to initialize hotkey handler, global hotkeys will not function properly!
+#dst Gagal untuk mengaktifkan handler hotkey, fungsi hotkey global tidak akan berfungsi!
+#end
+
+#src Please select target folder for screen capture
+#dst
+#end
+
+#src CTaskSchedulerInterface::%s failed with error code %d!
+#dst
+#end
+
+#src Beta %d
+#dst Beta %d
+#end
+
+#src On-Screen Display Server is blocked
+#dst
+#end
+
+#src Screenshot captured
+#dst
+#end
+
+#src Please select target folder for video capture
+#dst
+#end
+
+#src video capture module
+#dst
+#end
+
+#src %d%% quality
+#dst
+#end
+
+#src Framerate %d FPS
+#dst
+#end
+
+#src External profile applied
+#dst
+#end
+
+#src There is no new version available at this time. Currently installed version is up to date.
+#dst
+#end
+
+#src MSI Afterburner v%s is available for download. Do you want to open the download page now?
+#dst
+#end
+
+#src Cannot retrieve update information from the update server!
+#dst
+#end
+
+#src Cannot establish connection with the update server!
+#dst
+#end
+
+#src cannot open internet connection
+#dst
+#end
+
+#src cannot open server connection
+#dst
+#end
+
+#src cannot open HTTP request
+#dst
+#end
+
+#src cannot send HTTP request
+#dst
+#end
+
+#src cannot query HTTP info
+#dst
+#end
+
+#src proxy authentification required
+#dst
+#end
+
+#src cannot read file
+#dst
+#end
+
+#src unknown reason %d
+#dst
+#end
+
+#src Reason : %s, error code %d
+#dst
+#end
+
+#src Last checked on %A, %B %d, %Y, %H:%M:%S
+#dst
+#end
+
+#src Warning! This version expires on %A, %B %d, %Y, %H:%M:%S!
+#dst
+#end 
+
+#src MPNG compression
+#dst
+#end
+
+#src Clock limits have been extended. Please reboot the PC in order to apply the changes.
+#dst
+#end
+
+#src Clock limits have been restored. Please reboot the PC in order to apply the changes.
+#dst
+#end
+
+#src It is strongly recommended to reboot the PC in order to detect default settings properly. Do you want to reboot it right now? Answer NO to detect default settings without rebooting the PC.
+#dst
+#end
+
+#src Framerate limit %d FPS
+#dst
+#end
+
+#src %d FPS
+#dst
+#end
+
+#src Framerate limit disabled
+#dst
+#end
+
+#src Power limit %s
+#dst
+#end
+
+#src VFW compression : %s
+#dst
+#end
+
+#src not configured
+#dst
+#end
+
+#src Please configure VFW compression or select different video format.
+#dst
+#end
+
+#src Assigned hotkeys
+#dst
+#end 
+
+#src Profile 1
+#dst
+#end 
+
+#src Profile 2
+#dst
+#end 
+
+#src Profile 3
+#dst
+#end 
+
+#src Profile 4
+#dst
+#end 
+
+#src Profile 5
+#dst
+#end 
+
+#src Toggle OSD
+#dst
+#end 
+
+#src Show OSD
+#dst
+#end 
+
+#src Hide OSD
+#dst
+#end 
+
+#src Block OSD Server
+#dst
+#end 
+
+#src Capture screenshot
+#dst
+#end 
+
+#src Capture video
+#dst
+#end 
+
+#src Push-To-Talk 1
+#dst
+#end 
+
+#src Push-To-Talk 2
+#dst
+#end 
+
+#src VDDC controller
+#dst
+#end
+
+#src MVDDC controller
+#dst
+#end
+
+#src AUX controller
+#dst
+#end
+
+#src %s on I2C bus %d, device %02Xh
+#dst
+#end
+
+#src The changes you've made will be applied after rebooting the PC.  Do you want to reboot it now?
+#dst
+#end
+
+#src Registry key
+#dst
+#end
+
+#src Path
+#dst
+#end
+
+#src %SERVERPRODUCTNAME% installation has been detected. It will be able to provide additional functionality to %PRODUCTNAME% after restarting the application.  Do you want to restart it now?
+#dst
+#end
+
+#src Version
+#dst
+#end

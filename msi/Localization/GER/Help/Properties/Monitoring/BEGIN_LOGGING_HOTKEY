@@ -1,0 +1,8 @@
+Hotkey zum Starten der Protokollierung
+Ermöglicht die Festlegung eines globalen Hotkeys zum Starten der Protokollierung des Hardware-Überwachungsverlaufs in einer Datei.
+
+Hinweise:
+- %PRODUCTNAME% speichert den Verlauf im nativen RivaTuner-Protokoll-Dateiformat. Sie können entweder den integrierten Viewer oder RivaTuner verwenden, um mit %PRODUCTNAME% aufgezeichnete Protokolldateien anzuzeigen.
+- Die Protokollierung des Hardware-Überwachungsverlaufs erzeugt CPU-Last. Bei jeder Protokollaktualisierungsiteration wird CPU-Leistung benötigt, um Daten auf das Laufwerk (SSD oder HDD) zu schreiben.
+- Einige Hotkey-Kombinationen (z. B. <1>...<5>, <Strg>+<1>...<Strg>+<5> und <Strg>+<D>) sind reserviert und können nicht verwendet werden.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

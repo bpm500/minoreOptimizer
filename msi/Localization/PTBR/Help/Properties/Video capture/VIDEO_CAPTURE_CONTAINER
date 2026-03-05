@@ -1,0 +1,7 @@
+Arquivo recipiente 
+Permite selecionar um formato para o arquivo de vídeo recipiente. Dependendo de suas necessidades, você pode selecionar: 
+- AVI - "Audio Video Interleave" é um recipiente multimídia introduzido pela Microsoft no início dos anos 90. O recipiente AVI é amplamente utilizado e suportado por qualquer reprodutor de vídeo. No entanto, a arquitetura AVI é muito antiga e já existem formados modernos e mais adequados. 
+- MKV - Matroska é um recipiente multimídia flexível e moderno introduzido em 2002. Ao contrário do AVI, o MKV suporta nativamente muito mais compactadores de vídeo e quadros de áudio, por isso minimiza o risco de ter problemas de sincronização de áudio ou vídeo durante a reprodução. Contudo, o apoio ao recipiente MKV pode ser limitado em alguns reprodutores de vídeo. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

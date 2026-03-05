@@ -1,0 +1,6 @@
+Mostra ora di sistema
+Consente la visualizzazione dell'ora di sistema nel On-Screen Display.
+
+Consigli:
+- Attivazione di questa opzione causerà un ulteriore processo di %SERVERPRODUCTNAME% ad essere avviato automaticamente. Il server fornisce all'On-Screen Display prestazioni di servizi per applicazioni 3D e non può essere scaricato fino a quando questa opzione è disabilitata.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

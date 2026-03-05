@@ -1,0 +1,755 @@
+#src Failed to compile %s skin!
+#dst Compilazione del tema fallita!
+#end
+
+#src %s skin has been successfully compiled!
+#dst Il tema %s è stato compilato con successo!
+#end
+
+#src %s skin has been successfully decompiled!
+#dst Il tema %s è stato decompilado con successo!
+#end 
+
+#src Failed to decompile %s skin!
+#dst Decompilazione del tema fallita!
+#end
+
+#src Failed to load %s skin!
+#dst Caricamento del tema fallito!
+#end 
+
+#src Failed to load %s.sys driver!
+#dst Caricamento driver %s.sys fallito!
+#end 
+
+#src This application is designed to use %s.sys driver v%d.%d. Different version of driver is installed and in use now. It is strongly recommended to close all applications using this driver and restart this application to allow correct driver version usage, otherwise it may function improperly.
+#dst Questa applicazione è progettata per utilizzare %s.sys driver v%d.%d. Una versione diversa di driver è installato e in uso adesso. Si raccomanda vivamente di chiudere tutte le applicazioni che utilizzano questo driver e riavviare l'applicazione per consentire l'utilizzo corretto della versione del driver, altrimenti non potrà funzionare correttamente.
+#end 
+
+#src Some of MSI Afterburner components are expired, missing or corrupted!
+#dst Alcuni componenti di MSI Afterburner sono scaduti, mancanti o danneggiati!
+#end 
+
+#src Failed to load %s skin, reverting to default skin!
+#dst Caricamento tema fallito! Ripristino tema predefinito!
+#end 
+
+#src Unsupported %s skin file format!
+#dst Formato del tema non supportato!
+#end 
+
+#src Your current system state has been used to build Hardware Emulation Layer. The application will function through HEL after the next restart.
+#dst Il tuo stato attuale di sistema è stato utilizzato per costruire Hardware Emulation Layer. L'applicazione funzionerà tramite HEL dopo il successivo riavvio.
+#end
+
+#src I2C dump has been saved to the application folder.
+#dst I2C è stato salvato nella cartella d'installazione.
+#end 
+
+#src Failed to save I2C dump to the application folder.
+#dst Fallito il salvataggio del I2C.
+#end 
+
+#src Failed to initialize main window with %s skin, reverting to default skin!
+#dst Impossibile inizializzare la finestra principale con il tema %s, ritorno al tema predefinito!
+#end 
+
+#src Failed to initialize main window!
+#dst Fallito l'avvio automatico con Windows!
+#end 
+
+#src Sorry, the fan speed curve you've defined doesn't appear to be valid! It is not allowed to define a curve causing fan speed to decrease with increasing temperature!
+#dst Siamo spiacenti, la curva di velocità della ventola che è stata definita non sembra essere valida! Non è permesso di definire una curva provocando la velocità della ventola a diminuire con l'aumentare della temperatura!
+#end 
+
+
+#src GPU%d : %s
+#dst GPU%d : %s
+#end 
+
+#src GPU%d
+#dst GPU%d
+#end 
+
+#src Emulated %s on %s GPU
+#dst Emulatore %s su %s GPU
+#end 
+
+#src %s on %s GPU
+#dst %s su %s GPU
+#end 
+
+#src %-20s : %s
+#dst %-30s : %s
+#end 
+
+#src Display device
+#dst Dispositivo scheda grafica
+#end 
+
+#src Display driver
+#dst Driver scheda grafica
+#end 
+
+#src %dMB
+#dst %dMB
+#end 
+
+#src On-board memory
+#dst Memoria installata 
+#end 
+
+#src BIOS
+#dst BIOS
+#end 
+
+#src GUID
+#dst GUID
+#end 
+
+#src master
+#dst Principale
+#end 
+
+#src synchronized with master
+#dst Sincronizza con la principale
+#end 
+
+#src Multi-GPU role
+#dst Multi-GPU
+#end 
+
+#src OSD
+#dst OSD
+#end 
+
+#src LCD
+#dst LCD
+#end 
+
+#src tray
+#dst Icona
+#end 
+
+#src Select a graph to access graph properties
+#dst Seleziona un grafico per accedere alle sue proprietà
+#end 
+
+#src %s graph properties
+#dst Proprietà del grafico 
+#end 
+
+#src Tick checkmark to activate the graph and access graph properties
+#dst Segno di spunta sulla casella per attivare il grafico e accedere alle proprietà del grafico
+#end 
+
+#src Updating %d graph(s) with %d ms period, polling time : %.3f ms, GUI time : %.3f ms
+#dst Aggiornamento %d grafico\i con %d ms periodo, tempo di aggiornamento : %.3f ms, tempo di GUI : %.3f ms
+#end 
+
+#src Updating fan speed(s) with %d ms period, update time : %.3f ms
+#dst Aggiornamento velocità della ventola\e con %d ms periodo, tempo di aggiornamento : %.3f ms
+#end
+
+#src Bitmap cache flushed
+#dst Svuotamento bitmap cache
+#end 
+
+#src Tip: MSI Afterburner is currently minimized to system tray area. You may click its' tray icon to bring MSI Afterburner window to top.
+#dst Note: MSI Afterburner è corretamente minimizato nella barra delle applicazioni, clicca per farlo comparire.
+#end 
+
+#src Failed to restore main window DIB cache!
+#dst Fallito il restore della cache DIB principale!
+#end 
+
+#src MSI Afterburner properties
+#dst Proprietà MSI Afterburner
+#end 
+
+#src The changes you've made will be applied after restarting MSI Afterburner.  Do you want to restart it now?
+#dst Le modifiche apportate saranno applicate dopo il riavvio MSI Afterburner.  Vuoi riavviare ora?
+#end 
+
+#src On-Screen Display server
+#dst On-Screen Display server
+#end 
+
+#src Active client(s)
+#dst Client\s (processi) attivi 
+#end 
+
+#src server is not loaded
+#dst Server non caricato
+#end 
+
+#src not detected
+#dst Non trovato
+#end 
+
+#src Active 3D process
+#dst Processi 3D attivi
+#end 
+
+#src Additional server process has been loaded for the first time. The server is automatically loaded by MSI Afterburner as soon as you enable the functionality depending on it. Such functionality includes but not limited to automatic profiles management, screen capture, framerate monitoring and On-Screen Display rendering. When the server is loaded, you may check which MSI Afterburner modules are connected to it as the clients by clicking <i> button.
+#dst Il processo aggiuntivo del server è stato caricato per la prima volta. Il server viene caricato automaticamente da MSI Afterburner non appena si attiva la funzionalità che dipende da esso. Questa funzionalità include ma non limita la gestione automatica dei profili, la cattura delle immagini, il monitoraggio e il framerate nell'On-Screen Display rendering. Quando il server è caricato, è possibile verificare quali moduli MSI Afterburner sono collegati ad esso facendo clic sul pulsante <i>.
+#end 
+
+#src Profile %d applied
+#dst Profilo %d applicato
+#end 
+
+#src Profile %d loaded
+#dst Profilo %d caricato
+#end 
+
+#src Profile %d deleted
+#dst Profilo %d eliminato
+#end 
+
+#src Profile %d saved
+#dst Profilo %d salvato
+#end 
+
+#src GPU%d selected
+#dst GPU%d selezionata
+#end 
+
+#src MSI Afterburner%s hardware monitor
+#dst MSI Afterburner%s grafici
+#end 
+
+#src framerate monitoring module
+#dst Grafico velocità fotogrammi 
+#end 
+
+#src On-Screen Display module
+#dst On-Screen Display modulo
+#end 
+
+#src automatic profiles manager
+#dst Gestore automatico profili
+#end 
+
+#src screen capture module
+#dst Modulo cattura schermo
+#end 
+
+#src You've activated user defined software automatic fan control mode for the first time. Please take a note that you can redefine the fan speed curve for this mode via advanced MSI Afterburner properties. Do you want to go to advanced properties and edit the curve right now?
+#dst Hai attivato il software per controllare in automatico la velocità della ventola, puoi modificare le impostazioni, semplicemente modificando il grafico.
+#end 
+
+#src Warning! You are trying to display too many text information in the On-Screen Display. Displayed text will be truncated causing some information to be lost, it is recommended to disable On-Screen Display output for some unnecessary hardware monitoring graphs. Do you want to do it right now?
+#dst Attenzione! Si sta tentando di visualizzare anche molte informazioni di testo nella On-Screen Display. Il testo mostrato verrà troncato causando la perdita di alcune informazioni, si consiglia di disabilitare l'uscita nell'On-Screen Display per alcuni grafici inutili di monitoraggio hardware. Vuoi farlo adesso?
+#end 
+
+#src in %s
+#dst in %s
+#end 
+
+#src Not assigned
+#dst Non assegnato
+#end 
+
+#src empty
+#dst Vuoto
+#end
+
+#src Graph
+#dst Grafico
+#end 
+
+#src Properties
+#dst Proprietà
+#end 
+
+#src Min
+#dst Min
+#end 
+
+#src Max
+#dst Max
+#end 
+
+#src About %s
+#dst Riguardo a %s
+#end 
+
+#src expires on %s
+#dst Scade il %s
+#end
+
+#src Hardware monitor is paused
+#dst I Grafici hardware sono in pausa
+#end
+
+#src %s localization creator
+#dst %s Creatore della localizzazione
+#end
+
+#src MSI Afterburner %s localization feedback
+#dst MSI Afterburner %s localizzazione voto
+#end
+
+#src Profiles modification locked
+#dst Modifica profili bloccata 
+#end
+
+#src Profiles modification unlocked
+#dst Modifica profili sbloccata 
+#end
+
+#src Resource file copy has been successfully saved to %s!
+#dst Il file di copia delle risorse è stato memorizzato in %s!
+#end
+
+#src Failed to save resource file copy to %s!
+#dst Impossibile salvare il file di copia delle risorse in %s!
+#end
+
+#src Log session started
+#dst Log di sessione iniziato
+#end
+
+#src Log session terminated due to write failure
+#dst Log di sessione terminato a causa di un errore di scrittura
+#end
+
+#src Log session terminated due to user request
+#dst Log di sessione terminato a causa di richiesta dell'utente
+#end
+
+#src Log session terminated due to log size overflow
+#dst Log di sessione terminato a causa eccedenza dimensione del log
+#end
+
+#src Logging to %s (%I64u bytes)
+#dst Registrazione su %s (%I64u bytes)
+#end
+
+#src RivaTuner hardware monitoring log files (*.hml)|*.hml|All files (*.*)|*.*||
+#dst RivaTuner monitoraggio hardware dei files di registro (*.hml)|*.hml|Tutti i files (*.*)|*.*||
+#end
+
+#src compiled on %d-%m-%Y %H:%M:%S
+#dst Compilato il %d-%m-%Y %H:%M:%S
+#end
+
+#src Voltage defaults captured
+#dst Voltaggio predefinito catturato
+#end
+
+#src Failed to initialize hotkey handler, global hotkeys will not function properly!
+#dst Impossibile inizializzare il gestore di tasti di scelta rapida, i tasti di scelta rapida globali non funzionano correttamente!
+#end
+
+#src Please select target folder for screen capture
+#dst Si prega di selezionare la cartella di destinazione per la cattura delle immagini
+#end
+
+#src CTaskSchedulerInterface::%s failed with error code %d!
+#dst CTaskSchedulerInterface::%s non riuscita con codice di errore %d!
+#end
+
+#src Beta %d
+#dst Beta %d
+#end
+
+#src On-Screen Display Server is blocked
+#dst On-Screen Display Server è bloccato
+#end
+
+#src Screenshot captured
+#dst Immagine catturata
+#end
+
+#src Please select target folder for video capture
+#dst Si prega di selezionare la cartella di destinazione per la cattura video
+#end
+
+#src video capture module
+#dst modulo di cattura video
+#end
+
+#src %d%% quality
+#dst %d%% qualità
+#end
+
+#src Framerate %d FPS
+#dst Fotogrammi %d FPS
+#end
+
+#src External profile applied
+#dst Profilo esterno applicato
+#end
+
+#src There is no new version available at this time. Currently installed version is up to date.
+#dst Non esiste una versione nuova disponibile in questo momento. La versione attualmente installata è aggiornata.
+#end
+
+#src MSI Afterburner v%s is available for download. Do you want to open the download page now?
+#dst MSI Afterburner v%s è disponibile per il download. Vuoi aprire la pagina di download ora?
+#end
+
+#src Cannot retrieve update information from the update server!
+#dst Non è possibile recuperare le informazioni relative all'aggiornamento dal server degli aggiornamenti!
+#end
+
+#src Cannot establish connection with the update server!
+#dst Non è possibile stabilire una connessione con il server di aggiornamento!
+#end
+
+#src cannot open internet connection
+#dst Non è possibile aprire la connessione internet
+#end
+
+#src cannot open server connection
+#dst Non è possibile aprire la connessione col server
+#end
+
+#src cannot open HTTP request
+#dst Non è possibile aprire la richiesta HTTP
+#end
+
+#src cannot send HTTP request
+#dst Non è possibile inviare richieste HTTP
+#end
+
+#src cannot query HTTP info
+#dst Impossibile query di informazioni HTTP
+#end
+
+#src proxy authentification required
+#dst Autenticazione proxy richiesta
+#end
+
+#src cannot read file
+#dst Non è possibile leggere il file
+#end
+
+#src unknown reason %d
+#dst Motivo sconosciuto %d
+#end
+
+#src Reason : %s, error code %d
+#dst Motivo : %s, codice di errore %d
+#end
+
+#src Last checked on %A, %B %d, %Y, %H:%M:%S
+#dst Data di ultima verifica il %d-%m-%Y, %H:%M:%S
+#end
+
+#src Warning! This version expires on %A, %B %d, %Y, %H:%M:%S!
+#dst Attenzione! Questa versione scade il %d-%m-%Y, %H:%M:%S!
+#end 
+
+#src MPNG compression
+#dst Compressione MPNG
+#end
+
+#src Clock limits have been extended. Please reboot the PC in order to apply the changes.
+#dst I limiti di clock sono stati ampliati. Si prega di riavviare il PC per applicare le modifiche.
+#end
+
+#src Clock limits have been restored. Please reboot the PC in order to apply the changes.
+#dst I limiti di clock sono stati ripristinati. Si prega di riavviare il PC per applicare le modifiche.
+#end
+
+#src It is strongly recommended to reboot the PC in order to detect default settings properly. Do you want to reboot it right now? Answer NO to detect default settings without rebooting the PC.
+#dst Si consiglia di riavviare il PC al fine di rilevare le impostazioni predefinite in modo corretto. Vuoi riavviarlo in questo momento? Rispondi NO per rilevare le impostazioni predefinite senza riavviare il PC.
+#end
+
+#src Framerate limit %d FPS
+#dst Limite framerate %d FPS
+#end
+
+#src %d FPS
+#dst %d FPS
+#end
+
+#src Framerate limit disabled
+#dst Framerate limite disattivato
+#end
+
+#src Power limit %s
+#dst Limite di potenza %s
+#end
+
+#src VFW compression : %s
+#dst Compressione VFW : %s
+#end
+
+#src not configured
+#dst non configurato
+#end
+
+#src Please configure VFW compression or select different video format.
+#dst Si prega di configurare la compressione VFW o selezionare un formato video diverso.
+#end
+
+#src Assigned hotkeys
+#dst Hotkeys assegnati
+#end 
+
+#src Profile 1
+#dst Profilo 1
+#end 
+
+#src Profile 2
+#dst Profilo 2
+#end 
+
+#src Profile 3
+#dst Profilo 3
+#end 
+
+#src Profile 4
+#dst Profilo 4
+#end 
+
+#src Profile 5
+#dst Profilo 5
+#end 
+
+#src Toggle OSD
+#dst Alterna OSD
+#end 
+
+#src Show OSD
+#dst Mostra OSD
+#end 
+
+#src Hide OSD
+#dst Nascondi OSD
+#end 
+
+#src Block OSD Server
+#dst Blocco OSD Server
+#end 
+
+#src Capture screenshot
+#dst Cattura schermata
+#end 
+
+#src Capture video
+#dst Cattura video
+#end 
+
+#src Push-To-Talk 1
+#dst Premi-Per-Parlare 1
+#end 
+
+#src Push-To-Talk 2
+#dst Premi-Per-Parlare 2
+#end 
+
+#src VDDC controller
+#dst Controller VDDC
+#end
+
+#src MVDDC controller
+#dst Controller MVDDC
+#end
+
+#src AUX controller
+#dst Controller AUX
+#end
+
+#src %s on I2C bus %d, device %02Xh
+#dst %s su I2C bus %d, dispositivo %02Xh
+#end
+
+#src The changes you've made will be applied after rebooting the PC.  Do you want to reboot it now?
+#dst Le modifiche apportate verranno applicate dopo il riavvio del PC. Vuoi riavviare ora?
+#end
+
+#src Registry key
+#dst Chiave di registro
+#end
+
+#src Path
+#dst Percorso
+#end
+
+#src %SERVERPRODUCTNAME% installation has been detected detected. It will be able to provide additional functionality to %PRODUCTNAME% after restarting the application.  Do you want to restart it now?
+#dst L'installazione di %SERVERPRODUCTNAME% è stata rilevata. Esso sarà in grado di fornire funzionalità aggiuntive a %PRODUCTNAME% dopo il riavvio dell'applicazione. Vuoi riavviarlo ora?
+#end
+
+#src Version
+#dst Versione
+#end
+
+#src Audio Video Interleave AVI
+#dst Audio Video Interleave AVI
+#end
+
+#src Matroska MKV
+#dst Matroska MKV
+#end
+
+#src external plugin : %s
+#dst plugin esterno : %s
+#end
+
+#src Please configure external plugin or select different video format.
+#dst Si prega di configurare il plugin esterno o selezionare un formato video differente.
+#end
+
+#src This video format is not compatible with AVI container. Please select different video or container format.
+#dst Questo formato video non è compatibile col contenitore AVI. Si prega di selezionare un video o un formato contenitore differente.
+#end
+
+#src CPU
+#dst CPU
+#end
+
+#src Model
+#dst Modello
+#end
+
+#src Logical cores
+#dst Core logici
+#end
+
+#src %s family %X, model %X, stepping %X
+#dst %s famiglia %X, modello %X, stepping %X
+#end
+
+#src CPUID
+#dst CPUID
+#end
+
+#src %d°C
+#dst %d°C
+#end
+
+#src Tjmax
+#dst Tjmax
+#end
+
+#src Prerecord video
+#dst Preregistrazione video
+#end
+
+#src graph
+#dst Grafico
+#end
+
+#src Reason: failed to load %s
+#dst Motivo: Impossibile caricare %s
+#end
+
+#src Profile 6
+#dst Profilo 6
+#end 
+
+#src Profile 7
+#dst Profilo 7
+#end 
+
+#src Profile 8
+#dst Profilo 8
+#end 
+
+#src Profile 9
+#dst Profilo 9
+#end 
+
+#src Profile 0
+#dst Profilo 0
+#end 
+
+#src Processing skins...
+#dst Elaborazione Skin...
+#end
+
+#src Processing skin %d of %d
+#dst Elaborazione Skin %d di %d
+#end
+
+#src Skin scaling %d%%
+#dst Ridimensionamento Skin %d%%
+#end
+
+#src Cannot find any hardware monitoring log sessions in this file! The file is not hardware monitoring log file or it is corrupted.
+#dst Non riesco a trovare alcuna sessione di log di monitoraggio hardware in questo file! Il file non è un file di log di monitoraggio hardware o è danneggiato.
+#dst
+#end
+
+#src Log session
+#dst Log sessione
+#end
+
+#src Hardware
+#dst Hardware
+#end
+
+#src Monitoring history
+#dst Cronologia di monitoraggio
+#end
+
+#src Monitoring history - precaching
+#dst Cronologia Monitoraggio - precaching
+#end
+
+#src Monitoring history - loading %d%%
+#dst Cronologia Monitoraggio - caricamento %d%%
+#end
+
+#src Cannot find selected session in log file, probably the file has been changed! Do you want to refresh sessions list now?
+#dst Impossibile trovare la sessione selezionata nel file di log, probabilmente il file è stato modificato! Vuoi aggiornare la lista sessioni adesso?
+#end
+
+#src Subsession
+#dst Sottosessione
+#end
+
+#src third party
+#dst Di terze parti
+#end
+
+#src There is no Logitech LCD device connected
+#dst Non vi è alcun dispositivo Logitech LCD collegato
+#end
+
+#src on-die
+#dst su-die
+#end
+
+#src Voltage/Frequency curve editor
+#dst Tensione/Frequenza editor di curva
+#end
+
+
+#src Connection to GPU%d lost
+#dst Connessione persa con GPU%d
+#end
+
+#src Begin FPS recording
+#dst Inizia la registrazione dei FPS
+#end
+
+#src End FPS recording
+#dst Fine registrazione dei FPS
+#end
+
+#src benchmark module
+#dst modulo benchmark
+#end
+
+#src Text files (*.txt)|*.hml|All files (*.*)|*.*||
+#dst File di testo (*.txt)|*.hml|Tutti i files (*.*)|*.*||
+#end
+
+#src alarm
+#dst allarme
+#end
+
+#src Alarm threshold reached on <%s>!
+#dst Soglia di allarme raggiunta a <%s>!
+#end
+
+#src AUX2 controller
+#dst AUX2 controller
+#end
+

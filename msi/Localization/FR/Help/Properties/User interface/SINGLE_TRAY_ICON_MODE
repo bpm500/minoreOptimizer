@@ -1,0 +1,5 @@
+Mode d'icône unique dans la zone de notification
+Active le mode d'icône unique dans la zone de notification. Quand le mode d'icône unique dans la zone de notification est activé, l'icône principale de l'application est remplacée par l'icône du monitoring matériel, si activé et si l'icône de serveur de sur-impression MSI n'est pas affichée. Veuillez noter que les propriétés du serveur de sur-impression MSI  sont encore accessibles via le boutton <Plus> dans la tabulation <OSD>.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

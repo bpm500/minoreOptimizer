@@ -1,0 +1,72 @@
+#src Pause
+#dst Пауза
+#end
+#src Clear history
+#dst Очищення історії
+#end
+#src Show status
+#dst Показувати статус
+#end
+#src Show profiler panel
+#dst Показувати панель профайлера
+#end
+#src Log history to file
+#dst Записувати історію у файл
+#end
+#src Always on top
+#dst Поверх усіх вікон
+#end
+#src Hide attached monitoring panel
+#dst Приховувати прикріплену панель моніторингу
+#end
+#src Attach
+#dst Приєднати
+#end
+#src Detach
+#dst Від'єднати
+#end
+#src Detach all
+#dst Від'єднати все
+#end
+#src Properties
+#dst Налаштування
+#end
+#src Mark minimum %s
+#dst Маркувати мінімум <%s>
+#end
+#src Mark maximum %s
+#dst Маркувати максимум <%s>
+#end
+#src Remove all markers
+#dst Прибрати всі маркери
+#end
+#src Remove selection
+#dst Прибрати виділення
+#end
+
+#src Copy
+#dst Копіювати
+#end
+
+#src Show
+#dst Показати
+#end
+#src Profiles
+#dst Профілі
+#end
+#src Close
+#dst Вихід
+#end
+#src There are no profiles
+#dst Профілі відсутні
+#end
+
+#src Select by type
+#dst Вибір за типом
+#end
+#src Select by group
+#dst Вибір за групою
+#end
+#src Reset order
+#dst Відновити порядок
+#end

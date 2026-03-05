@@ -1,0 +1,382 @@
+#src Information
+#dst Informacje
+#end
+#src System information
+#dst Informacje o systemie
+#end
+
+#src General
+#dst OgÛlne
+#end
+#src Master graphics processor selection
+#dst WybÛr g≥Ûwnego procesora graficznego
+#end
+#src Synchronize settings for similar graphics processors
+#dst Synchronizuj ustawienia dla podobnych procesorÛw graficznych
+#end
+#src General properties
+#dst W≥aúciwoúci ogÛlne
+#end
+#src Start with Windows
+#dst Uruchom przy starcie systemu Windows
+#end
+#src Start minimized
+#dst Uruchom zminimalizowany
+#end
+#src Compatibility properties
+#dst W≥aúciwoúci kompatybilnoúci
+#end
+#src Enable low-level hardware access interface
+#dst ZezwÛl na niskopoziomowy dostÍp do sprzÍtu
+#end
+#src kernel mode
+#dst tryb kernela
+#end
+#src user mode
+#dst tryb uøytkownika
+#end
+#src Unlock voltage control
+#dst Odblokuj kontrolowanie napiÍcia
+#end
+#src Unlock voltage monitoring
+#dst Odblokuj monitorowanie napiÍcia
+#end
+#src Force constant voltage
+#dst Wymuú sta≥e napiÍcie
+#end
+#src Restore settings after suspended mode
+#dst
+#end
+#src Graphics processor type
+#dst Typ procesora graficznego
+#end
+#src Update checking properties
+#dst W≥aúciwoúci sprawdzania aktualizacji
+#end
+#src Check for available product updates
+#dst Sprawdzaj dostÍpnoúÊ aktualizacji
+#end
+#src Check for available product beta versions
+#dst UwzglÍdnij wersje beta programu
+#end
+#src never
+#dst nigdy
+#end
+#src on startup
+#dst przy uruchomieniu
+#end
+#src on startup daily
+#dst przy uruchomieniu codziennie
+#end
+#src on startup weekly
+#dst przy uruchomieniu co tydzieÒ
+#end
+#src on startup monthly
+#dst przy uruchomieniu co miesiπc
+#end
+#src Check now
+#dst Sprawdü teraz
+#end
+
+#src Fan
+#dst Wentylator
+#end
+#src Automatic fan control properties
+#dst W≥aúciwoúci automatycznej kontroli wentylatora
+#end
+#src Enable user defined software automatic fan control
+#dst W≥πcz automatycznπ kontrolÍ wentylatora zdefiniowanπ przez uøytkownika
+#end
+#src Temperature, ∞C
+#dst Temperatura, ∞C 
+#end 
+#src Fan speed, %
+#dst PrÍdkoúÊ wentylatora, %
+#end
+#src Predefined fan speed curve
+#dst
+#end
+#src Custom
+#dst
+#end
+#src Default
+#dst
+#end
+#src Fan speed update period (in milliseconds)
+#dst CzÍstotliwoúÊ aktualizacji prÍdkoúci wentylatora (w ms)
+#end
+#src Temperature hysteresis (in ∞C)
+#dst Histereza temperatury (w ∞C)
+#end
+#src Force fan speed update on each period
+#dst
+#end
+
+#src Monitoring
+#dst Monitoring
+#end
+#src Hardware monitoring properties
+#dst W≥aúciwoúci monitoringu sprzÍtu
+#end
+#src Hardware polling period (in milliseconds)
+#dst CzÍstotliwoúÊ badania sprzÍtu (w ms)
+#end
+#src Hardware monitoring history logging properties
+#dst W≥aúciwoúci historii logowania monitorowania sprzÍtu
+#end
+#src Browse
+#dst Przeglπdaj
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst Przerwij logowanie, jeúli plik log stanie siÍ wiÍkszy niø (w MB)
+#end
+#src Recreate existing log files
+#dst OdtwÛrz istniejπce pliki log
+#end
+#src Active hardware monitoring graphs
+#dst Aktywne wykresy monitoringu sprzÍtu
+#end
+#src Maximum limit
+#dst Limit maksymalny
+#end
+#src Minimum limit
+#dst Limit minimalny
+#end
+#src Override group name
+#dst Zastπp nazwÍ grupy
+#end
+#src Enable data filtering
+#dst W≥πcz filtrowanie danych
+#end
+
+#src Show in On-Screen Display
+#dst Pokaø na OSD
+#end
+#src Show in Logitech keyboard LCD display
+#dst Pokaø na wyúwietlaczu LCD klawiatury Logitech
+#end
+#src Show in tray icon
+#dst Pokaø na ikonie w zasobniku systemowym
+#end
+
+#src On-Screen Display
+#dst On-Screen Display
+#end
+#src Global On-Screen Display hotkeys
+#dst Globalne klawisze dostÍpu dla OSD
+#end
+#src Toggle On-Screen Display
+#dst Prze≥πcz OSD
+#end
+#src Show On-Screen Display
+#dst Pokaø OSD
+#end
+#src Hide On-Screen Display
+#dst Ukryj OSD
+#end
+#src Additional On-Screen Display properties
+#dst Dodatkowe w≥aúciwoúci OSD
+#end
+#src Show system time
+#dst Pokaø czas systemowy
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst Pokaø OSD na zrzutach ekranu i przechwyconym wideo
+#end
+#src On-Screen Display server compatibility properties
+#dst W≥aúciwoúci kompatybilnoúci serwera OSD
+#end
+#src Toggle On-Screen Display server blocking
+#dst Prze≥πcz blokowanie serwera OSD
+#end
+#src More
+#dst WiÍcej
+#dlu 
+#end
+
+#src Profiles
+#dst Profile
+#end
+#src Global profile hotkeys
+#dst Globalne klawisze dostÍpu profili
+#end
+#src Profile
+#dst Profil
+#end
+#src Automatic profiles management
+#dst Automatyczne zarzπdzanie profilami
+#end
+#src 2D profile
+#dst Profil 2D
+#end
+#src 3D profile
+#dst Profil 3D
+#end
+
+#src User Interface
+#dst Interfejs uøytkownika
+#end
+#src User interface properties
+#dst W≥aúciwoúci interfejsu uøytkownika
+#end
+#src English
+#dst Angielski
+#end
+#src Language
+#dst JÍzyk
+#end
+#src Show user interface tooltips
+#dst Pokaø podpowiedzi interfejsu uøytkownika
+#end
+#src Show user interface hints
+#dst Pokaø wskazÛwki interfejsu uøytkownika
+#end
+#src Single tray icon mode
+#dst
+#end
+#src User interface skinning properties
+#dst W≥aúciwoúci wyglπdu interfejsu uøytkownika
+#end
+
+#src Screen capture
+#dst Przechwytywanie ekranu
+#end
+#src Global screen capture hotkeys
+#dst Globalne klawisze skrÛtu przechwytywania ekranu
+#end
+#src Screen capture properties
+#dst W≥aúciwoúci przechwytywania ekranu
+#end
+#src Screenshot format
+#dst Format zrzutu ekranowego
+#end
+#src Screenshots folder
+#dst Folder zrzutÛw ekranu
+#end
+#src View
+#dst Pokaø
+#end
+
+#src Video capture
+#dst Przechwytywanie wideo
+#end
+#src Global video capture hotkeys
+#dst Globalne klawisze dostÍpu przechwytywania wideo
+#end
+#src Video capture properties
+#dst W≥aúciwoúci przechwytywania wideo
+#end
+#src Frame size
+#dst Rozmiar ramki
+#end
+#src full frame
+#dst pe≥na ramka
+#end
+#src 1/2 frame
+#dst 1/2 ramki
+#end
+#src 1/3 frame
+#dst 1/3 ramki
+#end
+#src 1/4 frame
+#dst 1/4 ramki
+#end
+#src Video format
+#dst Format wideo
+#end
+#src uncompressed
+#dst nieskompresowany
+#end
+#src RTV1 compression
+#dst kompresja RTV1
+#end
+#src MJPG compression
+#dst kompresja MJPG
+#end
+#src 1 FPS
+#dst 1 klatek
+#end
+#src 100 FPS
+#dst 100 klatek
+#end
+#src Enable gamma correction
+#dst W≥πcz korekcjÍ gamma
+#end
+#src Videos folder
+#dst Folder przechwytywania wideo
+#end
+#src Video capture compatibility properties
+#dst W≥aúciwoúci kompatybilnoúci przechwytywania wideo
+#end
+#src Multithreaded optimization
+#dst Optymalizacja wielowπtkowa
+#end
+#src automatic
+#dst automatyczna
+#end
+#src disabled
+#dst wy≥πczona
+#end
+#src 1 compression thread
+#dst 1 wπtek kompresji
+#end
+#src 2 compression threads
+#dst 2 wπtki kompresji
+#end
+#src 3 compression threads
+#dst 3 wπtki kompresji
+#end
+#src 4 compression threads
+#dst 4 wπtki kompresji
+#end
+#src 5 compression threads
+#dst 5 wπtki kompresji
+#end
+#src 6 compression threads
+#dst 6 wπtkÛw kompresji
+#end
+#src 7 compression threads
+#dst 7 wπtkÛw kompresji
+#end
+#src 8 compression threads
+#dst 8 wπtkÛw kompresji
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst Przytnij wymiary wideo do wielokrotnoúci liczby 16
+#end
+#src Audio capture properties
+#dst W≥aúciwoúci przechwytywania düwiÍku
+#end
+#src Downmix multichannel audio to stereo
+#dst Zmiksuj düwiÍk wielokana≥owy do stereo
+#end
+#src None
+#dst
+#end
+#src Auto select
+#dst WybÛr automatyczny
+#end
+#src DirectSound capture device
+#dst Urzπdzenie przechwytujπce DirectSound
+#end
+#src WASAPI playback device
+#dst Urzπdzenie odtwarzajπce WASAPI
+#end
+#src WASAPI capture device
+#dst Urzπdzenie przechwytujπce WASAPI
+#end
+#src Audio source #1
+#dst èrÛd≥o düwiÍku #1
+#end
+#src Audio source #2
+#dst èrÛd≥o düwiÍku #2
+#end
+#src Push-To-Talk hotkey
+#dst
+#end
+#src There are no devices available
+#dst Nie wykryto urzπdzeÒ audio
+#end
+#src Enable MJPG decoder
+#dst
+#end

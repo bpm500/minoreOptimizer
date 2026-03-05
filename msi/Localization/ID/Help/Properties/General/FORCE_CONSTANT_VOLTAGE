@@ -1,0 +1,8 @@
+Paksa tegangan secara konstan
+Beberapa tegangan regulator (Voltera VT1165 atau STMicroelectronics L6788A series) mendukung programming dari tegangan independensi untuk pembagian daya ( untuk 2D and 3D modes). 
+Secara default %PRODUCTNAME% mengatur tegangan untuk kemampuan maximum seperti(mode 3D). Namun, anda dapat memaksa %PRODUCTNAME% untuk mengatur tegangan dengan cara aktivasi sehingga dapat menon-aktifkan tegangan dynamic. dan dapat meningkatkan stabilitas pada beberapa sistem.
+
+Petunjuk:
+- Diperlukan reboot untuk melakukan restore power saving setelah menon-aktifkan pilihan ini .
+- %PRODUCTNAME% di desain untuk memberikan pengaturan tegangan 3D hanya pada kartu grafis reference saja atau pada kartu grafis MSI. Beberapa kartu grafis non-reference tidak dapat menggunakan aplikasi ini, jadi %PRODUCTNAME% dapat digunakan untuk mengatur tegangan yang salah. 
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

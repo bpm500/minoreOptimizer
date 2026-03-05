@@ -1,0 +1,7 @@
+Override les noms de groupe
+Par défaut les valeurs affichées en sur-impression sur l'affichage et le LCD du clavier Logitech sont groupées par le nom court des sondes. Cette option permet d'overrider les noms de groupe par défaut. 
+
+Astuce:
+- Quelques noms de groupe(ex: le nom de groupe <nombre d'images par seconde>) sont dynamiques et ne peuvent être overrider.
+- Un nom de groupe avec un seul symbole peut-être utilisé pour grouper des valeurs sans afficher de nom de groupe.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

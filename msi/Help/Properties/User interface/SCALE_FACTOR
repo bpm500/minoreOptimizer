@@ -1,0 +1,5 @@
+Skin scaling
+Allows scaling the skin to provide the best appearance on your monitor. Please take a note that upscaling may reduce skinned GUI rendering performance.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

@@ -1,0 +1,9 @@
+Poka¿ na Ekranowe
+Umozliwia wyswietlanie aktualnie wybranych wartosci wykresu na ekranie ekranowym.
+
+Wskazówki:
+- Musisz aktywowac i wybrac zadany wykres, aby uzyskac dostep do tej opcji.
+- Renderowanie na ekranie nie jest bezplatne pod wzgledem wydajnosci, kazdy wyswietlany symbol wymaga zarówno zasobów procesora, jak i gpu. Postaraj sie wiec unikac wyswietlania niepotrzebnych informacji na ekranie, aby zminimalizowac skutecznosc trafienia.
+- Wlaczenie tej opcji spowoduje automatyczne rozpoczecie dodatkowego procesu %SERVERPRODUCTNAME%. Serwer zapewnia uslugi renderowania na ekranie dla aplikacji 3D i nie mozna go zwolnic, dopóki nie wylaczysz danych wyjsciowych wyswietlania ekranowego dla wszystkich wykresów.
+- Mozesz trzymac <Shift>button wcisniety na klawiaturze podczas zmiany tej opcji, aby zmienic go synchronicznie dla wszystkich wykresów.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

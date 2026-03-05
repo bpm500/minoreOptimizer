@@ -1,0 +1,6 @@
+Manuell immer minimiert starten
+Startet %PRODUCTNAME% immer minimiert im Taskleistenbereich bei manuellem Start der Anwendung.
+
+Hinweise:
+- Diese Option betrifft nur den manuellen Start der Anwendung. %PRODUCTNAME% startet beim Start mit Windows immer minimiert, unabhängig vom Status dieser Option.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

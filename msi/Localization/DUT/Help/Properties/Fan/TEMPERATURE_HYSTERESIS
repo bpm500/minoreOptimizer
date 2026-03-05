@@ -1,0 +1,11 @@
+Temperatuur hysteresis
+Toont en past de temperatuur hysteresis aan voor de door gebruiker gedefinieerde automatische ventilator controle mode.
+Hysteresis kan gebruikt worden om ongewilde ventilator fluctuaties te verminderen en om de koeling efficentie te verhogen. Wanneer non-zero hysteresis is bepaald zal de automatische ventilator controle mode de volgende algoritme gebruiken:
+
+- Laatste temperatuur waarde dat de ventilator snelheid deed veranderen wordt vergrendeld.
+- Wanneer de temperatuur daalt worden geen ventilator snelheids veranderingen toegestaan wanneer het verschil tussen de vergrendelde en de huidige temperatuur waarde kleiner is dan de hystersis waarde.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.
+
+

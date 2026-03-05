@@ -1,0 +1,8 @@
+Limite de puissance
+Ajuste la limite de puissance du GPU maître, si celà est supporté par la carte graphique.
+
+Astuce:
+- Quand le paramètre mode de syncronisation GPU est activé dans la tabulation <Générale> dans les propiétés avancées, tout changement appliqué au GPU maître est également appliqué à tous les GPU similaires installé dans le système.
+- Quand le curseur de limite est focalisé, vous pouvez utiliser les curseurs du clavier pour régler finement la limite.
+- Vous pouvez cliquer sur le champ d'édition adjacent pour taper directement la puissance limite.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

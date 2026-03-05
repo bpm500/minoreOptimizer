@@ -1,0 +1,5 @@
+Graph columns
+Adjusts number of graph columns in hardware monitoring window. Please take a note that the number of columns can be dynamically decreased if the window is too small.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

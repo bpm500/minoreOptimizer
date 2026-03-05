@@ -1,0 +1,5 @@
+Optymalizacja wielow¹tkowa
+Silnik kompresji wideo jest zoptymalizowany, aby wykorzystac zalety systemów z wieloma procesorami lub wieloma rdzeniami procesora. Kolejka ramek wejsciowych jest jednoczesnie przetwarzana przez wiele watków i ta opcja umozliwia kontrolowanie ilosci watków przetwarzanych w kolejce. Domyslnie silnik kompresji wideo automatycznie uzywa 1 watku do oprózniania skompresowanych klatek do watków HDD i N-1, aby skompresowac klatki z kolejki wejsciowej w systemie za pomoca N procesorów na rdzeniach procesora. Mozna jednak zmniejszyc liczbe watków lub wylaczyc implementacje wielowatkowa w ogóle ze wzgledu na rozwiazywanie problemów lub porównywanie wydajnosci. 
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

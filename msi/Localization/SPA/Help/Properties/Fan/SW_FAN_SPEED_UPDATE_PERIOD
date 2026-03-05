@@ -1,0 +1,6 @@
+Período de actualización de la velocidad del ventilador
+Visualiza y modifica el período de actualización de la velocidad del ventilador definido en el modo de control automático.
+
+Sugerencias:
+- El control automático de la velocidad del ventilador tiene un coste en tiempo de CPU. Dependiendo de la tarjeta gráfica, y de los sensores y los protocolos de acceso, el control automático del ventilador puede causar un descenso en el rendimiento de la CPU y bajadas de rendimiento en las aplicaciones 3D. Si estás sufriendo este tipo de problemas, deshabilita el control automático del ventilador para determinar si ésta es la causa. En el caso de que lo sea, aumenta el tiempo de actualización del ventilador. Los usuarios expertos pueden utilizar el monitor de rendimiento haciendo click con el botón derecho del ratón en la ventana de monitorización y seleccionando la opción <Mostrar estado>.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

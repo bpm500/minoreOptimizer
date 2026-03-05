@@ -1,0 +1,83 @@
+#src PerfCounter plugin settings
+#dst Настройки на плъгина PerfCounter
+#end
+#src Active data sources
+#dst Активни източници на данни
+#end
+#src Add
+#dst Добави
+#end
+#src Remove
+#dst Изтрий
+#end
+#src Defaults
+#dst По подразбиране
+#end
+
+#src Data source settings
+#dst Настройки на източника на данни
+#end
+#src Performance counter properties
+#dst Свойства на брояча на производителността
+#end
+#src Object name
+#dst Име на обект
+#end
+#src Instance name or index
+#dst Име или индекс на екземпляр
+#end
+#src Counter name
+#dst Име на брояча
+#end
+#src Plugin data source properties
+#dst Свойства на плъгина източник на данни
+#end
+#src Enable dynamic mode
+#dst Активирайте динамичния режим
+#end
+#src Units
+#dst Единици
+#end
+#src Format
+#dst Формат
+#end
+#src Formula
+#dst Формула
+#end
+#src x = off + x * mul / div
+#dst x = изкл. + x * мн / дел
+#end
+#src Offset
+#dst Отместване
+#end
+#src Multiplier
+#dst Множител
+#end
+#src Divider
+#dst Делител
+#end
+
+#src Group
+#dst Група
+#end
+#src Range
+#dst Обхват
+#end
+
+
+#src Add new data source(s)
+#dst Добавете нов източник(ци) на данни
+#end
+#src Available performance counters
+#dst Налични броячи на производителност
+#end
+#src Export
+#dst Експортиране 
+#end
+
+#src Instance name
+#dst Име на екземпляра
+#end
+#src Use instance index instead of name
+#dst Използвайте индекс на екземпляр вместо име
+#end

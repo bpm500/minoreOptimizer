@@ -1,0 +1,10 @@
+Controle automático e curva de velocidades da ventoinha
+Permite a criação e modificação da curva de velocidades definida para o controle automático das velocidades de rotação da ventoinha da placa de vídeo.
+
+Sugestões:
+- Clique na curva do gráfico para adicionar novos pontos à escala. Admitidos até 8 pontos.
+- Selecione um ponto existente no gráfico e mova com o mouse para ajustá-lo. O ponto selecionado pode ser movido com maior precisão usando as teclas direcionais do teclado.
+- Pressione <Del> para remover o ponto selecionado.
+- Pressione <Ctrl + D> para redefinir a curva em suas definições padrões.
+- Clicque duas vezes na área de edição para alternar entre os modos de curva linear ou escalonada. O modo de edição escalonado diminui a carga do processador ao reduzir a frequência de mudanças de velocidades da ventoinha a cada leitura de temperatura.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

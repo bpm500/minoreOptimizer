@@ -1,0 +1,5 @@
+Taxa de quadros do vídeo capturado 
+Ajusta a taxa de quadros dos vídeos codificados. Alguns quadros serão descartados se o sistema não for rápido o suficiente para codificar os vídeos à taxa de quadros fixada, neste caso, tente diminuir a taxa de quadros dos vídeos para melhorar a fluidez. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

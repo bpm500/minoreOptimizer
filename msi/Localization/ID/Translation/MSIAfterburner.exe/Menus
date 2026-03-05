@@ -1,0 +1,35 @@
+#src Pause
+#dst Pause
+#end
+#src Clear history
+#dst Bersihkan history
+#end
+#src Show status
+#dst Tampilkan status
+#end
+#src Log history to file
+#dst Simpan log di file
+#end
+#src Always on top
+#dst Tampilan selalu di atas
+#end
+#src Properties
+#dst Properti
+#end
+
+#src Copy
+#dst Copy
+#end
+
+#src Show
+#dst Tampilkan
+#end
+#src Profiles
+#dst Profil
+#end
+#src Close
+#dst Tutup
+#end
+#src There are no profiles
+#dst Tidak ada profil
+#end

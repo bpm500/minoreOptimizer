@@ -1,0 +1,18 @@
+Tipos de fontes de áudio
+Permite selecionar o tipo de fonte de áudio. Você pode escolher até duas fontes diferentes de áudio e gravar duas faixas de áudio independentes em vídeo. Os seguintes tipos de fontes de áudio estão disponíveis:
+- Seleção automática - seleciona automaticamente a fonte de áudio de acordo com a versão do sistema operacional. Neste modo, o áudio é gravado através do dispositivo de captura padrão DirectSound no Windows XP, pelo dispositivo de reprodução padrão WASAPI para fonte de áudio 1 ou via dispositivo de captura padrão WASAPI para fonte de áudio 2 no Windows Vista e nos sistemas operacionais mais recentes.
+- Dispositivo de captura DirectSound - captura o áudio por meio de dispositivos de captura DirectSound. Os dispositivos de captura DirectSound no WindowsXP são acelerados por hardware, por isso este modo oferece melhor desempenho de captura de áudio com mistura de som por hardware e aplicação de autoretorno na gravação. No entanto, o DirectSound é obsoleto e emulado via WASAPI desde o Windows Vista, por isso é recomendado o uso de dispositivos WASAPI nativos para captura de áudio no Windows Vista e nos sistemas operacionais mais recentes.
+- Dispositivo de reprodução WASAPI - captura  o áudio via dispositivos de reprodução WASAPI (Windows Vista e sistemas mais recentes). Ao contrário do DirectSound, o WASAPI permite um fluxo de áudio multicanal por drivers de áudio e dispositivos de reprodução. Isso permite o uso de um driver unificado de áudio sem depender de softwares de gravação e da implementação do autoretorno, ainda sendo capaz de gravação de áudio multicanal. Por favor, observe que este modo pode ser incompatível com alguns aplicativos que utilizam hardware alternativo de interfaces de áudio aceleradas por OpenAL.
+- Dispositivo de captura WASAPI - captura o áudio por meio de dispositivos de captura WASAPI (Windows Vista e sistemas mais recentes). Ao contrário do DirectSound, o WASAPI pode capturar áudio independentemente de entrada ou saída, o que permite gravar áudio proveniente de dispositivos de saída (como alto-falantes) e de entrada (como microfones) de forma independente. Você pode usar este modo para gravar áudio de dispositivos de entrada, se necessário.
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.
+
+
+
+
+
+
+
+
+

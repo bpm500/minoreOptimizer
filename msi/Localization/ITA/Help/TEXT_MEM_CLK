@@ -1,0 +1,8 @@
+Frequenza della memoria
+Visualizza l'attuale frequenza della memoria della GPU principale.
+
+Consigli:
+- Quando l'impostazione della modalità di sincronizzazione GPU è attivata nella scheda <Generale> in proprietà avanzate, qualsiasi modifica applicata alla GPU principale sarà applicata anche a tutte le GPU simili installate nel sistema.
+- Si può scegliere nell'adiacente campo di modifica di scrivere direttamente ua frequenza desiderato.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.
+

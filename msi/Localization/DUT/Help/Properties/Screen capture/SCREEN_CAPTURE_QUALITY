@@ -1,0 +1,5 @@
+Shermfoto vastleg kwaliteit
+Pas de kwaliteit aan van de schermfoto opgeslaan in JPEG formaat.
+Hoger beeld kwaliteit resulteert in hogere bestand grootte en compressie tijd. BPM en PNG formaten zijn lossles (lossles = Een techniek om de omvang van de gegevens te reduceren, waarbij er niets verandert aan de kwaliteit van de gegevens) en hebben altijd een kwalitiet van 100%.
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

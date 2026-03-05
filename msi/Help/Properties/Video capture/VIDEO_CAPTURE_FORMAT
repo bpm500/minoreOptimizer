@@ -1,0 +1,12 @@
+Video format
+Allows selecting video capture format. Depending on your preferences you can select one of the following formats:
+
+- Uncompressed - the video is being encoded in raw format without compression in any form. No third party codecs are required to play video encoded in this format. Please take a note that you need really fast disk I/O susbsystem to encode high resolution video in uncompressed format without dropped frames, e.g. to encode uncompressed video in 1680x1050 resolution at 30 frames per second you'll need disk I/O subsystem with 150MB/s (1680*1050*3*30) bandwidth. 
+- RTV1 compression - the video is being encoded in RivaTuner Video format V1. RivaTuner Video Codec installation is required to play video encoded in this format. RivaTuner Video format V1 is lossy compression format based on hybrid of DXT1 and RLE compression algorithms with 6x or higher compression ratio. RTV1 encoder is able to encode high resolution video at high framerate without consuming too much CPU time, so this format is recommended for the systems with single core or slow dual core CPUs.
+- MJPG compression - the video is being encoded in native MJPG format. No third party codecs are required to play video encoded in this format, such video should be playable on different platforms or even on hardware media players. 
+MJPG compression format gives you the best compression ratio but reqiures rather fast multicore CPU to encode high resolution video without dropped frames. Also, keep in mind you may tune the balance between image quality and compression ratio for this format.
+- VFW compression - the video is being encoded by external VFW compatible codec. Third party codec installation is required to encode and play video. It is recommended to download, install and use Lagarith Lossless Codec for the lossless video capturing or x264vfw for the best compression ratio, %PRODUCTNAME% was developed to provide the best compatibility with these codecs.
+- External plugin - the video is being encoded by external hardware accelerated plugin module. %SERVERPRODUCTNAME% includes plugins for hardware accelerated H.264 encoding via Intel QuickSync, NVIDIA NVENC and AMD VCE. 
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

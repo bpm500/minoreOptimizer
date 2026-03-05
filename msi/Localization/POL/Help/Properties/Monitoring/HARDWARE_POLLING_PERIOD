@@ -1,0 +1,8 @@
+Okres sondowania sprzetu
+Dostosowuje okres aktualizacji sondowania sprzetu i monitorowania wykresów.
+
+Wskazówki:
+- Sondowanie sprzetu nie jest calkowicie bezplatne pod wzgledem wydajnosci, wymagany jest czas procesora cpu na kazdej iteracji sondowania, aby odczytac dane ze sprzetu. W zaleznosci od procesora GPU i modelu senosora oraz protokolów dostepu do sprzetu, wplyw wydajnosci zwiazanych ze sprzetem moze sie róznic od praktycznie niewidocznego do zauwazyc okresowego uderzenia wydajnosci powodujac efekt zacinania sie w aplikacjach intensywnie korzystajacych z procesora, takich jak gry 3D. 
+Jesli wystepuje taki efekt podczas dzialania %PRODUCTNAME%, spróbuj tymczasowo wstrzymac monitorowanie, aby zidentyfikowac go jako zródlo problemów, klikajac prawym przyciskiem myszy okno monitorowania i wybierajac polecenie <Pause>command. Nastepnie spróbuj zmniejszyc obciazenie procesora, zwiekszajac okres sondowania hadrware lub wylaczajac rzadko uzywane lub niepotrzebne aktywne wykresy monitorowania sprzetu. 
+Doswiadczeni uzytkownicy moga równiez wyswietlac informacje o stanie profilera wydajnosci w oknie monitorowania, klikajac je prawym przyciskiem myszy i wybierajac polecenie <Show status>. Informacje o stanie wyswietla czasy uzycia procesora CPU dla róznych procesów w tle, w tym sondowania sprzetu.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

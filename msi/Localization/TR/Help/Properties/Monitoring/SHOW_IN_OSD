@@ -1,0 +1,9 @@
+Show in On-Screen Display
+Allows showing currently selected graph values in the On-Screen Display.
+
+Hints:
+- You must activate and select desired graph to get access to this option.
+- On-Screen Display rendering is not free in terms of performance, each displayed symbol requires both CPU and GPU resources. So try to avoid displaying unnecessary information in the On-Screen Display in order to minimize the performance hit.
+- Enabling this option will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides On-Screen Display rendering services to 3D applications and it cannot be unloaded until you disable On-Screen Display output for all graphs.
+- You may hold <Shift> button pressed on your keyboard while changing this option to change it synchronically for all graphs.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

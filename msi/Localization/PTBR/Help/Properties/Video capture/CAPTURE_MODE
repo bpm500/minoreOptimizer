@@ -1,0 +1,6 @@
+Modo de capturas de vídeo
+Por padrão, o %PRODUCTNAME% captura vídeos na área de trabalho e na execução de aplicativos 3D, dependendo da situação. O modo de captura da área de trabalho deve ser selecionado quando nenhuma aplicação 3D estiver em execução, caso contrário, selecione o modo de captura de aplicações 3D.
+Você pode usar esta opção para forçar cada modo (captura em aplicações 3D ou captura na área de trabalho), dependendo da necessidade.
+
+sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

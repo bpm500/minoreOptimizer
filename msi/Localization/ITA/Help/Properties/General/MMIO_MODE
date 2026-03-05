@@ -1,0 +1,5 @@
+Basso-livello hardware modalità di accesso
+Il basso-livello di accesso alla scheda video può essere effettuato sia in modalità utente, o in modalità kernel. La modalità di accesso utente fornisce le migliori prestazioni di monitoraggio e non consuma spazio di indirizzamento del kernel, mentre la modalità kernel può proteggere intervalli di memoria mappata dell'hardware da accessi non autorizzati da applicazioni mal progettate (ad esempio il client Punkbuster, infame per Battlefield: Bad Company 2) e in questo modo proteggere il sistema da instabilità.
+
+suggerimenti:
+- È possibile disattivare i suggerimenti interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

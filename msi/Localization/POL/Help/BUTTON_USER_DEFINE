@@ -1,0 +1,8 @@
+Definiowanie przez uzytkownika
+Umozliwia zdefiniowany przez uzytkownika programowy tryb automatycznego sterowania wentylatorem. W tym trybie oprogramowanie okresowo sprawdza temperature GPU i ustawia nowa predkosc wentylatora zgodnie z krzywa predkosci wentylatora, zdefiniowana w <Fan>tab w zaawansowanych wlasciwosciach.
+
+Wskazówki:
+- Kontrola predkosci wentylatora nie jest dostepna, jesli karta graficzna nie jest wyposazona w uklad kontrolera wentylatora i (lub) sterowany system chlodzenia.
+- Automatyczne krzywa predkosci wentylatora oprogramowania nie ma wplywu na profile, jest to ustawienie globalne dla wszystkich procesorów graficznych zainstalowanych w systemie. 
+- Po wlaczeniu zdefiniowanego przez uzytkownika oprogramowania automatycznego trybu sterowania wentylatorem nadal mozna przelaczac sie miedzy trybami automatycznego i recznego sterowania predkoscia wentylatora za pomoca <Auto>button.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

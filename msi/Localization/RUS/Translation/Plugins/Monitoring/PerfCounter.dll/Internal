@@ -1,0 +1,35 @@
+#src HDD%d usage
+#dst Загрузка диска %d
+#end
+#src HDD%d read rate
+#dst Скорость чтения диска %d
+#end
+#src HDD%d write rate
+#dst Скорость записи диска %d
+#end
+#src MB/s
+#dst МБ/c
+#end
+#src Free disk space C:
+#dst Свободное место на диске C:
+#end
+#src GB
+#dst ГБ
+#end
+#src NET%d download rate
+#dst Скорость загрузки сети %d
+#end
+#src NET%d upload rate
+#dst Скорость отдачи сети %d
+#end
+#src KB/s
+#dst КБ/c
+#end
+
+#src Counter
+#dst Счётчик
+#end
+
+#src Counters exported to %s!
+#dst Cчётчики экспортированы в %s!
+#end

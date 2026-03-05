@@ -1,0 +1,369 @@
+#src Information
+#dst 資訊
+#end
+#src System information
+#dst 系統資訊
+#end
+
+#src General
+#dst 一般��
+#end
+#src Master graphics processor selection
+#dst 主顯示卡選擇
+#end
+#src Synchronize settings for similar graphics processors
+#dst 相同顯示卡同步設定
+#end
+#src General properties
+#dst 一般選項
+#end
+#src Start with Windows
+#dst 隨Windows啟動
+#end
+#src Start minimized
+#dst 啟動時最小化
+#end
+#src Compatibility properties
+#dst 相容性選項
+#end
+#src Enable low-level hardware access interface
+#dst 啟動低階硬體存取介面
+#end
+#src kernel mode
+#dst 
+#end
+#src user mode
+#dst 
+#end
+#src Unlock voltage control
+#dst 解鎖電壓調整功能
+#end
+#src Unlock voltage monitoring
+#dst 解鎖電壓監控功能
+#end
+#src Force constant voltage
+#dst 強制恆定電壓
+#end
+#src Restore settings after suspended mode
+#dst
+#end
+#src Graphics processor type
+#dst 繪圖核心種類
+#end
+#src Update checking properties
+#dst 檢查更新選項 
+#end
+#src Check for available product updates
+#dst 檢查是否有最新的版本
+#end
+#src Check for available product beta versions
+#dst 檢查是否有最新的測試版本
+#end
+#src never
+#dst 從不檢查 
+#end
+#src on startup
+#dst 每次開機檢查 
+#end
+#src on startup daily
+#dst 每天開機檢查
+#end
+#src on startup weekly
+#dst 每週開機檢查  
+#end
+#src on startup monthly
+#dst 每月開機檢查 
+#end
+#src Check now
+#dst 立即檢查 
+#end
+
+#src Fan
+#dst 風扇
+#end
+#src Automatic fan control properties
+#dst 自動風扇控制選項
+#end
+#src Enable user defined software automatic fan control
+#dst 啟動使用者定義軟體自動風扇控制
+#end
+#src Temperature, 蚓
+#dst 溫度 °C
+#end 
+#src Fan speed, %
+#dst 風扇速度 %
+#end
+#src Predefined fan speed curve
+#dst
+#end
+#src Custom
+#dst
+#end
+#src Default
+#dst
+#end
+#src Fan speed update period (in milliseconds)
+#dst 風扇速度更新間隔 (毫秒)
+#end
+#src Temperature hysteresis (in 蚓)
+#dst 溫度延遲
+#end
+#src Force fan speed update on each period
+#dst
+#end
+
+#src Monitoring
+#dst 監控
+#end
+#src Hardware monitoring properties
+#dst 硬體監控設定
+#end
+#src Hardware polling period (in milliseconds)
+#dst 硬體存取間隔 (毫秒)
+#end
+#src Hardware monitoring history logging properties
+#dst 硬體監控歷史紀錄選項
+#end
+#src Browse
+#dst 瀏覽
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst 停止紀錄當記錄檔大小超過此容量 (MB)
+#end
+#src Recreate existing log files
+#dst 重新建立目前已存在的紀錄檔
+#end
+#src Active hardware monitoring graphs
+#dst 已啟動的硬體監控圖表
+#end
+#src Maximum limit
+#dst 最大限制
+#end
+#src Minimum limit
+#dst 最小限制
+#end
+#src Override group name
+#dst
+#end
+#src Enable data filtering
+#dst 啟動資料篩選
+#end
+#src Show in On-Screen Display
+#dst 在OSD(On-Screen Display)上顯示
+#end
+#src Show in Logitech keyboard LCD display
+#dst 在Logitech鍵盤LCD上顯示
+#end
+#src Show in tray icon
+#dst 在系統列上顯示
+#end
+
+#src On-Screen Display
+#dst On-Screen Display
+#end
+#src Global On-Screen Display hotkeys
+#dst OSD熱鍵
+#end
+#src Toggle On-Screen Display
+#dst OSD功能啟動切換
+#end
+#src Show On-Screen Display
+#dst 顯示OSD
+#end
+#src Hide On-Screen Display
+#dst 隱藏OSD
+#end
+#src Additional On-Screen Display properties
+#dst 進階OSD顯示選項
+#end
+#src Show system time
+#dst 顯示系統時間
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst 顯示OSD在錄製的畫面與影片上
+#end
+#src On-Screen Display server compatibility properties
+#dst OSD伺服器相容性選項
+#end
+#src Toggle On-Screen Display server blocking
+#dst 切換OSD伺服器鎖定
+#end
+#src More
+#dst 更多
+#dlu -100
+#end
+
+#src Profiles
+#dst 個人設定
+#end
+#src Global profile hotkeys
+#dst 個人設定熱鍵
+#end
+#src Profile
+#dst 設定
+#end
+#src Automatic profiles management
+#dst 自動化個人設定管理
+#end
+#src 2D profile
+#dst 2D 個人設定
+#end
+#src 3D profile
+#dst 3D 個人設定
+#end
+
+#src User Interface
+#dst 使用介面
+#end
+#src User interface properties
+#dst
+#end
+#src English
+#dst 英文
+#end
+#src Language
+#dst 語言
+#end
+#src Show user interface tooltips
+#dst 顯示使用者介面提示
+#end
+#src Show user interface hints
+#dst 顯示使用者介面建議
+#end
+#src Single tray icon mode
+#dst
+#end
+#src User interface skinning properties
+#dst 介面外皮選項
+#end
+
+#src Screen capture
+#dst 螢幕擷取
+#end
+#src Global screen capture hotkeys
+#dst 螢幕擷取快捷鍵
+#end
+#src Screen capture properties
+#dst 螢幕擷取選項
+#end
+#src Screenshot format
+#dst 擷圖格式
+#end
+#src Screenshots folder
+#dst 擷圖資料夾
+#end
+#src View
+#dst 觀看
+#end
+
+#src Video capture
+#dst 影片擷取
+#end
+#src Global video capture hotkeys
+#dst 影片擷取快捷鍵
+#end
+#src Video capture properties
+#dst 影片擷取選項
+#end
+#src Frame size
+#dst 影格尺寸
+#end
+#src full
+#dst 全部
+#end
+#src half
+#dst 一半
+#end
+#src Video format
+#dst 影片格式
+#end
+#src lossless
+#dst 無失真
+#end
+#src 1 FPS
+#dst 
+#end
+#src 100 FPS
+#dst
+#end
+#src Enable gamma correction
+#dst
+#end
+#src Videos folder
+#dst 影片路徑
+#end
+#src Video capture compatibility properties
+#dst 影片擷取相容性選項
+#end
+#src Multithreaded optimization
+#dst 多執行序最佳化
+#end
+#src automatic
+#dst 自動
+#end
+#src disabled
+#dst 關閉
+#end
+#src 1 compression thread
+#dst 
+#end
+#src 2 compression threads
+#dst
+#end
+#src 3 compression threads
+#dst
+#end
+#src 4 compression threads
+#dst
+#end
+#src 5 compression threads
+#dst
+#end
+#src 6 compression threads
+#dst
+#end
+#src 7 compression threads
+#dst
+#end
+#src 8 compression threads
+#dst
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst
+#end
+#src Audio capture properties
+#dst 音效擷取選項
+#end
+#src Downmix multichannel audio to stereo
+#dst 降低多聲道音效至雙聲道
+#end
+#src None
+#dst
+#end
+#src Auto select
+#dst 自動選擇 
+#end
+#src DirectSound capture device
+#dst DirectSound 擷取裝置 
+#end
+#src WASAPI playback device
+#dst WASAPI 播放裝置 
+#end
+#src WASAPI capture device
+#dst WASAPI 擷取裝置 
+#end
+#src Audio source #1
+#dst
+#end
+#src Audio source #2
+#dst
+#end
+#src Push-To-Talk hotkey
+#dst
+#end
+#src There are no devices available
+#dst 目前無可用的裝置
+#end
+#src Enable MJPG decoder
+#dst
+#end

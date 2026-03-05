@@ -1,0 +1,6 @@
+Videomodus zurücksetzen, wenn Sie inoffizielles Übertakten anwenden
+Aufgrund eines Fehlers im AMD Grafiktreiber kann es nach inoffizieller Übertaktung bis zur nächsten Änderung des Videomodus zum Flackern der Anzeige kommen. Sie können diese Option aktivieren, um dieses Problem zu umgehen und ein Zurücksetzen des Videomodus unmittelbar nach der Anwendung einer inoffiziellen Übertaktung zu erzwingen.
+
+Hinweise:
+- Diese Option ist nur aktiv, wenn mindestens eine unterstützte AMD-Grafikkarte im System vorhanden ist.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

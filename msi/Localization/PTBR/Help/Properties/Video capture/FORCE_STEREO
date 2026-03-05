@@ -1,0 +1,6 @@
+Áudio multicanal para estéreo Downmix 
+Permite usar o áudio multicanal Downmix capturado em placas de som multicanal com fluxo de áudio estéreo. O Downmixing reduz o tamanho do arquivo de vídeo criado, bem como melhora a compatibilidade com reprodutores de vídeo e vários programas de edição de vídeo. 
+
+Sugestões: 
+- Esta opção somente funciona na captura de áudio por dispositivos de reprodução WASAPI no Windows Vista e sistemas operacionais mais recentes. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

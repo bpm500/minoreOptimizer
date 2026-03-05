@@ -1,0 +1,6 @@
+Mostrar fecha/hora del sistema
+Muestra la fecha/hora del sistema en la Visualización en pantalla.
+
+Sugerencias:
+- La activación de esta opción causará la carga del Servidor de Visualización en pantalla de forma automática. Dicho servidor no podrá ser descargado hasta que esta opción se desactive.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

@@ -1,0 +1,5 @@
+Ritaglia le dimensioni del video per renderle multiple di 16
+Alcuni decoder video di terze parti (es. il video decoder incorporato di VirtualDub MJPG) potrebbe non riuscire a decodificare il video se la larghezza e l'altezza non sono multipli di 16. È possibile abilitare questa opzione per ritagliare le dimensioni del video e renderle multiple di 16 per migliorare la compatibilità con le applicazioni di terze parti di video editing.
+
+suggerimenti:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

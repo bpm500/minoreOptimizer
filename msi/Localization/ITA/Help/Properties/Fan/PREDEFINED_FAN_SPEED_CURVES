@@ -1,0 +1,6 @@
+Curve di velocità della ventola Predefinite
+Visualizza l'elenco delle curve predefinite della velocità della ventola. L'elenco contiene sempre la curva di default e può eventualmente contenere curve aggiuntive (come ad esempio quella silenziosa o preimpostata per la performance) per alcune schede MSI personalizzate di progettazione grafica.
+
+Suggerimenti:
+- Il software automatico della curvatura di velocità della ventola non è influenzato dai profili, è un'impostazione globale per tutte le GPU installata nel sistema.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

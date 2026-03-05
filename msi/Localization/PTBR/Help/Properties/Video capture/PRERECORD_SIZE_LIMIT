@@ -1,0 +1,5 @@
+Limite do tamanho do arquivo de pré-gravação 
+Permite definir um limite de tamanho para o "buffer" de pré-gravação em megabytes. Você pode configurá-lo a zero para deixar o tamanho ilimitado. Por favor, observe que em caso de pré-gravação em espaço reservado real, o arquivo será duas vezes maior para fornecer ao "buffer" espaço eficaz. 
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

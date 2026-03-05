@@ -1,0 +1,6 @@
+Pré-enregistrement automatique
+Permet de sélectionner soit le pré-enregistrement manuel soit automatique. Quand le mode automatique est selectionné, le pré-enregistrement est démarré automatiquement à chaque démarrage d'application 3D. Néanmoins, vous pouvez toujours utiliser la hotkey de pré-enregistrement vidéo pour arrêter manuellement l'enregistrement ou le redémarrer plus tard si nécessaire. 
+
+Astuce:
+- Activer cette option va démarrer le process %SERVERPRODUCTNAME% automatiquement. Le serveur permet la capture vidéo des applications 3D et ne peut être déchargé que si cette option est désativée.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

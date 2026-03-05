@@ -1,0 +1,6 @@
+Formule corrective
+Permet d'appliquer une formule de correction sur le graphique selectionné. Une formule de correction peut-être utile pour appliquer un offset thermique sur les sondes custom, par ex. la formule "x+10" peut ajouter 10 degrés sur l'affichage de la température.
+
+Astuce:
+- Les formules incorrectement spécifiées sont mise en avant en rouge.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,6 @@
+Erase autosaved startup settings
+AMD Crimson drivers family try to automatically save hardware settings (e.g. overclocking or fan control settings) in the registry and try to apply it at Windows startup. It makes settings of any third party hardware overclocking tools virtually permanent, meaning that applied settings stay in the system even after rebooting or powering down the system. However, such implementation is unsafe and even potentially dangerous, because you're no longer able to undo unsafe overclocking with system reboot or even driver reinstall. To prevent such situations, %PRODUCTNAME% can optionally erase AMD driver's autosaved startup settings after applying new settings to hardware.
+
+Hints:
+- This option is only active if there is at least one supported AMD graphic card installed in the system.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

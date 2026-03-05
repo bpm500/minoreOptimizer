@@ -1,0 +1,5 @@
+Zeitlimit für Voraufzeichnung
+Ermöglicht die Festlegung eines Zeitlimits für den Voraufzeichnungspuffer in Sekunden. Sie können den Wert auf Null setzen, um die Zeit unbegrenzt zu lassen.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

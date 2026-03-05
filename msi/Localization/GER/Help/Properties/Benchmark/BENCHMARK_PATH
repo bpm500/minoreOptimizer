@@ -1,0 +1,6 @@
+Pfad zur Benchmark-Ergebnisdatei
+Zeigt den Pfad zur Benchmark-Ergebnisdatei an und ermöglicht die Bearbeitung.
+
+Hinweise:
+- Sie können im Pfad Makrovariablen verwenden. %ABDir% legt den Pfad zum %PRODUCTNAME%-Installationsordner fest und ermöglicht die Verwendung des Eintrags beim Starten der Software von externen Medien. %Time% ermöglicht das Hinzufügen eines Zeitstempels zum Dateinamen.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

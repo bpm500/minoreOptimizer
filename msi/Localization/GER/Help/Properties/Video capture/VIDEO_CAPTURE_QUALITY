@@ -1,0 +1,6 @@
+Videoqualität
+Legt die Videoqualität für die Komprimierungsformate RTV1, MJPEG und VfW fest. Eine höhere Videoqualität führt zu einer höheren Dateigröße und kann die Komprimierungsleistung verringern. Sie können die Videoqualität verringern, wenn das System nicht schnell genug ist, um Videos mit der gewünschten Bildrate zu codieren.
+
+Hinweise:
+- Diese Einstellung wird möglicherweise von einigen externen Encoder nicht unterstützt, wenn VfW verwendet wird.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

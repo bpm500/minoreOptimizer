@@ -1,0 +1,5 @@
+Screenshot quality 
+Adjusts quality of screenshots saved in JPEG format. Higher image quality results in increased file size and compression time. BMP and PNG formats are lossless and always have 100% image quality.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

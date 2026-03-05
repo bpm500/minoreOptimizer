@@ -1,0 +1,7 @@
+Temperatura limite
+Visualizza il limite di temperatura della GPU principale, se è supportato dalla scheda grafica.
+
+suggerimenti:
+- Quando la modalità di sincronizzazione GPU è attivata tutte le modifiche applicate alla GPU principale si riflettono anche a tutte le GPU simili installate nel sistema.
+- È possibile fare clic in questo campo per digitare direttamente un limite di temperatura desiderato.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

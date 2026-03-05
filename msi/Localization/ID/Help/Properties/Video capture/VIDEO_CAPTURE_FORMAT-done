@@ -1,0 +1,10 @@
+Format Video
+Digunakan untuk memilih format video pada saat merekam. Anda bisa memilih salah satu format di bawah ini:
+
+- Uncompressed - Video akan di encoded dengan format raw tanpa melakukan kompresi. Tidak perlu software tambahan pada saat memainkan video. Anda memerlukan disk I/O susbsystem yang cepat pada saat memainkan resolusi tinggi pada format uncompressed, misal. untuk encode uncompressed video di resolusi 1680x1050 pada frame 30 per detik maka anda membutuhkan disk I/O subsystem dengan bandwidth 150MB/s (1680*1050*3*30). 
+- Kompresi RTV1 - Video ini akan di encoded menggunakan RivaTuner format V1. Instalasi RivaTuner Video Codec dibutuhkan. Format ini direkomendasikan apabila sistem anda menggunakan CPU single core atau dual core.
+- Kompresi MJPG - Video ini akan di encoded menggunakan format native MJPG.
+Kompresi format MJPG akan memberikan kompresi terbasik namun membutuhkan multicore CPU yang lebih cepat untuk melakukan encoding resolusi tinggi tanpa drop.
+
+Petunjuk:
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

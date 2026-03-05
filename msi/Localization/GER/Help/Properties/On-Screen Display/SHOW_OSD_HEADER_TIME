@@ -1,0 +1,6 @@
+Systemzeit anzeigen
+Aktiviert die Anzeige der Systemzeit in der Overlay-Bildschirmanzeige.
+
+Hinweise:
+- Durch die Aktivierung dieser Option wird automatisch ein zusätzlicher %SERVERPRODUCTNAME%-Prozess gestartet. Der Server stellt On-Screen-Display-Rendering-Dienste für 3D-Anwendungen bereit und der Prozess kann erst beendet werden, wenn Sie die On-Screen-Display-Ausgabe für alle Diagramme deaktivieren.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

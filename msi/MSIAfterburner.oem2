@@ -1,0 +1,404 @@
+;OEM
+
+; Version 2.2, last edited on 09.07.2019
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design ASUS ATI series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_1002&DEV_6798&SUBSYS_99991043&REV_??]
+
+; ASUS ARES II
+
+Desc                                    = ASUS ARES II
+VDDC_CHL8228_Detection			= 6:30h
+VDDC_CHL8228_Defaults			= C6 9F
+VDDC_CHL8228_VIDReadback		= 1
+MVDDC_CHL8228_Detection			= 6:30h
+MVDDC_CHL8228_Defaults			= CD BF
+MVDDC_CHL8228_VIDReadback		= 1
+
+[VEN_1002&DEV_6939&SUBSYS_04E31043&REV_??]
+
+; ASUS STRIX R9 380 4GB (STRIX-R9380-DC2OC-4GD5-GAMING)
+
+Desc 					= ASUS STRIX R9 380
+VDDC_IR3567B_Detection 			= 6:30h
+VDDC_IR3567B_Type 			= 1
+
+[VEN_1002&DEV_683D&SUBSYS_04291043&REV_??]
+
+; ASUS HD7770-DCT-1GD5
+
+Desc 					= ASUS HD7770-DCT-1GD5
+VDDC_UP1637_Detection 			= 47h
+VDDC_UP1637_Defaults 			= D7 78h
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design ASUS NVIDIA series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_10DE&DEV_1004&SUBSYS_84691043&REV_??]
+
+; ASUS GTX 780 DirectCU II OC
+
+Desc 					= ASUS GTX 780 DirectCU II OC
+VDDC_Generic_Detection 			= 0
+VDDC_CHL8318_Detection			= 44h
+VDDC_CHL8318_Type			= 1
+
+[VEN_10DE&DEV_13C2&SUBSYS_85091043&REV_??]
+
+; ASUS GTX 970 STRIX
+
+Desc                                    = ASUS GTX 970 STRIX
+VDDC_Generic_Detection                  = 0
+VDDC_CHL8318_Detection			= 74h
+VDDC_CHL8318_Type			= 1
+
+[VEN_10DE&DEV_13C0&SUBSYS_85061043&REV_??]
+
+; ASUS GTX 980 STRIX
+
+Desc                                    = ASUS GTX 980 STRIX
+VDDC_Generic_Detection                  = 0
+VDDC_CHL8318_Detection			= 74h
+VDDC_CHL8318_Type			= 1
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design EVGA NVIDIA series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_10DE&DEV_1004&SUBSYS_17883842&REV_??]
+
+; EVGA GeForce GTX 780 Classified
+
+Desc                                    = EVGA GTX 780 Classified
+VDDC_Generic_Detection                  = 0
+VDDC_CHL8318_Detection			= 46h
+VDDC_CHL8318_Type			= 1
+                                           
+[VEN_10DE&DEV_100A&SUBSYS_38883842&REV_??]
+
+; EVGA GeForce GTX 780 Ti Classified K|NGP|N Edition
+
+Desc                                    = EVGA GTX 780 Ti Classified KPE
+VDDC_Generic_Detection                  = 0
+VDDC_CHL8318_Detection			= 46h
+VDDC_CHL8318_Type			= 1
+
+
+[VEN_10DE&DEV_17C8&SUBSYS_49983842&REV_??]
+
+; EVGA GTX 980 Ti Classified
+
+Desc                                    = EVGA GTX 980 Ti Classified
+VDDC_Generic_Detection                  = 0
+VDDC_IR3595A_Detection			= 08h
+
+[ICX]
+
+; Common subsection for EVGA cards with ICX sensors
+
+TGPU2_ICX_Detection			= 4Bh
+TGPU2_ICX_Formula			= TemperatureRemote1
+TMEM_ICX_Detection			= 4Bh
+TMEM_ICX_Formula			= TemperatureRemote2
+TMEM2_ICX_Detection			= 4Bh
+TMEM2_ICX_Formula			= TemperatureRemote3
+TMEM3_ICX_Detection			= 4Bh
+TMEM3_ICX_Formula			= TemperatureRemote4
+TVRM_ICX_Detection			= 4Bh
+TVRM_ICX_Formula			= TemperatureRemote5
+TVRM2_ICX_Detection			= 4Bh
+TVRM2_ICX_Formula			= TemperatureRemote6
+TVRM3_ICX_Detection			= 4Bh
+TVRM3_ICX_Formula			= TemperatureRemote7
+TVRM4_ICX_Detection			= 4Bh
+TVRM4_ICX_Formula			= TemperatureRemote8
+TVRM5_ICX_Detection			= 4Bh
+TVRM5_ICX_Formula			= TemperatureRemote9
+
+[VEN_10DE&DEV_1C02&SUBSYS_65673842&REV_??]
+
+; EVGA GeForce GTX 1060 SSC2 3GB
+
+Desc                                    = EVGA GTX 1060 SSC2 3GB
+Subsection				= ICX
+
+[VEN_10DE&DEV_1C02&SUBSYS_67673842&REV_??]
+
+; EVGA GeForce GTX 1060 FTW2+ 3GB
+
+Desc                                    = EVGA GTX 1060 FTW2+ 3GB
+Subsection				= ICX
+
+[VEN_10DE&DEV_1C03&SUBSYS_66673842&REV_??]
+
+; EVGA GeForce GTX 1060 SSC2 6GB
+
+Desc                                    = EVGA GTX 1060 SSC2 6GB
+Subsection				= ICX
+
+[VEN_10DE&DEV_1C03&SUBSYS_67683842&REV_??]
+
+; EVGA GeForce GTX 1060 FTW2+ 6GB
+
+Desc                                    = EVGA GTX 1060 FTW2+ 6GB
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B81&SUBSYS_65713842&REV_??]
+
+; EVGA GeForce GTX 1070
+
+Desc                                    = EVGA GTX 1070
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B81&SUBSYS_65733842&REV_??]
+
+; EVGA GeForce GTX 1070 SC2
+
+Desc                                    = EVGA GTX 1070 SC2
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B81&SUBSYS_66763842&REV_??]
+
+; EVGA GeForce GTX 1070 FTW2
+
+Desc                                    = EVGA GTX 1070 FTW2
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B80&SUBSYS_65813842&REV_??]
+
+; EVGA GeForce GTX 1080
+
+Desc                                    = EVGA GTX 1080
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B80&SUBSYS_65833842&REV_??]
+
+; EVGA GeForce GTX 1080 SC2
+
+Desc                                    = EVGA GTX 1080 SC2
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B80&SUBSYS_66863842&REV_??]
+
+; EVGA GeForce GTX 1080 FTW2
+
+Desc                                    = EVGA GTX 1080 FTW2
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B06&SUBSYS_65933842&REV_??]
+
+; EVGA GeForce GTX 1080 Ti SC2 GAMING
+
+Desc                                    = EVGA GTX 1080 Ti SC2
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B06&SUBSYS_66933842&REV_??]
+
+; EVGA GeForce GTX 1080 Ti SC2 ELITE GAMING
+
+Desc                                    = EVGA GTX 1080 Ti SC2 EG
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B06&SUBSYS_65983842&REV_??]
+
+; EVGA GeForce GTX 1080 Ti SC2 HYBRID GAMING
+
+Desc                                    = EVGA GTX 1080 Ti SC2 HG
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B06&SUBSYS_66963842&REV_??]
+
+; EVGA GeForce GTX 1080 Ti FTW3 GAMING
+
+Desc                                    = EVGA GTX 1080 Ti FTW3
+Subsection				= ICX
+
+[VEN_10DE&DEV_1B06&SUBSYS_67963842&REV_??]
+
+; EVGA GeForce GTX 1080 Ti FTW3 ELITE GAMING
+
+Desc                                    = EVGA GTX 1080 Ti FTW3 EG
+Subsection				= ICX
+
+[ICX2]
+
+; Common subsection for EVGA cards with ICX2 sensors
+
+TGPU2_ICX2_Detection			= 2Bh
+TGPU2_ICX2_Formula			= TemperatureRemote2
+TMEM_ICX2_Detection			= 2Bh
+TMEM_ICX2_Formula			= TemperatureRemote3
+TMEM2_ICX2_Detection			= 2Bh
+TMEM2_ICX2_Formula			= TemperatureRemote4
+TMEM3_ICX2_Detection			= 2Bh
+TMEM3_ICX2_Formula			= TemperatureRemote5
+TVRM_ICX2_Detection			= 2Bh
+TVRM_ICX2_Formula			= TemperatureRemote6
+TVRM2_ICX2_Detection			= 2Bh
+TVRM2_ICX2_Formula			= TemperatureRemote7
+TVRM3_ICX2_Detection			= 2Bh
+TVRM3_ICX2_Formula			= TemperatureRemote8
+TVRM4_ICX2_Detection			= 2Bh
+TVRM4_ICX2_Formula			= TemperatureRemote9
+TVRM5_ICX2_Detection			= 2Bh
+TVRM5_ICX2_Formula			= TemperatureRemote10
+
+[VEN_10DE&DEV_1E07&SUBSYS_24873842&REV_??]
+
+; EVGA GeForce RTX 2080 Ti FTW3 Ultra
+
+Desc                                    = EVGA RTX 2080 Ti FTW3 Ultra
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1E07&SUBSYS_24833842&REV_??]
+
+; EVGA GeForce RTX 2080 Ti FTW3
+
+Desc                                    = EVGA RTX 2080 Ti FTW3
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1E07&SUBSYS_23873842&REV_??]
+
+; EVGA GeForce RTX 2080 Ti XC2 Ultra
+
+Desc                                    = EVGA RTX 2080 Ti XC2 Ultra
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1E07&SUBSYS_23853842&REV_??]
+
+; EVGA GeForce RTX 2080 Ti XC2
+
+Desc                                    = EVGA RTX 2080 Ti XC2
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1E87&SUBSYS_22873842&REV_??]
+
+; EVGA GeForce RTX 2080 FTW3 Ultra
+
+Desc                                    = EVGA RTX 2080 FTW3 Ultra
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1E87&SUBSYS_22833842&REV_??]
+
+; EVGA GeForce RTX 2080 FTW3
+
+Desc                                    = EVGA RTX 2080 FTW3
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1E87&SUBSYS_21873842&REV_??]
+
+; EVGA GeForce RTX 2080 XC2 Ultra
+
+Desc                                    = EVGA RTX 2080 XC2 Ultra
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1E87&SUBSYS_21853842&REV_??]
+
+; EVGA GeForce RTX 2080 XC2
+
+Desc                                    = EVGA RTX 2080 XC2
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1F07&SUBSYS_22773842&REV_??]
+
+; EVGA GeForce RTX 2070 FTW3U
+
+Desc                                    = EVGA RTX 2070 FTW3 Ultra
+Subsection				= ICX2
+
+[VEN_10DE&DEV_1F07&SUBSYS_22733842&REV_??]
+
+; EVGA GeForce RTX 2070 FTW3
+
+Desc                                    = EVGA RTX 2070 FTW3
+Subsection				= ICX2
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design GALAX / KFA2 NVIDIA series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_10DE&DEV_17C8&SUBSYS_11511B4C&REV_??]
+
+; KFA2 GTX 980 Ti HOF with XOC BIOS
+
+Desc                                    = KFA2 GTX 980 Ti HOF
+VDDC_Generic_Detection                  = 0
+VDDC_IR3595A_Detection			= 08h
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design ZOTAC NVIDIA series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_10DE&DEV_1B81&SUBSYS_143519DA&REV_??]
+
+; ZOTAC 1070 AMP!
+
+Desc 					= ZOTAC 1070 AMP!
+VDDC_UP6204_Detection 			= 40h
+VDDC_UP6204_VIDReadback 		= 1
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design Gigabyte ATI series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_1002&DEV_6811&SUBSYS_226C1458&REV_??]
+
+; Gigabyte GV-R927OC-2GD 
+
+Desc					= Gigabyte R9 270
+VDDC_IR3567B_Detection			= 6:30h
+VDDC_IR3567B_Output			= 0 
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design PowerColor ATI series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_1002&DEV_6738&SUBSYS_23051787&REV_??]
+
+; PowerColor AX6870 1GBD5-2DH
+
+Desc					= PowerColor HD6870
+VDDC_uP6266_Detection                   = 51h
+VDDC_uP6266_Defaults			= D7 77
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design Sapphire ATI series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_1002&DEV_67DF&SUBSYS_E3661DA2&REV_??]
+
+; Sapphire Nitro+ RX 580 8GB
+
+Desc					= Sapphire Nitro+ RX 580
+VDDC_NCP81022_Detection			= 6:20h
+
+[VEN_1002&DEV_6939&SUBSYS_E308174B&REV_??]
+
+Desc 					= Sapphire Nitro R9 380
+VDDC_NCP81022_Detection 		= 6:24h
+
+[VEN_1002&DEV_6798&SUBSYS_3001174B&REV_??]
+
+; Sapphire Radeon Dual-X R9 280X
+
+Desc 					= Sapphire Dual-X R9 280X
+VDDC_NCP4206_Detection 			= 20h
+VDDC_NCP4206_Type 			= 1
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Custom design XFX ATI series
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[VEN_1002&DEV_6798&SUBSYS_30011682&REV_??]
+
+; XFX Radeon R9 280X DD Edition
+
+Desc 					= XFX Radeon R9 280X DD Edition
+VDDC_IR3567B_Detection			= 6:30h
+VDDC_IR3567B_Output	    		= 0
+VDDCI_IR3567B_Detection			= 6:30h
+VDDCI_IR3567B_Output			= 1

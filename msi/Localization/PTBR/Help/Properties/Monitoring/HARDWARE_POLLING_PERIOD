@@ -1,0 +1,6 @@
+Intervalo de atualização das informações
+Define o tempo em milisegundos para obtenção de cada leitura e atualização das informações de monitoramento.
+
+Sugestões:
+- A execução de leituras periódicas consome recursos da CPU. Dependendo da placa de vídeo e dos sensores e protocolos de acesso, o efeito sobre o desempenho pode variar de maneira sistemática. Se você estiver enfrentando esses problemas, desative temporariamente o monitoramento para determinar se esta é a causa (você pode fazer isso usando a apção <Pausar> no Painel de Monitoramento). Se verificado, aumente o tempo de atualização e desative sensores desnecessários ou de pouca utilidade. Usuários mais experientes podem utilizar o monitor de desempenho, clique com o botão direito do mouse no Painel de Monitoramento e selecione a opção <Mostrar Status>. As informações de status exibem o uso da CPU para vários processos, incluindo o monitoramento da memória.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

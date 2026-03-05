@@ -1,0 +1,9 @@
+#src HDD temperature
+#dst Temperatur des Datenträgers
+#end
+#src HDD%d temperature
+#dst Temperatur des Datenträgers %d
+#end
+#src HDD%d temperature 2
+#dst Temperatur 2 des Datenträgers %d
+#end

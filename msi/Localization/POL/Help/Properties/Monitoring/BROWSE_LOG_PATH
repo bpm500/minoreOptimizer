@@ -1,0 +1,7 @@
+Przegl¹daj
+Umozliwia przegladanie pliku dziennika.
+
+Wskazówki:
+- %PRODUCTNAME% zapisuje historie w macierzystym formacie pliku dziennika RivaTuner. RivaTuner umozliwia wyswietlanie plików dziennika zarejestrowanych w %PRODUCTNAME%. 
+- Rejestrowanie historii monitorowania sprzetu nie jest calkowicie bezplatne pod wzgledem wydajnosci, wymagany jest troche czasu procesora przy kazdej iteracji aktualizacji dziennika, aby opróznic dane na dysk twardy. 
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

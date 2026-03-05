@@ -1,0 +1,5 @@
+Select plugins
+Allows selecting active hardware monitoring plugin modules. The plugins provide support for additional third-party hardware monitoring data sources and may extend the list of hardware monitoring graphs available on your system.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

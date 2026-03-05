@@ -1,0 +1,10 @@
+Monitoring Window
+Tampilkan catatan grafis temperatur untuk GPU anda dan semua parameter lainnya.
+
+Petunjuk:
+- Anda bisa menunjuk kursor pada catatan grafis untuk melihat nilai hasil monitoring.
+- Anda dapat scroll catatan grafis dengan mouse anda atau menyimpan tampilan window dengan tombol mouse kiri dan drag di posisi atas dan bawah.
+- Anda dapat melepas dan mengatur posisi dan ukuran monitoring dengan cara klik dua kali area window atau dengan cara menekan tombol <Detach>. Anda dapat klik dua kali untuk memasang kembali monitoring window atau cukup dengan cara menutupnya.
+- Anda dapat membuka tab <Monitoring> pada properti advanced untuk melakukan konfigurasi setiap data grafis untuk ditampilkan di Display On-Screen atau tray icon atur temperatur GPU anda dan ketika bekerja ataupun bermain game. Atau, klik dua kali area grafis pada window untuk menuju pada properti catatan grafis.
+- Anda dapat non-aktivasi atau merubah catatan grafis pada tab <Monitoring> di properti advanced. Klik checkmarks pada bagian kiri di susunan grafis pada list untuk aktivasi dan dengan mudahnya drag drag dan drop untuk pengaturannya.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

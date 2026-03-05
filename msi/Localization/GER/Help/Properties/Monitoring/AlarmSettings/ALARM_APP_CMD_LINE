@@ -1,0 +1,6 @@
+Kommandozeile der Alarmanwendung
+Zeigt Kommandozeilenparameter für den Start externer Anwendungen bei Alarm an und ermöglicht deren Bearbeitung.
+
+Hinweise:
+- Diese Option wird durch die benachbarten Alarm-Timeout-Einstellungen beeinflusst.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

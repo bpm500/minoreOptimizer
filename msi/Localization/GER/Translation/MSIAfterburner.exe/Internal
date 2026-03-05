@@ -1,0 +1,444 @@
+#src GPU temperature
+#dst GPU-Temperatur
+#end
+#src GPU%d temperature
+#dst GPU%d-Temperatur
+#end
+#src GPU voltage
+#dst GPU-Spannung
+#end
+#src GPU%d voltage
+#dst GPU%d-Spannung
+#end
+#src PCB temperature
+#dst PCB-Temperatur
+#end
+#src PCB%d temperature
+#dst PCB%d-Temperatur
+#end
+#src Fan speed
+#dst GPU-Lüftergeschwindigkeit (Prozent)
+#end
+#src GPU%d fan speed
+#dst GPU%d-Lüftergeschwindigkeit (Prozent)
+#end
+#src Core clock
+#dst GPU-Taktrate
+#end
+#src GPU%d core clock
+#dst GPU%d-Taktrate
+#end
+#src Shader clock
+#dst GPU-Shadertaktrate
+#end
+#src GPU%d shader clock
+#dst GPU%d-Shadertaktrate
+#end
+#src Memory clock
+#dst VRAM-Taktrate
+#end
+#src GPU%d memory clock
+#dst GPU%d VRAM-Taktrate
+#end
+#src GPU usage
+#dst GPU-Auslastung
+#end
+#src GPU%d usage
+#dst GPU%d-Auslastung
+#end
+#src Framerate
+#dst Framerate
+#end
+#src Memory usage
+#dst VRAM-Nutzung
+#end
+#src GPU%d memory usage
+#dst GPU%d VRAM-Nutzung
+#end
+#src Memory usage \ process
+#dst VRAM-Nutzung (Prozess)
+#end
+#src GPU%d memory usage \ process
+#dst GPU%d VRAM-Nutzung (Prozess)
+#end
+#src °C
+#dst °C
+#end
+#src V
+#dst V
+#end
+#src MHz
+#dst MHz
+#end
+#src MB
+#dst MB
+#end
+#src FPS
+#dst FPS
+#end
+#src %dMHz
+#dst %dMHz
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fV
+#end
+#src %+.3fV
+#dst %+.3fV
+#end
+#src Auto
+#dst Auto
+#end
+#src Aux voltage
+#dst GPU-Hilfsspannung
+#end
+#src GPU%d aux voltage
+#dst GPU%d-Hilfsspannung
+#end
+#src Memory voltage
+#dst VRAM-Spannung
+#end
+#src GPU%d memory voltage
+#dst GPU%d VRAM-Spannung
+#end
+#src Fan tachometer
+#dst GPU-Lüfterdrehzahl (RPM)
+#end
+#src GPU%d fan tachometer
+#dst GPU%d-Lüfterdrehzahl (RPM)
+#end
+#src RPM
+#dst U/min
+#end
+#src Memory temperature
+#dst VRAM-Temperatur
+#end
+#src GPU%d memory temperature
+#dst GPU%d VRAM-Temperatur
+#end
+#src VRM temperature
+#dst VRM-Temperatur
+#end
+#src GPU%d VRM temperature
+#dst GPU%d VRM-Temperatur
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst Ich bestätige, dass ich mir der inoffiziellen Übertaktungsbeschränkungen bewusst bin und verstehe voll und ganz, dass MSI mir diesbezüglich keinen Support bieten wird
+#end
+#src Power
+#dst GPU-Leistungsaufnahme
+#end
+#src GPU%d power
+#dst GPU%d-Leistungsaufnahme
+#end
+#src Power percent
+#dst GPU-Leistungsaufnahme (Prozent)
+#end
+#src GPU%d power percent
+#dst GPU%d-Leistungsaufnahme (Prozent)
+#end
+#src Frametime
+#dst Frametime
+#end
+#src ms
+#dst ms
+#end
+#src Temp limit
+#dst Limitierung (GPU-Temperatur)
+#end
+#src GPU%d temp limit
+#dst Limitierung (GPU%d-Temperatur)
+#end
+#src Power limit
+#dst Limitierung (GPU-Leistungsaufnahme)
+#end
+#src GPU%d power limit
+#dst Limitierung (GPU%d-Leistungsaufnahme)
+#end
+#src Voltage limit
+#dst Limitierung (GPU-Spannung)
+#end
+#src GPU%d voltage limit
+#dst Limitierung (GPU%d-Spannung)
+#end
+#src OV max limit
+#dst Limitierung - OV max.
+#end
+#src GPU%d OV max limit
+#dst GPU%d Limitierung - OV max.
+#end
+#src FB usage
+#dst FB-Nutzung
+#end
+#src GPU%d FB usage
+#dst GPU%d FB-Nutzung
+#end
+#src VID usage
+#dst VID-Auslastung
+#end
+#src GPU%d VID usage
+#dst GPU%d VID-Auslastung
+#end
+#src BUS usage
+#dst BUS-Auslastung
+#end
+#src GPU%d BUS usage
+#dst GPU%d BUS-Auslastung
+#end
+#src No load limit
+#dst Limitierung (Keine Last)
+#end
+#src GPU%d no load limit
+#dst GPU%d Limitierung (Keine Last)
+#end
+#src CPU usage
+#dst CPU-Auslastung
+#end
+#src CPU%d usage
+#dst CPU%d-Auslastung
+#end
+#src RAM usage
+#dst RAM-Nutzung (In Verwendung)
+#end
+#src RAM usage \ process
+#dst RAM-Nutzung (Prozess)
+#end
+#src Commit charge
+#dst RAM-Nutzung (Zugesichert)
+#end
+#src CPU temperature
+#dst CPU-Temperatur
+#end
+#src CPU%d temperature
+#dst CPU%d-Temperatur
+#end
+#src SLI sync limit
+#dst Limitierung (GPU SLI-Sync)
+#end
+#src GPU%d SLI sync limit
+#dst Limitierung (GPU%d SLI-Sync)
+#end
+#src Frequency, MHz
+#dst Taktrate, MHz
+#end
+#src Voltage, mV
+#dst Spannung, mV
+#end
+#src Power, %
+#dst Leistung, %
+#end
+#src OC Scanner
+#dst OC Scanner
+#end
+#src W
+#dst W
+#end
+#src CPU clock
+#dst CPU-Taktrate
+#end
+#src CPU%d clock
+#dst CPU%d-Taktrate
+#end
+#src Aux2 voltage
+#dst GPU-Hilfsspannung 2
+#end
+#src GPU%d aux2 voltage
+#dst GPU%d-Hilfsspannung 2
+#end
+
+#src GPU temperature 2
+#dst GPU-Temperatur 2
+#end
+#src GPU%d temperature 2
+#dst GPU%d-Temperatur 2
+#end
+#src PCB temperature 2
+#dst PCB-Temperatur 2
+#end
+#src PCB%d temperature 2
+#dst PCB%d-Temperatur 2
+#end
+#src Memory temperature 2
+#dst VRAM-Temperatur 2
+#end
+#src GPU%d memory temperature 2
+#dst GPU%d VRAM-Temperatur 2
+#end
+#src VRM temperature 2
+#dst VRM-Temperatur 2
+#end
+#src GPU%d VRM temperature 2
+#dst GPU%d VRM-Temperatur 2
+#end
+
+#src GPU temperature 3
+#dst GPU-Temperatur 3
+#end
+#src GPU%d temperature 3
+#dst GPU%d-Temperatur 3
+#end
+#src PCB temperature 3
+#dst PCB-Temperatur 3
+#end
+#src PCB%d temperature 3
+#dst PCB%d-Temperatur 3
+#end
+#src Memory temperature 3
+#dst VRAM-Temperatur 3
+#end
+#src GPU%d memory temperature 3
+#dst GPU%d VRAM-Temperatur 3
+#end
+#src VRM temperature 3
+#dst VRM-Temperatur 3
+#end
+#src GPU%d VRM temperature 3
+#dst GPU%d VRM-Temperatur 3
+#end
+
+#src GPU temperature 4
+#dst GPU-Temperatur 4
+#end
+#src GPU%d temperature 4
+#dst GPU%d-Temperatur 4
+#end
+#src PCB temperature 4
+#dst PCB-Temperatur 4
+#end
+#src PCB%d temperature 4
+#dst PCB%d-Temperatur 4
+#end
+#src Memory temperature 4
+#dst VRAM-Temperatur 4
+#end
+#src GPU%d memory temperature 4
+#dst GPU%d VRAM-Temperatur 4
+#end
+#src VRM temperature 4
+#dst VRM-Temperatur 4
+#end
+#src GPU%d VRM temperature 4
+#dst GPU%d VRM-Temperatur 4
+#end
+
+#src GPU temperature 5
+#dst GPU-Temperatur 5
+#end
+#src GPU%d temperature 5
+#dst GPU%d-Temperatur 5
+#end
+#src PCB temperature 5
+#dst PCB-Temperatur 5
+#end
+#src PCB%d temperature 5
+#dst PCB%d-Temperatur 5
+#end
+#src Memory temperature 5
+#dst VRAM-Temperatur 5
+#end
+#src GPU%d memory temperature 5
+#dst GPU%d VRAM-Temperatur 5
+#end
+#src VRM temperature 5
+#dst VRM-Temperatur 5
+#end
+#src GPU%d VRM temperature 5
+#dst GPU%d VRM-Temperatur 5
+#end
+#src <GPU plugin>
+#dst <GPU-Plug-in>
+#end
+#src <CPU plugin>
+#dst <CPU-Plug-in>
+#end
+#src <motherboard plugin>
+#dst <Mainboard-Plug-in>
+#end
+#src <RAM plugin>
+#dst <RAM-Plug-in>
+#end
+#src <HDD plugin>
+#dst <Datenträger-Plug-in>
+#end
+#src <NET plugin>
+#dst <Netzwerk-Plug-in>
+#end
+#src <PSU plugin>
+#dst <Netzteil-Plugin>
+#end
+#src <UPS plugin>
+#dst <USV-Plug-in>
+#end
+#src <miscellaneous plugin>
+#dst <Sonstiges Plug-in>
+#end
+
+#src Framerate Min
+#dst Framerate Min.
+#end
+#src Framerate Avg
+#dst Framerate Avg.
+#end
+#src Framerate Max
+#dst Framerate Max.
+#end
+#src Framerate 1% Low
+#dst Framerate 1% Low
+#end
+#src Framerate 0.1% Low
+#dst Framerate 0.1% Low
+#end
+
+#src CPU power
+#dst CPU-Leistungsaufnahme
+#end
+#src CPU%d power
+#dst CPU%d-Leistungsaufnahme
+#end
+
+#src Fan speed 2
+#dst GPU-Lüftergeschwindigkeit 2 (Prozent)
+#end
+#src GPU%d fan speed 2
+#dst GPU%d-Lüftergeschwindigkeit 2 (Prozent)
+#end
+#src Fan tachometer 2
+#dst GPU-Lüfterdrehzahl 2 (RPM)
+#end
+#src GPU%d fan tachometer 2
+#dst GPU%d-Lüfterdrehzahl 2 (RPM)
+#end
+
+#src Fan speed 3
+#dst GPU-Lüftergeschwindigkeit 3 (Prozent)
+#end
+#src GPU%d fan speed 3
+#dst GPU%d-Lüftergeschwindigkeit 3 (Prozent)
+#end
+#src Fan tachometer 3
+#dst GPU-Lüfterdrehzahl 3 (RPM)
+#end
+#src GPU%d fan tachometer 3
+#dst GPU%d-Lüfterdrehzahl 3 (RPM)
+#end
+
+#src Fan 1
+#dst Lüfter 1
+#end
+#src Fan 2
+#dst Lüfter 2
+#end
+#src Fan 3
+#dst Lüfter 3
+#end
+#src Fan 4
+#dst Lüfter 4
+#end
+#src firmware
+#dst Firmware
+#end
+#src %d nodes
+#dst %d Knoten
+#end

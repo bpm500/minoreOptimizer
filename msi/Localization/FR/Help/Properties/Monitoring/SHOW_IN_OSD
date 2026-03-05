@@ -1,0 +1,9 @@
+Affiche en sur-impression
+Permet d'afficher en sur-impression le graph sélectionné.
+
+Astuce:
+- Vous devez activer et selectionner le graph désiré pour avoir accès à cette option.
+- L'affichage en sur-impression demande des performances, chaque symole à afficher demande des ressources CPU et GPU. Evitez donc d'afficher des informations inutiles pour minimiser l'impact sur les performances.
+- Activer cette option démarrera automatiquement le serveur %SERVERPRODUCTNAME%. Le serveur permet d'afficher en sur-impression sur les applications 3D et ne peut être déchargé tant que l'affichage en sur-impression est activé.
+- Vous pouvez maintenir la touche <Shift> enfoncée quand vous changez cette option pour changer pour tous les graphs.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

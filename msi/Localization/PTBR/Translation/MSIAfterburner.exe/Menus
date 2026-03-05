@@ -1,0 +1,71 @@
+#src Pause
+#dst Pausar
+#end
+#src Clear history
+#dst Limpar registro histórico de monitoramento
+#end
+#src Show status
+#dst Mostrar status
+#end
+#src Show profiler panel
+#dst Mostrar painel de perfil
+#end
+#src Log history to file
+#dst Salvar registro histórico de monitoramento
+#end
+#src Always on top
+#dst Sempre visível
+#end
+#src Hide attached monitoring panel
+#dst Ocultar painel de monitoramento anexado
+#end
+#src Attach
+#dst Anexar
+#end
+#src Detach
+#dst Separar
+#end
+#src Detach all
+#dst Separar todos
+#end
+#src Properties
+#dst Propriedades
+#end
+#src Mark minimum %s
+#dst Marcador de mínimo: %s
+#end
+#src Mark maximum %s
+#dst Marcador de máximo: %s
+#end
+#src Remove all markers
+#dst Remover todos os marcadores
+#end
+#src Remove selection
+#dst Remover seleção
+#end
+
+#src Copy
+#dst Copiar
+#end
+
+#src Show
+#dst Abrir
+#end
+#src Profiles
+#dst Perfis
+#end
+#src Close
+#dst Fechar
+#end
+#src There are no profiles
+#dst Nenhum Perfil
+#end
+#src Select by type
+#dst Selecionar por tipo
+#end
+#src Select by group
+#dst Selecionar por grupo
+#end
+#src Reset order
+#dst Redefinir ordem
+#end

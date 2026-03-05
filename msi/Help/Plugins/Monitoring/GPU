@@ -1,0 +1,2 @@
+This plugin provides [b]per-engine GPU usage[/b], [b]Dedicated memory usage[/b] and [b]Shared memory usage[/b] hardware monitoring data sources. 
+D3DKMT performance counters are providing data for this plugin.

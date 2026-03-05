@@ -1,0 +1,7 @@
+Schakel low-level hardware interface in
+Staat %PRODUCTNAME% toe de low-level driver te gebruiken om toegang te krijgen tot de grafische hardware. Low-level toenadering geeft de beste hardware toezicht implementatie en zorgt voor een verbeterde hardware toezicht en controle mogelijkheden die verder gaan dan de normale grenzen van de grafische kaart driver.
+Maar wanneer low-level toenadering voor hardware in gebruik is kunnen sommige slecht ontworpen toepassingen(vb: punkbuster client voor Battlefield : Bad Company 2) serieuze stabiliteits problemen veroorzaken door hun niet bevoegde toegang tot het geheugen gebruikt door de hardware.
+Je kan deze optie gebruiken om zo'n problemen te vermijden , maar het zal de prestatie van de hardware toezicht module verminderen en sommige hardware toezicht en controle functies zullen niet meer beschikbaar zijn.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

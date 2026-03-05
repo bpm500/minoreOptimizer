@@ -1,0 +1,5 @@
+Bewerk video dimensies om het om te zetten naar "multiples of 16" .
+Sommige third-party video decoders (vb:built-in VirtualDub MJPG video decoder) kunnen falen in het decoderen van de video wanneer de hoogte en breedte niet "multiples of 16" zijn. Je kan deze optie inschakelen om een betere compatibliteit te verkrijgen met zulke third-party video editing toepassingen.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

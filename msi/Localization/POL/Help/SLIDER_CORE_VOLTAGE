@@ -1,0 +1,10 @@
+Napiêcie rdzenia
+Adjusts master GPU core voltage. Depending on graphics card model the voltage can be represented either excplicitly or as an offset added to base voltage. Signed values represent the offset whilst unsigned values represent absolute voltage.
+
+Wskazówki:
+- Voltage control is locked by default due to safety reasons. If you understand and accept the risks of using voltage control you can unlock it in advanced application properties.
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Voltage control is available on limited set of graphics card models equipped with programmable voltage regulation module. Please refer to documentation to get full list of graphic card models supporting voltage adjustments.
+- When this slider is focused, you may use cursor keys on your keyboard to finetune the voltage.
+- You may click the adjacent edit field to directly type in a desired voltage.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

@@ -1,0 +1,6 @@
+Format de température
+Allows selecting either Celsius or Fahrenheit temperature format. Please take a note that this setting affects temperature readouts in hardware monitoring window only. Hardware related temperature adjustments (e.g. fan speed to temperature mapping curve for all cards or temperature target adjustment for NVIDIA Kepler series) are always being displayed and adjusted in Celsius for maximum unification, safety and compatibility.
+Permet de choisir le format de température, soit Celcius, soit Fahrenheit. Veuillez noter que ce paramètre affecte la lecture de température seulement dans la fenêtre de monitoring. Les ajustements matériel de température (par ex. la courbe de la vitesse du ventilateur pour toute les cartes ou l'ajustement de la température target pour les séries KEPLER NVIDIA) sont toujours affichés et ajustés en Celcius pour unification maximale, sécurité et compatibilité. 
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

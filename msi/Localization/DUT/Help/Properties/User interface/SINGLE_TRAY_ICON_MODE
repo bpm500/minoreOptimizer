@@ -1,0 +1,6 @@
+Enkelvoudig werkbalk icoon mode
+Wanneer dit is ingeschakeld wordt het hoofd icoon van de applicatie vervangen door een hardware toezicht werbalk icoon, als toezicht in de werkbalk is ingeschakeld en het MSI OSD server icoon niet getoond wordt in de werkbalk wanneer de server wordt geladen. MSI OSD eigenschappen blijft toegankelijk via <meer> in <OSD> (toezicht) onderdeel.
+
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

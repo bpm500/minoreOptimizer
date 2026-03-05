@@ -1,0 +1,7 @@
+Start geminimaliseerd
+Dit forceert minimaliseren %PRODUCTNAME% tot de werkbalk bij het opstarten.
+
+Hint:
+- Deze optie heeft alleen invloed op manuele startup. 
+%PRODUCTNAME% wordt altijd geminimaliseerd tot de werkbalk als het mee opstart met Windows ongeacht of deze optie is aangevinkt.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

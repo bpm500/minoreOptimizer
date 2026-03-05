@@ -1,0 +1,4 @@
+Force la mise à jour de la vitesse du ventilateur à chaque période
+Par défaut la vitesse du ventilateur est altérée par le module logiciel contrôle automatique du ventilateur seulement quand la vitesse du ventilateur est supposée être changée dû au changement de température, ceci permet de réduire la consommation processeur, parce que calculer une nouvelle vitesse de ventilateur a un impact sur les performances. Ceci-dis, des drivers graphiques buggés pourraient intercepter périodiquement le contrôle de vitesse du ventilateur et causer des vitesses de ventilateur inattendue jusqu'à ce que la température du GPU change. Dans ce cas, vous pourriez utiliser cette option pour forcer la vitesse du ventilateur à chaque période.
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

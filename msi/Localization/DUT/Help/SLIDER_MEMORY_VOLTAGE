@@ -1,0 +1,10 @@
+Geheugen voltage (Memory voltage). 
+Pas het voltage aan van het geheugen van de primaire grafische kaart(GPU). Afhangend aan welk model van grafische kaart kan het voltage als een eigenlijke waarde worden weergegeven of als een offset waarde in vergelijking met de standaard voltage waarde. Waarden met een teken (+/-) voor vertegenwoordigen de offset , waarden zonder teken(+/-) voor vertegenwoordigen het absolute voltage.
+
+Hint:
+- Voltage controle is standaard niet gesloten om veiligheids reden. Als je de risico's bergijpt van voltage controle kan je dit onsluiten in de algemene instellingen.
+- Wanneer de synchroniseer mode is ingesteld worden de aangepaste waarden toegepast op alle gelijke GPU's.
+- Voltage controle is enkel mogelijk op bepaalde grafische kaarten die uitgerust zijn met programmeerbare voltage regel modules. Raadpleeg de documentatie om een volledige lijst van ondersteunde grafische kaarten te zien.
+- Wanneer de slider is aangeklikt kan je de cursor toetsen van je toetsenbord gebruiken om het voltage fijn aftestellen.
+- Je kan in het aanpas veld onmiddelijk een voltage waarde in tikken.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

@@ -1,0 +1,64 @@
+#src Motherboard temperature
+#dst Temperatura da Placa-Mãe
+#end
+#src CPU fan speed
+#dst Velocidade da Ventoinha da CPU
+#end
+#src CPU voltage
+#dst Tensão da CPU
+#end
+#src PSU +3.3V voltage
+#dst Tensão da Fonte +3.3V
+#end
+#src PSU +5V voltage
+#dst Tensão da Fonte +5V
+#end
+#src PSU +12V voltage
+#dst Tensão da Fonte +12V
+#end
+
+#src Source
+#dst Fonte
+#end
+#src Sensor
+#dst Sensor
+#end
+#src Value
+#dst Valor
+#end
+
+#src Temperature
+#dst Temperatura
+#end
+#src Voltage
+#dst Tensão
+#end
+#src Current
+#dst Atual
+#end
+#src Clock
+#dst Frequência
+#end
+#src Usage
+#dst Uso
+#end
+#src Other
+#dst Outros
+#end
+
+#src Sensors exported to %s!
+#dst Sensores exportados para %s!
+#end
+
+#src UPS voltage
+#dst Tensão da UPS
+#end
+#src UPS power
+#dst Energia da UPS
+#end
+#src UPS load
+#dst Carga da UPS
+#end
+#src UPS charge level
+#dst Nível de carga da UPS
+#end

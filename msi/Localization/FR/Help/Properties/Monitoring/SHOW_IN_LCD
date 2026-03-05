@@ -1,0 +1,9 @@
+Affiche sur le LCD du clavier Logitech
+Permet d'afficher les valeurs du graph actuel sur le LCD du clavier Logitech.
+
+Astuce:
+- Vous devez activer et selectionner le graph désiré pour avoir accès à cette option.
+- Vous pouvez maintenir la touche <Shift> enfoncée quand vous changez cette option pour changer pour tous les graphs.
+- Vous pouvez changer la police pour le LCD du clavier Logitech dans la liste adjacente.
+- Vous pouvez faire défiler le texte à afficher sur le LCD du clavier Logitech an utilisant les 4 touches sous le LCD. Les positions verticales et horizontales peuvent être ressetter en pressant les boutons de défilement haut/bas droite/gauche simultanément.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

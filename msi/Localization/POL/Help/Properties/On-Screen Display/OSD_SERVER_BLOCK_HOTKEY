@@ -1,0 +1,9 @@
+Przelaczanie blokowania serwera wyswietlania ekranowego
+Niektóre funkcje %PRODUCTNAME%, takie jak monitorowanie liczby klatek na sekunde, renderowanie na ekranie, przechwytywanie ekranu i automatyczne zarzadzanie profilami, zaleza od dodatkowego procesu %SERVERPRODUCTNAME%. Dlatego %SERVERPRODUCTNAME% jest automatycznie uruchamiany przez %PRODUCTNAME%, gdy tylko wlaczysz dowolna z powyzszych funkcji.
+Jednak systemy antygrzystyczne niektórych gier online moga ograniczac uzycie ekranu ekranowego i blokowac polaczenie z serwerem gry, gdy jest uruchomiony %SERVERPRODUCTNAME%.
+Aby uproscic diagnostyke takich problemów, mozna uzyc skrótu klawiszowego, aby tymczasowo zablokowac %SERVERPRODUCTNAME% i zwolnic go z pamieci, nawet jesli jest to wymagane dla prawidlowej funkcji %PRODUCTNAME%. Nalezy pamietac, ze wszystkie funkcje w zaleznosci od serwera przestana dzialac, gdy serwer jest zablokowany i zwolniony.
+
+Wskazówki:
+- Niektóre aplikacje (np.
+- Niektóre kombinacje klawiszy skrótu (np. <1>... <5>, <Ctrl>+<1>... <Ctrl>+<5> i <Ctrl>+<D>) sa zastrzezone i nie mozna ich uzywac.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

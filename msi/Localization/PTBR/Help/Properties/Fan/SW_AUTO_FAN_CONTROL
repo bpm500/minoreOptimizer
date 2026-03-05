@@ -1,0 +1,6 @@
+Controle automático da ventoinha pelo usuário 
+Permite ao usuário controlar a velocidade de rotação da ventoinha da placa de vídeo automaticamente no modo de verificação periódica da temperatura da GPU em que a velocidade da ventoinha muda de acordo com a curva de velocidades criada pelo usuário. 
+
+Sugestões: 
+- O controle automático da ventoinha pode ser ativado também pelo botão <Auto> na janela principal do programa. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

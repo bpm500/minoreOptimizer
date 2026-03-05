@@ -1,0 +1,8 @@
+Auto
+Permet de contrôler la vitesse du ventilateur du GPU maître de façon automatique ou manuelle.
+
+Astuce:
+- Quand le paramètre mode de syncronisation GPU est activé dans la tabulation <Générale> dans les propiétés avancées, tout changement appliqué au GPU maître est également appliqué à tous les GPU similaires installé dans le système.
+- Le contrôle de vitesse du ventilateur n'est pas disponible si la carte graphique n'est pas équipée d'un circuit de contrôle de vitesse de ventilateur et/ou de système de contrôle de refroidissement.
+- Dépendant de l'état du bouton <déninition utilisateur>, le contrôle de vitesse du ventilateur est effectué soit au niveau matériel par un circuit dédié ou au niveau logiciel par %PRODUCTNAME%. 
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

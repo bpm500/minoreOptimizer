@@ -1,0 +1,12 @@
+Typ Ÿród³a dŸwiêku
+Umozliwia wybór typu zródla dzwieku. Dostepne sa nastepujace typy zródel dzwieku:
+
+- Auto select - automatycznie wybiera zródlo dzwieku w zaleznosci od wersji systemu operacyjnego. W tym trybie strumien audio jest rejestrowany za posrednictwem domyslnego urzadzenia do przechwytywania DirectSound w systemie Windows XP lub za posrednictwem domyslnego urzadzenia do odtwarzania WASAPI w systemie Windows Vista i nowszym systemie operacyjnym.
+- Urzadzenie do przechwytywania DirectSound - przechwytuje strumien audio za posrednictwem urzadzen przechwytujacych DirectSound. W obszarze WindowsXP DirectSound urzadzenia przechwytujace sa przyspieszane sprzetowo, wiec ten tryb zapewnia najlepsza wydajnosc przechwytywania dzwieku dzieki sprzetowej miksowaniu dzwieku i implementacji nagrywania sprzezenia zwrotnego. 
+Jednak DirectSound jest przestarzaly i emulowany za posrednictwem programu WASAPI od czasu systemu Windows Vista, dlatego zaleca sie uzywanie natywnych urzadzen WASAPI do przechwytywania dzwieku w systemie Windows Vista i nowszym systemie operacyjnym. 
+- Urzadzenie do odtwarzania WASAPI - przechwytuje strumien audio za posrednictwem urzadzen odtwarzajacych WASAPI (tylko w systemie Windows Vista lub nowszym systemie operacyjnym). W przeciwienstwie do DirectSound, WASAPI umozliwia wstawianie surowego wielokanalowego strumienia audio, zanim zostanie przekazany sterownikom audio i urzadzeniom odtwarzajacym. Zapewnia to ujednolicona implementacje nagrywania sprzezenia zwrotnego niezaleznego sterownika dzwieku oprogramowania, zdolnego do nagrywania dzwieku wielokanalowego. 
+Nalezy pamietac, ze ten tryb moze byc niezgodny z niektórymi aplikacjami przy uzyciu alternatywnych interfejsów audio przyspieszanych sprzetowo, takich jak OpenAL.
+- Urzadzenie do przechwytywania WASAPI - przechwytuje strumien audio za posrednictwem urzadzen przechwytywania WASAPI (tylko w systemie Windows Vista lub nowszym systemie operacyjnym). W przeciwienstwie do DirectSound, WASAPI moze niezaleznie przechwytywac strumienie audio wejsciowe i wyjsciowe, co pozwala na nagrywanie strumieni audio pochodzacych z urzadzen wyjsciowych (takich jak glosniki) i pochodzacych z urzadzen wejsciowych (takich jak mikrofony) niezaleznie. W razie potrzeby mozna uzyc tego trybu do nagrywania strumienia audio pochodzacego z urzadzen wejsciowych.
+
+Wskazówka:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

@@ -1,0 +1,6 @@
+Tipo di processore grafico
+Alcuni modelli di schede grafiche potrebbero utilizzare diversi tipi di processori grafici (per esempio, GPUs ad alta dispersione e a bassa dispersione) con tensioni di default e differenti approcci 3D di controllo della tensione. Potrebbe essere necessario utilizzare questa opzione per selezionare il tipo di processore grafico e fornire un adeguato controllo della tensione.
+
+Consigli:
+- La selezione del tipo di processore grafico influisce solo sulla master GPU attualmente selezionata, si prega di ri-aprire questa finestra dopo aver cambiato la selezione della master GPU per selezionare il nuovo tipo di processore grafico per essa.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

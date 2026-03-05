@@ -1,0 +1,7 @@
+Zastosuj
+Wprowadza bie¿¹ce ustawienia do g³ównego GPU.
+
+Wskazówki:
+- Gdy tryb synchronizacji ustawien GPU jest wlaczony w <General>tab w zaawansowanych wlasciwosciach, wszelkie zmiany zastosowane do glównego GPU sa równiez stosowane do wszystkich podobnych procesorów graficznych zainstalowanych w systemie.
+- Zawsze stosuj zmiany wprowadzone przed przejsciem na nowy glówny procesor graficzny. Wszelkie nierozliszone ustawienia GPU zostana utracone w przypadku nowego glównego wyboru procesora GRAFICZNEgo.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

@@ -1,0 +1,722 @@
+#src Information
+#dst Informationen
+#end
+#src System information
+#dst Systeminformationen
+#end
+
+#src General
+#dst Allgemeine Einstellungen
+#end
+#src Master graphics processor selection
+#dst Auswahl der primären GPU
+#end
+#src Synchronize settings for similar graphics processors
+#dst Einstellungen identischer GPUs synchronisieren
+#end
+#src General properties
+#dst Allgemeine Einstellungen
+#end
+#src Start with Windows
+#dst Automatisch mit Windows starten
+#end
+#src Start minimized
+#dst Manuell immer minimiert starten
+#end
+#src Compatibility properties
+#dst Kompatibilitätseinstellungen
+#end
+#src Enable hardware control and monitoring
+#dst Steuerung und Überwachung der Grafikhardware aktivieren
+#end
+#src Enable low-level IO driver
+#dst Low-Level-Treiber aktivieren
+#end
+#src Enable low-level hardware access interface
+#dst Low-Level-Hardwarezugriffsmodus
+#end
+#src kernel mode
+#dst Kernelmodus
+#end
+#src user mode
+#dst Benutzermodus
+#end
+#src Unlock voltage control
+#dst Spannungssteuerung freischalten
+#end
+#src reference design
+#dst Referenzdesign
+#end
+#src standard MSI
+#dst MSI-Standard
+#end
+#src extended MSI
+#dst MSI-Erweitert
+#end
+#src Unlock voltage monitoring
+#dst Spannungsüberwachung freischalten
+#end
+#src Force constant voltage
+#dst Konstante Spannung erzwingen
+#end
+#src Restore settings after suspended mode
+#dst Einstellungen nach dem Ruhezustand wiederherstellen
+#end
+#src Graphics processor type
+#dst GPU-Typ??? ???????????? ??????????
+#end
+#src Update checking properties
+#dst Updates
+#end
+#src Check for available product updates
+#dst Suchintervall nach Updates
+#end
+#src Check for available product beta versions
+#dst Zusätzlich auch nach Beta-Versionen suchen
+#end
+#src never
+#dst Nie
+#end
+#src on startup
+#dst Beim Start
+#end
+#src on startup daily
+#dst Täglich
+#end
+#src on startup weekly
+#dst Wöchentlich
+#end
+#src on startup monthly
+#dst Monatlich
+#end
+#src Check now
+#dst Jetzt suchen
+#end
+#src AMD compatibility properties
+#dst AMD Kompatibilitätseinstellungen
+#end
+#src Extend official overclocking limits
+#dst Offizielle Übertaktungslimits erweitern
+#end
+#src Disable ULPS
+#dst ULPS-Modus (Ultra-Low-Power-State) deaktiveren
+#end
+#src Unofficial overclocking mode
+#dst Inoffizieller Übertaktungsmodus
+#end
+#src disabled
+#dst deaktiviert
+#hst ComboBox 1255
+#end
+#src with PowerPlay support
+#dst Mit PowerPlay-Unterstützung
+#end
+#src without PowerPlay support
+#dst Ohne PowerPlay-Unterstützung
+#end
+#src Reset display mode on applying unofficial overclocking
+#dst Videomodus zurücksetzen, wenn Sie inoffizielles Übertakten anwenden
+#end
+#src Enable unified GPU usage monitoring
+#dst Einheitliche GPU-Nutzungsüberwachung aktivieren
+#end
+#src Erase autosaved startup settings
+#dst Automatisch gespeicherte Starteinstellungen löschen
+#end
+
+#src Fan
+#dst Lüfter
+#end
+#src Automatic fan control properties
+#dst Steuerung der Lüftergeschwindigkeit
+#end
+#src Enable user defined software automatic fan control
+#dst Benutzerdefinierte Lüfterkurve aktivieren
+#end
+#src Use firmware control mode
+#dst Firmware-Steuerungsmodus verwenden
+#end
+
+#src Temperature, °C
+#dst Temperatur, °C 
+#end
+#src Fan speed, %
+#dst Lüftergeschwindigkeit, %
+#end
+#src Predefined fan speed curve
+#dst Vordefinierte Lüfterkurven
+#end
+#src Custom
+#dst Benutzerdefiniert
+#end
+#src Default
+#dst Standard
+#end
+#src Fan speed update period (in milliseconds)
+#dst Aktualisierungsintervall (in ms)
+#end
+#src Temperature hysteresis (in °C)
+#dst Temperaturhysterese (in °C)
+#end
+#src Force fan speed update on each period
+#dst Lüftergeschwindigkeit permanent erzwingen
+#end
+#src Override zero fan speed with hardware curve
+#dst Lüfterstopp durch eine Hardwarekurve ersetzen
+#end
+
+#src Monitoring
+#dst Überwachung
+#end
+#src Hardware monitoring properties
+#dst Hardware-Überwachungs-Einstellungen
+#end
+#src Hardware polling period (in milliseconds)
+#dst Hardwareabfrageintervall (in ms)
+#end
+#src Hardware monitoring history logging properties
+#dst Hardware-Überwachungs-Protokollierungseinstellungen
+#end
+#src Browse
+#dst Festlegen
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst Protokolldateigröße begrenzen (in MB)
+#end
+#src Recreate existing log files
+#dst Vorhandene Protokolldateien neu erstellen
+#end
+#src Global monitoring hotkeys
+#dst Globale Überwachung Hotkeys
+#end
+
+#src Begin logging
+#dst Protokollierung starten
+#end
+#src End logging
+#dst Protokollierung beenden
+#end
+#src Active hardware monitoring graphs
+#dst Aktivierung von Hardware-Überwachungsdiagrammen
+#end
+#src Graph columns
+#dst Diagrammspalten
+#end
+#src Data provider
+#dst Datenquelle
+#end
+#src Graph limits
+#dst Diagramm-Limits
+#end
+#src Correction formula
+#dst Korrekturformel
+#end
+#src Alarm when value is out of range
+#dst Erweiterte Alarmeinstellungen auswählen
+#end
+
+#src Override group name
+#dst Gruppenname überschreiben
+#end
+#src Override graph name
+#dst Diagrammname überschreiben
+#end
+#src Enable data filtering
+#dst Datenfilterung aktivieren
+#end
+#src Layered graph color
+#dst Farbe des Mehrschichtdiagramms
+#end
+
+#src Show in On-Screen Display
+#dst In der Overlay-Bildschirmanzeige anzeigen
+#end
+#src classic
+#dst klassiscch
+#end
+#src Show in Logitech keyboard LCD display
+#dst Auf dem Display der Logitech-Tastatur anzeigen
+#end
+#src Show in tray icon
+#dst Im Taskleistensymbol anzeigen
+#end
+#src text
+#dst Text
+#end
+#src barchart
+#dst Balken
+#end
+#src text, graph
+#dst Text, Graph
+#end
+
+#src On-Screen Display
+#dst On Screen Display (OSD)
+#end
+#src Global On-Screen Display hotkeys
+#dst Globale Hotkeys der Overlay-Bildschirmanzeige
+#end
+#src Toggle On-Screen Display
+#dst Overlay-Bildschirmanzeige umschalten
+#end
+#src Show On-Screen Display
+#dst Overlay-Bildschirmanzeige einschalten
+#end
+#src Hide On-Screen Display
+#dst Overlay-Bildschirmanzeige ausschalten
+#end
+#src Additional On-Screen Display properties
+#dst Zusätzliche Einstellungen der Overlay-Bildschirmanzeige
+#end
+#src Show system time
+#dst Systemzeit anzeigen
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst In Screenshots und Videoaufnahmen anzeigen
+#end
+#src On-Screen Display server compatibility properties
+#dst Kompatibilitätseinstellungen des On-Screen Display-Servers
+#end
+#src Toggle On-Screen Display server blocking
+#dst Blockierung des On-Screen-Display-Servers umschalten
+#end
+#src Framerate limiter compatibility properties
+#dst Kompatibilitätseinstellungen des Framerate-Limiters
+#end
+#src Toggle framerate limiter
+#dst Framerate-Limiter umschalten
+#end
+#src Enable framerate limiter
+#dst Framerate-Limiter einschalten
+#end
+#src Disable framerate limiter
+#dst Framerate-Limiter ausschalten
+#end
+#src More
+#dst Erweitert
+#dlu -100
+#end
+
+#src Benchmark
+#dst Benchmark
+#end
+#src Global benchmark hotkeys
+#dst Globale Benchmark-Hotkeys
+#end
+#src Begin recording
+#dst Aufnahme starten
+#end
+#src End recording
+#dst Aufnahme beenden
+#end
+#src Benchmark results file properties
+#dst Einstellungen für Benchmark-Ergebnisdatei
+#end
+#src Benchmark results file
+#dst Benchmark-Ergebnisdatei
+#end
+#src Recreate existing benchmark results files
+#dst Vorhandene Ergebnisdateien neu erstellen
+#end
+
+
+#src Profiles
+#dst Profile
+#end
+#src Profile contents
+#dst Profil-Inhalte
+#end
+#src Hardware settings
+#dst Hardwareeinstellungen
+#end
+#src Monitoring settings
+#dst Überwachungseinstellungen
+#end
+#src Global profile hotkeys
+#dst Globale Profil-Hotkeys
+#end
+#src Profile
+#dst Profil
+#end
+#src Automatic profiles management
+#dst Automatische Profilverwaltung
+#end
+#src 2D profile
+#dst 2D-Profil
+#end
+#src 3D profile
+#dst 3D-Profil
+#end
+
+#src User Interface
+#dst Benutzeroberfläche
+#end
+#src User interface properties
+#dst Einstellungen der Benutzeroberfläche
+#end
+#src English
+#dst Englisch
+#end
+#src Language
+#dst Sprache
+#end
+#src Show user interface tooltips
+#dst Tooltips anzeigen
+#end
+#src Show user interface hints
+#dst Hinweismeldungen im Überwachungsfenster anzeigen
+#end
+#src Single tray icon mode
+#dst Einzel-Taskleistensymbol
+#end
+#src Regional properties
+#dst Regionale Einstellungen
+#end
+#src Temperature format
+#dst Temperaturmaß
+#end
+#src Celsius
+#dst Celsius
+#end
+#src Fahrenheit
+#dst Fahrenheit
+#end
+#src Time format
+#dst Zeitformat
+#end
+#src 12 hours
+#dst 12-Std.
+#end
+#src 24 hours
+#dst 24-Std.
+#end
+
+#src User interface skinning properties
+#dst Skin-Einstellungen
+#end
+#src Skin composition mode
+#dst Gestaltungsmodus
+#end
+#src traditional
+#dst traditionell
+#end
+#src layered with colorkey
+#dst Mit Color-Key
+#end
+#src layered with alpha
+#dst Mit Alpha-Kanal
+#end
+#src Skin transparency
+#dst Transparenz
+#end
+#src Transparent
+#dst transparent
+#end
+#src Opaque
+#dst undurchsichtig
+#end
+
+#src Screen capture
+#dst Screenshots
+#end
+#src Global screen capture hotkeys
+#dst Globale Hotkeys für Screenshots
+#end
+#src Screen capture properties
+#dst Screenshot-Eigenschaften
+#end
+#src Screenshot format
+#dst Screenshot-Format
+#end
+#src Screenshots folder
+#dst Speicherpfad
+#end
+#src View
+#dst Anzeigen
+#end
+
+#src Video capture
+#dst Videoaufnahme
+#end
+#src Video prerecord
+#dst Videovorabaufzeichnung
+#end
+#src manual
+#dst Manuell
+#end
+#src auto
+#dst Auto
+#end
+#src Prerecord buffer limit
+#dst Größenlimit
+#end
+#src sec or
+#dst Sek. od.
+#end
+#src MB in
+#dst MB in
+#end
+#src RAM
+#dst RAM
+#end
+#src file
+#dst Datei
+#end
+#src Global video capture hotkeys
+#dst Globale Hotkeys für die Videoaufnahme
+#end
+#src Video capture properties
+#dst Videoaufnahmeeinstellungen
+#end
+#src Capture mode
+#dst Aufnahmemodus
+#end
+#src mixed
+#dst Gemischter Modus
+#end
+#src desktop
+#dst Desktop
+#end
+#src 3D application
+#dst 3D-Anwendung
+#end
+#src Frame size
+#dst Videoauflösung
+#end
+#src full frame
+#dst Volle Videoauflösung
+#end
+#src 1/2 frame
+#dst Halbe Videoauflösung
+#end
+#src 1/3 frame
+#dst Drittel Videoauflösung
+#end
+#src 1/4 frame
+#dst Viertel Videoauflösung
+#end
+#src Video format
+#dst Videoformat
+#end
+#src Container format
+#dst Containerformat
+#end
+#src uncompressed
+#dst Unkomprimiert
+#end
+#src RTV1 compression
+#dst RTV1 (RivaTuner Video V1)
+#end
+#src MJPG compression
+#dst MJPEG (Motion JPEG)
+#end
+#src 1 FPS
+#dst 1 FPS
+#end
+#src 100 FPS
+#dst 100 FPS
+#end
+#src Enable gamma correction
+#dst Gammakorrektur aktivieren
+#end
+#src Videos folder
+#dst Speicherpfad
+#end
+#src Video capture compatibility properties
+#dst Kompatibilitätseinstellungen für Videoaufnahmen
+#end
+#src Multithreaded optimization
+#dst Multithread-Optimierung
+#end
+#src automatic
+#dst automatisch
+#end
+#src disabled
+#dst deaktiviert
+#end
+#src 1 compression thread
+#dst 1 Komprimierungsthread
+#end
+#src 2 compression threads
+#dst 2 Komprimierungsthreads
+#end
+#src 3 compression threads
+#dst 3 Komprimierungsthreads
+#end
+#src 4 compression threads
+#dst 4 Komprimierungsthreads
+#end
+#src 5 compression threads
+#dst 5 Komprimierungsthreads
+#end
+#src 6 compression threads
+#dst 6 Komprimierungsthreads
+#end
+#src 7 compression threads
+#dst 7 Komprimierungsthreads
+#end
+#src 8 compression threads
+#dst 8 Komprimierungsthreads
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst Videoauflösung auf ein Vielfaches von 16 beschneiden
+#end
+#src Audio capture properties
+#dst Audioaufnahmeeinstellungen
+#end
+#src Downmix multichannel audio to stereo
+#dst Downmix von Mehrkanal-Audio auf Stereo
+#end
+#src stereo rip
+#dst Stereo-Rip
+#end
+#src stereo mix
+#dst Stereo-Mix
+#end
+#src Mix multiple audio tracks
+#dst Mehrere Audiostreams zusammenführen
+#end
+#src None
+#dst Keine
+#end
+#src Auto select
+#dst Automatisch auswählen
+#end
+#src DirectSound capture device
+#dst DirectSound-Aufnahmegerät
+#end
+#src WASAPI playback device
+#dst WASAPI-Wiedergabegerät
+#end
+#src WASAPI capture device
+#dst WASAPI-Aufnahmegerät
+#end
+#src Audio source #1
+#dst Audioquelle 1
+#end
+#src Audio source #2
+#dst Audioquelle 2
+#end
+#src Push-To-Talk hotkey
+#dst Hotkey für Push-To-Talk
+#end
+#src There are no devices available
+#dst Es sind keine Geräte verfügbar
+#end
+#src Enable MJPG decoder
+#dst MJEPG-Decoder aktivieren
+#end
+#src Use dedicated encoder server
+#dst Dedizierten Encoder-Server verwenden
+#end
+#src NV12 compression
+#dst NV12 (4:2:0, 24-Bit)
+#end
+
+#src Voltage control
+#dst Spannungsregelung
+#end
+#src Voltage control properties
+#dst Spannungskontrolleinstellungen
+#end
+#src OK
+#dst OK
+#end
+#src Cancel
+#dst Abbrechen
+#end
+
+#src Hardware monitoring plugins
+#dst Hardware-Überwachungs-Plug-ins
+#end
+#src Active plugin modules
+#dst Aktive Plug-ins
+#end
+#src Setup
+#dst Anpassen
+#end
+
+#src On-Screen Display layout
+#dst Stil der Overlay-Bildschirmanzeige
+#end
+#src Active layout selection
+#dst Aktiven Stil auswählen
+#end
+#src Active layout properties
+#dst Einstellungen des aktiven Stils:
+#end
+#src Reset
+#dst Zurücksetzen
+#end
+#src Apply
+#dst Übernehmen
+#end
+
+#src Color
+#dst Farbe
+#end
+
+#src Add color
+#dst Farbe hinzufügen
+#end
+#src Variable slot
+#dst Variabler Slot
+#end
+
+#src Add alignment
+#dst Ausrichtung hinzufügen
+#end
+#src Width (in characters)
+#dst Breite (in Zeichen)
+#end
+#src Type
+#dst Typ
+#end
+#src left
+#dst links
+#end
+#src right
+#dst rechts
+#end
+
+#src Add size
+#dst Größe hinzufügen
+#end
+#src Size (in percents)
+#dst Größe (in Prozent)
+#end
+#src Style
+#dst Stil
+#end
+#src superscript
+#dst hochgestellt
+#end
+#src subscript
+#dst tiefgestellt
+#end
+
+#src Add item(s)
+#dst Element(e) hinzufügen
+#end
+
+#src Alarm settings
+#dst Alarmeinstellungen
+#end
+#src Timeout (in milliseconds)
+#dst Timeout (in ms)
+#end
+#src Play sound on alarm
+#dst Ton bei Alarm wiedergeben
+#end
+#src Launch application on alarm
+#dst Anwendung bei Alarm starten
+#end
+#src Path
+#dst Pfad der Alarmanwendung
+#end
+#src Command line
+#dst Kommandozeile der Alarmanwendung
+#end
+#src Overclocking is disabled due to debug mod
+#dst Übertaktung aufgrund des Debug-Modus deaktiviert
+#end

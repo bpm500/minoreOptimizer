@@ -1,0 +1,35 @@
+#src Pause
+#dst Pauze
+#end
+#src Clear history
+#dst Verwijder geschiedenis
+#end
+#src Show status
+#dst Toon status
+#end
+#src Log history to file
+#dst Log geschiedenis naar een bestand
+#end
+#src Always on top
+#dst Altijd bovenaan
+#end
+#src Properties
+#dst Eigenschappen
+#end
+
+#src Copy
+#dst Kopie
+#end
+
+#src Show
+#dst Toon
+#end
+#src Profiles
+#dst Profielen
+#end
+#src Close
+#dst Sluit
+#end
+#src There are no profiles
+#dst Er zijn geen profielen
+#end

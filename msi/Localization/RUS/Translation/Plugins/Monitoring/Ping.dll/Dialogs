@@ -1,0 +1,6 @@
+#src Ping plugin settings
+#dst Настройки плагина Ping
+#end
+#src Target IP address
+#dst Целевой IP адрес
+#end

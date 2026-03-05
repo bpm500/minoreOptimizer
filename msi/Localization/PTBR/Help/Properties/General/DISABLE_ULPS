@@ -1,0 +1,12 @@
+Desativar ULPS
+Permite desativar o modo de energia "Ultra Low". Esse modo permite que o driver de vídeo da AMD desative as placas secundárias em "idle" nas configurações Crossfire. No entanto, o modo ULPS pode causar instabilidade no sistema em certas condições, de modo que você pode desativá-lo para solucionar problemas futuros.
+Por favor, observe que esta opção também afeta a tecnologia "ZeroCore" de economia de energia nas mais recentes placas gráficas da AMD.
+Por favor, note que o ULPS deve ser reativado após a instalação de novos drivers de vídeo da AMD.
+
+ATENÇÃO! Utilize esta opção por sua conta e risco! A MSI e a AMD não irão lhe fornecer suporte, sob qualquer forma, incluindo perguntas nos fóruns.
+
+Sugestões:
+- Esta opção somente será ativada se houver pelo menos uma placa de vídeo da AMD instalada no sistema.
+- É necessário reiniciar para aplicar as alterações.
+- É altamente recomendável desativar o modo ULPS quando utilizar o "Modo de overclock não oficial" nas configurações Crossfire.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,543 @@
+#src Information
+#dst Information
+#end
+#src System information
+#dst Information système
+#end
+
+#src General
+#dst Générale
+#end
+#src Master graphics processor selection
+#dst Selection du processeur graphique principal
+#end
+#src Synchronize settings for similar graphics processors
+#dst Synchronise les paramètres pour un processeur graphique similaire
+#end
+#src General properties
+#dst Propriétés générales
+#end
+#src Start with Windows
+#dst Démarre avec Windows
+#end
+#src Start minimized
+#dst Démarre minimisé
+#end
+#src Compatibility properties
+#dst Propriétés de compatibilité
+#end
+#src Enable hardware control and monitoring
+#dst Active le contrôle et le monitoring matériel
+#end
+#src Enable low-level IO driver
+#dst Active l'accès bas niveau du driver des entrées sorties
+#end
+#src Enable low-level hardware access interface
+#dst Active l'accès matériel bas niveau
+#end
+#src kernel mode
+#dst Mode Kernel
+#end
+#src user mode
+#dst Mode utilisateur
+#end
+#src Unlock voltage control
+#dst Débloquage du contrôle de tension
+#end
+#src reference design
+#dst Design de référence
+#end
+#src standard MSI
+#dst MSI standart
+#end
+#src extended MSI
+#dst MSI étendu
+#end
+#src Unlock voltage monitoring
+#dst Débloquage du monitoring de tension
+#end
+#src Force constant voltage
+#dst Forcer la tension constante
+#end
+#src Restore settings after suspended mode
+#dst Restaure les paramètres après réveil du mode veille
+#end
+#src Graphics processor type
+#dst Type de processeur graphique
+#end
+#src Update checking properties
+#dst Priopriétés de mise à jour
+#end
+#src Check for available product updates
+#dst Vérification des mises à jour du produit
+#end
+#src Check for available product beta versions
+#dst Vérification des mises à jour beta du produit
+#end
+#src never
+#dst jamais
+#end
+#src on startup
+#dst Au démarrage
+#end
+#src on startup daily
+#dst Au démarrage quotidien
+#end
+#src on startup weekly
+#dst Au démarrage hebdomadaire
+#end
+#src on startup monthly
+#dst Au démarrage mensuel
+#end
+#src Check now
+#dst Contrôle maintenant
+#end
+#src AMD compatibility properties
+#dst Propriétés de compatibilité AMD
+#end
+#src Extend official overclocking limits
+#dst Etendre les limites officielles d'overclocking
+#end
+#src Disable ULPS
+#dst Désactive ULPS
+#end
+#src Unofficial overclocking mode
+#dst Mode d'overclocking non officiel
+#end
+#src disabled
+#dst désactiver
+#hst ComboBox 1255
+#end
+#src with PowerPlay support
+#dst avec support Powerplay
+#end
+#src without PowerPlay support
+#dst sans support Powerplay
+#end
+#src Reset display mode on applying unofficial overclocking
+#dst Resseter le mode d'affichage en appliquant l'overclocking non officiel
+#end
+#src Enable unified GPU usage monitoring
+#dst Active le monitoring unifié de l'utilisation GPU
+#end
+
+#src Fan
+#dst Ventilateur
+#end
+#src Automatic fan control properties
+#dst Propriétés du contrôle automatique du ventilateur 
+#end
+#src Enable user defined software automatic fan control
+#dst Activer le mode utilisateur du contrôle automatique du ventilateur  
+#end
+#src Temperature, °C
+#dst Température, °C 
+#end 
+#src Fan speed, %
+#dst Vitesse du ventilateur, %
+#end
+#src Predefined fan speed curve
+#dst Courbe de vitesse du ventilateur prédéfinie
+#end
+#src Custom
+#dst Personnalisé
+#end
+#src Default
+#dst Par défaut
+#end
+#src Fan speed update period (in milliseconds)
+#dst Période de mise à jour de la vitesse du ventilateur (in ms)
+#end
+#src Temperature hysteresis (in °C)
+#dst Hystérisis de température (en ° C)
+#end
+#src Force fan speed update on each period
+#dst Forcer la mise à jour de la vitesse du ventilateur à chaque période
+#end
+
+#src Monitoring
+#dst Contrôle 
+#end
+#src Hardware monitoring properties
+#dst Propriété du monitoring matériel
+#end
+#src Hardware polling period (in milliseconds)
+#dst Intervalle de vérifiaction matérielle (en ms)
+#end
+#src Hardware monitoring history logging properties
+#dst Propriétés d'historique du monitoring matériel
+#end
+#src Browse
+#dst Lister
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst Arrêter de logger quand le fichier excède cette valeur (in MB)
+#end
+#src Recreate existing log files
+#dst Recréer les fichiers de log existant
+#end
+#src Active hardware monitoring graphs
+#dst Graphiques du monitoring matériel actif
+#end
+#src Graph columns
+#dst Colonne graphique
+#end
+#src Maximum limit
+#dst Limite maximale
+#end
+#src Minimum limit
+#dst Mimite minimale
+#end
+#src Correction formula
+#dst Formule corrective
+#end
+#src Override group name
+#dst Surpasse le nom du groupe
+#end
+#src Override graph name
+#dst Surpasse le nom du graphique
+#end
+#src Enable data filtering
+#dst Active le filtre de données
+#end
+#src Layered graph color
+#dst Couleurs du graphique en strate
+#end
+#src Show in On-Screen Display
+#dst Afficher en sur-impression écran
+#end
+#src Show in Logitech keyboard LCD display
+#dst Afficher sur l'écran LCD du clavier Logitech
+#end
+#src Show in tray icon
+#dst Afficher l'icône dans la zone de notification
+#end
+#src text
+#dst texte
+#end
+#src barchart
+#dst barres de mesure
+#end
+#src On-Screen Display
+#dst Sur-impression écran
+#end
+#src Global On-Screen Display hotkeys
+#dst Hotkeys globales sur-impression écran
+#end
+#src Toggle On-Screen Display
+#dst Basculer sur-impression écran
+#end
+#src Show On-Screen Display
+#dst Afficher sur-impression écran
+#end
+#src Hide On-Screen Display
+#dst Cacher sur-impression écran
+#end
+#src Additional On-Screen Display properties
+#dst Propriétés additionnelles sur-impression écran
+#end
+#src Show system time
+#dst Afficher l'horloge
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst Afficher la sur-impression écran sur les captures images et vidéos
+#end
+#src On-Screen Display server compatibility properties
+#dst Propriétés du serveur de la sur-impression écran
+#end
+#src Toggle On-Screen Display server blocking
+#dst Basculer le bloquage du server pour la sur-impression écran
+#end
+#src More
+#dst Plus
+#dlu -100
+#end
+
+#src Profiles
+#dst Profils
+#end
+#src Global profile hotkeys
+#dst Hotekeys globales du profil
+#end
+#src Profile
+#dst Profil
+#end
+#src Automatic profiles management
+#dst Gestion automatique du profil
+#end
+#src 2D profile
+#dst Profil 2D
+#end
+#src 3D profile
+#dst Profil 3D
+#end
+
+#src User Interface
+#dst Interface d'utilisateur
+#end
+#src User interface properties
+#dst Propriétés de l'interface d'utilisateur
+#end
+#src English
+#dst Anglais
+#end
+#src Language
+#dst Langue
+#end
+#src Show user interface tooltips
+#dst Afficher les bulles d'aides de l'interface
+#end
+#src Show user interface hints
+#dst Afficher les indices de l'interface
+#end
+#src Single tray icon mode
+#dst Mode icône simple dans la zone de notification
+#end
+#src Regional properties
+#dst Propriétés régionales
+#end
+#src Temperature format
+#dst Format de température
+#end
+#src Celsius
+#dst Celcius
+#end
+#src Fahrenheit
+#dst Fahrenheit
+#end
+#src Time format
+#dst format du temps
+#end
+#src 12 hours
+#dst 12 heures
+#end
+#src 24 hours
+#dst 24 heures
+#end
+
+#src User interface skinning properties
+#dst Propriétés graphique de l'interface
+#end
+#src Skin composition mode
+#dst Mode composé du skin
+#end
+#src traditional
+#dst Traditionel
+#end
+#src layered with colorkey
+#dst en couche avec clefs de couleur
+#end
+#src layered with alpha
+#dst en couche avec alpha
+#end
+#src Skin transparency
+#dst Transparence du skin
+#end
+#src Transparent
+#dst Transparent
+#end
+#src Opaque
+#dst Opaque
+#end
+
+
+
+#src Screen capture
+#dst Capture d'image
+#end
+#src Global screen capture hotkeys
+#dst Hotkeys gloables de capture d'écran
+#end
+#src Screen capture properties
+#dst Propriétés de capture d'écran
+#end
+#src Screenshot format
+#dst Format de capture d'écran
+#end
+#src Screenshots folder
+#dst Dossier de capture d'écran
+#end
+#src View
+#dst Visualisation
+#end
+
+#src Video capture
+#dst Capture vidéo
+#end
+#src Video prerecord
+#dst pré enregistrement vidéo
+#end
+#src manual
+#dst manuel
+#end
+#src auto
+#dst automatique
+#end
+#src Prerecord buffer limit
+#dst limite de mémoire tampon pour le pré enregistrement
+#end
+#src sec or
+#dst sec ou
+#end
+#src MB in
+#dst MB dedans
+#end
+#src RAM
+#dst RAM
+#end
+#src file
+#dst fichier
+#end
+
+
+#src Global video capture hotkeys
+#dst Hotkeys globales de capture vidéo
+#end
+#src Video capture properties
+#dst Propriétés de capture vidéo
+#end
+#src Frame size
+#dst Taille de l'image
+#end
+#src full frame
+#dst Image pleine
+#end
+#src 1/2 frame
+#dst 1/2 image
+#end
+#src 1/3 frame
+#dst 1/3 image
+#end
+#src 1/4 frame
+#dst 1/4 image
+#end
+#src Video format
+#dst Format vidéo
+#end
+#src Container format
+#dst Format du conteneur
+#end
+#src uncompressed
+#dst non compressée
+#end
+#src RTV1 compression
+#dst Compression RTV1
+#end
+#src MJPG compression
+#dst Compression MJPG
+#end
+#src 1 FPS
+#dst 1 IPS
+#end
+#src 100 FPS
+#dst 100 IPS
+#end
+#src Enable gamma correction
+#dst Active la correction gamma
+#end
+#src Videos folder
+#dst Dossier vidéos
+#end
+#src Video capture compatibility properties
+#dst Propriétés de compatibilité de capture vidéo
+#end
+#src Multithreaded optimization
+#dst Optimization Multithread
+#end
+#src automatic
+#dst automatique
+#end
+#src disabled
+#dst dédactivée
+#end
+#src 1 compression thread
+#dst compression 1 thread
+#end
+#src 2 compression threads
+#dst compression 2 threads
+#end
+#src 3 compression threads
+#dst compression 3 threads
+#end
+#src 4 compression threads
+#dst compression 4 threads
+#end
+#src 5 compression threads
+#dst compression 5 threads
+#end
+#src 6 compression threads
+#dst compression 6 threads
+#end
+#src 7 compression threads
+#dst compression 7 threads
+#end
+#src 8 compression threads
+#dst compression 8 threads
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst Couper les dimensions vidéos pour faire un multiple de 16
+#end
+#src Audio capture properties
+#dst Propriétés de capture audio
+#end
+#src Downmix multichannel audio to stereo
+#dst Downmix channels audio multiples vers stéréo
+#end
+#src stereo rip
+#dst capture stéréo
+#end
+#src stereo mix
+#dst mix stéréo
+#end
+#src Mix multiple audio tracks
+#dst Mix des pistes audios multiples
+#end
+#src None
+#dst Aucun
+#end
+#src Auto select
+#dst Selection automatique
+#end
+#src DirectSound capture device
+#dst Périphérique d'aquisition DirectSound
+#end
+#src WASAPI playback device
+#dst Périphérique de playback WASAPI
+#end
+#src WASAPI capture device
+#dst Périphérique de capture WASAPI
+#end
+#src Audio source #1
+#dst Source audio #1
+#end
+#src Audio source #2
+#dst Source audio #2
+#end
+#src Push-To-Talk hotkey
+#dst Hotkey appuyer pour parler
+#end
+#src There are no devices available
+#dst Il n'y a pas de périphérique disponible
+#end
+#src Enable MJPG decoder
+#dst Activer le décodeur MJPG
+#end
+#src Use dedicated encoder server
+#dst Utiliser un serveur d'encodage dédié
+#end
+#src NV12 compression
+#dst Compression NV12
+#end
+
+#src Voltage control
+#dst Contrôle de tension
+#end
+#src Voltage control properties
+#dst Propriétés de Contrôle de tension
+#end
+#src OK
+#dst OK
+#end
+#src Cancel
+#dst Annuler
+#end

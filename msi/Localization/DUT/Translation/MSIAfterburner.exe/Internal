@@ -1,0 +1,183 @@
+#src GPU temperature
+#dst GPU temperatuur
+#end
+#src GPU%d temperature
+#dst GPU%d temperatuur
+#end
+#src GPU voltage
+#dst GPU voltage
+#end
+#src GPU%d voltage
+#dst GPU%d voltage
+#end
+#src PCB temperature
+#dst PCB temperatuur
+#end
+#src PCB%d temperature
+#dst PCB%d temperatuur
+#end
+#src Fan speed
+#dst Ventilator snelheid
+#end
+#src GPU%d fan speed
+#dst GPU%d Ventilator snelheid
+#end
+#src Core clock
+#dst Core klok
+#end
+#src GPU%d core clock
+#dst GPU%d core klok
+#end
+#src Shader clock
+#dst Shader klok
+#end
+#src GPU%d shader clock
+#dst GPU%d shader klok
+#end
+#src Memory clock
+#dst Geheugen klok
+#end
+#src GPU%d memory clock
+#dst GPU%d geheugen klok
+#end
+#src GPU usage
+#dst GPU gebruik
+#end
+#src GPU%d usage
+#dst GPU%d gebruik
+#end
+#src Framerate
+#dst Beeldverversing snelheid
+#end
+#src Memory usage
+#dst Geheugen gebruik
+#end
+#src GPU%d memory usage
+#dst GPU%d geheugen gebruik
+#end
+#src °C
+#dst °C
+#end
+#src V
+#dst V
+#end
+#src MHz
+#dst MHz
+#end
+#src MB
+#dst MB
+#end
+#src FPS
+#dst FPS
+#end
+#src %dMHz
+#dst %dMHz
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fV
+#end
+#src %+.3fV
+#dst %+.3fV
+#end
+#src Auto
+#dst Auto
+#end
+#src Aux voltage
+#dst Aux voltage
+#end
+#src GPU%d aux voltage
+#dst GPU%d aux voltage
+#end
+#src Memory voltage
+#dst Geheugen voltage
+#end
+#src GPU%d memory voltage
+#dst GPU%d geheugen voltage
+#end
+#src Fan tachometer
+#dst Ventilator snelheidsmeter
+#end
+#src GPU%d fan tachometer
+#dst GPU%d ventilator snelheidsmeter
+#end
+#src RPM
+#dst RPM
+#end
+#src Memory temperature
+#dst Geheugen temperatuur
+#end
+#src GPU%d memory temperature
+#dst GPU%d geheugen temperatuur
+#end
+#src VRM temperature
+#dst VRM temperatuur
+#end
+#src GPU%d VRM temperature
+#dst GPU%d VRM temperatuur
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst Ik bevestig en ben mij bewust van de grenzen van onofficieel overklokken en begrijp dat MSI hiervoor geen ondersteuning geeft
+#end
+#src Power
+#dst Vermogen
+#end
+#src GPU%d power
+#dst GPU%d vermogen
+#end
+#src Frametime
+#dst Frame tijd
+#end
+#src ms
+#dst ms
+#end
+#src Temp limit
+#dst
+#end
+#src GPU%d temp limit
+#dst
+#end
+#src Power limit
+#dst
+#end
+#src GPU%d power limit
+#dst
+#end
+#src Voltage limit
+#dst
+#end
+#src GPU%d voltage limit
+#dst
+#end
+#src OV max limit
+#dst
+#end
+#src GPU%d OV max limit
+#dst
+#end
+#src FB usage
+#dst
+#end
+#src GPU%d FB usage
+#dst
+#end
+#src VID usage
+#dst
+#end
+#src GPU%d VID usage
+#dst
+#end
+#src BUS usage
+#dst
+#end
+#src GPU%d BUS usage
+#dst
+#end
+#src No load limit
+#dst
+#end
+#src GPU%d no load limit
+#dst
+#end

@@ -1,0 +1,5 @@
+Abilita monitoraggio dell'utilizzo GPU unificato
+Per impostazione predefinita %PRODUCTNAME% visualizza dei contatori delle prestazioni hardware nativi AMD sul grafico di utilizzo della GPU. Tuttavia, proprio l'attuazione di accesso del contatore delle prestazioni di AMD può essere spezzato in alcuni driver per GPU (ad esempio, della famiglia di GPU Sea Islands), quindi l'utilizzo della GPU riportato dal conducente AMD può essere sbagliato. In questo caso è possibile attivare questa opzione per visualizzare l'alternato unificato software Direct3D del contatore delle prestazioni sul grafico di utilizzo della GPU.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

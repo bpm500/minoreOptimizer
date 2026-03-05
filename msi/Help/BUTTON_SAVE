@@ -1,0 +1,6 @@
+Save
+Starts profile saving process. When you press this button profiles slot buttons start flashing indicating that saving process has been initiated. You may press any profile slot button while it is flashing to save current applied voltage, clock and fan control settings to desired profile slot.
+
+Hints:
+- You may cancel initiated profile saving process by pressing <Esc> key on your keyboard. Restoring hardware settings with <Reset> button will also cancel initiated profile saving process.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

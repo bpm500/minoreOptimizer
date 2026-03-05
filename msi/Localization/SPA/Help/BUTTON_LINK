@@ -1,0 +1,7 @@
+Asociar
+Permite ajustes independientes o asociados en los relojes del núcleo y procesadores gráficos.
+
+Sugerencias:
+- El Ajuste de reloj en los procesadores gráficos (shader) sólo está disponible en las series NVIDIA GeForce 8 o superior. Las tarjetas gráficas ATI no soportan ajustes independientes en los procesadores gráficos (shader).
+- Por favor tenga en cuenta que el ratio mínimo entre la velocidad del núcleo y de los procesadores gráficos (shader) está limitado por el hardware. Tratar de ajustar dichos valores fuera del rango válido puede invalidar los ajustes y éstos no pueden ser aplicados. 
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

@@ -1,0 +1,8 @@
+Kecepatan Kipas 
+Tampilkan kecepatan kipas GPU.
+
+Petunjuk:
+- Ketika pengaturan sinkronisasi GPU diaktifkan pada tab <General>, setiap perubahan pada master GPU maka akan berlaku terhadap semua GPU yang terpasang.
+- Pengaturan kecepatan kipas tidak berfungsi pada kartu grafis yang tidak dilengkapi oleh chipset controller kecepatan kipas.
+- Anda dapat klik di daerah ini untuk langsung mengatur kecepatan yang diinginkan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

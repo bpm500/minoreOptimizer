@@ -1,0 +1,6 @@
+Touche appuyer pour parler
+Permet de définir la touche globale pour capturer l'audio en mode appuyer pour parler. Quand la touche est définie, l'audio ne sera capturée que quand la touche sera pressée.
+
+Astuce:
+- Certaines combinaisons de touches (ex: <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) sont réservées et ne peuvent être utilisées.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

@@ -1,0 +1,24 @@
+#src 4x6 font
+#dst Fonte 4x6
+#end
+#src 5x6 font
+#dst Fonte 5x6
+#end
+#src 6x6 font
+#dst Fonte 6x6
+#end
+#src 6x8 font
+#dst Fonte 6x8
+#end
+#src 10x12 font
+#dst Fonte 10x12
+#end
+#src 12x12 font
+#dst Fonte 12x12
+#end
+#src 12x16 font
+#dst Fonte 12x16
+#end
+#src 8x12 font
+#dst Fonte 8x12
+#end

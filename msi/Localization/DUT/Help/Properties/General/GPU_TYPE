@@ -1,0 +1,9 @@
+
+Grafische processor type
+Sommige grafische kaart modellen kunnen verschillende types van grafische processor gebruiken (vb: hoge stroom-lekkage en lage stroom-lekkage GPU's)met verschillende standaard voltages en met verschillende 3D voltage controle benadering. Het is mogelijk dat je deze optie moet gebruiken om jouw type van grafische processor te selecteren om zo de juiste voltage controle te verkrijgen.
+
+
+
+Hint:
+- Grafische processor type selectie heeft enkel invloed op de huidig geselecteerde primaire GPU , gelieve dit venster te heropenen na dat je de primaire GPU selectie hebt veranderd om het nieuwe GPU type hiervoor te selecteren.
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

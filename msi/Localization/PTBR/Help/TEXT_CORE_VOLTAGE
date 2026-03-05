@@ -1,0 +1,8 @@
+Tensão da GPU
+Exibe a tensão atual da GPU principal. Dependendo do modelo da GPU, a tensão pode ser representada como um valor absoluto ou como uma variação da tensão base. Valores assinalados com um + representam variações das tensões originais enquanto os valores não assinalados representam o valor absoluto.
+
+Sugestões:
+- Quando o modo de sincronização entre GPUs similares estiver habilitado em <Geral>, as alterações nas configurações da placa de vídeo principal serão aplicadas às outras placas semelhantes instaladas no sistema.
+- O ajuste de tensão é restrito às placas de vídeo equipadas com módulo de controle de tensão programável. Consulte a lista de modelos que suportam a regulação de tensão.
+- Você pode clicar na caixa de texto e inserir o valor desejado diretamente.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

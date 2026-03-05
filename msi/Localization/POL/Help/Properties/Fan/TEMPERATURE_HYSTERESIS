@@ -1,0 +1,8 @@
+Histereza temperatury
+Wyswietla i dostosowuje histereze temperatury w trybie automatycznego sterowania wentylatorem zdefiniowanym przez uzytkownika. Histereza moze byc stosowana w celu zmniejszenia niepozadanych wahan predkosci wentylatora, a takze poprawy wydajnosci chlodzenia. Po zdefiniowaniu wartosci histerezy niezerowej, automatyczna warstwa regulacji wentylatora uzywa nastepujacego algorytmu:
+
+- Ostatnia wartosc temperatury powodujaca zmiane predkosci wentylatora jest zatrzasniety.
+- Gdy temperatura spada, nie wolno zmieniac predkosci wentylatora, podczas gdy róznica miedzy zatrzasnietymi i aktualnymi wartosciami temperatury jest mniejsza niz wartosc histerezy.
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

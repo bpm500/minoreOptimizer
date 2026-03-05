@@ -1,0 +1,10 @@
+Aktifkan editor pengaturan kipas otomatis
+Untuk melakukan editing kecepatan kipas yang dapat diatur oleh user.
+
+Petunjuk:
+- Anda dapat klik bagian curve untuk menambah node baru dalam posisi kursor. Max hingga 8 nodes.
+- Anda dapat klik node untuk memilih dan drag dengan kursor mouse untuk mengatur curve. Posisi node juga dapat diatur melalui keyboard melalu tombol panah.
+- Anda dapat menekan tombol <Del> untuk menghapus pilihan node.
+- Anda dapat menekan tombol <Ctrl> + <D> untuk lakukan reset curve ke bagian default.
+- Anda dapat menekan klik dua kali untuk edit pilihan linear dan pilihan curve. Pilihan ini dapat mengurangi kecepatan kipas yang berhubungan dengan performance CPU karena tidak adanya perubahan kecepatan kipas yang sering.
+- Anda dapat menutup tampilan tooltips user interface tooltips via tab <User interface> di properti advanced.

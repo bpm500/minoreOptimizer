@@ -1,0 +1,9 @@
+Kerntaktrate
+Passt die Kerntaktrate der primären GPU an. Abhängig vom Grafikkartenmodellmodell kann die Kerntaktrate entweder direkt (Wert ohne Vorzeichen) oder als Offset (Wert mit Vorzeichen) von der Basis-Kerntaktrate dargestellt werden.
+
+Hinweise:
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- Beachten Sie beim unabhängigen Anpassen der Kern- und Shader-Taktraten bitte, dass das minimal zulässige Shader-zu-Kern-Taktratenverhältnis durch die Hardware begrenzt ist. Der Versuch, das Verhältnis außerhalb des Bereichs zu halten, kann dazu führen, dass die Taktraten nicht übernommen werden.
+- Wenn dieser Schieberegler fokussiert ist, können Sie die Kerntaktrate mit den Cursortasten anpassen.
+- Sie können auf das nebenstehende Eingabefeld klicken, um den gewünschten Wert direkt einzugeben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

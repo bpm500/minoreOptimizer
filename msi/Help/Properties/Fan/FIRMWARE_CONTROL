@@ -1,0 +1,10 @@
+Use firmware control mode
+User defined software automatic fan control mode is a pure software technology. It means that software must reside in memory in order to provide this mode functionality. In this mode software periodically checks GPU temperature and sets new fan speed according to the fan speed curve defined below.
+However, some modern graphics cards natively support software programmable fan curve at firmware level. If you enable this option on a graphic card supporting firmware based fan curve control, %PRODUCTNAME% will send fan curve nodes to firmware just once on startup and firmware will handle all dynamic fan speed automation instead of software. In this case your custom fan curve will remain active even after closing %PRODUCTNAME%. If you enable this option on graphics card with no firmware based fan curve control, %PRODUCTNAME% will simply revert to software implementation.
+
+Please take a note that in firmware control mode most of additional fan speed curve related settings, such as hysteresis, step/linear mode, fan speed udpate period are ignored. Also firmware mode supports less curve nodes (3 to 5 nodes depending on GPU manufacturer), so you may need to simplify your curve and remove extra nodes.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.
+
+

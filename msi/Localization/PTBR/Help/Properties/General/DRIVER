@@ -1,0 +1,5 @@
+Acesso de baixo nível do driver IO
+Por padrão, o %PRODUCTNAME% utiliza o modo de acesso de baixo nível do driver IO para a digitalização rápida de hardware, para o monitoramento de temperaturas da CPU e para o acesso aos gráficos de monitoramento. Você pode desativar esta opção para resolver certos problemas, anulando completamente qualquer restrição de acesso do driver ao hardware.
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

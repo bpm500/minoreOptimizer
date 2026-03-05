@@ -1,0 +1,5 @@
+Start with Windows
+Allows starting %PRODUCTNAME% with Windows and automatically minimizing it to system tray area.
+
+Hint:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

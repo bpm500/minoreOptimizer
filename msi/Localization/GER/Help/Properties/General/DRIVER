@@ -1,0 +1,5 @@
+Low-Level-Treiber aktivieren
+Standardmäßig verwendet %PRODUCTNAME% Low-Level-I/O-Treiber für schnelles Scannen der Hardware, CPU-Temperaturüberwachung und Low-Level-GPU-Zugriff. Sie können diese Option deaktivieren, um Kompatibilitätsprobleme zu diagnostizieren und zu beheben und so jeglichen Low-Level-Zugriff auf Systemhardwarekomponenten vollständig zu verhindern.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

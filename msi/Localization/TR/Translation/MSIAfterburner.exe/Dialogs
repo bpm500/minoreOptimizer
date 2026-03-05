@@ -1,0 +1,409 @@
+ser#src Information
+#dst Bilgi
+#end
+#src System information
+#dst Sistem Bilgisi
+#end
+
+#src General
+#dst Genel Ayarlar
+#end
+#src Master graphics processor selection
+#dst Ana grafik iþlemcisi seçimi
+#end
+#src Synchronize settings for similar graphics processors
+#dst Seçimleri diðer benzer ekran kartlarý ile eþitle
+#end
+#src General properties
+#dst Genel ayarlar
+#end
+#src Start with Windows
+#dst Sistem baþlarken çalýþtýr
+#end
+#src Start minimized
+#dst Minimize olarak baþlat
+#end
+#src Compatibility properties
+#dst Uyumluluk ayarlarý
+#end
+#src Enable hardware control and monitoring
+#dst Donaným izleme ve kontrolünü etkinleþtir
+#end
+#src Enable low-level hardware access interface
+#dst Donaným düzeyinde grafik arayüzü eriþimi
+#end
+#src kernel mode
+#dst Kernel Modu
+#end
+#src user mode
+#dst Kullanýcý Modu
+#end
+#src Unlock voltage control
+#dst Voltaj kontrolünü aç
+#end
+#src Unlock voltage monitoring
+#dst Voltaj takibini aç
+#end
+#src Force constant voltage
+#dst Sürekli seçilen voltaja zorla
+#end
+#src Restore settings after suspended mode
+#dst Aský modundan sonra ayarlarý geri yükle
+#end
+#src Graphics processor type
+#dst Grafik iþlemcisi tipi
+#end
+#src Update checking properties
+#dst Güncelleme denetleme ayarlarý
+#end
+#src Check for available product updates
+#dst Kullanýlabilir güncellemeleri denetle
+#end
+#src Check for available product beta versions
+#dst Güncellemelere beta versiyonlarý da dahil et
+#end
+#src never
+#dst hiçbir zaman
+#end
+#src on startup
+#dst baþlangýçta
+#end
+#src on startup daily
+#dst her gün baþlangýçta
+#end
+#src on startup weekly
+#dst her hafta baþlangýçta
+#end
+#src on startup monthly
+#dst her ay baþlangýçta
+#end
+#src Check now
+#dst Þimdi Araþtýr
+#end
+#src AMD compatibility properties
+#dst AMD uyumluluðu ayarlarý
+#end
+#src Extend official overclocking limits
+#dst Ýzin verilen (resmi) hýzaþýrtma limitlerini geniþlet
+#end
+#src Disable ULPS
+#dst ULPS'i kapat
+#end
+#src Unofficial overclocking mode
+#dst Resmi sýnýrlar dýþýndaki hýzaþýrtma modu
+#end
+#src disabled
+#dst devredýþý
+#hst ComboBox 1255
+#end
+#src with PowerPlay support
+#dst PowerPlay desteði ile
+#end
+#src without PowerPlay support
+#dst PowerPlay desteði olmadan
+#end
+#src Reset display mode on applying unofficial overclocking
+#dst Resmi sýnýrlar dýþýndaki hýzaþýrtma yapýlýrken ekran modunu sýfýrla
+#end 
+
+#src Fan
+#dst Fan
+#end
+#src Automatic fan control properties
+#dst Otomatik fan kontrolü ayarlarý
+#end
+#src Enable user defined software automatic fan control
+#dst Kullanýcý ayarlý otomatik fan kontrolünü aç
+#end
+#src Temperature, °C
+#dst Sýcaklýk, °C 
+#end 
+#src Fan speed, %
+#dst Fan Hýzý, %
+#end
+#src Predefined fan speed curve
+#dst Önayarlý fan hýzý
+#end
+#src Custom
+#dst Özel
+#end
+#src Default
+#dst Varsayýlan
+#end
+#src Fan speed update period (in milliseconds)
+#dst Fan hýzý güncelleme aralýðý (milisaniye)
+#end
+#src Temperature hysteresis (in °C)
+#dst Hysterese özelliðini etkinleþtir  (°C halinde)
+#end
+#src Force fan speed update on each period
+#dst Her periyottaki deðere zorla
+#end
+
+#src Monitoring
+#dst Ýzleme
+#end
+#src Hardware monitoring properties
+#dst Donaným izleme ayarlarý
+#end
+#src Hardware polling period (in milliseconds)
+#dst Donaným kontrolü aralýðý (milisaniye)
+#end
+#src Hardware monitoring history logging properties
+#dst Donaným izleme geçmiþi kaydetme ayarlarý
+#end
+#src Browse
+#dst Klasör Seç
+#end
+#src Stop logging when log size exceeds this value (in MB)
+#dst Bu dosya boyutu aþýlýrsa olaylarý günlüðe kaydetmeyi durdur (MB birimi)
+#end
+#src Recreate existing log files
+#dst Var olan olay günlüklerini tekrar oluþtur
+#end
+#src Active hardware monitoring graphs
+#dst Aktif donaným izleme grafiði
+#end
+#src Maximum limit
+#dst Maksimum limit
+#end
+#src Minimum limit
+#dst Minimum limit
+#end
+#src Override group name
+#dst Grup adýný üstüne yaz
+#end
+#src Enable data filtering
+#dst Veri filtrelemesini etkinleþtir
+#end
+#src Show in On-Screen Display
+#dst OSD'de göster (Bilgi Ekraný)
+#end
+#src Show in Logitech keyboard LCD display
+#dst Logitech Klavye LCD Ekranýnda göster
+#end
+#src Show in tray icon
+#dst Sistem tepsisinde göster
+#end
+
+#src On-Screen Display
+#dst Bilgi Ekraný (OSD)
+#end
+#src Global On-Screen Display hotkeys
+#dst Evrensel Bilgi Ekraný Kýsa Yollarý
+#end
+#src Toggle On-Screen Display
+#dst Bilgi Ekranýný Etkinleþtir
+#end
+#src Show On-Screen Display
+#dst Bilgi Ekranýný Göster
+#end
+#src Hide On-Screen Display
+#dst Bilgi Ekranýný Gizle
+#end
+#src Additional On-Screen Display properties
+#dst Diðer Bilgi Ekraný Ayarlarý
+#end
+#src Show system time
+#dst Sistem saatini göster
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst Bilgi Ekranýný yakalanmýþ video ve ekran görüntülerinde göster
+#end
+#src On-Screen Display server compatibility properties
+#dst Bilgi Ekraný sunucu uyumluluk ayarlarý
+#end
+#src Toggle On-Screen Display server blocking
+#dst Bilgi Ekraný Sunucu Engellemeyi Etkinleþtir
+#end
+#src More
+#dst Daha Fazla
+#dlu -100
+#end
+
+#src Profiles
+#dst Profiller
+#end
+#src Global profile hotkeys
+#dst Evrensel profil tuþlarý
+#end
+#src Profile
+#dst Profil
+#end
+#src Automatic profiles management
+#dst Otomatik Profil Yönetimi
+#end
+#src 2D profile
+#dst 2D Profili
+#end
+#src 3D profile
+#dst 3D Profili
+#end
+
+#src User Interface
+#dst Kullanýcý Arayüzü
+#end
+#src User interface properties
+#dst Kullanýcý Arayüzü Ayarlarý
+#end
+#src English
+#dst Ýngilizce
+#end
+#src Language
+#dst Dil
+#end
+#src Show user interface tooltips
+#dst Arayüzde iþaretçi ile gelinen yerlerde yardýmcý bilgiler göster
+#end
+#src Show user interface hints
+#dst Arayüz ipuçlarýný göster
+#end
+#src Single tray icon mode
+#dst Sistem tepsisinde tek ikon kullan (OSD sunucusunu gizle.)
+#end
+#src User interface skinning properties
+#dst Arayüz görünümü ayarlarý
+#end
+
+#src Screen capture
+#dst Ekran görüntüsü alma
+#end
+#src Global screen capture hotkeys
+#dst Evrensel ekran görüntüsü alma tuþlarý
+#end
+#src Screen capture properties
+#dst Ekran görüntüsü alma ayarlarý
+#end
+#src Screenshot format
+#dst Ekran Görüntüsü Formatý
+#end
+#src Screenshots folder
+#dst Kaydedilecek Klasör
+#end
+#src View
+#dst Göster
+#end
+
+#src Video capture
+#dst Video Kaydý
+#end
+#src Global video capture hotkeys
+#dst Evrensel video kaydý kýsayollarý
+#end
+#src Video capture properties
+#dst Video kaydý ayarlarý
+#end
+#src Frame size
+#dst Ekran büyüklüðü
+#end
+#src full frame
+#dst tam ekraný al
+#end
+#src 1/2 frame
+#dst 1/2'sini al
+#end
+#src 1/3 frame
+#dst 1/3'ünü al
+#end
+#src 1/4 frame
+#dst 1/4'ü al
+#end
+#src Video format
+#dst Video formatý
+#end
+#src uncompressed
+#dst sýkýþtýrýlmamýþ
+#end
+#src RTV1 compression
+#dst RTV1 sýkýþtýrmasý
+#end
+#src MJPG compression
+#dst MJPG sýkýþtýrmasý
+#end
+#src 1 FPS
+#dst 1 FPS
+#end
+#src 100 FPS
+#dst 100 FPS
+#end
+#src Enable gamma correction
+#dst Gama düzeltmesini aktifleþtir
+#end
+#src Videos folder
+#dst Video Klasörü
+#end
+#src Video capture compatibility properties
+#dst Video Kaydý uyumluluk ayarlarý
+#end
+#src Multithreaded optimization
+#dst Çoklu iþlemci/izlek optimizasyonu
+#end
+#src automatic
+#dst otomatik
+#end
+#src disabled
+#dst kapalý
+#end
+#src 1 compression thread
+#dst 1 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src 2 compression threads
+#dst 2 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src 3 compression threads
+#dst 3 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src 4 compression threads
+#dst 4 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src 5 compression threads
+#dst 5 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src 6 compression threads
+#dst 6 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src 7 compression threads
+#dst 7 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src 8 compression threads
+#dst 8 çekirdek /izlek sýkýþtýrma iþlemi
+#end
+#src Crop video dimensions to make it multiples of 16
+#dst Video çözünürlüðünü 16'nýn katý yapmak için kýrp
+#end
+#src Audio capture properties
+#dst Ses kaydý ayarlarý
+#end
+#src Downmix multichannel audio to stereo
+#dst Çoklu kanal sesi stereoya dönüþtür
+#end
+#src None
+#dst Hiçbiri
+#end
+#src Auto select
+#dst Otomatik seçme
+#end
+#src DirectSound capture device
+#dst DirectSound ses kayýt aygýtý
+#end
+#src WASAPI playback device
+#dst WASAPI oynatma aygýtý
+#end
+#src WASAPI capture device
+#dst WASAPI kayýt aygýtý
+#end
+#src Audio source #1
+#dst Ses Kaynaðý #1
+#end
+#src Audio source #2
+#dst Ses Kaynaðý #2
+#end
+#src Push-To-Talk hotkey
+#dst Bas-Konuþ Tuþu
+#end
+#src There are no devices available
+#dst Hiç bir aygýt bulunamadý.
+#end
+#src Enable MJPG decoder
+#dst MJPG çözücüsünü aktifleþtir
+#end

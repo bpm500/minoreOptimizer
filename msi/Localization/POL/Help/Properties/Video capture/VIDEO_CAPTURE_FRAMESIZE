@@ -1,0 +1,6 @@
+Rozmiar ramki
+Podczas przechwytywania wideo w wysokiej rozdzielczosci z pelna klatka przepustowosc magistrali PCIE moze stac sie waskim gardlem ograniczajacym liczbe klatek na sekunde ze wzgledu na ogromne ilosci danych skopiowanych z GPU do procesora za posrednictwem magistrali na kazdej klatce. 
+W takiej sytuacji mozesz spróbowac zwiekszyc wydajnosc, zmniejszajac rozmiar klatki, na przyklad wybranie rozmiaru klatki 1/2 zamiast pelnej klatki zmniejszy ilosc danych, które maja byc przesylane z GPU do procesora przez wspólczynnik 4. Zmniejszenie rozmiaru ramki skutecznie zmniejsza obciazenie procesora i dysk twardy, zmniejszajac ilosc danych do skompresowania i zapisania na dysku twardym.   
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

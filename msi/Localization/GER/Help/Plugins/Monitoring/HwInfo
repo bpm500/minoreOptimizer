@@ -1,0 +1,6 @@
+Dieses Plug-in ermöglicht %PRODUCTNAME% den Import beliebiger Datenquellen aus HWiNFO32/64.
+
+Hinweise:
+- Wenn HWiNFO auf Ihrem System installiert ist, wird es automatisch gestartet, wenn Sie dieses Plugin aktivieren.
+- In HWiNFO muss die Option [b]Shared Memory-Unterstützung[/b] in der Registerkarte [b]Allgemeines / Benutzeroberfläche[/b] aktiviert sein und das Sensorenstatus-Fenster von HWiNFO muss aktiv sein, damit %PRODUCTNAME% Daten importieren kann.
+- Sie können die Liste der vom Plug-in importierten Datenquellen ändern, indem Sie auf [b]Anpassen[/b] klicken.

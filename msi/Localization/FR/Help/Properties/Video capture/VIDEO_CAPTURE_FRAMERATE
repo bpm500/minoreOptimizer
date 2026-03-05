@@ -1,0 +1,5 @@
+Framerate/images par seconde
+Ajuste le framerate/images par seconde de la vidéo encodée. Quelques images seront perdues si votre sytème n'est pas assez rapide pour encoder les vidéos au framerate désiré, dans ce cas vous pouvez réduire le framerate pour réduire les saccades de la vidéo.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

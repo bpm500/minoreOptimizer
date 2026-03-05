@@ -1,0 +1,6 @@
+Beeldverversing snelheid begrenzer.
+Dit staat toe om de beeldverversing snelheid (FPS) te begrenzen bij 3D toepassingen gedurende het vastleggen van video beelden.
+Dit kan voor een beter video kwaliteit zorgen. De vloeiendheid van het beeld verbetert wanneer de game FPS het dubbel is van de vast te leggen video FPS.
+
+Hint:
+- Je kan de gebruikers interface werktips uitschakelen via de<gebruikers interface> tab in geavanceerde eigenschappen.

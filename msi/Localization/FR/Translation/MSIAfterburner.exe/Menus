@@ -1,0 +1,47 @@
+#src Pause
+#dst Pause
+#end
+#src Clear history
+#dst Effacer l'historique
+#end
+#src Show status
+#dst Afficher l'état
+#end
+#src Log history to file
+#dst Enregistrer le logging sur fichier
+#end
+#src Always on top
+#dst Toujours en premier plan
+#end
+#src Attach
+#dst Attache
+#end
+#src Detach
+#dst Détache
+#end
+#src Detach all
+#dst Détache tout
+#end
+#src Properties
+#dst Propriétés
+#end
+#src Remove all markers
+#dst Enlève tout les marqueurs
+#end
+
+#src Copy
+#dst Copie
+#end
+
+#src Show
+#dst Afficher
+#end
+#src Profiles
+#dst Profils
+#end
+#src Close
+#dst Fermer
+#end
+#src There are no profiles
+#dst Il n'y a pas de profil
+#end

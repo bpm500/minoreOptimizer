@@ -1,0 +1,5 @@
+L'ottimizzazione multithreaded
+Il motore di compressione video è ottimizzato per dar vantaggi ai sistemi con più CPU o core di CPU multiple. La coda del fotogramma di ingresso è allo stesso tempo elaborato da più thread e questa opzione consente di controllare la quantità di thread di elaborazione della coda. La compressione video predefinita utilizza automaticamente 1 thread di cornici a filo compresse per HDD e N-1 threads per comprimere i fotogrammi dalla coda di input sul sistema con N CPU su core della CPU. Tuttavia, è possibile ridurre la quantità di threads o disattivare l'attuazione multithreaded su tutti per la risoluzione dei problemi o per ragioni di confronto della performance.
+
+Consigli:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

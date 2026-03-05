@@ -1,0 +1,8 @@
+Definito dall'utente
+Permette all'utente di definire la modalità di controllo automatico del software delle ventole. In questa modalità il software controlla periodicamente la temperatura della GPU e imposta la nuova velocità della ventola in base alla curva di velocità del ventilatore, definito nella scheda <Fan> in proprietà avanzate.
+
+Consigli:
+- Il controllo della velocità della ventola non è disponibile se la scheda grafica non è dotata di chip Fan Controller e (o) sistema di raffreddamento controllabili.
+- Il software automatico della curva di velocità della ventola non è influenzato dai profili, è un'impostazione globale per tutte le GPU installate nel sistema.
+- Quando la modalità automatica del controllo della ventola gestita dall'utente è abilitato, puoi sempre passare dalla modalità automatica a manuale del controllo della velocità della ventola utilizzando il tasto "Auto".
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

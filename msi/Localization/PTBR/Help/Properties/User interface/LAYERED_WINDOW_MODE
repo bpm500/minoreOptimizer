@@ -1,0 +1,8 @@
+Modo de composição da janela do tema
+Permite selecionar o modo de composição da tela do programa. O modo de composição define como os pixels da janela do programa são combinados com o tema e a área de trabalho do windows. Você pode selecionar um dos seguintes modos de composição:
+- Tradicional - fornece compatibilidade com sistemas operacionais e temas antigos. Este modo de composição usa regiões de clipe GDI para renderizar janelas não retangulares. O desempenho de atualização da janela pode diminuir se a janela tiver muitas áreas não retangulares.
+- Camadas com Colorkey - oferece melhor desempenho de renderização das janelas de temas nos sistemas operacionais modernos. Este modo de composição utiliza janelas em camadas com aceleração de hardware e suporte colorkey, o desempenho de atualização da janela não depende da forma da janela. Além disso, você pode ajustar o nível de transparência do tema neste modo.
+- Camadas com Alpha - fornece suporte adicional para efeitos nos temas. Este modo de composição utiliza janelas em camadas com aceleração de hardware por pixel de canal Alpha, permitindo que os criadores de temas definam áreas semi-transparentes no interior dos temas, apliquem anti-serrilhamento nas bordas, etc. Você também pode ajustar o nível de transparência do tema neste modo.
+
+Sugestões: 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

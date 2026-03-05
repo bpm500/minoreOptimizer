@@ -1,0 +1,5 @@
+Activer la correction gamma
+Par défaut %PRODUCTNAME% capture le flux vidéo tel quel sans appliquer d'ajustements au framebuffer. Néanmoins, des jeux en plein écran peuvent booster le gamma de l'affichage et donc les vidéos capturées peuvent apparaître trop foncées. Dans ce cas vous pouvez activer cette option pour appliquer la correction gamma et capturer le flux vidéo sans trop de coût en terme de performances. 
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

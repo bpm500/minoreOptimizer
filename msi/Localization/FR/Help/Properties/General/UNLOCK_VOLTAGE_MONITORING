@@ -1,0 +1,8 @@
+Débloquage du monitoring de tension
+Débloque le monitoring de tension si supporté par le matériel. Evitez de débloquer le monitoring de tension si vous utilisez une autre application de monitoring de tension.
+
+Astuce:
+- Il peut-être dangereux de lancer plusieurs applications qui accèdent simultanément le régulateur de tension de votre carte graphique. Veuillez bloquer cette option si vous n'êtes pas certain qu'il n'y a pas une telle application dans votre système.
+- Le monitoring de tension est disponible sur un nombre limité de modèle de carte graphique équipé avec un module de régulation de tension programmable supportant la lecture de tension. Seulement certain contrôleurs de tension de cartes graphique supportent la lecture de tension. Veuillez vous référer à la documentation pour avoir une liste complète de modèle de carte graphique qui supporte le monitoring de tension.
+- Un redémarrage de %PRODUCTNAME% est requis pour appliquer les changemetns après basculement de cette option.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

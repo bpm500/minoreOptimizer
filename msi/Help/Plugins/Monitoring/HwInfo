@@ -1,0 +1,6 @@
+This plugin allows %PRODUCTNAME% to import any hardware monitoring data sources from HWiNFO32/64 software.
+
+Hints:
+- If HWiNFO is installed on your system, it will be automatically started when this plugin is active.
+- [b]Shared Memory Support[/b] option must be ticked in HWiNFO in [b]General \ User interface[/b] tab and HWiNFO sensors window must be active to allow %PRODUCTNAME% to import data from it.
+- You may customize the list of imported data sources by clicking [b]Setup[/b].

@@ -1,0 +1,7 @@
+Ajuste vinculado
+Permite o ajuste independente ou vinculado das frequências dos processadores gráficos (shaders). 
+
+Sugestões: 
+- O ajuste da frequência dos shaders somente está disponível na placas de vídeo NVIDIA GeForce série 8 ou superior. As placas de vídeo AMD não suportam o ajuste desvinculado para os shaders. 
+- Por favor, note que a relação mínima entre a velocidade da frequência da GPU e dos shaders é limitada pelo hardware. Ajustar esses valores fora do intervalo válido pode substituir as configurações padrões e impedir seu correto funcionamento. 
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

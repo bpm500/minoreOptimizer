@@ -1,0 +1,5 @@
+W³¹cz korekcjê gamma
+Domyslnie %PRODUCTNAME% przechwytuje strumien wideo, tak jak jest bez stosowania zadnych korekt do framebuffer. Howerver, niektóre gry pelnoekranowe moga zwiekszyc gamma wyswietlania, wiec przechwycone wideo moze wydawac sie ciemniejsze niz widzisz go podczas gry. W takim przypadku mozna wlaczyc te opcje, aby zastosowac korekte gamma do przechwyconego strumienia wideo kosztem niewielkiego spadku perfromance. 
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

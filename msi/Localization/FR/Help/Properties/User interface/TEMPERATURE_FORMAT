@@ -1,0 +1,5 @@
+Format de température
+Permet de choisir le format de température en Celcius ou Fahrenheit. Veuillez noter que ce paramètre n'affecte que la lecture de température dans la fenêtre de monitoring. Les ajustements de température matériel (par ex. la courbe de vitesse du ventilateur pour toutes les cartes ou l'ajustement de temérature target pour la série Kepler d'Nvidia) sont toujours affichées et ajustées en Celcius pour une unification maximale, sécurité et compatibilité.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

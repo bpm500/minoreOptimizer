@@ -1,0 +1,6 @@
+Detach
+Detaches monitoring window from the main window and allows you to define custom monitoring window position and size and keep it visible even when software is minimized to system tray.
+
+Hints:
+- You may also detach monitoring window by double clicking it. You may double click detached monitoring window or simply close it to attach it back to the main window.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

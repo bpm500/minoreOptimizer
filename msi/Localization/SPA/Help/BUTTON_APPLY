@@ -1,0 +1,7 @@
+Aplicar
+Aplica ajustes actuales al procesador gráfico principal.
+
+Sugerencias:
+- Cuando el modo de sincronización entre procesadores gráficos está habilitado en la solapa <General>, de las propiedades avanzadas, cualquier cambio en los ajustes del procresador gráfico principal será aplicado a todos los procesadores gráficos similares instalados en el sistema.
+- Siempre aplica los cambios que has hecho antes de seleccionar otra GPU. Cualquier cambio que no halla sido aplicado se perderá al seleccionar otra GPU.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

@@ -1,0 +1,9 @@
+Usar servidor codificador dedicado 
+Por padrão, a codificação de vídeo é realizada simultâneamente com o vídeo 3D que está sendo capturado. Isto significa que apenas as versões de codecs de 32 bits podem ser usadas quando da captura de vídeo em aplicações de 32 bits e apenas as versões de codecs 64 bits podem ser usadas quando da captura de vídeo em aplicações de 64 bits.
+Você pode ativar essa opção para forçar o processo de codificação a ser realizado e permitir o uso de versões de codecs de 32 bits durante a captura de vídeo em programas de 64 bits e vice-versa.
+O servidor codificador dedicado opera em espaço de endereçamento separado para habilitar esta opção e permitir a reserva de muito mais memória RAM para o "buffer" de pré-gravação sem consumir o espaço de endereçamento do aplicativo 3D que está em processo de captura vídeo.
+O servidor codificador dedicado também pode ser útil em outros casos específicos, como quando o desempenho do processo de codificação do vídeo for comprometido por problemas de sincronização do DirectX. Por exemplo, o uso do sevidor pode aumentar o desempenho da codificação via "Intel QuickSync plugin" no modo de aceleração de hardware Direct3D9 ao capturar vídeo a partir de aplicações Direct3D9.
+
+Sugestões:
+- Esta opção requer a ativação do servidor codificador dedicado na guia de compatibilidades do Servidor de Monitoramento (RivaTuner).
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

@@ -1,0 +1,5 @@
+Preregistrazione nella RAM
+Consente al buffer di preregistrazione di essere memorizzato nella RAM. Questa modalità si adatta meglio per le preregistrazioni video brevi (ad esempio un paio di minuti di video H.264) e fornisce prestazioni un po' migliori rispetto la preregistrazione su file. Inoltre, a differenza di preregistrazione su file, preregistrazione su RAM minimizza la scrittura in modo che possa aumentare la durata del SSD, se si prevede di utilizzare le preregistrazioni di frequente.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

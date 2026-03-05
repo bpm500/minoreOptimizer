@@ -1,0 +1,183 @@
+#src GPU temperature
+#dst Temperatura GPU
+#end
+#src GPU%d temperature
+#dst Temperatura GPU%d
+#end
+#src GPU voltage
+#dst Napiêcie GPU
+#end
+#src GPU%d voltage
+#dst Napiêcie GPU%d
+#end
+#src PCB temperature
+#dst Temperatura PCB
+#end
+#src PCB%d temperature
+#dst Temperatura PCB%d
+#end
+#src Fan speed
+#dst Prêdkoœæ wentylatora
+#end
+#src GPU%d fan speed
+#dst Prêdkoœæ wentylatora GPU%d
+#end
+#src Core clock
+#dst Taktowanie rdzenia
+#end
+#src GPU%d core clock
+#dst Taktowanie rdzenia GPU%d
+#end
+#src Shader clock
+#dst Taktowanie shader-ów
+#end
+#src GPU%d shader clock
+#dst Taktowanie shader-ów GPU%d
+#end
+#src Memory clock
+#dst Taktowanie pamiêci
+#end
+#src GPU%d memory clock
+#dst Taktowanie pamiêci GPU%d
+#end
+#src GPU usage
+#dst U¿ycie GPU
+#end
+#src GPU%d usage
+#dst U¿ycie GPU%d
+#end
+#src Framerate
+#dst Liczba klatek na sekundê
+#end
+#src Memory usage
+#dst U¿ycie pamiêci
+#end
+#src GPU%d memory usage
+#dst U¿ycie pamiêci GPU%d
+#end
+#src °C
+#dst °C
+#end
+#src V
+#dst V
+#end
+#src MHz
+#dst MHz
+#end
+#src MB
+#dst MB
+#end
+#src FPS
+#dst FPS
+#end
+#src %dMHz
+#dst %dMHz
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fV
+#end
+#src %+.3fV
+#dst %+.3fV
+#end
+#src Auto
+#dst Auto
+#end
+#src Aux voltage
+#dst Napiêcie aux
+#end
+#src GPU%d aux voltage
+#dst Napiêcie aux GPU%d
+#end
+#src Memory voltage
+#dst Napiêcie pamiêci
+#end
+#src GPU%d memory voltage
+#dst Napiêcie pamiêci GPU%d
+#end
+#src Fan tachometer
+#dst Tachometr wentylatora
+#end
+#src GPU%d fan tachometer
+#dst Tachometr wentylatora GPU%d
+#end
+#src RPM
+#dst RPM
+#end
+#src Memory temperature
+#dst Temperatura pamiêci
+#end
+#src GPU%d memory temperature
+#dst Temperatura pamiêci GPU%d
+#end
+#src VRM temperature
+#dst Temperatura VRM
+#end
+#src GPU%d VRM temperature
+#dst Temperatura VRM GPU%d
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst Potwierdzam, ¿e zdajê sobie sprawê z ograniczeñ nieoficjalnego podkrêcania i w pe³ni rozumiem, ¿e MSI nie zapewni mi w tej kwestii ¿adnego wsparcia technicznego
+#end
+#src Power
+#dst
+#end
+#src GPU%d power
+#dst
+#end
+#src Frametime
+#dst
+#end
+#src ms
+#dst
+#end
+#src Temp limit
+#dst
+#end
+#src GPU%d temp limit
+#dst
+#end
+#src Power limit
+#dst
+#end
+#src GPU%d power limit
+#dst
+#end
+#src Voltage limit
+#dst
+#end
+#src GPU%d voltage limit
+#dst
+#end
+#src OV max limit
+#dst
+#end
+#src GPU%d OV max limit
+#dst
+#end
+#src FB usage
+#dst
+#end
+#src GPU%d FB usage
+#dst
+#end
+#src VID usage
+#dst
+#end
+#src GPU%d VID usage
+#dst
+#end
+#src BUS usage
+#dst
+#end
+#src GPU%d BUS usage
+#dst
+#end
+#src No load limit
+#dst
+#end
+#src GPU%d no load limit
+#dst
+#end

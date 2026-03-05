@@ -1,0 +1,9 @@
+Daftar hardware monitoring grafis
+Tampilkan daftar hardware monitoring, untuk merubah pilihan grafis yang ada.
+
+Petunjuk:
+- Setiap tanda centang dalam setiap grafis akan melakukan aktivasi. Hindarkan melakukan aktivasi grafis yang tidak perlu, karena akan meningkatkan beban CPU dan mengurangi kemampuan sistem. 
+- Aktivasi grafis <Framerate> akan menyebabkan proses %SERVERPRODUCTNAME%. Server akan menampilkan data grafis dan tidak bisa di unload hingga aplikasi dimatikan.
+- Anda dapat drag dan drop grafis di dalam list untuk mengaturnya.
+- Anda dapat klik grafis di dalam list dan memilihnya untuk mengakses. Grafis harus diaktifkan untuk mengakses properti.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

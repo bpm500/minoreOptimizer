@@ -1,0 +1,35 @@
+#src Pause
+#dst 暂停
+#end
+#src Clear history
+#dst 清除历史纪录
+#end
+#src Show status
+#dst 状态显示
+#end
+#src Log history to file
+#dst 日志文件保存到
+#end
+#src Always on top
+#dst 最前端显示
+#end
+#src Properties
+#dst 选项
+#end
+
+#src Copy
+#dst 复制
+#end
+
+#src Show
+#dst 显示
+#end
+#src Profiles
+#dst 自定义设定
+#end
+#src Close
+#dst 关闭
+#end
+#src There are no profiles
+#dst 无自定义设定
+#end

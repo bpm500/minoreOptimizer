@@ -1,0 +1,6 @@
+GPU-Typ
+Einige Grafikkartenmodelle verwenden möglicherweise unterschiedliche GPU-Typen (z. B. hohe oder niedrige Leckströme) mit unterschiedlichen Leerlaufspannungen und unterschiedlichen Ansätzen zur Spannungsverwaltung im 3D-Modus. Möglicherweise müssen Sie diese Option verwenden, um Ihren GPU-Typ auszuwählen und eine ordnungsgemäße GPU-Spannungsverwaltung sicherzustellen.
+
+Hinweise:
+- Die GPU-Typ-Steuerelemente wirken sich nur auf die primäre GPU aus. Bitte öffnen Sie dieses Fenster erneut, nachdem Sie eine neue primäre GPU ausgewählt haben, um deren Typ zu ändern.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

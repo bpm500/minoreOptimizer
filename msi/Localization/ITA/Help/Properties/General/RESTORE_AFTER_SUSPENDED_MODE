@@ -1,0 +1,6 @@
+Ripristina impostazioni dopo modalità di sospensione
+Normalmente lo stato della scheda grafica viene salvato e ripristinato correttamente dal driver video dopo il ripristino dalla modalità di sospensione. Tuttavia, alcuni driver video potrebbero non ripristinarlo. In questo caso è possibile attivare questa opzione come una soluzione per forzare %PRODUCTNAME% a salvare lo stato della scheda grafica in un profilo temporaneo prima di entrare in modalità di sospensione e di applicare questo profilo al ripristino dalla modalità di sospensione.
+
+Suggerimenti:
+- %PRODUCTNAME% deve risiedere in memoria perchè il funzionamento di questa opzione avvenga correttamente.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

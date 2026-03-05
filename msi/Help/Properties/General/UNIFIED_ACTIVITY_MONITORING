@@ -1,0 +1,5 @@
+Enable unified GPU usage monitoring
+By default %PRODUCTNAME% is displaying native AMD hardware performance counter on GPU usage graph. However, AMD's own performance counter access implementation can be broken in drivers for some GPUs (e.g. Sea Islands GPU family), so GPU usage reported by AMD driver can be wrong. In this case you may enable this option to display alternate unified software Direct3D performance counter on GPU usage graph.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

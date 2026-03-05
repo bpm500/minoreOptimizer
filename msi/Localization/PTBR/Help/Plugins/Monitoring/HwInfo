@@ -1,0 +1,6 @@
+Este plugin permite que o %PRODUCTNAME% importe quaisquer fontes de dados de monitoramento do programa HWiNFO32/64.
+
+Sugestões:
+- Se o HWiNFO estiver instalado no sistema, será automaticamente iniciado quando este plug-in for ativado.
+- A opção [b]Suporte de Memória Compartilhada[/b] deve estar marcada no HWiNFO na guia [b]Geral\Interface do usuário[/b] e a janela de sensores do HWiNFO deve estar ativa para permitir que o %PRODUCTNAME% importe seus dados.
+- Você pode personalizar a lista de fontes de dados importadas clicando em [b]Configurar[/b].

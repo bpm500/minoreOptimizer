@@ -1,0 +1,8 @@
+User define
+Aktifkan pilihan pengaturan kipas secara otomatis. Pada pilihan ini software melalukan pengecekan secara periodik temperatur GPU dan akan merubah kecepatan kipas sesuai keadaan, yang ditentukan pada tab <Fan> properti advanced.
+
+Petunjuk:
+- Pengaturan kecepatan kipas tidak berfungsi apabila kartu grafis tidak dilengkapi dengan controller chip dan (atau) pengaturan sistem cooling.
+- Software kecepatan otomatis tidak berpengaruh pada profil, karena merupakan pengaturan global di GPU pada sistem. 
+- Ketika user mengatur kecepatan kipas otomatis anda dapat mengatur secara otomatis maupun manual dengan menggunakan tombol <Auto>.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

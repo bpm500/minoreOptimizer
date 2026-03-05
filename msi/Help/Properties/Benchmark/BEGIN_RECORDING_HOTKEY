@@ -1,0 +1,7 @@
+Begin recording hotkey
+Allows defining global hotkey for beginning framerate statistics recording. Once enabled, recording mode stays active for all subsequently started 3D applications, even after rebooting the system. When recording is in progress you may enable showing own statistics in %SERVERPRODUCTNAME% to see minimum, average and maximum framerate in the On-Screen Display. While recording is active you may press this hotkey one more time to restart the recording or press <End recording> hotkey to save benchmark statistics to a text file.
+
+Hints:
+- Enabling this option will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides statistics recording services to 3D applications and it cannot be unloaded until this option is disabled.
+- Some hotkey combinations (e.g. <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) are reserved and cannot be used.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

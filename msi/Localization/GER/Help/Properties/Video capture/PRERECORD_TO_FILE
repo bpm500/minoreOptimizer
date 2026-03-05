@@ -1,0 +1,5 @@
+Voraufzeichnung in Datei
+Ermöglicht die Speicherung des Voraufzeichnungspuffers in einer temporären Datei. Dieser Modus eignet sich am besten für die Voraufzeichnung langer Videos (z. B. 10 Minuten oder mehr in H.264/AVC) oder für die Voraufzeichnung von Videos mit niedrigem Komprimierungsverhältnis (z. B. verlustfreies Lagarith-Video).
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

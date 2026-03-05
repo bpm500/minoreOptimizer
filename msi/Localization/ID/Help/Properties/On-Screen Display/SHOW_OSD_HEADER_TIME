@@ -1,0 +1,6 @@
+Tampilkan waktu pada sistem
+Untuk menampilkan waktu sistem pada layar On-Screen.
+
+Petunjuk:
+- Apabila pilihan ini diaktifkan maka proses %SERVERPRODUCTNAME% akan dimulai. Server akan menampilkan layar On-Screen rendering pada aplikasi 3D dan tidak dapat di load hingga pilihan tersebut di non-aktifkan.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

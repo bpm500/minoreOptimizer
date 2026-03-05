@@ -1,0 +1,5 @@
+Setup data source
+Allows configuring external data source provided by a plugin module, if it supports user configurable settings.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

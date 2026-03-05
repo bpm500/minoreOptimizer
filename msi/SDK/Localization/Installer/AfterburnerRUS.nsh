@@ -1,0 +1,12 @@
+﻿LicenseLangString AfterburnerLicense 	${LANG_RUSSIAN} 	"AfterburnerRUS.lic"
+
+LangString AfterburnerActiveInstall 	${LANG_RUSSIAN} 	"MSI Afterburner активна в данный момент, процесс установки будет прерван!"
+LangString AfterburnerAbortInstall 	${LANG_RUSSIAN} 	"Невозможно установить MSI Afterburner!"
+LangString AfterburnerActiveUninstall 	${LANG_RUSSIAN} 	"MSI Afterburner активна в данный момент, процесс удаления будет прерван!"
+LangString AfterburnerKeepSettings 	${LANG_RUSSIAN} 	"Вы хотите сохранить настройки MSI Afterburner? Ответьте ДА, если Вы удаляете предыдущую версию утилиты перед установкой новой."
+LangString AfterburnerRebootUninstall 	${LANG_RUSSIAN} 	"Некоторые файлы MSI Afterburner в данный момент заблокированы и не могут быть удалены прямо сейчас, необходима перезагрузка системы для их полного удаления. Если Вы обновляете MSI Afterburner, строго не рекомендуется устанавливать новую версию без перезагрузки системы. Хотите перезагрузиться прямо сейчас?"
+LangString AfterburnerAbortUninstall 	${LANG_RUSSIAN} 	"Невозможно удалить MSI Afterburner!"
+LangString AfterburnerCaption 		${LANG_RUSSIAN}		"Установка MSI Afterburner ${VER_DISPLAY}"
+LangString DescSecAfterburner 		${LANG_RUSSIAN}		"Основное приложение MSI Afterburner"
+LangString DescSecRTSS 			${LANG_RUSSIAN}		"Предоставляет MSI Afterburner функции мониторинга FPS, отображения ОЭД и видеозахвата"
+LangString AfterburnerLocalization 	${LANG_RUSSIAN} 	"RUS"

@@ -1,0 +1,6 @@
+Preregistrazione automatica
+Permette la selezione manuale o automatica di preregistrazione. Quando è selezionata la modalità automatica, la sessione di preregistrazione viene avviata automaticamente ad ogni avvio dell'applicazione 3D. Tuttavia, è ancora possibile utilizzare il tasto di scelta rapida di pre-registrazione video per fermare e riavviare manualmente la sessione di preregistrazione se necessario.
+
+Suggerimenti:
+- L'attivazione di questa opzione causerà un ulteriore processo di %SERVERPRODUCTNAME% ad essere avviato automaticamente. Il server fornisce servizi di acquisizione video per applicazioni 3D e non può essere scaricato fino a quando questa opzione è disabilitata.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

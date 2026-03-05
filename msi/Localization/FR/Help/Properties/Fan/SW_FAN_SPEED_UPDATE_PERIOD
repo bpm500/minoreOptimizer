@@ -1,0 +1,8 @@
+Période de mise à jour de vitesse du ventilateur
+Affiche et ajuste la période de mise à jour de vitesse du ventilateur pour le contrôle automatique du ventilateur en mode utilisateur.
+
+Astuce:
+- Le contrôle automatique du ventilateur en mode utilisateur a un impact sur les performances du processeur CPU, des cycles CPU sont nécessaires pour la lecture de la température du GPU et des mises à jour de vitesse du ventilateur si nécessaire. En fonction du GPU, du modèle de sonde et du protocol d'accès matériel, le contrôle automatique du ventilateur peut avoir des impacts sur les performances CPU de virtuellement invisible jusqu'à des saccades comme dans les jeux 3D. 
+Si des saccades apparaisent lorsque %PRODUCTNAME% est en cours, faites le test de temporairement désactiver le contrôle automatique du ventilateur en mode utilisateur pour identifier si c'est bien la source des saccades en dépressant le bouton <User define> . Si c'est le cas, augmentez la période de mise à jour de vitesse du ventilateur pour réduire la charge CPU. 
+Les utilisateur avancés peuvent voir les performances dans la fenêtre de monitoring en cliquant avec le bouton droit et sélectionner la commande <Show status> . L'utilisation du CPU pour différents processus en tâche de fond inclue l'indication de charge de la mise à jour de la vitesse du ventilateur.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

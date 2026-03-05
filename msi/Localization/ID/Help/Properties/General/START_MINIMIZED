@@ -1,0 +1,6 @@
+Start minimized
+Paksa meminimalisasi window %PRODUCTNAME% ke sistem tray area pada startup. 
+
+Petunjuk:
+- Pilihan ini hanya berlaku pada aplikasi manual startup saja. %PRODUCTNAME% akan selalu di minimize pada sistem tray area.
+- Anda dapat menon-aktifkan interface tooltips melalui tab <User interface> di properti advanced.

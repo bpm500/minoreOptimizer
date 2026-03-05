@@ -1,0 +1,8 @@
+Klawisz dostêpu profilu nr 3
+Umozliwia zdefiniowanie globalnego skrótu skrótu do ladowania i stosowania profilu z gniazda profilu 3.
+
+Wskazówki:
+- Nalezy zachowac ostroznosc podczas stosowania profili podkrecania w locie podczas pracy aplikacji 3D. W zaleznosci od modelu karty graficznej i architektury sterownika wyswietlacza moze to spowodowac skutki uboczne i zmniejszyc stabilnosc systemu.
+- Niektóre aplikacje (np.
+- Niektóre kombinacje klawiszy skrótu (np. <1>... <5>, <Ctrl>+<1>... <Ctrl>+<5> i <Ctrl>+<D>) sa zastrzezone i nie mozna ich uzywac.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

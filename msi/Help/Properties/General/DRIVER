@@ -1,0 +1,5 @@
+Enable low-level IO driver
+By default %PRODUCTNAME% uses low-level IO driver for fast hardware scanning, CPU temperature monitoring and low-level access to graphics hardware. You may disable this option for troubleshooting to entirely disable any low-level access to hardware.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

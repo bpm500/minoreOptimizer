@@ -1,0 +1,5 @@
+Einzel-Taskleistensymbol
+Aktiviert den Einzel-Taskleistensymbol-Modus. Wenn der Einzel-Taskleistensymbol-Modus aktiviert ist, wird das Taskleistensysmbol von %SERVERPRODUCTNAME% nicht in der Taskleiste angezeigt. Das Fenster von %SERVERPRODUCTNAME% ist weiterhin über die Schaltfläche <Erweitert> auf der Registerkarte <OSD> zugänglich sind.
+
+Hinweis:
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

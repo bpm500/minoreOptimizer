@@ -1,0 +1,6 @@
+Vedi
+Permette di visualizzare i file di log dello storico di monitoraggio hardware precedentemente registrati.
+
+Suggerimento:
+- %PRODUCTNAME% salva lo storico in un formato file di log nativo di RivaTuner. È possibile utilizzare il visualizzatore incorporato o RivaTuner per visualizzare i file di log registrati con %PRODUCTNAME%.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

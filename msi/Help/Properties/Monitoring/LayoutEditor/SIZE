@@ -1,0 +1,5 @@
+Size
+Displays and allows editing sizes library variable. Please take a note that the best font resizing and rendering qualtiy is acheived when using predefined 40%, 50%, 80% and 100% font sizes. The rest values are stretched from 100% font and may demonstrate unwanted blurring effects.
+
+Hints:
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

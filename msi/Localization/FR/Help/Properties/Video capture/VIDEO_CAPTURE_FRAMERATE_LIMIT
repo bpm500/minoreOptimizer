@@ -1,0 +1,5 @@
+Limite du framerate
+Permet de définir la limite du framerate pour les applications 3D pendant la capture vidéo. Limiter le framerate pandant la capture vidéo peut améliorer la non-saccade vidéo.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

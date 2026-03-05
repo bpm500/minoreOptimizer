@@ -1,0 +1,10 @@
+Velocidad del ventilador
+Ajusta la velocidad del ventilador de la GPU.
+
+Sugerencias:
+- Cuando el modo de sincronización entre GPUs similares está activado, en la solapa <General> de las propiedades avanzadas, cualquier cambio en los ajustes en la tarjeta gráfica principal es aplicado al resto de tarjetas similares instaladas en el sistema.
+- El control automático del ventilador no está disponible en aquellas tarjetas gráficas que no lo permitan. Es necesaria la presencia de un sistema de refrigeración o de ventilador controlable vía software.
+- El botón <Auto> debe estar deshabilitado para poder controlar la velocidad del ventilado directamente.
+- Cuando el deslizador está seleccionado y tiene el foco, puedes usar las teclas de flecha del teclado para variar el valor de forma más ajustada.
+- Puedes hacer click en la caja de texto adyacente e introducir el valor deseado directamente.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

@@ -1,0 +1,6 @@
+Uruchom zminimalizowany
+Wymusza minimalizacje %PRODUCTNAME% do obszaru zasobnika systemowego podczas uruchamiania.
+
+Wskazówki:
+- Ta opcja ma wplyw tylko na uruchamianie aplikacji recznej. %PRODUCTNAME% jest zawsze zminimalizowane do obszaru zasobnika systemowego podczas uruchamiania systemu Windows, niezaleznie od tego stanu opcji.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

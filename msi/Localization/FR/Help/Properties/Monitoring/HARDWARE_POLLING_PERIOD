@@ -1,0 +1,8 @@
+Période d'accès matériel
+Ajuste la période d'accès matériel et la période de mise à jour du graphique de monitoring.
+
+Astuce:
+- L'accès au métériel n'est pas absolument gratuit au niveau performance, du temps CPU est requis à chaque accès pour lire la donnée du matériel. En fonction du GPU, du modèle de sensor et du protocole d'accès matériel, la charge CPU sera virtuellement nulle à importante avec des effets de saccades dans les applications, comme les jeux 3D. 
+Si vous faites face à des effet de saccades quand %PRODUCTNAME% fonctionne, essayez de mettre en pause de façon temporaire le monitoring pour identifier la source du problème en cliquant avec le bouton droit la fenêtre de monitoring et selectionner la commande <Pause>. Après, essayez de diminuer la charge CPU en augmentant l'intervalle de temps de polling du matériel ou de désactiver les graphs peu utile. 
+Les utilisateurs experimentés peuvent également afficher les performances du profil dans l'information status de la fenêtre de monitoring en faisant un click droit et selectionner la commande <afficher l'état>. L'information de status affiche l'utilisation CPU pour les différents process en tâche de fond, incluant l'accès matériel.
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

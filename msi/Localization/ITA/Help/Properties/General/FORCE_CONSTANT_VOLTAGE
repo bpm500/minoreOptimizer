@@ -1,0 +1,8 @@
+Forza voltaggio costante
+Alcuni regolatori di tensione (ad esempio Voltera VT1165 o STMicroelectronics serie L6788A) supportano la programmazione delle tensioni indipendenti per gli stati di alimentazione differenti (ad esempio per la modalità 2D e 3D).
+Di default %PRODUCTNAME% regola la tensione solo per lo stato di massima potenza di prestazioni (cioè modalità 3D), permettendo all'hardware le tecniche di risparmio energetico attivo. Tuttavia, si può costringere %PRODUCTNAME% a regolare la tensione per tutti gli stati di alimentazione in una sola volta attivando questa opzione e in questo modo disattivare efficacemente la tensione di commutazione dinamica. Questo può aiutare a migliorare la stabilità su alcuni sistemi.
+
+Consigli:
+- Il riavvio è necessario per ripristinare il risparmio energetico dopo la disattivazione di questa opzione.
+- %PRODUCTNAME% è progettato per fornire immagini 3D di controllo della tensione solo sulle schede grafiche con design di riferimento originale al 100% VGA BIOS o di progettazione personalizzata di schede video MSI. Alcune schede grafiche di riferimento non possono aver alterato il circuito di controllo della tensione o alterata la tabella di tensione nel VGA BIOS, così %PRODUCTNAME% è possibile che regoli la tensione per lo stato di alimentazione sbagliata (ad esempio la modalità 2D) se utilizzato con tali schede grafiche non-standard. È possibile utilizzare questa opzione per controllare adeguatamente la tensione su tali schede.
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

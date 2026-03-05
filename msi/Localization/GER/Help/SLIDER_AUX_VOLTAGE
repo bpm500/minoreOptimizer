@@ -1,0 +1,11 @@
+Hilfsspannung
+Passt die Hilfsspannung der primären GPU an. Je nach Grafikkartenmodell kann die Hilfsspannung entweder direkt (Wert ohne Vorzeichen) oder als zur Basis-Hilfsspannung addierter Offset (Wert mit Vorzeichen) dargestellt werden.
+
+Hinweise:
+- Die Hilfsspannung versorgt die zusätzlichen Komponenten der Grafikkarte unabhängig mit Strom: GPU-Speicher-Bus bei AMD-Grafikkarten und PCIe-Bus mit Taktgenerator bei NVIDIA-Grafikkarten. Im Allgemeinen handelt es sich hierbei um eine zusätzliche Spannung, mit der das Übertaktungspotenzial der Grafikkarte ein bisschen erhöht werden kann.
+- Die Spannungssteuerung ist aus Sicherheitsgründen standardmäßig deaktiviert. Wenn Sie das Risiko des Spannungsmanagements verstehen und akzeptieren, können Sie diese Funktion in den erweiterten Einstellungen der Anwendung freischalten.
+- Wenn <Einstellungen identischer GPUs synchronisieren> in der Registerkarte <Allgemein> in den erweiterten Einstellungen aktiviert ist, werden alle Änderungen an den Einstellungen der primären GPU auch auf alle ähnlichen GPUs im System angewendet.
+- Die Spannungssteuerung ist nur für eine begrenzte Anzahl von Grafikkartenmodellen verfügbar, die mit einem programmierbaren Spannungsregelungscontroller ausgestattet sind. Eine vollständige Liste der Grafikkartenmodelle, die Spannungsanpassungen unterstützen, finden Sie in der Dokumentation.
+- Wenn dieser Schieberegler fokussiert ist, können Sie die Hilfsspannung mit den Cursortasten anpassen.
+- Sie können auf das nebenstehende Eingabefeld klicken, um den gewünschten Wert direkt einzugeben.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.

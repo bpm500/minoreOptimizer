@@ -1,0 +1,5 @@
+Pré-enregistrement vers la RAM
+Permet de stocker le buffer de pré-enregistrement dans la RAM. Ce mode est le mieux approprié pour l'enregistrement de vidéos courtes (par ex. quelques minutes de vidéo H.264) et il offre des performances un peu plus élevées que le pré-enregistrement dans un fichier. A contrario du pré-enregistrement dans un fichier, le pré-enregistrement en RAM minimise les écriture ce qui augmente la durée de vie de votre SSD si vous comptez utiliser beaucoup le pré-enregistrment.
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

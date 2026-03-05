@@ -1,0 +1,9 @@
+Layered graph color
+Displays graph color for layered graph rendering mode. Click this field to customize the color.
+
+Hints:
+- You may create a group of layered graphs by right clicking a source graph in hardware monitoring window, selecting <Attach> from the context menu then clicking the destination graph. The groups allow you to render as many layered graphs on the same grid as you wish.
+- You must activate and select desired graph to get access to this option.
+- You may hold <Shift> button pressed on your keyboard while changing this option to change it synchronically for all graphs.
+- When multiple graphs are selected this option is changed synchronically for all selected graphs. In this case you may hold <Ctrl> button pressed on your keyboard while changing this option to change it for focused graph only.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

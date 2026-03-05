@@ -1,0 +1,12 @@
+Shader clock
+Reloj de los procesadores gráficos
+Ajusta la velocidad del reloj de los procesadores gráficos (shader).
+
+Sugerencias:
+- Cuando el modo de sincronización entre GPUs similares está activado, en la solapa <General> de las propiedades avanzadas, cualquier cambio en los ajustes en la tarjeta gráfica principal es aplicado al resto de tarjetas similares instaladas en el sistema.
+- El Ajuste de reloj en los procesadores gráficos (shader) sólo está disponible en las series NVIDIA GeForce 8 o superior. Las tarjetas gráficas ATI no soportan ajustes independientes en los procesadores gráficos (shader).
+- A la hora de ajustar la velocidad del núcleo y de los procesadores gráficos de forma independiente, tenga en cuenta que el ratio mínimo entre la velocidad del núcleo y de los procesadores gráficos (shader) está limitado por el hardware. Tratar de ajustar dichos valores fuera del rango válido puede invalidar los ajustes y éstos no pueden ser aplicados. 
+- El botón <Separar> debe estar deshabilitado para ajustar los valores de reloj del núcleo y de los procesadores gráficos (shader) de  forma independiente.
+- Cuando el deslizador está seleccionado y tiene el foco, puedes usar las teclas de flecha del teclado para variar el valor de forma más ajustada.
+- Puedes hacer click en la caja de texto adyacente e introducir el valor deseado directamente.
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

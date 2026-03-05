@@ -1,0 +1,8 @@
+Toggle On-Screen Display Server blocking
+Some %PRODUCTNAME% functionality, such as framerate monitoring, On-Screen Display rendering, screen capture and automatic profiles management depend on additional %SERVERPRODUCTNAME% process. That is why %SERVERPRODUCTNAME% is automatically launched by %PRODUCTNAME% as soon as you enable any of the features listed above.
+However, anticheat systems of some online games may restrict On-Screen Display usage and block connection to the game server when %SERVERPRODUCTNAME% is running.
+To simplify such problems diagnostics you may use a hotkey to temporarily block %SERVERPRODUCTNAME% and unload it from memory even if is is required for proper %PRODUCTNAME% functionality. Please take a note that all functionality depending on the server will stop working while the server is blocked and unloaded.
+
+Hints:
+- Some hotkey combinations (e.g. <1>...<5>, <Ctrl>+<1>...<Ctrl>+<5> and <Ctrl>+<D>) are reserved and cannot be used.
+- You may disable user interface tooltips via <User interface> tab in advanced properties.

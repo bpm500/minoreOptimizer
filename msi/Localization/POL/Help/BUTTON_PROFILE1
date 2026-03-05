@@ -1,0 +1,12 @@
+Gniazdo profilu 1
+Zapisuje ustawienia pradu, zegara i sterowania wentylatorem do gniazda profilu 1, laduje lub usuwa z niego ustawienia.
+
+Wskazówki:
+- Mozesz nacisnac przycisk <Save>, a nastepnie nacisnac ten przycisk, gdy miga, aby zapisac aktualne zastosowane ustawienia do gniazda profilu 1. Gniazda profilowe wszystkich procesorów graficznych zainstalowanych w systemie sa zapisywane synchronicznie.
+- Mozesz zapisac aktualne zastosowane ustawienia do pustego gniazda profilu 1 lub usunac profil z uzywanego gniazda profilu 1, klikajac prawym przyciskiem myszy ten przycisk. Gniazda profilowe wszystkich procesorów graficznych zainstalowanych w systemie sa modyfikowane synchronicznie.
+- Mozesz zapisac aktualne zastosowane ustawienia do pustego gniazda profilu 1 lub usunac profil z uzywanego gniazda profilu 1, naciskajac klawisze <Ctrl>+ <1> na klawiaturze. Gniazda profilowe wszystkich procesorów graficznych zainstalowanych w systemie sa modyfikowane synchronicznie.
+- Mozesz zaladowac glówny profil GPU z gniazda profilu 1, klikajac ten przycisk.
+- Mozesz zaladowac glówny profil GPU z gniazda profilu 1, naciskajac klawisz <1> na klawiaturze.
+- Mozesz zaladowac i automatycznie zastosowac profile za pomoca menu zasobnika, a nawet przypisac globalne skróty klawiszowe dla kazdego gniazda profilu za posrednictwem okna wlasciwosci zaawansowanych. Profile sa ladowane i synchronicznie stosowane dla wszystkich procesorów graficznych zainstalowanych w systemie.
+- Mozesz uzyc funkcji automatycznego zarzadzania profilami i przypisac rózne profile dla aplikacji 2D i 3D za posrednictwem <Profiles>tab w zaawansowanych wlasciwosciach. Przypisane profile zostana zaladowane i synchronicznie zastosowane dla wszystkich procesorów graficznych zainstalowanych w systemie na zmianach stanu 2D/3D.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

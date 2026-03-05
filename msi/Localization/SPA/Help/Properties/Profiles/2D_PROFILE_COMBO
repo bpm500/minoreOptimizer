@@ -1,0 +1,10 @@
+Asociación perfil 2D
+Permite asociar un perfil a cargar y aplicar cuando el sistema se encuentre en estado 2D. El perfil se cargará y aplicará cuando el contador de aplicaciones 3D llegue a cero.
+
+Sugerencias:
+- Al definir la asociación del perfil 2D el Servidor de Información en pantalla se cargará automáticamente. El servidor proporciona la lista de aplicaciones 3D ejecutando y no se puede descargar hasta que la asociación del perfil 2D sea cancelada. 
+- Puedes usar el Servidor de Información en pantalla para definir listas de excepciones y excluir determinadas aplicaciones de la detección 3D. Siempre puedes visualizar las aplicaciones 3D ejecutando actualmente presionando el botón <i>.
+- La gestión automática de perfiles no sobre-escribe las tecnologías de cambio de relojes propias implementadas en las GPUs modernas. Solo carga y ejecuta el perfil deseado cuando la primera aplicación 3D es ejecutada y a la salida de la última aplicación 3D. El objetivo principal de estos perfiles es emular la gesión inteligente de relojes en las tarjetas gráficas antiguas (por ejemplo NVIDIA GeForce 8800 GTX series). Sin embargo dichos perfiles se pueden usar con otros propósitos, como forzar una velocidad de ventilador fija durante la ejecución de aplicaciones 3D.
+- No es recomendable combinar la gestión automática de perfiles con el control de voltaje. Cambios dinámicos en los relojes junto con cambios dinámicos en los voltajes puede causar efectos secundarios indeseados y reducir la estabilidad del sistema.
+- Puedes reiniciar la gestión de perfiles presionando <Ctrl>+<A> en el teclado mientras la ventana principal de %PRODUCTNAME% está seleccionada
+- Puedes desabilitar las sugerencias para la interfaz de usuario en la solapa <Interfaz de Usuario> de las propiedades avanzadas.

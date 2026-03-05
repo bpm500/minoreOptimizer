@@ -1,0 +1,5 @@
+Mixare più tracce audio
+Quando si selezionano due sorgenti audio, è possibile registrare due tracce audio indipendenti nel video finale. Tuttavia, è possibile attivare questa opzione per mixare automaticamente le tracce audio indipendenti in un'unica traccia audio. Il livello del volume di tutte le tracce viene normalizzato durante il mixaggio.
+
+Suggerimento:
+- È possibile disattivare i suggerimenti di interfaccia utente tramite la scheda <Interfaccia utente> in proprietà avanzate.

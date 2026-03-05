@@ -1,0 +1,9 @@
+Otomatik
+Ana/Birincil grafik iþlemcisi fan hýzýný otomatik ayarlamayý saðlar.
+
+Ýpuçlarý:
+- Eðer <Genel Ayarlar> sekmesindeki, ayarlarý diðer grafik iþlemcileriyle eþitle seçeneði aktifse ayarlar diðer grafik kartlarýyla eþlenir.
+- Grafik kartý fan kontrolünü destekleyen çipe veya fana sahip deðilse fan hýzý kontrol edilemez.
+- <Kullanýcý ayarý> tuþuna baðlý olarak, otomatik fan kontrolü hem donaným seviyesinde ekran kartýnýn fan çipi ile hem de %PRODUCTNAME% tarafýndan yazýlýmsal olarak yapýlýr.
+
+[Eðer ipuçlarýný görmek istemiyorsanýz ayarlar menüsünden <kullanýcý arayüzü> sekmesi altýndan kapatabilirsiniz.]

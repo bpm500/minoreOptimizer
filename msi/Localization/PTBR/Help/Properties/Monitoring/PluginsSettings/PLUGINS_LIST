@@ -1,0 +1,7 @@
+Lista de plugins de monitoramento de hardware
+Exibe a lista de módulos de plugins de monitoramento de hardware instalados e permite ativá-los. Os plugins fornecem suporte para fontes adicionais de dados de monitoramento de terceiros e podem ampliar a lista de sensores de monitoramento disponíveis em seu sistema.
+Marque o plugin desejado para ativá-la.
+
+Sugestões:
+- Mantenha pressionada a tecla <Shift> ao marcar ou desmarcar um plugin para ativar ou desativar todos os plugins de uma só vez.
+- Você pode desativar as sugestões na aba <Inteface> das configurações.

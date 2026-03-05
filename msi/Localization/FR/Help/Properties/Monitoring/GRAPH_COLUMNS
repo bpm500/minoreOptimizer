@@ -1,0 +1,5 @@
+Colonne du graphique
+Ajuste le nombre de colonnes dans le graphique dans la fenêtre de monitoring. Veuillez noter que le nombre de colonnes peut-être dynamiquement réduite si la fenêtre est trop petite. 
+
+Astuce:
+- Vous pouvez désactiver les bulles d'interface dans la tabulation <interface d'utilisateur> dans les propriétés avancées.

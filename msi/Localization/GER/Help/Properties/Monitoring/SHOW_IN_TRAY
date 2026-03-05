@@ -1,0 +1,9 @@
+Im Taskleistensymbol anzeigen
+Ermöglicht aktuell ausgewählte Diagrammwerte im Taskleistensymbol anzuzeigen.
+
+Hinweise:
+- Sie müssen das gewünschte Diagramm aktivieren und auswählen, um Zugriff auf diese Option zu erhalten.
+- Sie können die <Umschalt>-Taste auf Ihrer Tastatur gedrückt halten, während Sie diese Option ändern, um sie für alle Diagramme gleichzeitig zu ändern.
+- Wenn mehrere Diagramme gleichzeitig ausgewählt sind, wird die Änderung dieser Option gleichzeitig auf alle ausgewählten Diagramme angewendet. In diesem Fall können Sie beim Ändern dieser Option die Taste <Strg> auf der Tastatur gedrückt halten, um die Änderungen nur auf das aktuelle Diagramm anzuwenden.
+- Sie können die Textfarbe des Symbols ändern, indem Sie auf das angrenzende Farbvorschaufeld klicken.
+- Tooltips können in der Registerkarte <Benutzeroberfläche> in den erweiterten Einstellungen deaktiviert werden.
