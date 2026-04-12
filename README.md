@@ -17,7 +17,7 @@
 
 <br/>
 
-![Screenshot](https://cdn.discordapp.com/attachments/1132699523978899477/1479205862626295818/icon.png?ex=69ab314f&is=69a9dfcf&hm=760c97042dd242eef7275ef1bd3e7782a854c0f2dc4be51fefdc3f10745567a6&)
+
 
 </div>
 
