@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >NUL
 echo ============================================================
-echo   minoreOptimizer v2.0 - Standalone EXE Build
+echo   minoreOptimizer v3.0 - Standalone EXE Build
 echo ============================================================
 echo.
 
