@@ -809,7 +809,7 @@ class Tab1_Main(QWidget):
         t2.setObjectName('titleSub')
         tv.addWidget(t1)
         tv.addWidget(t2)
-        badge = QLabel('v2.0')
+        badge = QLabel('v3.0')
         badge.setStyleSheet('background:#1a3a6a; color:#7ab4f5; border:1px solid #2a5aaa; border-radius:10px; padding:3px 10px; font-size:11px; font-weight:600;')
         hdr.addWidget(icon_lbl)
         hdr.addLayout(tv)
@@ -1714,7 +1714,7 @@ class MainWindow(QMainWindow):
 
     def __init__(self):
         super().__init__()
-        self.setWindowTitle('minoreOptimizer v2.0')
+        self.setWindowTitle('minoreOptimizer v3.0')
         self.resize(920, 740)
         self.setMinimumSize(760, 560)
         self.setStyleSheet(STYLE)
@@ -1748,7 +1748,7 @@ class MainWindow(QMainWindow):
         self.tabs.currentChanged.connect(self._on_tab_changed)
 
         self.statusBar().setStyleSheet('background:#111; color:#555; font-size:11px; border-top:1px solid #222;')
-        self.statusBar().showMessage(f"   minoreOptimizer v2.0  ·  Windows {platform.version()}  ·  {('✅ Администратор' if is_admin() else '⚠  Нет прав администратора')}")
+        self.statusBar().showMessage(f"   minoreOptimizer   ·  Windows {platform.version()}  ·  {('✅ Администратор' if is_admin() else '⚠  Нет прав администратора')}")
 
     def _on_tab_changed(self, idx):
         if self.tabs.widget(idx) == self.tab_restore:
