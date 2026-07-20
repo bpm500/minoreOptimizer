@@ -111,15 +111,18 @@ RESTORE_MAP = {
     'tweak_no_arrows': [
         'reg delete "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Icons" /v 29 /f',
         'ie4uinit.exe -ClearIconCache',
-        'taskkill /f /im explorer.exe 2>NUL & start explorer.exe'
+        'taskkill /f /im explorer.exe 2>NUL',
+        'powershell -c "Start-Process explorer.exe"'
     ],
     'tweak_show_ext': [
         'reg add "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced" /v HideFileExt /t REG_DWORD /d 1 /f',
-        'taskkill /f /im explorer.exe 2>NUL & start explorer.exe'
+        'taskkill /f /im explorer.exe 2>NUL',
+        'powershell -c "Start-Process explorer.exe"'
     ],
     'tweak_show_hidden': [
         'reg add "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced" /v Hidden /t REG_DWORD /d 2 /f',
-        'taskkill /f /im explorer.exe 2>NUL & start explorer.exe'
+        'taskkill /f /im explorer.exe 2>NUL',
+        'powershell -c "Start-Process explorer.exe"'
     ],
     'tweak_no_aero_shake': [
         'reg delete "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced" /v DisallowShaking /f'
@@ -1155,7 +1158,7 @@ class FastUtilityWorker(QThread):
             self.L('\n[►] Перезапуск Explorer...')
             run_cmd_s('taskkill /f /im explorer.exe 2>NUL', 5)
             time.sleep(1)
-            run_cmd_s('start explorer.exe', 5)
+            subprocess.Popen('explorer.exe')
             self.L('    ✓ Готово')
         if s.get('fu_icon_cache'):
             self.L('\n[►] Сброс кэша иконок...')
@@ -1165,7 +1168,7 @@ class FastUtilityWorker(QThread):
             run_cmd_s('del /f /q "%LOCALAPPDATA%\\IconCache.db" 2>NUL', 5)
             run_cmd_s('ie4uinit.exe -ClearIconCache', 5)
             time.sleep(0.5)
-            run_cmd_s('start explorer.exe', 4)
+            subprocess.Popen('explorer.exe')
             self.L('    ✓ Готово')
         if s.get('fu_thumb_cache'):
             self.L('\n[►] Очистка кэша эскизов (thumbnails)...')
@@ -1173,7 +1176,7 @@ class FastUtilityWorker(QThread):
             time.sleep(0.5)
             run_cmd_s('del /f /q "%LOCALAPPDATA%\\Microsoft\\Windows\\Explorer\\thumbcache_*.db" 2>NUL', 8)
             time.sleep(0.5)
-            run_cmd_s('start explorer.exe', 4)
+            subprocess.Popen('explorer.exe')
             self.L('    ✓ Готово')
         if s.get('fu_temp_clean'):
             self.L('\n[►] Быстрая очистка временных файлов...')
@@ -1206,7 +1209,7 @@ class FastUtilityWorker(QThread):
             run_cmd_s(f'reg add "HKCU\\Control Panel\\Colors" /v HilightText /t REG_SZ /d "255 255 255" /f', 5)
             run_cmd_s('taskkill /f /im explorer.exe 2>NUL', 4)
             time.sleep(0.8)
-            run_cmd_s('start explorer.exe', 3)
+            subprocess.Popen('explorer.exe')
             self.L('    ✓ Готово (Explorer перезапущен)')
         if s.get('tweak_text_color'):
             c = self.tc.get('text_sel', QColor(0, 78, 152))
@@ -1222,17 +1225,21 @@ class FastUtilityWorker(QThread):
             run_cmd_s('taskkill /f /im explorer.exe 2>NUL', 4)
             time.sleep(0.8)
             run_cmd_s('ie4uinit.exe -ClearIconCache', 4)
-            run_cmd_s('start explorer.exe', 3)
+            subprocess.Popen('explorer.exe')
             self.L('    ✓ Готово')
         if s.get('tweak_show_ext'):
             self.L('\n[►] Показывать расширения файлов...')
             run_cmd_s('reg add "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced" /v HideFileExt /t REG_DWORD /d 0 /f', 5)
-            run_cmd_s('taskkill /f /im explorer.exe 2>NUL & start explorer.exe', 5)
+            run_cmd_s('taskkill /f /im explorer.exe 2>NUL', 5)
+            time.sleep(0.5)
+            subprocess.Popen('explorer.exe')
             self.L('    ✓ Готово')
         if s.get('tweak_show_hidden'):
             self.L('\n[►] Показывать скрытые файлы и папки...')
             run_cmd_s('reg add "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced" /v Hidden /t REG_DWORD /d 1 /f', 5)
-            run_cmd_s('taskkill /f /im explorer.exe 2>NUL & start explorer.exe', 5)
+            run_cmd_s('taskkill /f /im explorer.exe 2>NUL', 5)
+            time.sleep(0.5)
+            subprocess.Popen('explorer.exe')
             self.L('    ✓ Готово')
         if s.get('tweak_no_aero_shake'):
             self.L('\n[►] Отключение Aero Shake (встряхивание окна)...')
@@ -1709,6 +1716,31 @@ class Tab6_Restore(QWidget):
         self.worker.finished.connect(lambda: __import__('PyQt6').QtWidgets.QMessageBox.information(self, "Restore", "Настройка успешно отменена!"))
         self.worker.start()
 
+class Tab7_Author(QWidget):
+    def __init__(self):
+        super().__init__()
+        lay = QVBoxLayout(self)
+        lay.setContentsMargins(32, 32, 32, 32)
+        lay.setSpacing(20)
+        t = QLabel('📑  Author')
+        t.setObjectName('titleBig')
+        lay.addWidget(t)
+        lay.addWidget(_sep())
+        html = (
+            "<div align='center'>"
+            "<span style='color: #e8e8e8; font-size: 18px; font-weight: 600;'>Автор: bpm500</span><br><br>"
+            "<span style='color: #9ab4d8; font-size: 14px;'>Помочь автору:</span><br>"
+            "<a href='https://www.donationalerts.com/r/bpm500' style='color:#4f9ef8; font-size: 14px; text-decoration:none;'>https://www.donationalerts.com/r/bpm500</a>"
+            "</div>"
+        )
+        card = QLabel(html)
+        card.setObjectName('sysCard')
+        card.setOpenExternalLinks(True)
+        card.setMinimumHeight(120)
+        card.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        lay.addWidget(card)
+        lay.addStretch()
+
 class MainWindow(QMainWindow):
 
 
@@ -1737,6 +1769,7 @@ class MainWindow(QMainWindow):
         self.tab_fast = Tab5_FastUtility()
         
         self.tab_restore = Tab6_Restore(self)
+        self.tab_author = Tab7_Author()
 
 
         self.tabs.addTab(self.tab_main, '   🏠  Главная   ')
@@ -1744,6 +1777,7 @@ class MainWindow(QMainWindow):
         self.tabs.addTab(self.tab_info, '   💻  Система   ')
         self.tabs.addTab(self.tab_fast, '   ⚡  Fast Utility   ')
         self.tabs.addTab(self.tab_restore, '   ↩️  Restore   ')
+        self.tabs.addTab(self.tab_author, '   📑  Author   ')
         
         self.tabs.currentChanged.connect(self._on_tab_changed)
 
