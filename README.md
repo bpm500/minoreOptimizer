@@ -4,6 +4,10 @@
 
 **Профессиональный инструмент оптимизации Windows 10 / 11**
 
+<a href="https://www.donationalerts.com/r/bpm500" target="_blank">
+  <img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B0-DonationAlerts-FF5900?style=for-the-badge&logo=donationalerts&logoColor=white" alt="Поддержка автора DonationAlerts"/>
+</a>
+
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/bpm500/minoreOptimizer)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyQt6](https://img.shields.io/badge/PyQt6-GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://pypi.org/project/PyQt6/)
